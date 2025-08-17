@@ -1,0 +1,80 @@
+{
+  "quizSets": [
+    {
+      "setId": "EXPERT_CONFUSING_WORDS_SET_1",
+      "setName": "紛らわしい単語・語法 Vol. 1",
+      "questions": [
+        {
+          "id": "ECW-001",
+          "questionText": "The manager's feedback had a significant _______ on the team's morale.",
+          "options": ["affect", "effect", "affects", "effects"],
+          "correctAnswerIndex": 1,
+          "explanation": "冠詞'a'と形容詞'significant'の後には名詞が必要です。'effect'は名詞で「効果、影響」を意味します。一方、'affect'は通常、動詞として「〜に影響を与える」という意味で使われます。"
+        },
+        {
+          "id": "ECW-002",
+          "questionText": "Could you _______ that all the doors are locked before you leave?",
+          "options": ["insure", "assure", "ensure", "censure"],
+          "correctAnswerIndex": 2,
+          "explanation": "'ensure'は「〜を確実にする、保証する」という意味です。'insure'は「保険をかける」、'assure'は「（人を）安心させる」という意味で、文脈に合いません。"
+        },
+        {
+          "id": "ECW-003",
+          "questionText": "The dark blue curtains _______ the light-colored walls perfectly.",
+          "options": ["compliment", "complement", "compliant", "complemented"],
+          "correctAnswerIndex": 1,
+          "explanation": "'complement'は「〜を補完して完璧にする、引き立てる」という意味の動詞です。「褒め言葉」を意味する'compliment'と混同しないように注意が必要です。"
+        },
+        {
+          "id": "ECW-004",
+          "questionText": "The company's guiding _______ is 'customer first'.",
+          "options": ["principal", "principle", "principally", "principality"],
+          "correctAnswerIndex": 1,
+          "explanation": "'principle'は「原則、主義、信条」を意味する名詞です。「校長、主要な」を意味する'principal'とは意味が異なります。"
+        },
+        {
+          "id": "ECW-005",
+          "questionText": "The negotiations _______ the two companies have been going on for weeks.",
+          "options": ["among", "between", "within", "through"],
+          "correctAnswerIndex": 1,
+          "explanation": "2つの対象の間を指す場合は'between'を使います。3つ以上の対象の間を指す場合は'among'を使います。"
+        },
+        {
+          "id": "ECW-006",
+          "questionText": "For _______ information about our services, please visit our website.",
+          "options": ["farther", "further", "father", "former"],
+          "correctAnswerIndex": 1,
+          "explanation": "'further'は「さらなる、追加の」という意味で、より抽象的な情報や距離に使われます。'farther'は物理的な距離に対して使われるのが一般的です。"
+        },
+        {
+          "id": "ECW-007",
+          "questionText": "The new report is far more _______ than the previous version.",
+          "options": ["comprehensive", "comprehensible", "apprehensive", "defensive"],
+          "correctAnswerIndex": 0,
+          "explanation": "'comprehensive'は「包括的な、広範囲にわたる」という意味です。「理解できる」という意味の'comprehensible'との混同に注意が必要です。"
+        },
+        {
+          "id": "ECW-008",
+          "questionText": "_______ a dedicated researcher, Dr. Evans is also a talented musician.",
+          "options": ["Beside", "Besides", "Except", "Apart"],
+          "correctAnswerIndex": 1,
+          "explanation": "'Besides'は前置詞として「〜に加えて、〜の他に」という意味を持ちます。「〜のそばに」という意味の'Beside'と混同しないようにしましょう。"
+        },
+        {
+          "id": "ECW-009",
+          "questionText": "The committee is comprised _______ five members from different departments.",
+          "options": ["of", "with", "by", "in"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be comprised of ~'は「〜で構成されている」という意味の定型表現です。'consist of ~'と同じ意味で使われます。"
+        },
+        {
+          "id": "ECW-010",
+          "questionText": "The marketing team has come up with some _______ ideas for the new campaign.",
+          "options": ["imaginative", "imaginary", "imaginable", "imagination"],
+          "correctAnswerIndex": 0,
+          "explanation": "'imaginative'は「想像力豊かな、独創的な」という意味で、アイデアや人を賞賛する際に使います。'imaginary'は「想像上の、架空の」、'imaginable'は「想像できる限りの」という意味です。"
+        }
+      ]
+    }
+  ]
+}

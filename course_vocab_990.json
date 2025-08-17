@@ -1,0 +1,1593 @@
+{
+  "quizSets": [
+    {
+      "setId": "VOCAB_990_SET_REFINED_01",
+      "setName": "精選語彙 Vol. 1",
+      "order": 1,
+      "questions": [
+        {
+          "id": "VOCAB-990-001",
+          "questionText": "The execution of the marketing campaign is ------- on the successful renewal of our partnership with AdPro Inc., which is still under negotiation.",
+          "options": ["contingent", "dependable", "irrespective", "subjective"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`be ... on ~`の形で「～次第である、～を条件とする」という意味になるのは(A) `contingent` です。`be contingent on ~` は、ある事柄が別の不確定な事柄の実現にかかっている状況を表すフォーマルな表現です。\n【不正解の選択肢】(B) dependable: 頼りになる（`be dependable on`という構文は取れない）, (C) irrespective: 関係なく（`of`を伴う）, (D) subjective: 主観的な。",
+          "word": "contingent",
+          "meaning": "【形】(〜)次第である, (〜を)条件とする (on / upon)",
+          "exampleSentence": "Our outdoor event is contingent upon good weather.",
+          "exampleSentenceTranslation": "私たちの屋外イベントは、天候次第です。",
+          "relatedExpressions": [
+            "contingency (名: 不測の事態)",
+            "contingency plan (緊急時対応計画)",
+            "be contingent on/upon ~ (~次第である)",
+            "dependent on (類義語、より一般的)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-002",
+          "questionText": "The employment contract clearly ------- that all inventions made by employees using company resources are the intellectual property of the firm.",
+          "options": ["speculates", "stipulates", "inquires", "disputes"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】主語が`The employment contract`（雇用契約）であるため、その内容を「公式に明記する、規定する」という意味の(B) `stipulate` が唯一の正解です。\n【不正解の選択肢】(A) speculate: 推測する, (C) inquire: 尋ねる, (D) dispute: 異議を唱える。これらは契約書が主語の文脈では論理的に破綻します。",
+          "word": "stipulate",
+          "meaning": "【動】(契約・規則などが)〜を規定する, 明記する",
+          "exampleSentence": "The law stipulates that all drivers must have valid insurance.",
+          "exampleSentenceTranslation": "法律は、すべての運転者が有効な保険に加入しなければならないと規定している。",
+          "relatedExpressions": [
+            "stipulation (名: 規定、契約条項)",
+            "stipulate that... (...と規定する)",
+            "as stipulated in the contract (契約に規定されている通り)",
+            "specify (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-003",
+          "questionText": "Although the ------- results of the clinical trial are promising, the research team has stressed that they are not yet conclusive.",
+          "options": ["preliminary", "conclusive", "arbitrary", "subsequent"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】文末の `not yet conclusive`（まだ決定的ではない）という部分と対比関係にあるのは、「予備的な、仮の」を意味する(A) `preliminary` です。\n【不正解の選択肢】(B) conclusive: 決定的な（文脈と明確に矛盾）, (C) arbitrary: 任意の, (D) subsequent: その後の。これらは文脈に合いません。",
+          "word": "preliminary",
+          "meaning": "【形】予備的な, 準備の, 仮の",
+          "exampleSentence": "After a few preliminary remarks, the chairman introduced the main speaker.",
+          "exampleSentenceTranslation": "いくつかの前置きの後、議長はメインスピーカーを紹介した。",
+          "relatedExpressions": [
+            "preliminary findings (予備調査の結果)",
+            "preliminary stage (準備段階)",
+            "tentative / provisional (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-004",
+          "questionText": "Given his senior position, it is ------- upon Mr. Davies to mentor the new recruits and guide them through their initial assignments.",
+          "options": ["responsible", "optional", "incumbent", "reliant"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`it is ... upon someone to do` の形で、「（人）が〜するのは職務上の義務である」という意味になるのは(C) `incumbent` です。`be incumbent on/upon` は頻出の定型表現です。\n【不正解の選択肢】(A) `responsible` は `It is responsible for someone to do` という構文を取らないため、文法的に誤りです。(B)と(D)も文法・意味ともに不適切です。",
+          "word": "incumbent",
+          "meaning": "【形】(〜する)義務がある (on / upon)\n【名】現職者",
+          "exampleSentence": "The incumbent president is running for re-election.",
+          "exampleSentenceTranslation": "現職の大統領は再選を目指して出馬している。",
+          "relatedExpressions": [
+            "it is incumbent on/upon sb to do (〜する義務がある)",
+            "the incumbent mayor (現職の市長)",
+            "obligatory (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-005",
+          "questionText": "An internal audit uncovered a major ------- between the inventory records and the physical stock count in the warehouse.",
+          "options": ["correlation", "consensus", "conformity", "discrepancy"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「在庫記録と実在庫数の間の大きな〜」という文脈で、「食い違い、不一致」を意味する(D) `discrepancy` が唯一の正解です。\n【不正解の選択肢】(A) correlation: 相関関係, (B) consensus: 合意, (C) conformity: 一致。これらは問題点として「発覚」するものではなく、文脈に合いません。",
+          "word": "discrepancy",
+          "meaning": "【名】(数値・情報などの)食い違い, 不一致, 矛盾",
+          "exampleSentence": "There was a discrepancy in the two witnesses' accounts of the accident.",
+          "exampleSentenceTranslation": "その事故に関する2人の目撃者の証言には食い違いがあった。",
+          "relatedExpressions": [
+            "a discrepancy between A and B (AとBの食い違い)",
+            "resolve a discrepancy (食い違いを解決する)",
+            "inconsistency (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-006",
+          "questionText": "The unexpected surge in raw material costs is expected to ------- impact the profitability of our entire product line for the fourth quarter.",
+          "options": ["adversely", "favorably", "consecutively", "marginally"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「原材料費の急騰が収益性に〜影響を及ぼす」という文脈で、「悪影響を及ぼす」となるのは副詞の(A) `adversely` です。`adversely impact` は頻出のコロケーションです。\n【不正解の選択肢】(B) favorably: 好意的に（意味が逆）, (C) consecutively: 連続して, (D) marginally: わずかに。文脈に合いません。",
+          "word": "adversely",
+          "meaning": "【副】不利に, 不都合に, 逆に",
+          "exampleSentence": "The project was adversely affected by a lack of funding.",
+          "exampleSentenceTranslation": "そのプロジェクトは資金不足によって悪影響を受けた。",
+          "relatedExpressions": [
+            "adverse (形: 不利な)",
+            "adversity (名: 逆境)",
+            "adversely affect (~に悪影響を及ぼす)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-007",
+          "questionText": "The project timeline we presented at the meeting is ------- and may be revised after we receive feedback from the engineering department.",
+          "options": ["permanent", "tentative", "mandatory", "finalized"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】後続の `may be revised`（修正されるかもしれない）という記述から、タイムラインが「仮の、暫定的な」ものであるとわかります。この意味を持つのは(B) `tentative` です。\n【不正解の選択肢】(A), (D)は意味が逆。(C) mandatory: 義務的な、は文脈に合いません。",
+          "word": "tentative",
+          "meaning": "【形】仮の, 暫定的な, 試験的な",
+          "exampleSentence": "We have a tentative plan to go to the beach this weekend.",
+          "exampleSentenceTranslation": "私たちは今週末にビーチに行くという仮の計画がある。",
+          "relatedExpressions": [
+            "tentatively (副: 仮に)",
+            "a tentative agreement (仮合意)",
+            "provisional (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-008",
+          "questionText": "To ensure the timely launch of our new software, we have hired additional staff specifically to ------- the final testing phase.",
+          "options": ["obstruct", "defer", "nullify", "expedite"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「追加スタッフを雇って、最終テスト段階を〜する」という文脈で、目的と合致するのは「迅速化する、促進する」を意味する(D) `expedite` です。\n【不正解の選択肢】(A) obstruct: 妨害する, (B) defer: 延期する, (C) nullify: 無効にする。これらは全て文脈と矛盾します。",
+          "word": "expedite",
+          "meaning": "【動】(プロセスなどを)早める, 促進する",
+          "exampleSentence": "We need to expedite the decision-making process.",
+          "exampleSentenceTranslation": "私たちは意思決定のプロセスを迅速化する必要がある。",
+          "relatedExpressions": [
+            "expedited shipping (速達便)",
+            "facilitate / accelerate (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-009",
+          "questionText": "Despite some initial reservations from a few members, the committee's final vote on the proposal was -------.",
+          "options": ["controversial", "unanimous", "voluntary", "partial"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`Despite`（～にもかかわらず）が、当初の懸念とは逆の結果を示唆しています。したがって、「満場一致の」を意味する(B) `unanimous` が唯一の正解です。\n【不正解の選択肢】(A) controversial: 物議を醸す（意味が逆）, (C) voluntary: 任意の, (D) partial: 部分的な。文脈に合いません。",
+          "word": "unanimous",
+          "meaning": "【形】満場一致の, 全員一致の",
+          "exampleSentence": "The board of directors made a unanimous decision to appoint her as the new CEO.",
+          "exampleSentenceTranslation": "取締役会は彼女を新しいCEOに任命することを満場一致で決定した。",
+          "relatedExpressions": [
+            "unanimously (副: 満場一致で)",
+            "a unanimous vote (満場一致の投票)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-010",
+          "questionText": "Ms. Albright is compiling all the records ------- to the patent infringement case filed by Innovate Corp. last month.",
+          "options": ["pertain", "pertains", "pertained", "pertaining"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】空欄は前の名詞`records`を後ろから修飾する形容詞句を作る部分です。`... to ~` の形で「～に関する」という意味になるのは、現在分詞の(D) `pertaining` だけです。\n【不正解の選択肢】(A), (B), (C)は動詞の形であり、この位置で名詞を修飾することはできません。",
+          "word": "pertaining to",
+          "meaning": "【句】～に関する, ～に付属する",
+          "exampleSentence": "The lawyer requested all documents pertaining to the case.",
+          "exampleSentenceTranslation": "弁護士はその事件に関するすべての文書を要求した。",
+          "relatedExpressions": [
+            "pertain to (句動詞: ～に関係する)",
+            "relating to / regarding (類義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_02",
+      "setName": "精選語彙 Vol. 2",
+      "order": 2,
+      "questions": [
+        {
+          "id": "VOCAB-990-011",
+          "questionText": "Before the acquisition is finalized, our legal team must thoroughly ------- every clause of the agreement to identify any potential risks.",
+          "options": ["scrutinize", "glance", "fabricate", "condone"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`thoroughly`（徹底的に）と共起し、「契約の各条項を〜してリスクを特定する」という文脈に合うのは、「綿密に調べる、精査する」を意味する(A) `scrutinize` です。\n【不正解の選択肢】(B) glance: ちらっと見る（意味が逆）, (C) fabricate: 捏造する, (D) condone: 大目に見る。これらは論理的にあり得ません。",
+          "word": "scrutinize",
+          "meaning": "【動】〜を綿密に調べる, 精査する",
+          "exampleSentence": "The auditors will scrutinize the company's financial records for any irregularities.",
+          "exampleSentenceTranslation": "監査役は、不正がないか会社の財務記録を精査するだろう。",
+          "relatedExpressions": [
+            "scrutiny (名: 精密な調査)",
+            "under scrutiny (精査を受けて)",
+            "examine closely (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-012",
+          "questionText": "The executive's ------- package includes a base salary, performance-based bonuses, and stock options, making it highly competitive.",
+          "options": ["reimbursement", "penalty", "donation", "remuneration"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「基本給、ボーナス、ストックオプションを含む」とあるため、「報酬」全体を指すフォーマルな(D) `remuneration` が唯一の正解です。\n【不正解の選択肢】(A) reimbursement: 経費の払い戻し, (B) penalty: 罰金, (C) donation: 寄付。これらは文脈に全く合いません。",
+          "word": "remuneration",
+          "meaning": "【名】(労働に対する)報酬, 給料, 報奨 (フォーマル)",
+          "exampleSentence": "The remuneration for this position will be commensurate with experience.",
+          "exampleSentenceTranslation": "この職の報酬は経験に応じて決まります。",
+          "relatedExpressions": [
+            "a remuneration package (報酬パッケージ)",
+            "compensation (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-013",
+          "questionText": "The contract was approved, but with the ------- that the project must be completed by December 31.",
+          "options": ["prospect", "prohibition", "proviso", "preface"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`with the ... that ...` の形で、「…という条件付きで」という意味になるのは、契約などにおける「ただし書き、条件」を意味する(C) `proviso` です。これは定型的な表現です。\n【不正解の選択肢】(A) prospect: 見込み, (B) prohibition: 禁止, (D) preface: 序文。これらは文脈に合いません。",
+          "word": "proviso",
+          "meaning": "【名】(契約などの)ただし書き, 条件, 条項",
+          "exampleSentence": "He agreed to the job offer, with the proviso that he could work from home twice a week.",
+          "exampleSentenceTranslation": "彼は、週に2回在宅勤務ができるという条件付きで、その仕事のオファーに同意した。",
+          "relatedExpressions": [
+            "with the proviso that... (...という条件付きで)",
+            "stipulation / condition (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-014",
+          "questionText": "The witness's testimony was crucial as it helped to ------- the claims made by the plaintiff in the lawsuit.",
+          "options": ["contradict", "corroborate", "invalidate", "disregard"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「証人の証言が、原告の主張を〜するのに役立った」という文脈で、「(証拠などをもって)裏付ける、確証する」を意味する(B) `corroborate` が唯一の正解です。\n【不正解の選択肢】(A), (C), (D)はいずれも主張を否定・無視する方向の動詞であり、文脈と逆です。",
+          "word": "corroborate",
+          "meaning": "【動】(証拠などによって主張・理論などを)裏付ける, 確証する",
+          "exampleSentence": "Further research is needed to corroborate these findings.",
+          "exampleSentenceTranslation": "これらの調査結果を裏付けるためには、さらなる研究が必要である。",
+          "relatedExpressions": [
+            "corroboration (名: 裏付け、確証)",
+            "corroborating evidence (裏付け証拠)",
+            "substantiate (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-015",
+          "questionText": "The sensitive financial report was ------- sent to the wrong mailing list, prompting an immediate response from the IT department.",
+          "options": ["deliberately", "inadvertently", "critically", "punctually"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「機密の財務報告書が、間違ったメーリングリストに〜送信された」という文脈で、「うっかり、不注意にも」を意味する(B) `inadvertently` が最適です。\n【不正解の選択肢】(A) deliberately: 意図的に（意味が逆）, (C) critically: 批判的に, (D) punctually: 時間通りに。これらは文脈に合いません。",
+          "word": "inadvertently",
+          "meaning": "【副】うっかり, 不注意にも, 誤って",
+          "exampleSentence": "I inadvertently deleted the file while cleaning up my computer.",
+          "exampleSentenceTranslation": "コンピュータの整理中に、うっかりそのファイルを削除してしまった。",
+          "relatedExpressions": [
+            "inadvertent (形: 不注意な)",
+            "accidentally / unintentionally (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-016",
+          "questionText": "Due to the supplier's failure to meet the quality standards, the company decided to ------- the contract.",
+          "options": ["ratify", "rescind", "amend", "uphold"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「供給業者が品質基準を満たせなかったため、契約を〜することにした」という文脈で、「(公式に)取り消す、無効にする」を意味する(B) `rescind` が唯一の正解です。\n【不正解の選択肢】(A) ratify: 批准する, (C) amend: 修正する, (D) uphold: 支持する。これらは意味が異なります。",
+          "word": "rescind",
+          "meaning": "【動】(法律・契約・決定などを公式に)取り消す, 撤回する, 廃止する",
+          "exampleSentence": "The government was forced to rescind the unpopular tax law.",
+          "exampleSentenceTranslation": "政府はその不人気な税法を撤回せざるを得なかった。",
+          "relatedExpressions": [
+            "rescission (名: 取り消し)",
+            "rescind an offer (オファーを取り消す)",
+            "repeal / revoke (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-017",
+          "questionText": "Dr. Evans is a leading ------- of sustainable agriculture, arguing that it is essential for long-term food security.",
+          "options": ["proponent", "adversary", "skeptic", "beneficiary"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】持続可能農業を「不可欠だと主張している」ことから、その考えの「支持者、提唱者」であると分かります。この意味を持つのは(A) `proponent` だけです。\n【不正解の選択肢】(B) adversary: 敵対者, (C) skeptic: 懐疑論者（意味が逆）, (D) beneficiary: 受益者。",
+          "word": "proponent",
+          "meaning": "【名】(理論・計画などの)支持者, 提唱者",
+          "exampleSentence": "She is a leading proponent of women's rights.",
+          "exampleSentenceTranslation": "彼女は女性の権利の主導的な支持者です。",
+          "relatedExpressions": [
+            "opponent (対義語)",
+            "a proponent of (~の支持者)",
+            "advocate (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-018",
+          "questionText": "Pharmaceutical products must undergo ------- quality control checks before they can be released to the market.",
+          "options": ["lenient", "optional", "stringent", "ambiguous"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「医薬品は市場に出る前に〜な品質管理チェックを受けなければならない」という文脈で、「厳格な、厳しい」を意味する(C) `stringent` が唯一の正解です。\n【不正解の選択肢】(A) lenient: 寛大な（意味が逆）, (B) optional: 任意の, (D) ambiguous: 曖昧な。これらは品質管理の文脈で論理的に破綻します。",
+          "word": "stringent",
+          "meaning": "【形】(規則・基準などが)厳格な, 厳しい",
+          "exampleSentence": "The new safety regulations are more stringent than the previous ones.",
+          "exampleSentenceTranslation": "新しい安全規制は以前のものより厳しい。",
+          "relatedExpressions": [
+            "stringency (名: 厳格さ)",
+            "stringent requirements (厳しい要件)",
+            "strict / rigorous (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-019",
+          "questionText": "The new manager introduced several measures to ------- the high-stress work environment, such as flexible work hours and wellness programs.",
+          "options": ["intensify", "establish", "ameliorate", "justify"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「高ストレスな職場環境を〜するために施策を導入した」という文脈で、「改善する」を意味するフォーマルな(C) `ameliorate` が唯一の正解です。\n【不正解の選択肢】(A) intensify: 強める（意味が逆）, (B) establish: 設立する, (D) justify: 正当化する。文脈に合いません。",
+          "word": "ameliorate",
+          "meaning": "【動】(悪い状況などを)改善する, 良くする (フォーマル)",
+          "exampleSentence": "The government is trying to ameliorate the effects of the economic recession.",
+          "exampleSentenceTranslation": "政府は経済不況の影響を緩和しようと努めている。",
+          "relatedExpressions": [
+            "amelioration (名: 改善)",
+            "ameliorate conditions (状況を改善する)",
+            "improve / alleviate (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-020",
+          "questionText": "To make the report more concise, please remove any ------- details that are not directly relevant to the main findings.",
+          "options": ["superfluous", "integral", "confidential", "preliminary"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「報告書をより簡潔にするために、無関係な〜な詳細を削除してください」という文脈で、「余分な、不必要な」を意味する(A) `superfluous` が唯一の正解です。\n【不正解の選択肢】(B) integral: 不可欠な（意味が逆）, (C) confidential: 機密の, (D) preliminary: 予備的な。これらは削除すべき対象として文脈に合いません。",
+          "word": "superfluous",
+          "meaning": "【形】余分な, 不必要な, 過度の",
+          "exampleSentence": "The editor removed all the superfluous adjectives from the text.",
+          "exampleSentenceTranslation": "編集者はその文章から余分な形容詞をすべて削除した。",
+          "relatedExpressions": [
+            "superfluity (名: 余分、過多)",
+            "superfluous information (余分な情報)",
+            "unnecessary / redundant (類義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_03",
+      "setName": "精選語彙 Vol. 3",
+      "order": 3,
+      "questions": [
+        {
+          "id": "VOCAB-990-021",
+          "questionText": "The company has implemented new safety protocols to ------- the risks associated with operating heavy machinery.",
+          "options": ["exacerbate", "initiate", "publicize", "mitigate"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「重機の操作に伴うリスクを〜するために、新しい安全手順を導入した」という文脈で、「軽減する、和らげる」を意味する(D) `mitigate` が唯一の正解です。\n【不正解の選択肢】(A) exacerbate: 悪化させる（意味が逆）, (B) initiate: 始める, (C) publicize: 公表する。これらはリスク対策として不適切です。",
+          "word": "mitigate",
+          "meaning": "【動】(損害・リスク・苦痛などを)軽減する, 和らげる",
+          "exampleSentence": "The government has taken steps to mitigate the effects of the drought.",
+          "exampleSentenceTranslation": "政府は干ばつの影響を軽減するための措置を講じた。",
+          "relatedExpressions": [
+            "mitigation (名: 軽減)",
+            "mitigate risks (リスクを軽減する)",
+            "alleviate / lessen (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-022",
+          "questionText": "Although not written in the official company policy, there was a ------- understanding that senior managers would respond to emails on weekends.",
+          "options": ["explicit", "negotiable", "tacit", "dubious"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`Although not written`（書かれてはいないが）という譲歩節から、「暗黙の」了解があったことがわかります。この意味を持つのは(C) `tacit` だけです。\n【不正解の選択肢】(A) explicit: 明確な（意味が逆）, (B) negotiable: 交渉可能な, (D) dubious: 疑わしい。文脈に合いません。",
+          "word": "tacit",
+          "meaning": "【形】暗黙の, 言外の, 無言の",
+          "exampleSentence": "She gave her tacit approval by not raising any objections.",
+          "exampleSentenceTranslation": "彼女は何も異議を唱えないことで、暗黙の承認を与えた。",
+          "relatedExpressions": [
+            "tacitly (副: 暗黙のうちに)",
+            "tacit agreement (暗黙の合意)",
+            "implicit / unspoken (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-023",
+          "questionText": "The CEO's speech on innovation provided the ------- for the research and development team to pursue more ambitious projects.",
+          "options": ["impediment", "impetus", "compliance", "precedent"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「CEOのスピーチが、チームが野心的なプロジェクトを追求する〜となった」という文脈で、「弾み、刺激」を意味する(B) `impetus` が唯一の正解です。\n【不正解の選択肢】(A) impediment: 障害（意味が逆）, (C) compliance: 法令遵守, (D) precedent: 前例。文脈に合いません。",
+          "word": "impetus",
+          "meaning": "【名】弾み, 刺激, 起動力",
+          "exampleSentence": "The new government funding provided the main impetus for the research.",
+          "exampleSentenceTranslation": "新しい政府の資金提供が、その研究の主な推進力となった。",
+          "relatedExpressions": [
+            "provide the impetus for (~の弾みとなる)",
+            "give impetus to (~に弾みをつける)",
+            "stimulus / incentive (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-024",
+          "questionText": "From the various customer feedback forms, we were able to ------- some valuable insights into consumer preferences.",
+          "options": ["disperse", "fabricate", "glean", "neglect"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「様々なフィードバックから、貴重な洞察を〜することができた」という文脈で、情報などを苦労して少しずつ「収集する」を意味する(C) `glean` が唯一の正解です。\n【不正解の選択肢】(A) disperse: 分散させる, (B) fabricate: 捏造する, (D) neglect: 無視する。これらは全て文脈に反する行為です。",
+          "word": "glean",
+          "meaning": "【動】(情報・知識などを)少しずつ収集する, 拾い集める",
+          "exampleSentence": "The detective gleaned important clues from the crime scene.",
+          "exampleSentenceTranslation": "その刑事は犯行現場から重要な手がかりを拾い集めた。",
+          "relatedExpressions": [
+            "glean information (情報を集める)",
+            "gather / collect (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-025",
+          "questionText": "The supervisor criticized the intern for conducting a ------- safety check, reminding him that every step must be done with great care.",
+          "options": ["thorough", "perfunctory", "mandatory", "decent"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`criticized`（批判した）と `with great care`（細心の注意を払って）というヒントから、インターンが行った安全確認が「おざなりの、形式的な」ものであったことがわかります。この意味を持つのは(B) `perfunctory` です。\n【不正解の選択肢】(A) thorough: 徹底的な（意味が逆）, (C) mandatory: 義務的な, (D) decent: まともな。これらは批判の対象として不適切です。",
+          "word": "perfunctory",
+          "meaning": "【形】おざなりの, 形式的な, いい加減な",
+          "exampleSentence": "He gave a perfunctory nod as he walked past.",
+          "exampleSentenceTranslation": "彼は通り過ぎる際に、おざなりな会釈をした。",
+          "relatedExpressions": [
+            "a perfunctory examination (形式的な調査)",
+            "cursory / superficial (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-026",
+          "questionText": "Some companies try to ------- strict import regulations by using loopholes in the law, a practice that is highly risky.",
+          "options": ["enforce", "circumvent", "ratify", "observe"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`by using loopholes in the law`（法の抜け穴を使って）という手段から、厳しい輸入規制を「回避する、くぐり抜ける」という意図が読み取れます。この意味を持つのは(B) `circumvent` です。\n【不正解の選択肢】(A), (C), (D)は全て規制に従う方向の動詞であり、意味が逆です。",
+          "word": "circumvent",
+          "meaning": "【動】(規則・困難などを巧みに)回避する, 抜け道をみつける",
+          "exampleSentence": "The company found a way to circumvent the trade sanctions.",
+          "exampleSentenceTranslation": "その会社は貿易制裁を回避する方法を見つけた。",
+          "relatedExpressions": [
+            "circumvention (名: 回避)",
+            "circumvent the rules (規則の抜け道を見つける)",
+            "evade / get around (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-027",
+          "questionText": "The successful launch of the satellite was the ------- of years of dedicated research and development by hundreds of engineers.",
+          "options": ["initiation", "disruption", "culmination", "prerequisite"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「長年の献身的な研究開発の〜」という文脈で、その努力の「頂点、集大成」を意味する(C) `culmination` が唯一の正解です。\n【不正解の選択肢】(A) initiation: 開始, (B) disruption: 中断, (D) prerequisite: 必須条件。文脈に合いません。",
+          "word": "culmination",
+          "meaning": "【名】頂点, 最高点, 集大成",
+          "exampleSentence": "Winning the championship was the culmination of her long and successful career.",
+          "exampleSentenceTranslation": "選手権で優勝したことは、彼女の長く成功したキャリアの集大成だった。",
+          "relatedExpressions": [
+            "culminate (in) (動: ついに〜になる)",
+            "the culmination of (~の集大成)",
+            "climax / peak (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-028",
+          "questionText": "Announcing layoffs during an economic downturn would likely ------- the employees' already low morale.",
+          "options": ["alleviate", "exacerbate", "neutralize", "assess"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「既に低い従業員の士気を、さらに〜するだろう」という文脈で、悪い状況を「悪化させる」を意味する(B) `exacerbate` が唯一の正解です。\n【不正解の選択肢】(A) alleviate: 軽減する（意味が逆）, (C) neutralize: 中和する, (D) assess: 評価する。文脈に合いません。",
+          "word": "exacerbate",
+          "meaning": "【動】(問題・病気・悪い状況などを)さらに悪化させる, 深刻にする",
+          "exampleSentence": "His angry comments only exacerbated the situation.",
+          "exampleSentenceTranslation": "彼の怒りのコメントは、状況を悪化させただけだった。",
+          "relatedExpressions": [
+            "exacerbation (名: 悪化)",
+            "worsen / aggravate (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-029",
+          "questionText": "The court's ruling in this case is expected to set a legal ------- for how similar disputes will be handled in the future.",
+          "options": ["coincidence", "hindrance", "precedent", "speculation"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`set a ... for ~` の形で「〜の前例を作る」となるのは、「前例、判例」を意味する(C) `precedent` です。法的な文脈で頻出します。\n【不正解の選択肢】(A) coincidence: 偶然, (B) hindrance: 障害, (D) speculation: 推測。法的な文脈に合いません。",
+          "word": "precedent",
+          "meaning": "【名】前例, 先例, 判例",
+          "exampleSentence": "There is no precedent for such a decision.",
+          "exampleSentenceTranslation": "そのような決定には前例がない。",
+          "relatedExpressions": [
+            "unprecedented (形: 前例のない)",
+            "set a precedent (前例を作る)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-030",
+          "questionText": "In the fast-paced tech industry, the competitive advantage gained from a new feature is often -------, as rivals quickly develop similar functions.",
+          "options": ["perpetual", "ephemeral", "substantial", "fundamental"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「競合がすぐに追いつくため、優位性は〜である」という文脈で、「つかの間の、はかない」を意味する(B) `ephemeral` が唯一の正解です。\n【不正解の選択肢】(A) perpetual: 永続的な（意味が逆）, (C) substantial: かなりの, (D) fundamental: 基本的な。文脈に合いません。",
+          "word": "ephemeral",
+          "meaning": "【形】つかの間の, はかない, 短命の (文学的・フォーマルな表現)",
+          "exampleSentence": "Fame in the world of pop music is largely ephemeral.",
+          "exampleSentenceTranslation": "ポップミュージックの世界での名声は、大部分がはかないものだ。",
+          "relatedExpressions": [
+            "transient / fleeting (類義語)",
+            "permanent / lasting (対義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_04",
+      "setName": "精選語彙 Vol. 4",
+      "order": 4,
+      "questions": [
+        {
+          "id": "VOCAB-990-031",
+          "questionText": "The initial draft of the business plan was found ------- in several critical areas and required substantial revision.",
+          "options": ["wanted", "to want", "want", "wanting"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】`be found wanting` は「不十分であるとわかる、欠点があるとわかる」という定型表現です。第5文型(S+V+O+C)の受け身 `O is found C` の形で、ここでは「不足している」という意味の形容詞(D) `wanting` が補語(C)として使われています。基礎単語wantの応用的な用法であり、他の選択肢は文法的にこの構文を形成できません。",
+          "word": "wanting",
+          "meaning": "【形】不足している, 欠けている",
+          "exampleSentence": "His leadership skills were found wanting during the crisis.",
+          "exampleSentenceTranslation": "彼のリーダーシップスキルは、その危機において不十分であることがわかった。",
+          "relatedExpressions": [
+            "be found wanting (不十分だとわかる)",
+            "for want of (~がないために)",
+            "lacking (類義語)",
+            "deficient (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-032",
+          "questionText": "The proposal to extend the office hours ------- with strong resistance from the employees' union.",
+          "options": ["met", "saw", "held", "took"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`... with resistance` の形で「抵抗にあう」という意味の定型表現を形成するのは(A) `met` だけです。`meet with ~` は「(反応・反対・承認など)にあう」という意味で頻出のコロケーションであり、他の選択肢はこの文脈で `with` と結びつきません。",
+          "word": "meet with",
+          "meaning": "【句動】(反応・反対・承認などを)受ける, (〜に)あう",
+          "exampleSentence": "The plan met with widespread public support.",
+          "exampleSentenceTranslation": "その計画は、一般市民から広範な支持を得た。",
+          "relatedExpressions": [
+            "meet with resistance (抵抗にあう)",
+            "meet with approval (承認を得る)",
+            "meet with success (成功を収める)",
+            "encounter (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-033",
+          "questionText": "Management and the labor union representatives will meet next week to ------- out the final details of the new contract.",
+          "options": ["bring", "sort", "iron", "work"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`... out the final details` の形で「最終的な詳細を詰める」という文脈に最も合うのは、(C) `iron` です。`iron out` は、問題や意見の相違などを「解決する、調整する」という意味の句動詞で、特に細かい相違点を調整し、問題をなくす（滑らかにする）ニュアンスで使われます。",
+          "word": "iron out",
+          "meaning": "【句動】(問題・意見の相違などを)解決する, 調整する",
+          "exampleSentence": "There are still a few wrinkles to iron out before the agreement can be signed.",
+          "exampleSentenceTranslation": "合意に署名する前に、まだ解決すべき細かい問題がいくつかある。",
+          "relatedExpressions": [
+            "iron out the details (詳細を詰める)",
+            "iron out differences (意見の相違を調整する)",
+            "resolve / smooth over (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-034",
+          "questionText": "------- any unforeseen circumstances, the new software is scheduled to be launched on March 1st.",
+          "options": ["Despite", "During", "Toward", "Barring"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】文頭に置かれ、「〜がなければ、〜を除いて」と未来の出来事に対する条件を示すのは前置詞の(D) `Barring` だけです。\n【不正解の選択肢】(A) Despite: ～にもかかわらず, (B) During: ～の間, (C) Toward: ～の方へ。これらは意味が全く異なります。",
+          "word": "barring",
+          "meaning": "【前】〜がなければ, 〜の場合を除いて",
+          "exampleSentence": "Barring any objections, we will proceed with the plan.",
+          "exampleSentenceTranslation": "反対がなければ、我々はその計画を進めます。",
+          "relatedExpressions": [
+            "barring unforeseen circumstances (不測の事態がなければ)",
+            "except for / unless there is (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-035",
+          "questionText": "The location is convenient for commuting, but the office space itself is ------- too small for our team.",
+          "options": ["likewise", "otherwise", "nonetheless", "therefore"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「通勤には便利だが、\"その他の点では\"小さすぎる」という対比の文脈です。この「その他の点では」という意味を持つのは(B) `otherwise` です。この用法はTOEIC上級者向けです。\n【不正解の選択肢】(A) likewise: 同様に, (C) nonetheless: それにもかかわらず, (D) therefore: それゆえに。文脈に合いません。",
+          "word": "otherwise",
+          "meaning": "【副】\n1. その他の点では\n2. さもなければ, そうでなければ\n3. 違ったふうに",
+          "exampleSentence": "The bike is in good condition, but the tires need to be replaced. Otherwise, it's perfect.",
+          "exampleSentenceTranslation": "その自転車は状態が良いが、タイヤは交換が必要だ。その他の点では、完璧だ。",
+          "relatedExpressions": [
+            "unless otherwise stated (別途記載がない限り)",
+            "in other respects (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-036",
+          "questionText": "The CEO thanked the marketing and sales teams for their contributions to the project's success, in that ------- order.",
+          "options": ["respectful", "respectable", "respective", "respecting"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】前に挙げられた複数の要素（ここでは2つのチーム）に「それぞれ」対応することを示すのは、形容詞の(C) `respective` です。`in that respective order` で「そのそれぞれの順で（つまり、マーケティング、そしてセールスの順で）」という意味になります。\n【不正解の選択肢】(A) respectful: 敬意を払う, (B) respectable: 立派な, (D) respecting: ～に関して。これらは頻出のひっかけ選択肢です。",
+          "word": "respective",
+          "meaning": "【形】それぞれの, 各々の",
+          "exampleSentence": "The winners in the first, second, and third places received gold, silver, and bronze medals, respectively.",
+          "exampleSentenceTranslation": "1位、2位、3位の勝者は、それぞれ金、銀、銅メダルを受け取った。(副詞respectivelyの用法)",
+          "relatedExpressions": [
+            "respectively (副: それぞれ)",
+            "their respective duties (彼らのそれぞれの職務)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-037",
+          "questionText": "The research and development department ------- to unveil a prototype of their new device at the upcoming tech conference.",
+          "options": ["is set", "has set", "sets", "setting"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`... to do` の形で「～する予定である、～することになっている」という公式な予定を表す定型表現は(A) `is set` です。`be set to do` の形になります。\n【不正解の選択肢】他の選択肢は文法的に `to unveil` とは繋がりません。",
+          "word": "be set to do",
+          "meaning": "【句】〜する予定である, 〜することになっている",
+          "exampleSentence": "The new stadium is set to open next spring.",
+          "exampleSentenceTranslation": "新しいスタジアムは来春オープンする予定だ。",
+          "relatedExpressions": [
+            "be scheduled to do (類義語)",
+            "be slated to do (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-038",
+          "questionText": "While the manager did not agree with the decision, she ultimately had to ------- to the board's authority.",
+          "options": ["defy", "concede", "challenge", "object"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`While ... did not agree` という譲歩節から、「最終的には取締役会の権威に〜しなければならなかった」という文脈で、「(不本意ながら)認める、譲歩する」を意味する(B) `concede` が唯一の正解です。\n【不正解の選択肢】(A) defy, (C) challenge, (D) object はすべて「反抗・反対する」という意味合いで、文脈と逆になります。",
+          "word": "concede",
+          "meaning": "【動】(不本意ながら真実・権利・敗北などを)認める, 譲歩する",
+          "exampleSentence": "The company was forced to concede that its product had a design flaw.",
+          "exampleSentenceTranslation": "その会社は、自社製品に設計上の欠陥があったことを認めざるを得なかった。",
+          "relatedExpressions": [
+            "concession (名: 譲歩)",
+            "concede defeat (敗北を認める)",
+            "admit / acknowledge (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-039",
+          "questionText": "The factory was temporarily shut down ------- a number of safety violations discovered during the inspection.",
+          "options": ["in spite of", "due to the fact", "in light of", "regardless of"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「検査で発見された多くの安全違反を〜、工場は一時閉鎖された」という文脈で、理由・根拠を示す「〜を考慮して、〜に鑑みて」を意味する(C) `in light of` が最適です。\n【不正解の選択肢】(A)と(D)は意味が逆。(B)は `that`節を続けないため文法的に誤りです。",
+          "word": "in light of",
+          "meaning": "【句】〜を考慮して, 〜に鑑みて",
+          "exampleSentence": "In light of the new evidence, the police have reopened the case.",
+          "exampleSentenceTranslation": "新しい証拠に鑑み、警察は事件の再捜査を開始した。",
+          "relatedExpressions": [
+            "in view of (類義語)",
+            "considering (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-040",
+          "questionText": "A detailed ------- is available upon request for any potential investors interested in our company.",
+          "options": ["prospect", "prospective", "prospectus", "perspective"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「投資家向けに」用意される詳細な文書として最も適切なのは、「(企業の)目論見書、事業案内書」を意味する(C) `prospectus` です。投資の文脈で必須の専門用語です。\n【不正解の選択肢】(A) prospect: 見込み, (B) prospective: 見込みのある, (D) perspective: 視点。これらは文脈に合いません。",
+          "word": "prospectus",
+          "meaning": "【名】(企業の)目論見書, (学校などの)案内書",
+          "exampleSentence": "The prospectus outlines the company's financial history and future plans.",
+          "exampleSentenceTranslation": "目論見書は、会社の財務履歴と将来の計画の概要を説明している。",
+          "relatedExpressions": [
+            "an investment prospectus (投資目論見書)",
+            "brochure / catalog (類義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_05",
+      "setName": "精選語彙 Vol. 5",
+      "order": 5,
+      "questions": [
+        {
+          "id": "VOCAB-990-041",
+          "questionText": "Could you please ------- to it that the client receives the revised proposal by the end of the day?",
+          "options": ["look", "get", "make", "see"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】`... to it that S+V` の形で「～するように責任をもって取り計らう」という意味の定型表現を形成するのは(D) `see` だけです。他の選択肢はこの構文を取りません。\n【不正解の選択肢】(A) look to: ～に頼る, (B) get to: ～に取り掛かる, (C) make to: (この形はない)",
+          "word": "see to it that",
+          "meaning": "【句】〜するように責任をもって取り計らう, 手配する",
+          "exampleSentence": "Please see to it that all the guests are comfortable.",
+          "exampleSentenceTranslation": "すべてのお客様が快適に過ごせるように、どうぞお取り計らいください。",
+          "relatedExpressions": [
+            "see to (~の世話をする、~を引き受ける)",
+            "make sure that... (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-042",
+          "questionText": "Online sales now ------- for over 60 percent of our total revenue, a significant increase from last year.",
+          "options": ["take", "account", "bring", "put"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`... for ~` の形で「（割合）を占める」という意味になるのは(B) `account` だけです。`account for` はTOEIC頻出の句動詞です。\n【不正解の選択肢】他の選択肢は `for` と結びついてこの意味にはなりません。",
+          "word": "account for",
+          "meaning": "【句動】\n1. (割合・部分)を占める\n2. 〜の原因を説明する",
+          "exampleSentence": "Icy roads accounted for the increase in accidents.",
+          "exampleSentenceTranslation": "路面の凍結が、事故の増加の原因を説明した。",
+          "relatedExpressions": [
+            "make up / constitute (類義語: 占める)",
+            "explain (類義語: 説明する)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-043",
+          "questionText": "The auditors concluded that the company's financial records were based on ------- accounting principles.",
+          "options": ["loud", "heavy", "sound", "solid"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「〜な会計原則」という文脈で、「健全な、堅実な」を意味する形容詞(C) `sound` が唯一の正解です。`sound accounting principles` (健全な会計原則)は一般的なコロケーションです。\n【不正解の選択肢】(A) loud: うるさい, (B) heavy: 重い, (D) solid: 固い。これらは会計原則を修飾しません。",
+          "word": "sound",
+          "meaning": "【形】健全な, 堅実な, 妥当な, ぐっすりとした",
+          "exampleSentence": "The company is on a sound financial footing.",
+          "exampleSentenceTranslation": "その会社は健全な財政基盤の上にある。",
+          "relatedExpressions": [
+            "sound judgment (健全な判断)",
+            "a sound investment (堅実な投資)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-044",
+          "questionText": "The grant is intended to ------- the operational costs for the first two years of the project.",
+          "options": ["hide", "expose", "cover", "reveal"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「プロジェクトの運営費を〜することを目的としている」という文脈で、「(費用)を賄う」を意味するのは(C) `cover` だけです。\n【不正解の選択肢】(A) hide: 隠す, (B) expose: さらす, (D) reveal: 明らかにする。これらは意味が全く逆か、無関係です。",
+          "word": "cover",
+          "meaning": "【動】\n1. (費用)を賄う\n2. (範囲・分野)を網羅する, 扱う\n3. 〜を覆う, 報道する",
+          "exampleSentence": "The conference will cover a wide range of topics.",
+          "exampleSentenceTranslation": "その会議は幅広いトピックを扱う予定です。",
+          "relatedExpressions": [
+            "cover costs/expenses (費用を賄う)",
+            "insurance coverage (保険の補償範囲)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-045",
+          "questionText": "The final payment for the services rendered is ------- on October 31st.",
+          "options": ["due", "owed", "bound", "pending"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`is ... on (日付)` の形で「(日付)が支払期日である」という意味になるのは、形容詞(A) `due` です。これは定型的な使い方です。\n【不正解の選択肢】(B) owed: 借りがある, (C) bound: 縛られている, (D) pending: 未決定の。これらは文脈に合いません。",
+          "word": "due",
+          "meaning": "【形】\n1. 支払期日が来た, 満期の\n2. (〜する)予定である (to do)\n3. (〜に)ふさわしい",
+          "exampleSentence": "Our success was due to a combination of hard work and luck.",
+          "exampleSentenceTranslation": "我々の成功は、勤勉と幸運の組み合わせによるものだった。",
+          "relatedExpressions": [
+            "due date (支払期日)",
+            "due to (~が原因で)",
+            "overdue (期限切れの)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-046",
+          "questionText": "All prices are ------- to change without prior notice depending on market fluctuations.",
+          "options": ["subject", "liable", "prone", "bound"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`be ... to change` の形で「変更されることがある」という定型表現になるのは(A) `subject` だけです。`be subject to ~` は契約書など頻出の表現です。\n【不正解の選択肢】(B) liable to, (C) prone to は「～しがちだ」という傾向を、(D) bound to は「きっと～する」という確信を表すため、文脈に合いません。",
+          "word": "subject to",
+          "meaning": "【句】\n1. 〜の対象となる, 〜の影響を受けやすい\n2. 〜を条件として",
+          "exampleSentence": "The promotion is subject to certain terms and conditions.",
+          "exampleSentenceTranslation": "このプロモーションは、特定の契約条件に従います。",
+          "relatedExpressions": [
+            "be subject to change (変更されることがある)",
+            "be subject to approval (承認を条件とする)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-047",
+          "questionText": "The new regulations effectively ------- any company with fewer than 50 employees from the reporting requirements.",
+          "options": ["compel", "bar", "oblige", "mandate"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`... someone from doing` の形で「（人）が～するのを禁じる」という意味になるのは(B) `bar` です。規制が企業を報告義務から「除外する」という文脈です。\n【不正解の選択肢】(A), (C), (D)はすべて「強制する」方向の動詞で、意味が逆です。",
+          "word": "bar",
+          "meaning": "【動】〜を禁じる, 妨げる\n【名】棒, 酒場, 法廷",
+          "exampleSentence": "Lack of experience barred him from getting the job.",
+          "exampleSentenceTranslation": "経験不足が、彼がその仕事を得るのを妨げた。",
+          "relatedExpressions": [
+            "bar someone from doing (~するのを禁じる)",
+            "prohibit / forbid (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-048",
+          "questionText": "The report is complete ------- for the final appendix, which is still being compiled.",
+          "options": ["aside", "apart", "beyond", "save"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「〜を除いて」という意味で、`except for` と同義のフォーマルな前置詞は(D) `save` です。書き言葉で使われることが多いです。\n【不正解の選択肢】(A) aside from: ～はさておき, (B) apart from: ～は別として, (C) beyond: ～を越えて。これらは文脈に合いません。",
+          "word": "save for",
+          "meaning": "【句】(〜を)除いて (フォーマル)",
+          "exampleSentence": "He answered all the questions save one.",
+          "exampleSentenceTranslation": "彼は一問を除いてすべての質問に答えた。",
+          "relatedExpressions": [
+            "save (前置詞: ～を除いて)",
+            "except for (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-049",
+          "questionText": "The new CEO's vision for the company is ------- odds with the traditional approach favored by the board.",
+          "options": ["at", "in", "on", "with"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`be ... odds with ~` の形で「～と意見が合わない、矛盾する」という意味のイディオムを形成するのは(A) `at` だけです。\n【不正解の選択肢】他の選択肢はこのイディオムを形成しません。",
+          "word": "at odds with",
+          "meaning": "【句】〜と意見が合わない, 不和である, 矛盾する",
+          "exampleSentence": "The results of the study are at odds with our previous findings.",
+          "exampleSentenceTranslation": "その研究の結果は、我々の以前の調査結果と矛盾している。",
+          "relatedExpressions": [
+            "odds (名: 見込み、確率)",
+            "be in conflict with (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-050",
+          "questionText": "The sudden system failure ------- all our previous work useless.",
+          "options": ["made", "left", "rendered", "turned"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「OをCの状態にする」という第5文型(SVOC)を作り、`make` よりフォーマルな響きを持つのは(C) `render` です。特に予期せぬ作用で何らかの状態に「変えてしまう」ニュアンスで使われます。\n【不正解の選択肢】`made` も文法的には可能ですが、`render` の方がより硬い表現で、こうした文脈で好まれます。",
+          "word": "render",
+          "meaning": "【動】\n1. (人・物を)〜の状態にする (SVOC)\n2. (援助・サービスなどを)与える, 提供する",
+          "exampleSentence": "The new technology has rendered our old method obsolete.",
+          "exampleSentenceTranslation": "新しい技術は、我々の古い方法を時代遅れのものにした。",
+          "relatedExpressions": [
+            "render O C (OをCにする)",
+            "render a service (サービスを提供する)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_06",
+      "setName": "精選語彙 Vol. 6",
+      "order": 6,
+      "questions": [
+        {
+          "id": "VOCAB-990-051",
+          "questionText": "For ------- of a better alternative, the committee decided to proceed with the original plan.",
+          "options": ["lack", "shortage", "want", "need"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`for ... of ~` の形で「～がないために」という定型表現を形成するのは(C) `want` だけです。`for lack of ~` も可能ですが、選択肢にありません。`for want of` はフォーマルな文語表現です。\n【不正解の選択肢】他の選択肢はこの構文を形成しません。",
+          "word": "for want of",
+          "meaning": "【句】～がないために, ～の不足のために",
+          "exampleSentence": "The plant died for want of water.",
+          "exampleSentenceTranslation": "その植物は水不足のために枯れた。",
+          "relatedExpressions": [
+            "want (名: 不足、欠乏)",
+            "for lack of (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-052",
+          "questionText": "All employees are required to ------- their expense reports by the fifth day of each month.",
+          "options": ["file", "record", "present", "register"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「経費報告書を〜する」という文脈で、「(書類などを)正式に提出する」という意味を持つのは(A) `file` です。ビジネスや法律の文脈で頻出します。\n【不正解の選択肢】(B) record: 記録する, (C) present: 提示する, (D) register: 登録する。これらは「正式な提出」のニュアンスを欠きます。",
+          "word": "file",
+          "meaning": "【動】(書類・申請・告訴などを)正式に提出する, 提起する\n【名】ファイル",
+          "exampleSentence": "You need to file a claim with your insurance company.",
+          "exampleSentenceTranslation": "あなたは保険会社に請求を申し立てる必要がある。",
+          "relatedExpressions": [
+            "file a complaint (苦情を申し立てる)",
+            "file for bankruptcy (破産を申請する)",
+            "submit (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-053",
+          "questionText": "This particular supermarket chain is known for ------- a wide range of imported organic products.",
+          "options": ["holding", "bearing", "taking", "carrying"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「幅広い種類の製品を〜していることで知られている」という文脈で、店が商品を「在庫として置いている、扱っている」を意味するのは(D) `carrying` です。\n【不正解の選択肢】他の選択肢はこの意味を持ちません。",
+          "word": "carry",
+          "meaning": "【動】\n1. (店が商品を)置いている, 扱っている\n2. 〜を運ぶ\n3. (議案などを)可決する",
+          "exampleSentence": "Our store carries a variety of international foods.",
+          "exampleSentenceTranslation": "当店は様々な国際食品を取り扱っております。",
+          "relatedExpressions": [
+            "carry a product (商品を扱う)",
+            "stock (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-054",
+          "questionText": "All staff must attend the safety training session, unless ------- instructed by their department head.",
+          "options": ["otherwise", "therefore", "instead", "yet"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`unless ... instructed` の形で、「別途指示がない限り」という意味の定型表現を形成するのは(A) `otherwise` だけです。公式な通知で頻出します。\n【不正解の選択肢】他の選択肢はこの文法構造・意味を形成しません。",
+          "word": "otherwise",
+          "meaning": "【副】\n1. 別途, 異なって\n2. さもなければ\n3. その他の点では",
+          "exampleSentence": "The registration fee is non-refundable, unless stated otherwise.",
+          "exampleSentenceTranslation": "別途記載がない限り、登録料は返金不可です。",
+          "relatedExpressions": [
+            "unless otherwise specified (特に指定がない限り)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-055",
+          "questionText": "The CEO's keynote speech will ------- the issue of corporate responsibility in the digital age.",
+          "options": ["speak", "mention", "address", "state"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「企業責任の問題を〜するだろう」という文脈で、「(問題など)に取り組む、論じる」を意味する(C) `address` が最適です。\n【不正解の選択肢】(A) speak about, (B) mention, (D) state は、`address` の持つ「問題に正面から取り組む」というニュアンスを表現できません。",
+          "word": "address",
+          "meaning": "【動】\n1. (問題・課題に)取り組む, 対処する, 論じる\n2. 〜に演説する\n【名】住所, 演説",
+          "exampleSentence": "It's time we addressed the issue of pollution.",
+          "exampleSentenceTranslation": "我々が汚染問題に取り組むべき時が来た。",
+          "relatedExpressions": [
+            "address an issue/problem (問題に取り組む)",
+            "tackle / deal with (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-056",
+          "questionText": "The sales figures for this quarter are still ------- and will be finalized at the end of the month.",
+          "options": ["provisional", "permanent", "definite", "absolute"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`will be finalized`（確定される）という記述から、現状の数字が「仮の、暫定的な」ものであると分かります。この意味を持つのは(A) `provisional` です。\n【不正解の選択肢】(B), (C), (D)はすべて確定的・最終的な意味合いで、文脈と逆です。",
+          "word": "provisional",
+          "meaning": "【形】仮の, 暫定的な (フォーマル)",
+          "exampleSentence": "The government has set up a provisional committee.",
+          "exampleSentenceTranslation": "政府は暫定的な委員会を設置した。",
+          "relatedExpressions": [
+            "a provisional agreement (仮合意)",
+            "tentative (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-057",
+          "questionText": "The company will not be liable for any additional costs ------- by the client's last-minute changes.",
+          "options": ["incurred", "occurred", "induced", "imposed"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】名詞`costs`を後ろから修飾する過去分詞で、「(費用などを)被る、負う」を意味する(A) `incurred` が唯一の正解です。\n【不正解の選択肢】(B) `occur` は自動詞なのでこの形は不可。(C) `induce` は「誘発する」、(D) `impose` は「課す」で、ニュアンスが異なります。",
+          "word": "incur",
+          "meaning": "【動】(費用・損失・負債などを)負う, 被る",
+          "exampleSentence": "The company incurred huge debts during the expansion.",
+          "exampleSentenceTranslation": "その会社は事業拡大中に巨額の負債を負った。",
+          "relatedExpressions": [
+            "incur costs/expenses (費用を負う)",
+            "incur a loss/debt (損失/負債を被る)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-058",
+          "questionText": "The university agreed to ------- the tuition fees for students who could demonstrate financial hardship.",
+          "options": ["abolish", "waive", "deduct", "discount"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「経済的困窮を証明できる学生の授業料を〜することに同意した」という文脈で、「(権利・料金などを)免除する」を意味する(B) `waive` が最適です。\n【不正解の選択肢】(A) abolish: (制度などを)廃止する, (C) deduct: 控除する, (D) discount: 割引する。これらは「免除」とは意味が異なります。",
+          "word": "waive",
+          "meaning": "【動】(権利・要求・料金などを)放棄する, 免除する",
+          "exampleSentence": "The company agreed to waive the shipping fees for large orders.",
+          "exampleSentenceTranslation": "その会社は大口注文に対して送料を免除することに同意した。",
+          "relatedExpressions": [
+            "waiver (名: 権利放棄、免除)",
+            "waive a fee (料金を免除する)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-059",
+          "questionText": "Our project budget includes a ------- fund to cover unexpected expenses.",
+          "options": ["remainder", "residual", "contingency", "surplus"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`... fund` の形で「予期せぬ出費を賄うための資金」となるのは、「不測の事態」を意味する(C) `contingency` だけです。\n【不正解の選択肢】(A) remainder: 残り, (B) residual: 残りの, (D) surplus: 余剰。これらは「不測の事態」のニュアンスを持ちません。",
+          "word": "contingency",
+          "meaning": "【名】不測の事態, 偶発事件",
+          "exampleSentence": "You should always have a contingency plan in business.",
+          "exampleSentenceTranslation": "ビジネスにおいては、常に緊急時対応計画を持つべきだ。",
+          "relatedExpressions": [
+            "a contingency plan (緊急時対応計画)",
+            "a contingency fund (緊急時資金)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-060",
+          "questionText": "For this report, we will need to ------- on the expertise of our colleagues in the legal department.",
+          "options": ["pull", "take", "call", "draw"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】`... on ~` の形で「(資源・経験など)を利用する、頼る」という意味の句動詞になるのは(D) `draw` だけです。\n【不正解の選択肢】他の選択肢は `on` と結びついてこの意味にはなりません。",
+          "word": "draw on",
+          "meaning": "【句動】(経験・知識・資金などの資源を)利用する, 頼る",
+          "exampleSentence": "She has a wealth of experience to draw on.",
+          "exampleSentenceTranslation": "彼女には、頼れる豊富な経験がある。",
+          "relatedExpressions": [
+            "draw on expertise (専門知識を利用する)",
+            "draw upon (同義)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_07",
+      "setName": "精選語彙 Vol. 7",
+      "order": 7,
+      "questions": [
+        {
+          "id": "VOCAB-990-061",
+          "questionText": "Reliable data on consumer spending habits is surprisingly difficult to ------- by.",
+          "options": ["come", "get", "take", "stand"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`difficult to ... by` の形で「〜を手に入れるのが難しい」となるのは(A) `come` だけです。`come by` は「(困難の末に)〜を手に入れる」という意味の句動詞です。\n【不正解の選択肢】他の選択肢は `by` と結びついてこの意味にはなりません。",
+          "word": "come by",
+          "meaning": "【句動】〜を(偶然または困難の末に)手に入れる",
+          "exampleSentence": "Authentic vintage posters are hard to come by.",
+          "exampleSentenceTranslation": "本物のヴィンテージポスターは手に入りにくい。",
+          "relatedExpressions": [
+            "hard to come by (手に入りにくい)",
+            "obtain / acquire (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-062",
+          "questionText": "Before acquiring the company, the investment firm conducted thorough ------- to assess its financial health.",
+          "options": ["due diligence", "case study", "field survey", "performance review"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「企業買収の前に、財務健全性を評価するために徹底的な〜を行った」という文脈に合うのは、M&Aの際の精密調査を指す専門用語(A) `due diligence` です。\n【不正解の選択肢】他の選択肢も調査の一種ですが、この文脈での専門用語ではありません。",
+          "word": "due diligence",
+          "meaning": "【名】デューデリジェンス, 適正評価手続き (M&Aや投資における精密調査)",
+          "exampleSentence": "The merger was delayed while the legal team completed its due diligence.",
+          "exampleSentenceTranslation": "法務チームがデューデリジェンスを完了する間、合併は延期された。",
+          "relatedExpressions": [
+            "conduct due diligence (デューデリジェンスを行う)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-063",
+          "questionText": "The agreement is binding ------- as it is approved by the legal departments of both companies.",
+          "options": ["as long", "as far", "insofar", "so much"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`... as` の形で「〜する限りにおいて」というフォーマルな接続詞になるのは(C) `insofar` です。\n【不正解の選択肢】(A) as long as, (B) as far as も「〜限り」ですが、`insofar as` はより硬い文語表現で、法的な文脈などで好まれます。",
+          "word": "insofar as",
+          "meaning": "【句】〜する限りにおいて, 〜の範囲では",
+          "exampleSentence": "He is a good student insofar as his grades are concerned.",
+          "exampleSentenceTranslation": "成績に関する限りでは、彼は良い学生だ。",
+          "relatedExpressions": [
+            "to the extent that (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-064",
+          "questionText": "Could you explain in layman's ------- what this complex algorithm actually does?",
+          "options": ["words", "terms", "phrases", "jargon"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`in layman's ...` の形で「素人にも分かる言葉で」という意味のイディオムを形成するのは(B) `terms` だけです。\n【不正解の選択肢】他の選択肢はこのイディオムを形成しません。",
+          "word": "in layman's terms",
+          "meaning": "【句】素人にも分かる言葉で",
+          "exampleSentence": "The manual is written in layman's terms, so it's easy to follow.",
+          "exampleSentenceTranslation": "そのマニュアルは素人にも分かる言葉で書かれているので、従うのが簡単だ。",
+          "relatedExpressions": [
+            "layman (名: 素人)",
+            "in simple terms (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-065",
+          "questionText": "Ms. Evans is an expert of high ------- in the field of intellectual property law.",
+          "options": ["stand", "standing", "stood", "standard"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`of high ...` の形で「高い評価の」という形容詞句になるのは、名詞の「地位、評判」を意味する(B) `standing` だけです。\n【不正解の選択肢】他の選択肢はこの構文を形成しません。",
+          "word": "standing",
+          "meaning": "【名】地位, 身分, 評判, 順位",
+          "exampleSentence": "The company has a strong standing in the international market.",
+          "exampleSentenceTranslation": "その会社は国際市場で確固たる地位を築いている。",
+          "relatedExpressions": [
+            "of high standing (評価が高い)",
+            "reputation (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-066",
+          "questionText": "------- a formal objection from the finance team, the project will commence next Monday.",
+          "options": ["Provided", "Given", "Absent", "With"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】文頭で「〜がなければ」という意味の前置詞として機能するのは(C) `Absent` です。`Without` のフォーマルな表現です。\n【不正解の選択肢】(A) Provided: もし～なら, (B) Given: ～を考慮すると, (D) With: ～と共に。これらは意味が異なります。",
+          "word": "absent",
+          "meaning": "【前】〜がなければ\n【形】欠席して, 不在で",
+          "exampleSentence": "Absent further information, we cannot make a decision.",
+          "exampleSentenceTranslation": "さらなる情報がなければ、我々は決定を下せない。",
+          "relatedExpressions": [
+            "without (類義語)",
+            "barring (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-067",
+          "questionText": "We must secure the necessary permits, ------- which we cannot begin construction.",
+          "options": ["lacking", "without", "barring", "failing"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】前の文全体の内容を受け、「そしてそれができなければ」と続けるのは、(D) `failing which` です。非常にフォーマルな書き言葉の表現です。\n【不正解の選択肢】(B) `without which`も文法的に可能ですが、`failing which`が「その行為に失敗した場合」というニュアンスをより強く出します。",
+          "word": "failing which",
+          "meaning": "【句】そしてそれができなければ, もしそうでなければ",
+          "exampleSentence": "All members must pay their dues by Friday, failing which their membership will be suspended.",
+          "exampleSentenceTranslation": "全会員は金曜日までに会費を支払わなければならない。さもなければ、会員資格は停止される。",
+          "relatedExpressions": [
+            "and if not (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-068",
+          "questionText": "The new policy applies to all employees, and the management team at ------- is no exception.",
+          "options": ["large", "all", "once", "least"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`at ...` の形で「全体として、一般の」という意味のイディオムを形成するのは(A) `large` だけです。\n【不正解の選択肢】(B) at all: 全く, (C) at once: すぐに, (D) at least: 少なくとも",
+          "word": "at large",
+          "meaning": "【句】\n1. 全体として, 一般の\n2. (犯人などが)捕まっていない",
+          "exampleSentence": "The problem affects society at large.",
+          "exampleSentenceTranslation": "その問題は社会全体に影響を及ぼす。",
+          "relatedExpressions": [
+            "the public at large (一般大衆)",
+            "in general (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-069",
+          "questionText": "She was promoted to director ------- of her outstanding leadership and negotiation skills.",
+          "options": ["by virtue of", "in charge of", "in view of", "on behalf of"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「彼女の卓越したスキル〜、部長に昇進した」という文脈で、理由・根拠を示す「〜のおかげで、〜の力で」を意味するのは(A) `by virtue of` です。\n【不正解の選択肢】(B), (C), (D)は意味が全く異なります。",
+          "word": "by virtue of",
+          "meaning": "【句】〜のおかげで, 〜の力で, 〜の理由で",
+          "exampleSentence": "He is a member of the club by virtue of his father's status.",
+          "exampleSentenceTranslation": "彼は父親の地位のおかげでそのクラブの会員だ。",
+          "relatedExpressions": [
+            "virtue (名: 美徳、長所)",
+            "because of (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-070",
+          "questionText": "This memo serves to confirm that ------- all employees must complete the new security training by May 31.",
+          "options": ["henceforth", "whereas", "thereby", "nonetheless"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「このメモは、〜全従業員が研修を完了しなければならないことを確認するものです」という文脈で、「今後は、これより先」を意味するフォーマルな副詞(A) `henceforth` が最適です。\n【不正解の選択肢】(B), (C), (D)は文脈に合いません。",
+          "word": "henceforth",
+          "meaning": "【副】今後は, これより先 (フォーマル)",
+          "exampleSentence": "The agreement states that henceforth, all disputes will be settled by arbitration.",
+          "exampleSentenceTranslation": "合意書には、今後はすべての紛争は仲裁によって解決されると記載されている。",
+          "relatedExpressions": [
+            "from now on (類義語)",
+            "hereafter (類義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_08",
+      "setName": "精選語彙 Vol. 8",
+      "order": 8,
+      "questions": [
+        {
+          "id": "VOCAB-990-071",
+          "questionText": "The artist was ------- to paint a large mural for the new corporate headquarters.",
+          "options": ["commissioned", "committed", "commanded", "commenced"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「芸術家が、壁画を描くよう〜された」という文脈で、「(専門家などに仕事を)依頼する、委託する」を意味する(A) `commissioned` が唯一の正解です。\n【不正解の選択肢】(B) committed: 専念した, (C) commanded: 命令された, (D) commenced: 開始された。これらは意味が異なります。",
+          "word": "commission",
+          "meaning": "【動】(芸術家・専門家などに仕事や作品製作を)依頼する, 委託する\n【名】委員会, 手数料",
+          "exampleSentence": "They commissioned a study into the environmental impact of the project.",
+          "exampleSentenceTranslation": "彼らはそのプロジェクトの環境への影響に関する調査を委託した。",
+          "relatedExpressions": [
+            "be commissioned to do (~するよう依頼される)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-072",
+          "questionText": "The witness's testimony has no direct ------- on the defendant's case.",
+          "options": ["bearing", "relation", "concern", "impact"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`have no ... on ~` の形で「〜に直接的な関係がない」というイディオムを形成するのは(A) `bearing` だけです。\n【不正解の選択肢】他の選択肢も「関係・影響」を表しますが、`have a bearing on` という定型句を形成するのは `bearing` のみです。",
+          "word": "bearing on",
+          "meaning": "【句】(〜への)関係, 影響",
+          "exampleSentence": "What he said has no bearing on the matter we are discussing.",
+          "exampleSentenceTranslation": "彼の言ったことは、我々が議論している問題とは何の関係もない。",
+          "relatedExpressions": [
+            "have a bearing on (~に関係がある)",
+            "relevance to (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-073",
+          "questionText": "The committee will approve any reasonable expense requests, but they reserve the right to deny requests they do not ------- fit.",
+          "options": ["find", "believe", "see", "judge"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`... fit` の形で「適切だと考える」という表現になるのは(C) `see` です。`see fit (to do)` は頻出の慣用句です。\n【不正解の選択肢】`deem fit`や`judge fit`も文法的には可能ですが、`see fit`が最も一般的で慣用的な表現です。`believe`は不適切。",
+          "word": "see fit",
+          "meaning": "【句】(〜するのが)適切だと考える, 妥当だと判断する",
+          "exampleSentence": "The company may take any action it sees fit to protect its interests.",
+          "exampleSentenceTranslation": "会社は自社の利益を守るために、適切だと判断するいかなる行動もとることができる。",
+          "relatedExpressions": [
+            "see fit to do (~するのが妥当だと考える)",
+            "deem appropriate (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-074",
+          "questionText": "The new policy is designed to ------- positive changes in workplace culture.",
+          "options": ["affect", "effect", "afflict", "inflict"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「良い変化を〜する」という文脈で、「(変化など)をもたらす、実現する」を意味する動詞は(B) `effect` です。`affect`(影響を与える)との混同を狙った頻出問題です。\n【不正解の選択肢】(A) affect: 影響を与える, (C) afflict: 苦しめる, (D) inflict: (苦痛などを)与える",
+          "word": "effect",
+          "meaning": "【動】(変化などを)もたらす, 実現する (フォーマル)\n【名】効果, 影響",
+          "exampleSentence": "The legislators hope to effect change through the new law.",
+          "exampleSentenceTranslation": "議員たちは、新しい法律を通じて変化をもたらすことを望んでいる。",
+          "relatedExpressions": [
+            "effect change (変化をもたらす)",
+            "bring about (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-075",
+          "questionText": "------- the complexity of the project, we will need to allocate more resources to it.",
+          "options": ["Given", "Providing", "Although", "Whereas"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】文頭に置かれ、「〜を考慮すると」という理由・背景を示す前置詞として機能するのは(A) `Given` だけです。\n【不正解の選択肢】他の選択肢は接続詞であり、名詞句を続けることができないため文法的に誤りです。",
+          "word": "given",
+          "meaning": "【前】〜を考慮すると, 〜があれば\n【形】特定の, 定められた",
+          "exampleSentence": "Given his experience, he is the best candidate for the job.",
+          "exampleSentenceTranslation": "彼の経験を考えれば、彼がその仕事に最適な候補者だ。",
+          "relatedExpressions": [
+            "given that... (...ということを考えると)",
+            "considering (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-076",
+          "questionText": "------- the pouring rain, the groundbreaking ceremony proceeded as scheduled.",
+          "options": ["Despite", "However", "In addition to", "Notwithstanding"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「土砂降りの雨〜、起工式は予定通り進められた」という文脈で、「〜にもかかわらず」を意味するフォーマルな前置詞は(D) `Notwithstanding` です。\n【不正解の選択肢】(A) Despiteも同義ですが、notwithstandingの方がより硬い表現です。(B), (C)は意味が異なります。",
+          "word": "notwithstanding",
+          "meaning": "【前】〜にもかかわらず\n【副】それにもかかわらず",
+          "exampleSentence": "The plan was approved, my objections notwithstanding.",
+          "exampleSentenceTranslation": "私の反対にもかかわらず、その計画は承認された。(後置修飾の用法)",
+          "relatedExpressions": [
+            "despite / in spite of (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-077",
+          "questionText": "The entire marketing strategy is built on the ------- that consumer preferences will shift towards sustainable products.",
+          "options": ["premise", "pretext", "prejudice", "prelude"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「マーケティング戦略が、〜という〜の上に成り立っている」という文脈で、議論や計画の「前提」を意味する(A) `premise` が唯一の正解です。\n【不正解の選択肢】(B) pretext: 口実, (C) prejudice: 偏見, (D) prelude: 前触れ。これらは意味が異なります。",
+          "word": "premise",
+          "meaning": "【名】(議論・計画などの)前提, 根拠\n【動】〜を前提とする",
+          "exampleSentence": "We should start from the premise that all people are created equal.",
+          "exampleSentenceTranslation": "我々は、すべての人は平等に作られているという前提から始めるべきだ。",
+          "relatedExpressions": [
+            "on the premise that... (...という前提で)",
+            "assumption (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-078",
+          "questionText": "The plan is perfect in theory, but it falls ------- of being practical in the current market.",
+          "options": ["short", "shy", "low", "down"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`falls ... of ~` の形で「～に達しない、期待に沿えない」という意味のイディオムを形成するのは(A) `short` だけです。\n【不正解の選択肢】他の選択肢はこのイディオムを形成しません。",
+          "word": "fall short of",
+          "meaning": "【句】〜に達しない, (期待・基準などに)沿えない",
+          "exampleSentence": "The fundraising campaign fell short of its goal by $5,000.",
+          "exampleSentenceTranslation": "その資金調達キャンペーンは、目標に5000ドル届かなかった。",
+          "relatedExpressions": [
+            "fall short of expectations (期待に沿えない)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-079",
+          "questionText": "Several board members ------- issue with the CEO's proposal to sell off the company's most profitable division.",
+          "options": ["made", "took", "had", "brought"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】`... issue with ~` の形で「〜に異議を唱える」というイディオムを形成するのは(B) `took` だけです。\n【不正解の選択肢】他の選択肢はこのイディオムを形成しません。",
+          "word": "take issue with",
+          "meaning": "【句】〜に異議を唱える, 反対する",
+          "exampleSentence": "It is difficult to take issue with his analysis of the situation.",
+          "exampleSentenceTranslation": "彼の状況分析に異議を唱えるのは難しい。",
+          "relatedExpressions": [
+            "disagree with (類義語)",
+            "object to (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-080",
+          "questionText": "Our new manager is quite ------- to suggestions from the team, which has improved morale significantly.",
+          "options": ["resistant", "adverse", "opposed", "amenable"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「チームからの提案に〜である」という文脈で、「快く受け入れる」を意味するのは(D) `amenable to` です。士気が向上したという結果からも、肯定的な単語が入ると推測できます。\n【不正解の選択肢】(A), (B), (C)はすべて「抵抗・反対する」という意味で、文脈と逆です。",
+          "word": "amenable to",
+          "meaning": "【句】(提案・忠告などを)快く受け入れる, 従順な",
+          "exampleSentence": "Are you amenable to working on weekends?",
+          "exampleSentenceTranslation": "週末に働くことを快く受け入れられますか？",
+          "relatedExpressions": [
+            "be amenable to reason (道理を受け入れる)",
+            "receptive to (類義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_09",
+      "setName": "精選語彙 Vol. 9",
+      "order": 9,
+      "questions": [
+        {
+          "id": "VOCAB-990-081",
+          "questionText": "The committee requested a more ------- record of the meeting's discussions, as the initial summary was too brief.",
+          "options": ["small", "minor", "minute", "minimal"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「最初の要約が簡潔すぎたため、より〜な記録を要求した」という文脈で、「詳細な、綿密な」を意味する形容詞は(C) `minute` (マイニュート /maɪˈnjuːt/) だけです。\n【不正解の選択肢】(A) small, (B) minor, (D) minimal は「詳細さ」のニュアンスを表しません。",
+          "word": "minute",
+          "meaning": "【形】(maɪˈnjuːt) 詳細な, 綿密な, 微小な",
+          "exampleSentence": "She explained the process in minute detail.",
+          "exampleSentenceTranslation": "彼女はそのプロセスを極めて詳細に説明した。",
+          "relatedExpressions": [
+            "in minute detail (極めて詳細に)",
+            "detailed (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-082",
+          "questionText": "The flight was canceled ------- severe weather conditions, and all passengers were offered a full refund.",
+          "options": ["on account of", "in spite of", "with regard to", "as a result"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「悪天候〜、フライトは欠航となった」という文脈で、原因・理由を示す「〜のために」を意味するのは(A) `on account of` です。\n【不正解の選択肢】(B)は逆接、(C)は関連、(D) `as a result of` が必要で、単独では使えません。",
+          "word": "on account of",
+          "meaning": "【句】〜のために, 〜という理由で",
+          "exampleSentence": "He retired early on account of his health.",
+          "exampleSentenceTranslation": "彼は健康上の理由で早期退職した。",
+          "relatedExpressions": [
+            "because of / due to (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-083",
+          "questionText": "Our new marketing campaign aims to ------- the growing market of environmentally conscious consumers.",
+          "options": ["break into", "get into", "tap into", "run into"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「成長市場を〜することを目指す」という文脈で、資源や市場を「利用する、活用する」を意味する(C) `tap into` が唯一の正解です。\n【不正解の選択肢】(A) break into: 侵入する, (B) get into: 中に入る, (D) run into: 偶然会う。これらは意味が全く異なります。",
+          "word": "tap into",
+          "meaning": "【句動】(資源・市場・供給源などを)利用する, 活用する, 生かす",
+          "exampleSentence": "The new film taps into the nostalgia of the 1980s.",
+          "exampleSentenceTranslation": "その新しい映画は1980年代のノスタルジアを利用している。",
+          "relatedExpressions": [
+            "tap into a market (市場に参入する)",
+            "utilize (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-084",
+          "questionText": "The rumors about the company's impending bankruptcy were entirely ------- and created unnecessary panic.",
+          "options": ["unfounded", "uncovered", "unseen", "unsettled"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「倒産が近いという噂は、完全に〜だった」という文脈で、「根拠のない、事実無根の」を意味するのは(A) `unfounded` だけです。\n【不正解の選択肢】(B) uncovered: 明るみに出された, (C) unseen: 見えない, (D) unsettled: 未解決の",
+          "word": "unfounded",
+          "meaning": "【形】根拠のない, 事実無根の",
+          "exampleSentence": "His claims were dismissed as unfounded.",
+          "exampleSentenceTranslation": "彼の主張は根拠がないとして退けられた。",
+          "relatedExpressions": [
+            "an unfounded rumor (根拠のない噂)",
+            "groundless / baseless (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-085",
+          "questionText": "It is ------- on all department heads to ensure their teams comply with the new data security policy.",
+          "options": ["necessary", "required", "incumbent", "obliged"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】`it is ... on someone to do` の形で「（人）には～する義務がある」という意味のフォーマルな表現になるのは(C) `incumbent` だけです。\n【不正解の選択肢】他の選択肢はこの構文を形成しません。",
+          "word": "incumbent on",
+          "meaning": "【句】(〜する)義務があって",
+          "exampleSentence": "It is incumbent upon parents to teach their children right from wrong.",
+          "exampleSentenceTranslation": "子供に善悪を教えるのは親の義務である。",
+          "relatedExpressions": [
+            "incumbent (名: 現職者)",
+            "be incumbent on/upon someone (〜の義務である)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-086",
+          "questionText": "We cannot ------- the possibility that our main competitor will launch a similar product soon.",
+          "options": ["discount", "reduce", "deduct", "decline"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「競合が類似製品を発売する可能性を〜できない」という文脈で、考えや可能性を「無視する、軽視する」を意味する(A) `discount` が唯一の正解です。\n【不正解の選択肢】他の選択肢はこの文脈に合いません。",
+          "word": "discount",
+          "meaning": "【動】\n1. (話・考えなどを)無視する, 割引いて聞く\n2. 〜を割引する",
+          "exampleSentence": "The board quickly discounted his proposal.",
+          "exampleSentenceTranslation": "取締役会は彼の提案をすぐに一蹴した。",
+          "relatedExpressions": [
+            "discount a possibility (可能性を無視する)",
+            "dismiss / disregard (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-087",
+          "questionText": "The board decided to ------- the discussion on the merger until more financial data becomes available.",
+          "options": ["postpone", "cancel", "table", "end"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「合併に関する議論を〜することにした」という文脈で、「(議案などを)棚上げする、審議を延期する」を意味する(C) `table` が最適解です。(米英語での用法)\n【不正解の選択肢】(A) postponeも「延期する」ですが、`table`は会議の文脈で特に使われる専門的な語です。",
+          "word": "table",
+          "meaning": "【動】(議案などを)棚上げする, 審議延期にする (米)\n【動】(議案などを)上程する, 提出する (英)",
+          "exampleSentence": "The issue was tabled until the next committee meeting.",
+          "exampleSentenceTranslation": "その問題は次の委員会まで棚上げされた。",
+          "relatedExpressions": [
+            "table a motion (動議を棚上げする)",
+            "defer / shelve (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-088",
+          "questionText": "She has a cheerful ------- and is well-liked by all her colleagues.",
+          "options": ["disposition", "disposal", "position", "condition"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「彼女は陽気な〜を持っており、好かれている」という文脈で、人の「気質、性格」を意味するのは(A) `disposition` だけです。\n【不正解の選択肢】(B) disposal: 処分, (C) position: 立場, (D) condition: 状態",
+          "word": "disposition",
+          "meaning": "【名】(人の)気質, 性質, 傾向",
+          "exampleSentence": "The lawyer has a disposition to be cautious.",
+          "exampleSentenceTranslation": "その弁護士は慎重になる傾向がある。",
+          "relatedExpressions": [
+            "a cheerful disposition (陽気な性格)",
+            "temperament / nature (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-089",
+          "questionText": "In his opening remarks, the chairman ------- the importance of teamwork and open communication.",
+          "options": ["undermined", "underwent", "undertook", "underscored"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「開会の辞で、議長はチームワークの重要性を〜した」という文脈で、「強調する」を意味する(D) `underscored` が唯一の正解です。\n【不正解の選択肢】他の選択肢は意味が全く異なります。",
+          "word": "underscore",
+          "meaning": "【動】〜を強調する, 明確に示す\n【名】アンダースコア (_)",
+          "exampleSentence": "The report underscores the need for immediate action.",
+          "exampleSentenceTranslation": "その報告書は、即時の行動の必要性を強調している。",
+          "relatedExpressions": [
+            "underscore the importance of (~の重要性を強調する)",
+            "emphasize / highlight (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-090",
+          "questionText": "The company has stated that it has no intention ------- of closing the local branch.",
+          "options": ["whatsoever", "however", "whenever", "whereas"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】`no intention ...` のように否定を強調し、「全く〜ない」という意味にするのは副詞の(A) `whatsoever` だけです。\n【不正解の選択肢】他の選択肢は文法・意味ともに合いません。",
+          "word": "whatsoever",
+          "meaning": "【副】(否定語を強めて)全く, 少しも",
+          "exampleSentence": "He has no respect for authority whatsoever.",
+          "exampleSentenceTranslation": "彼は権威に対して全く敬意を払わない。",
+          "relatedExpressions": [
+            "no ... whatsoever (全く～ない)",
+            "at all (類義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_990_SET_REFINED_10",
+      "setName": "精選語彙 Vol. 10",
+      "order": 10,
+      "questions": [
+        {
+          "id": "VOCAB-990-091",
+          "questionText": "The report suggests that the project's chances of success are slim -------.",
+          "options": ["at large", "at most", "at best", "at length"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「プロジェクトの成功の可能性は〜低い」という文脈で、「よくても、せいぜい」という意味の(C) `at best` が唯一の正解です。悲観的な見通しを示す際に使われます。\n【不正解の選択肢】(A) at large: 全体として, (B) at most: せいぜい（数量に使う）, (D) at length: 長々と",
+          "word": "at best",
+          "meaning": "【句】よくても, せいぜい",
+          "exampleSentence": "If he gets the job, he will be, at best, a temporary employee.",
+          "exampleSentenceTranslation": "もし彼がその仕事を得たとしても、よくても契約社員だろう。",
+          "relatedExpressions": [
+            "at worst (対義語: 最悪の場合)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-092",
+          "questionText": "The board refused to ------- the idea of a hostile takeover, considering it too risky.",
+          "options": ["entertain", "amuse", "delight", "please"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「敵対的買収という考えを〜することを拒否した」という文脈で、提案などを「考慮に入れる、心に抱く」を意味するのは(A) `entertain` だけです。\n【不正解の選択肢】他の選択肢は「楽しませる」系の意味で、文脈に合いません。",
+          "word": "entertain",
+          "meaning": "【動】\n1. (考え・提案・疑念などを)心に抱く, 検討する\n2. 〜を楽しませる, もてなす",
+          "exampleSentence": "The committee refused to entertain the proposal.",
+          "exampleSentenceTranslation": "委員会はその提案を検討することを拒否した。",
+          "relatedExpressions": [
+            "entertain an idea/proposal (考え/提案を検討する)",
+            "consider (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-990-093",
+          "questionText": "You should submit your application by Friday. ------- that, you could email it to the HR manager directly as a last resort.",
+          "options": ["Succeeding", "Failing", "Regarding", "Missing"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】前の文の内容を受け、「それがだめなら」と次善策を示すのは(B) `Failing that` です。これは定型的な表現です。\n【不正解の選択肢】他の選択肢はこの文脈・意味を形成しません。",
+          "word": "failing that",
+          "meaning": "【句】それがだめなら, もしそれができないなら",
+          "exampleSentence": "We hope to finish by 5 p.m. Failing that, we will continue tomorrow.",
+          "exampleSentenceTranslation": "私たちは午後5時までに終えたいと思っている。それがだめなら、明日続けます。",
+          "relatedExpressions": [
+            "failing which (類義語)",
+            "if not (類義語)"
+          ]
+        },
+        {
+                  "id": "VOCAB-990-094",
+                  "questionText": "The company has several new products ------- that are expected to launch in the second half of the year.",
+                  "options": ["on the shelf", "in the pipeline", "under construction", "on the line"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】「いくつかの新製品が〜であり、年後半に発売予定だ」という文脈で、計画や製品が「準備中、進行中」であることを意味するのは(B) `in the pipeline` だけです。\n【不正解の選択肢】(A) on the shelf: 棚上げになって, (C) under construction: 建設中, (D) on the line: 危うい状態で。これらは文脈に合いません。",
+                  "word": "in the pipeline",
+                  "meaning": "【句】(計画・製品などが)準備中で, 進行中で",
+                  "exampleSentence": "A new trade agreement is in the pipeline.",
+                  "exampleSentenceTranslation": "新しい貿易協定が準備中です。",
+                  "relatedExpressions": [
+                    "in progress (類義語)",
+                    "underway (類義語)",
+                    "in the works (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-990-095",
+                  "questionText": "With its stock price plummeting, the company is ------- of a major financial crisis.",
+                  "options": ["on the verge", "in the midst", "at the point", "on behalf"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】「会社は財政危機の〜にある」という文脈で、「〜の寸前で、〜に瀕して」を意味するのは(A) `on the verge of` です。\n【不正解の選択肢】(B) in the midst of: ～の真っ只中に, (C) at the point of: ～の時点で。 (D) on behalf of: ～を代表して。",
+                  "word": "on the verge of",
+                  "meaning": "【句】〜の寸前で, 〜に瀕して",
+                  "exampleSentence": "She was on the verge of tears.",
+                  "exampleSentenceTranslation": "彼女は泣き出す寸前だった。",
+                  "relatedExpressions": [
+                    "on the brink of (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-990-096",
+                  "questionText": "By releasing its own positive sales data, the company hoped to ------- any negative speculation from analysts.",
+                  "options": ["provoke", "preempt", "predict", "precede"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】「自社の好調なデータを公表することで、否定的な憶測を〜しようとした」という文脈で、先手を打って「阻止する、未然に防ぐ」を意味する(B) `preempt` が最適です。\n【不正解の選択肢】(A) provoke: 誘発する（意味が逆）, (C) predict: 予測する, (D) precede: 先行する。",
+                  "word": "preempt",
+                  "meaning": "【動】先手を打って〜を阻止する, 未然に防ぐ, 先買いする",
+                  "exampleSentence": "The government's announcement was intended to preempt a stock market panic.",
+                  "exampleSentenceTranslation": "政府の発表は、株式市場のパニックを未然に防ぐことを意図していた。",
+                  "relatedExpressions": [
+                    "preemptive (形: 先制の)",
+                    "forestall (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-990-097",
+                  "questionText": "The recent decline in sales can be ------- to the aggressive marketing campaigns of our competitors.",
+                  "options": ["refuted", "subjected", "imparted", "ascribed"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】`be ... to ~` の形で「〜のせいだと考えられる」という意味になるのは(D) `ascribed` です。`attribute to` とほぼ同義ですが、より主観的な判断のニュアンスがあります。\n【不正解の選択肢】(A) refuted: 論破された, (B) subjected to: さらされた, (C) imparted to: 伝えられた。これらは文法・意味ともに不適切です。",
+                  "word": "ascribe to",
+                  "meaning": "【句動】(原因・動機・性質などを)〜のせいにする, 〜にあると考える",
+                  "exampleSentence": "She ascribes her success to her parents' support.",
+                  "exampleSentenceTranslation": "彼女は自分の成功を両親のサポートのおかげだと考えている。",
+                  "relatedExpressions": [
+                    "attribute to (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-990-098",
+                  "questionText": "The prime minister ------- to visit three Southeast Asian countries next month to strengthen economic ties.",
+                  "options": ["is slated", "is listed", "is aimed", "is forced"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】`... to do` の形で「〜する予定である」という意味になるのは(A) `is slated` だけです。公式な予定を表す際に使われます。\n【不正解の選択肢】(B) `is listed to do` は非文法的。(C) `is aimed to do` も非文法的（`aims to do`なら可）。(D) `is forced to do` は「～することを強制される」で意味が異なります。",
+                  "word": "be slated to",
+                  "meaning": "【句】〜する予定である",
+                  "exampleSentence": "The new CEO is slated to take over in January.",
+                  "exampleSentenceTranslation": "新しいCEOは1月に引き継ぐ予定だ。",
+                  "relatedExpressions": [
+                    "be scheduled to do (類義語)",
+                    "be set to do (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-990-099",
+                  "questionText": "The committee found his argument -------, as it was based on outdated data and flawed logic.",
+                  "options": ["untenable", "invaluable", "indisputable", "unconventional"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】「古いデータと欠陥のある論理に基づいていたため、彼の主張は〜だと判断された」という文脈で、「支持できない、擁護できない」を意味する(A) `untenable` が唯一の正解です。\n【不正解の選択肢】(B) invaluable: 非常に貴重な, (C) indisputable: 明白な。これらは意味が逆です。(D) unconventional: 型破りな、は論理の正しさと無関係です。",
+                  "word": "untenable",
+                  "meaning": "【形】(議論・立場などが)支持できない, 擁護できない, 持ちこたえられない",
+                  "exampleSentence": "The scandal has put the minister in an untenable position.",
+                  "exampleSentenceTranslation": "そのスキャンダルは大臣を擁護できない立場に追い込んだ。",
+                  "relatedExpressions": [
+                    "an untenable argument (支持できない議論)",
+                    "indefensible (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-990-100",
+                  "questionText": "The executives have a ------- interest in the company's stock price, as their bonuses are tied to its performance.",
+                  "options": ["fleeting", "passive", "vested", "mutual"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「ボーナスが株価に連動しているため、役員たちは会社の株価に〜利害関係を持っている」という文脈で、「既得権益、個人的な利害関係」を意味するイディオムは(C) `vested interest` です。これは決まった表現です。\n【不正解の選択肢】(A) fleeting: つかの間の, (B) passive: 受動的な, (D) mutual: 相互の。これらは文脈に全く合いません。",
+                  "word": "vested interest",
+                  "meaning": "【名】既得権益, 個人的な(特に金銭的な)利害関係",
+                  "exampleSentence": "Local businesses have a vested interest in the success of the tourist industry.",
+                  "exampleSentenceTranslation": "地元の企業は、観光産業の成功に既得権益を持っている。",
+                  "relatedExpressions": [
+                    "have a vested interest in (~に既得権益を持つ)",
+                    "a conflict of interest (利益相反)"
+          ]
+        }
+      ]
+    }
+  ]
+}

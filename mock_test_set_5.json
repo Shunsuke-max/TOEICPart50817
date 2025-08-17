@@ -1,0 +1,250 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_5_REVISED",
+      "setName": "【改訂版・応用力重視】第5回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK5-001",
+          "questionText": "The marketing team from Nova Labs delivered a _______ and data-driven presentation that impressed the potential investors.",
+          "options": ["compelling", "lenient", "subsequent", "obsolete"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「投資家に感銘を与えた」という文脈から、プレゼンテーションが「説得力のある、人を引きつける」ものであったと推測できます。この意味に最も合う形容詞は(A)「compelling」です。\n(B) lenient（寛大な）、(C) subsequent（その後の）、(D) obsolete（時代遅れの）は文脈に合いません。",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK5-002",
+          "questionText": "All visitors to the Veridian Dynamics research facility are required to present photo identification _______ the reception desk upon arrival.",
+          "options": ["at", "on", "to", "for"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】場所・地点を表す前置詞を選ぶ問題です。\n\n【解説】「at the reception desk」で「受付で」という特定の場所・地点を表します。これは基本的な前置詞の用法ですが、文が長くなると見失いがちなので注意が必要です。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK5-003",
+          "questionText": "The new cloud-based software is designed to _______ collaboration among team members working remotely from different locations.",
+          "options": ["simple", "simplify", "simply", "simplicity"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】「to」の後ろには動詞の原形が続いて、to不定詞の塊を作ります。選択肢の中で動詞の原形は、「単純化する、簡素化する」という意味の(B)「simplify」です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK5-004",
+          "questionText": "A detailed memo regarding the new safety procedures _______ to all department heads late last night.",
+          "options": ["distributed", "was distributed", "has distributed", "is distributing"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】受動態と時制を問う問題です。\n\n【解説】主語「A detailed memo」（詳細なメモ）は、自ら配布するのではなく「配布される」側なので受動態（be動詞 + 過去分詞）が適切です。また、「last night」という明確な過去の時点を示す表現があるため、過去形の受動態である(B)「was distributed」が正解です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK5-005",
+          "questionText": "The chairperson asked all committee members to _______ from interrupting the speaker during the presentation.",
+          "options": ["refrain", "prohibit", "prevent", "avoid"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】動詞の語法とコロケーションを問う問題です。\n\n【解説】「refrain from -ing」は「～するのを自発的に控える、慎む」という意味の定型表現です。後ろに「from」があることが最大のヒントになります。(B) prohibit A from -ing（Aが～するのを禁じる）、(C) prevent A from -ing（Aが～するのを妨げる）は目的語Aが必要なので形が合いません。(D)「avoid」は直接-ing形をとります（avoid interrupting）。",
+          "category": "句動詞"
+        },
+        {
+          "id": "MOCK5-006",
+          "questionText": "The company's quarterly profits exceeded expectations, _______ due to the successful launch of its new mobile application.",
+          "options": ["large", "largely", "larger", "largest"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄には、後ろの前置詞句「due to ...」（～が原因で）を修飾する言葉が入ります。前置詞句を修飾できるのは副詞なので、「主に」という意味の(B)「largely」が正解です。「largely due to ～」で「主に～が原因で」という頻出の言い方です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK5-007",
+          "questionText": "_______ you have submitted the signed contract, our team will begin the initial phase of the project.",
+          "options": ["While", "Should", "Once", "Despite"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】文と文の論理関係を表す接続詞を選ぶ問題です。\n\n【解説】「署名済みの契約書を提出し『たらすぐに』、プロジェクトの初期段階を開始します」という、ある行為が次の行為のきっかけとなる文脈です。この意味を表す接続詞は(C)「Once」（いったん～すると）です。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK5-008",
+          "questionText": "According to the new policy, employees who have worked here for over a year are _______ for additional vacation days.",
+          "options": ["eligible", "legible", "permissible", "admirable"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】コロケーションと語彙の知識を問う問題です。\n\n【解説】「be eligible for ～」は「～の資格がある、～の対象となる」という意味の非常に重要な定型表現です。文脈に完全に一致します。(B) legible（読みやすい）、(C) permissible（許される）、(D) admirable（賞賛に値する）は意味が通りません。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK5-009",
+          "questionText": "The city council has set ------- specific guidelines for the construction of new commercial buildings in the downtown area.",
+          "options": ["aside", "apart", "forth", "off"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】句動詞の語彙を問う問題です。\n\n【解説】「set forth」は「（規則や計画などを）提示する、規定する」という意味の、ややフォーマルな句動詞です。文脈（「市議会は、新しい商業ビルの建設に関する具体的なガイドラインを提示した」）に最も適しています。",
+          "category": "句動詞"
+        },
+        {
+          "id": "MOCK5-010",
+          "questionText": "The launch of the new product line has been postponed _______ further notice due to unforeseen supply chain issues.",
+          "options": ["by", "with", "since", "until"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】イディオムの知識を問う問題です。\n\n【解説】「until further notice」は「追って通知があるまで」という意味で使われる、ビジネス文書やアナウンスで頻出の定型表現です。このまま覚えておくことが重要です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK5-011",
+          "questionText": "Of the two marketing strategies proposed, the CEO, Ms. Chen, felt that the former was too costly, while the _______ was more practical.",
+          "options": ["later", "last", "late", "latter"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】対比表現の語彙を問う問題です。\n\n【解説】「the former」は「（2つのうちの）前者」を指します。それと対になる「（2つのうちの）後者」を表す言葉は(D)「the latter」です。この「the former ... the latter」の組み合わせは頻出です。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK5-012",
+          "questionText": "The ideal candidate for this position should be ------- a creative thinker and a good team player.",
+          "options": ["either", "both", "neither", "not only"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】相関接続詞の知識を問う問題です。\n\n【解説】文中に「and」があることに注目します。「both A and B」は「AとBの両方」という意味で、2つの要素を対等に結びつけます。文脈（「創造的な思考家であり、かつ優れたチームプレイヤーでもある」）に完全に一致します。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK5-013",
+          "questionText": "The project manager to _______ we reported directly has been transferred to the London office.",
+          "options": ["who", "whom", "whose", "which"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】目的格の関係代名詞を問う問題です。\n\n【解説】この関係代名詞は、前置詞「to」の目的語の働きをしています。元の文に直すと「we reported directly to the project manager」となります。このように前置詞の目的語となる場合、関係代名詞は目的格の(B)「whom」を使います。口語ではwhoも使われますが、TOEICの文法問題ではwhomが正解となります。",
+          "category": "関係詞"
+        },
+        {
+          "id": "MOCK5-014",
+          "questionText": "A summary of the conference proceedings will be made _______ to all attendees via e-mail next week.",
+          "options": ["available", "affable", "accessible", "approachable"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】第5文型と語彙を問う問題です。\n\n【解説】「make (O) (C)」の受動態「O is made C」の形で、「OをCの状態にする」という意味です。ここでは「議事録の要約を利用可能な状態にする」という文脈なので、(A)「available」（利用可能な、入手可能な）が最も適切です。(C)「accessible」も意味は近いですが、「make ... available」の方が一般的な言い方です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK5-015",
+          "questionText": "To meet the aggressive launch schedule, the project manager had to _______ the testing phase of the software.",
+          "options": ["exceed", "expedite", "execute", "expand"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】「厳しい発売スケジュールに間に合わせる」という文脈から、ソフトウェアのテスト段階を「促進する、早める」必要があったと考えるのが自然です。この意味を持つ動詞は(B)「expedite」です。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK5-016",
+          "questionText": "The safety inspector recommended that all factory equipment _______ checked for defects on a monthly basis.",
+          "options": ["is", "was", "be", "has been"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】仮定法現在を問う問題です。\n\n【解説】recommend, suggest, require, insist のような提案・要求を表す動詞の後のthat節では、動詞は「should + 原形」または「should」を省略した「原形」になります。これを仮定法現在と呼びます。したがって、受動態の原形である(C)「be」が正解です。",
+          "category": "高等文法"
+        },
+        {
+          "id": "MOCK5-017",
+          "questionText": "The primary _______ of this market research is to identify emerging consumer trends.",
+          "options": ["object", "objective", "objection", "objectively"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】紛らわしい名詞の語彙を選ぶ問題です。\n\n【解説】所有格「The」と形容詞「primary」の後ろには名詞が必要です。文脈から「この市場調査の主な『目的』」となるため、(B)「objective」（目標、目的）が正解です。(A)「object」は「物、対象」、(C)「objection」は「反対、異議」という意味です。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK5-018",
+          "questionText": "The new security system installed by SYD-Tech is considered far more _______ than the old one.",
+          "options": ["reliant", "reliable", "relied", "reliability"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】比較級「more」の後ろに置かれ、be動詞「is」の補語となる形容詞が必要です。「信頼できる」という意味で、物やシステムの性能を表すのは(B)「reliable」です。(A)「reliant」は通常、人が「～に頼っている」状態を表します（be reliant on ~）。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK5-019",
+          "questionText": "The details of the ongoing negotiations between the two companies are to be kept strictly _______.",
+          "options": ["confidential", "consequential", "considerate", "consistent"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「be kept」の後ろの補語として、主語「The details」の状態を説明する形容詞が必要です。交渉の詳細なので「機密の、秘密の」という意味の(A)「confidential」が正解です。「keep ... confidential」は頻出の組み合わせです。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK5-020",
+          "questionText": "By the time Ms. Albright returns from her business trip next week, her team _______ the preliminary market analysis.",
+          "options": ["completes", "is completing", "will complete", "will have completed"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】未来完了形を問う問題です。\n\n【解説】「By the time S + V(現在形)」（～する時までには）は、未来のある時点を表します。その時点までに動作が「完了している」ことを示すには、未来完了形「will have + 過去分詞」を使います。したがって、(D)「will have completed」が正解です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK5-021",
+          "questionText": "Not only _______ Zenith Innovations secure a major contract, but it also solidified its position as a market leader.",
+          "options": ["the company did", "has the company", "did the company", "the company has"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】倒置構文の知識を問う問題です。\n\n【解説】「Not only」が文頭に来ると、主語と動詞の倒置が起こり、疑問文と同じ語順になります。主節の動詞が過去形「solidified」であることから、時制を合わせて一般動詞の過去形の倒置「did + 主語 + 動詞の原形」を使います。したがって、(C)「did the company secure」が正解です。",
+          "category": "高等文法"
+        },
+        {
+          "id": "MOCK5-022",
+          "questionText": "The unexpected resignation of the CEO is likely to have a _______ effect on employee morale.",
+          "options": ["detrimental", "skeptical", "trivial", "plausible"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「CEOの予期せぬ辞任」というネガティブな出来事から、従業員の士気に与える影響も「有害な、不利益な」ものであると推測できます。この意味を持つ形容詞は(A)「detrimental」です。「have a detrimental effect/impact on ～」で「～に有害な影響を与える」という形で使われます。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK5-023",
+          "questionText": "_______ a potential conflict of interest, the board member, Mr. Tanaka, recused himself from the vote.",
+          "options": ["Cited", "Citing", "To cite", "Having been cited"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】分詞構文を問う問題です。\n\n【解説】主節の主語である「the board member, Mr. Tanaka」が、「利益相反の可能性を『理由として挙げて』」投票を辞退した、という能動的な関係にあります。したがって、現在分詞(B)「Citing」で始めるのが適切です。",
+          "category": "高等文法"
+        },
+        {
+          "id": "MOCK5-024",
+          "questionText": "As a gesture of goodwill, the landlord agreed to _______ the late payment fee for this month.",
+          "options": ["waive", "wave", "abandon", "abolish"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】文脈から「善意のしるしとして、延滞料金を『免除する』」という意味が最も自然です。権利や料金などを「（意図的に）放棄する、免除する」を意味する動詞は(A)「waive」です。(D)「abolish」は制度などを「廃止する」という意味で、一時的な免除には使いません。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK5-025",
+          "questionText": "_______ the recent surge in demand for sustainable products, our company has decided to expand its eco-friendly product line.",
+          "options": ["In recognition of", "In contrast to", "In spite of", "Regardless of"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う前置詞句を選ぶ問題です。\n\n【解説】(A)「In recognition of ～」は「～を認めて、～を評価して」という意味です。文脈（「持続可能な製品への需要の最近の急増を認めて、エコフレンドリーな製品ラインを拡大する」）に最も合致します。需要があったから拡大した、という自然な因果関係を表します。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK5-026",
+          "questionText": "A spokesperson for Apex Solutions declined to _______ on the persistent rumors of a possible merger.",
+          "options": ["elaborate", "expand", "remark", "comment"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】動詞のコロケーションを問う問題です。\n\n【解説】「comment on ～」は「～についてコメントする、見解を述べる」という意味の決まった言い方です。「decline to comment」は「コメントを差し控える」という報道などで頻出する定型表現です。(A)「elaborate on」も「～について詳述する」という意味で使いますが、「decline to elaborate」は「decline to comment」ほど定型ではありません。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK5-027",
+          "questionText": "Our new project manager, Ms. Ivanova, is known for her _______ handling of complex logistical challenges.",
+          "options": ["adept", "adopt", "adapt", "adjacent"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】紛らわしい形容詞の語彙を選ぶ問題です。\n\n【解説】文脈から「複雑な物流の課題の『巧みな』処理」という意味が最も適切です。「熟達した、巧みな」を意味する形容詞(A)「adept」が正解です。(B) adopt (採用する)、(C) adapt (適応する) は動詞、(D) adjacent (隣接した) は意味が合いません。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK5-028",
+          "questionText": "The workshop is _______ to provide aspiring entrepreneurs with practical, actionable advice.",
+          "options": ["intended", "attended", "extended", "contended"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞（の過去分詞）を選ぶ問題です。\n\n【解説】主語「The workshop」は「意図される」側なので、受動態の形が必要です。「be intended to do」は「～することを意図している、～向けである」という意味の頻出表現です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK5-029",
+          "questionText": "The partnership between the two tech firms has proven to be _______ beneficial for both parties.",
+          "options": ["mutual", "mutually", "communal", "communally"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】副詞のコロケーションを問う問題です。\n\n【解説】形容詞「beneficial」（有益な）を修飾するのは副詞です。「相互に」利益のある、という意味になるため、副詞の(B)「mutually」が正解です。「mutually beneficial」は「相互に有益な」という意味で頻出する重要な組み合わせです。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK5-030",
+          "questionText": "_______ to the user manual is a detailed list of troubleshooting tips for common issues.",
+          "options": ["Attach", "Attaching", "Attached", "Attachment"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】倒置構文の知識を問う問題です。\n\n【解説】これは、本来の文「A detailed list ... is attached to the user manual.」の補語である「Attached to the user manual」が文頭に出たことによって、主語(A detailed list...)と動詞(is)が倒置された形です。文の本当の主語は「a detailed list」であり、それと動詞「is」の間に過去分詞の補語が入ります。したがって(C)「Attached」が正解です。",
+          "category": "高等文法"
+        }
+      ]
+    }
+  ]
+}

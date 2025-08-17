@@ -1,0 +1,520 @@
+{
+  "quizSets": [
+    {
+      "setId": "860_SET_1_R3",
+      "setName": "実践問題 Vol. 1 (改訂版)",
+      "questions": [
+        {
+          "id": "860A-001R3",
+          "questionText": "The ultimate success of this ambitious city-wide infrastructure project is ------- upon the close collaboration of all municipal departments involved.",
+          "options": ["reliant", "contingent", "indicative", "bound"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 contingent\n【訳】この野心的な全市的インフラプロジェクトの最終的な成功は、関与するすべての市部署の緊密な協力次第です。\n【解説】'be contingent upon ~' は「〜を条件とする、〜次第である」という意味の上級表現です。「協力」という条件によって「成功」が決まる、という文脈に最適です。'be reliant on'（〜に依存している）も文法的には可能ですが、「〜次第である」という条件のニュアンスでは'contingent upon'がより的確です。'indicative'は「指示する」、'bound'は「～行きの」や「縛られている」という意味で文脈に合いません。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860A-002R3",
+          "questionText": "Not only ------- the new logistics software improve the efficiency of our supply chain, but it also enhances our ability to track shipments in real time.",
+          "options": ["is", "has", "does", "will"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 does\n【訳】新しい物流ソフトウェアは、我々のサプライチェーンの効率を改善するだけでなく、リアルタイムで貨物を追跡する能力も高めます。\n【解説】'Not only' のような否定語句が文頭に来ると、主語と動詞の倒置が起こります。後ろに一般動詞の原形 'improve' があることから、疑問文を作る時と同じように助動詞 'does' を文頭に置くのが正解です。これはTOEIC高得点パートで頻出の文法ルールです。",
+          "category": "文法問題（倒置）"
+        },
+        {
+          "id": "860A-003R3",
+          "questionText": "The final draft of the merger agreement between OmniCorp and Cygnus Systems was ------- proofread to ensure absolute accuracy.",
+          "options": ["meticulously", "arbitrarily", "tentatively", "mutually"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 meticulously\n【訳】OmniCorp社とCygnus Systems社の合併契約の最終草案は、絶対的な正確性を確保するために、細心の注意を払って校正されました。\n【解説】`to ensure absolute accuracy` (絶対的な正確性を確保するため) という目的から、校正(`proofread`)が「どのように」行われたかを考えます。「細心の注意を払って、綿密に」という意味の副詞 'meticulously' が最も適切です。他の選択肢は文脈に全く合いません。",
+          "category": "語彙問題（副詞）"
+        },
+        {
+          "id": "860A-004R3",
+          "questionText": "Building a strong, trust-based relationship with our clients is ------- to the long-term success and sustainability of our business.",
+          "options": ["expedient", "marginal", "integral", "superficial"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 integral\n【訳】顧客との信頼に基づく強い関係を築くことは、我々のビジネスの長期的成功と持続可能性に不可欠です。\n【解説】「顧客との強い関係を築くことは、ビジネスの長期的成功に『不可欠だ』」という文脈です。'integral to ~' で「〜にとって不可欠な、必須の」という意味になり、文意にぴったり合います。'expedient' は「好都合な」、'marginal' は「わずかな」、'superficial' は「表面的な」で、文脈に合いません。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860A-005R3",
+          "questionText": "After a lengthy discussion, the board of directors at Sterling Holdings voted _______ to approve the proposed multi-million dollar merger.",
+          "options": ["unanimously", "vigorously", "separately", "profoundly"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 unanimously\n【訳】長時間の議論の後、Sterling Holdings社の取締役会は、提案された数百万ドル規模の合併案を承認するために満場一致で投票しました。\n【解説】取締役会(`board of directors`)が投票(`voted`)で何かを決める際、全員一致の状況を表すのに最適なのが 'unanimously' (満場一致で) です。他の副詞は、投票の様子を説明するのには不適切です。",
+          "category": "語彙問題（副詞）"
+        },
+        {
+          "id": "860A-006R3",
+          "questionText": "The salary for the senior analyst position will be _______ with the successful candidate's level of experience and relevant qualifications.",
+          "options": ["equivalent", "sufficient", "commensurate", "proportional"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 commensurate\n【訳】シニアアナリスト職の給与は、採用候補者の経験レベルと関連資格に相応したものとなります。\n【解説】'be commensurate with ~' は「〜に相応している、〜に見合っている」という意味の上級熟語です。経験や資格に応じて給与が決まる、というビジネスの文脈で非常によく使われます。他の選択肢も意味は似ていますが、この熟語の形を取るのは 'commensurate' だけです。",
+          "category": "語彙問題（熟語）"
+        },
+        {
+          "id": "860A-007R3",
+          "questionText": "------- the recent downturn in the global market, our company has decided to postpone its international expansion plans for the time being.",
+          "options": ["In light of", "In spite of", "As a result", "With regard to"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 In light of\n【訳】最近の世界市場の低迷を考慮して、当社は当面の間、国際的な拡大計画を延期することにしました。\n【解説】'In light of ~' は「〜を考慮して、〜を踏まえて」という意味で、ある状況や事実を判断の背景・理由として示す際に使う前置詞句です。「市場の低迷」を考慮して「計画を延期する」という因果関係に合致します。'In spite of' は「～にもかかわらず」という逆接で、意味が合いません。",
+          "category": "語彙問題（前置詞句）"
+        },
+        {
+          "id": "860A-008R3",
+          "questionText": "It is _______ upon all department managers to ensure their teams fully comply with the new data security protocols.",
+          "options": ["obligatory", "incumbent", "necessary", "compulsory"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 incumbent\n【訳】全部門の管理者は、自身のチームが新しいデータセキュリティ規約を完全に遵守することを徹底する義務があります。\n【解説】'It is incumbent upon someone to do' は「〜が…するのは義務である」という、職務上の責任や義務を示すフォーマルな表現です。TOEIC高得点を目指すなら覚えておきたい構文です。他の形容詞も義務を表しますが、この構文で使われるのは 'incumbent' です。",
+          "category": "語彙問題（熟語）"
+        },
+        {
+          "id": "860A-009R3",
+          "questionText": "Before it is signed by the CEO, the legal department at Apex Innovations must ------- every clause in all high-value contracts.",
+          "options": ["scrutinize", "glance", "disregard", "manipulate"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 scrutinize\n【訳】CEOが署名する前に、Apex Innovations社の法務部は、すべての高額契約書にある各条項を精査しなければなりません。\n【解説】契約書(`contracts`)の条項(`clause`)に署名する前には、「綿密に調べる」必要があります。「精査する」という専門的な意味を持つ動詞 'scrutinize' が最も適切です。'glance' (ちらっと見る) や 'disregard' (無視する) では意味が通りません。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860A-010R3",
+          "questionText": "The audit revealed a significant ------- between the company's reported sales figures and its actual inventory records, prompting a further investigation.",
+          "options": ["distinction", "deviation", "discrepancy", "dispersion"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 discrepancy\n【訳】その監査により、会社の報告された売上高と実際の在庫記録との間に重大な食い違いがあることが明らかになり、さらなる調査が促されました。\n【解説】二つの記録や数値の間の「矛盾、食い違い」を指す名詞は 'discrepancy' です。会計や監査の文脈で頻出します。'distinction' は「区別」、'deviation' は「逸脱」、'dispersion' は「分散」で、文脈に合いません。",
+          "category": "語彙問題（名詞）"
+        }
+      ]
+    },
+    {
+      "setId": "860_SET_2_R3",
+      "setName": "実践問題 Vol. 2 (改訂版)",
+      "questions": [
+        {
+          "id": "860B-011R3",
+          "questionText": "Hardly _______ the quarterly shareholder meeting started when the fire alarm unexpectedly went off, causing a brief panic.",
+          "options": ["had", "did", "was", "has"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 had\n【訳】四半期株主総会が始まるやいなや、火災報知器が予期せず作動し、一時的なパニックを引き起こしました。\n【解説】'Hardly A when B' で「AするやいなやBが起こった」という意味の構文です。Hardly が文頭に来ると倒置が起こり、'Hardly had + S + 過去分詞.' の形になるのがルールです。これは高得点を目指す上で必須の文法知識です。",
+          "category": "文法問題（倒置）"
+        },
+        {
+          "id": "860B-012R3",
+          "questionText": "The new wine list at 'The Vineyard' restaurant is designed to ------- the rich flavors of our updated seasonal menu.",
+          "options": ["compliment", "complement", "implement", "supplement"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 complement\n【訳】レストラン「ザ・ヴィンヤード」の新しいワインリストは、刷新された季節メニューの豊かな風味を引き立てるように作られています。\n【解説】紛らわしい単語の問題です。'complement' は「補完するもの、引き立てるもの」、'compliment' は「褒め言葉」です。文脈上、メニューの味を「引き立てる」が適切です。eとiの一文字違いなので、注意深く見ましょう。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860B-013R3",
+          "questionText": "The launch of our flagship smartphone, the 'Nova X', is _______, and the entire company is working overtime to ensure its success.",
+          "options": ["eminent", "imminent", "prominent", "permanent"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 imminent\n【訳】当社の主力スマートフォン「ノヴァX」の発売が目前に迫っており、全社がその成功を確実にするために時間外労働をしています。\n【解説】'imminent' は「差し迫った、目前に迫った」という意味で、重要な出来事がすぐに起こることを示します。'eminent' は「著名な」、'prominent' は「卓越した、目立った」という意味で、文脈に合いません。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860B-014R3",
+          "questionText": "To better penetrate the youth market, the company decided to significantly ------- its social media marketing efforts.",
+          "options": ["augment", "abridge", "curtail", "diminish"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 augment\n【訳】若者市場により良く浸透するため、その会社はソーシャルメディアでのマーケティング活動を大幅に増強することを決定しました。\n【解説】「若い層を引きつけるためにマーケティング活動を『増強する』」という文脈です。「増やす、強化する」という意味の 'augment' が正解です。他の選択肢、abridge(要約する), curtail(削減する), diminish(減少させる)はすべて文脈に合いません。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860B-015R3",
+          "questionText": "------- it not been for the timely intervention of the IT department, the company-wide server crash would have resulted in catastrophic data loss.",
+          "options": ["If", "Should", "Were", "Had"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 Had\n【訳】IT部門の時宜を得た介入がなかったならば、全社的なサーバーダウンは壊滅的なデータ損失につながっていただろう。\n【解説】仮定法過去完了 'If it had not been for ~' (もし～がなかったならば) の 'If' が省略された倒置構文です。Ifが省略されると、助動詞 'Had' が文頭に出て 'Had it not been for ~' という形になります。ビジネスシーンのフォーマルな文脈で使われます。",
+          "category": "文法問題（仮定法・倒置）"
+        },
+        {
+          "id": "860B-016R3",
+          "questionText": "Our company policy is to ------- all employees for any reasonable, pre-approved expenses incurred during business trips.",
+          "options": ["reimburse", "compensate", "refund", "remit"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 reimburse\n【訳】当社の規定は、出張中に発生した、事前の承認を得た妥当な経費すべてを、全従業員に払い戻すことです。\n【解説】従業員が立て替えた経費を「払い戻す、弁償する」という意味では 'reimburse' が最も一般的に使われます。'reimburse someone for something' の形で「（人）に（物事）を払い戻す」と覚えましょう。'refund'は通常、顧客への返金に使われます。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860B-017R3",
+          "questionText": "The terms of the new employment contract clearly _______ that all employees must complete the data security training within 30 days of their start date.",
+          "options": ["stipulate", "negotiate", "deliberate", "speculate"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 stipulate\n【訳】新しい雇用契約の条項は、全従業員が入社日から30日以内にデータセキュリティ研修を修了しなければならないと明確に規定しています。\n【解説】契約や規則が特定の条件を「規定する、明記する」という意味で 'stipulate' が使われます。法律や契約関連の文脈で頻出する上級単語です。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860B-018R3",
+          "questionText": "The public relations team at 'Green Planet Inc.' was tasked with _______ information about the company's new corporate social responsibility initiatives.",
+          "options": ["disseminating", "accumulating", "retrieving", "containing"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 disseminating\n【訳】「グリーンプラネット社」の広報チームは、会社の新しい企業の社会的責任（CSR）活動に関する情報を広める任務を負っていました。\n【解説】情報を広く「普及させる、広める」という意味の動詞 'disseminate' が文脈に最も合います。広報(Public relations)の仕事内容として適切ですね。",
+          "category": "語彙問題（動名詞）"
+        },
+        {
+          "id": "860B-019R3",
+          "questionText": "Under no circumstances _______ any employee share their system login credentials with anyone, including their direct supervisor.",
+          "options": ["should", "can", "will", "must"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 should\n【訳】いかなる状況であれ、従業員は直属の上司を含め、誰とも自身のシステムログイン情報を共有してはなりません。\n【解説】'Under no circumstances' (いかなる状況でも〜ない) という強い否定の副詞句が文頭に来ると、主語と助動詞の倒置が起こります。ここでは「～すべきではない」という強い禁止・忠告なので 'should' が最も適切です。",
+          "category": "文法問題（倒置）"
+        },
+        {
+          "id": "860B-020R3",
+          "questionText": "The company has established a new internal system _______ employees can anonymously submit feedback and suggestions to senior management.",
+          "options": ["which", "that", "whereby", "whose"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 whereby\n【訳】その会社は、従業員が匿名で上級管理職にフィードバックや提案を提出できる、新しい社内システムを設立しました。\n【解説】'whereby' は 'by which' と同じ意味で、「それによって〜する」と手段や方法を表す関係副詞です。「従業員が『それによって』匿名のフィードバックを提出できるシステム」という意味になり、文法的に正しく、意味も通じます。",
+          "category": "文法問題（関係副詞）"
+        }
+      ]
+    },
+    {
+      "setId": "860_SET_3_R3",
+      "setName": "実践問題 Vol. 3 (改訂版)",
+      "questions": [
+        {
+          "id": "860C-021R3",
+          "questionText": "------- the initial logistical difficulties, the international product launch was ultimately a resounding success.",
+          "options": ["Notwithstanding", "Nevertheless", "Whereas", "Therefore"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 Notwithstanding\n【訳】当初の物流上の困難にもかかわらず、その国際的な製品発売は最終的に大成功でした。\n【解説】空欄の後が `the initial logistical difficulties` という名詞句なので、前置詞が必要です。'Notwithstanding' は「〜にもかかわらず」という意味のフォーマルな前置詞で、'Despite' と同様に使えます。'Nevertheless' は副詞、'Whereas' は接続詞なので、この位置には置けません。",
+          "category": "語彙問題（前置詞）"
+        },
+        {
+          "id": "860C-022R3",
+          "questionText": "Due to a potential conflict of interest, the board member chose to _______ from voting on the acquisition proposal.",
+          "options": ["refrain", "abstain", "prevent", "inhibit"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 abstain\n【訳】潜在的な利益相反のため、その取締役は買収提案に関する投票を棄権することを選びました。\n【解説】'abstain from ~ing' で「（投票などを）棄権する、控える」という意味です。'refrain from ~ing' は「（行動などを）慎む」で似ていますが、投票の文脈では 'abstain' がより一般的で専門的です。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860C-023R3",
+          "questionText": "Before publishing the findings, the research team at Aperture Labs conducted an _______ review of all existing literature on the topic.",
+          "options": ["exhaustive", "exhausted", "exhausting", "exhaustible"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 exhaustive\n【訳】その調査結果を発表する前に、Aperture Labsの研究チームは、そのトピックに関するすべての既存文献の徹底的なレビューを行いました。\n【解説】「徹底的な、完全な」という意味で名詞 'review' を修飾する形容詞 'exhaustive' が正解です。'exhausted' は「疲れ果てた」、'exhausting' は「疲れさせる」で、意味が全く異なります。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860C-024R3",
+          "questionText": "The new digital marketing strategy is expected to _______ a significant change in how we handle customer complaints and feedback.",
+          "options": ["affect", "effect", "infect", "defect"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 effect\n【訳】新しいデジタルマーケティング戦略は、私たちが顧客の苦情やフィードバックを処理する方法に、大きな変化をもたらすと期待されています。\n【解説】動詞の 'effect' は「（変化・結果などを）もたらす、引き起こす」という意味です(`bring about` と同義)。動詞 'affect' (〜に影響を与える) との使い分けがTOEIC頻出ポイントです。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860C-025R3",
+          "questionText": "All personnel handling sensitive client data must act in strict _______ with the company's established privacy policy.",
+          "options": ["accordance", "relation", "reference", "observation"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 accordance\n【訳】機密性の高い顧客データを扱うすべての職員は、会社の定められたプライバシーポリシーに厳密に従って行動しなければなりません。\n【解説】'in accordance with ~' は「〜に従って、〜に準拠して」という意味の重要な前置詞句です。規則や法律などに従う、というコンプライアンス関連の文脈で頻出します。",
+          "category": "語彙問題（熟語）"
+        },
+        {
+          "id": "860C-026R3",
+          "questionText": "The sudden resignation of the long-serving CEO has created an unexpected power _______ at the very top of the company.",
+          "options": ["void", "vacuum", "vacancy", "shortage"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 vacuum\n【訳】長年務めたCEOの突然の辞任は、会社の最高指導部に予期せぬ権力の空白を生み出しました。\n【解説】'power vacuum' は「権力の空白（状態）」を意味する定型表現です。'vacancy' は「（役職の）空席、空室」を指しますが、「権力そのものがない状態」というニュアンスでは 'power vacuum' が使われます。",
+          "category": "語彙問題（名詞）"
+        },
+        {
+          "id": "860C-027R3",
+          "questionText": "_______ as the consultant's report may seem, it appears to overlook several key financial metrics that are crucial to our business.",
+          "options": ["Thorough", "Although", "Despite", "However"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 Thorough\n【訳】そのコンサルタントの報告書は徹底的に見えるかもしれませんが、私たちのビジネスにとって重要な、いくつかの主要な財務指標を見落としているようです。\n【解説】'形容詞 + as + S + V' の形で、「〜ではあるが」という譲歩構文を作ります。'Though the report may seem thorough, ...' と同じ意味になります。文語的で硬い表現です。",
+          "category": "文法問題（倒置・譲歩）"
+        },
+        {
+          "id": "860C-028R3",
+          "questionText": "The company is seeking to _______ its strong brand recognition in the domestic market to facilitate its expansion into overseas markets.",
+          "options": ["leverage", "levitate", "legislate", "alleviate"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 leverage\n【訳】その会社は、海外市場への拡大を促進するために、国内市場での強力なブランド認知度を活用しようとしています。\n【解説】動詞の 'leverage' は「〜をてことして利用する、活用する」という意味で、自社の強み（ブランド認知度など）を最大限に利用する、というビジネス文脈で頻繁に使われます。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860C-029R3",
+          "questionText": "To find a more innovative and viable solution, we need to ------- the current problem from a completely different angle.",
+          "options": ["approach", "confront", "access", "admit"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 approach\n【訳】より革新的で実行可能な解決策を見つけるためには、私たちは現在の問題を全く異なる角度から検討する必要があります。\n【解説】問題に「取り組む、アプローチする」という意味で 'approach' が最も適切です。'confront' (立ち向かう) も可能ですが、'from a different angle' (異なる角度から) との相性で、より冷静に検討するニュアンスの 'approach' が優ります。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860C-030R3",
+          "questionText": "A cross-departmental task force was created for the _______ purpose of improving the efficiency of our internal communication channels.",
+          "options": ["specific", "special", "specious", "specified"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 specific\n【訳】部門横断的なタスクフォースが、社内コミュニケーション経路の効率を改善するという特定の目的のために作られました。\n【解説】'for the specific purpose of ~' は「〜という特定の目的のために」という意味の定型表現です。'special' (特別な) よりも「限定された、明確な」というニュアンスが強くなります。",
+          "category": "語彙問題（熟語）"
+        }
+      ]
+    },
+    {
+      "setId": "860_SET_4_R3",
+      "setName": "実践問題 Vol. 4 (改訂版)",
+      "questions": [
+        {
+          "id": "860D-031R3",
+          "questionText": "The marketing director at 'Bella Cosmetics', Ms. Vance, is known for her _______ insights into emerging consumer behavior trends.",
+          "options": ["astute", "absolute", "resolute", "acute"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 astute\n【訳】「ベラ・コスメティックス」のマーケティングディレクターであるバンスさんは、新たな消費者行動トレンドに対するその明敏な洞察力で知られています。\n【解説】'astute' は「明敏な、抜け目のない」という意味で、ビジネス上の判断力や洞察力を褒める際によく使われる上級単語です。'acute' は「鋭い」ですが、痛みや感覚、問題の深刻さなどに対して使われることが多く、文脈に合いません。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860D-032R3",
+          "questionText": "The two research universities agreed to _______ on the development of the new medical technology to share costs and expertise.",
+          "options": ["collaborate", "corroborate", "consolidate", "constitute"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 collaborate\n【訳】その2つの研究大学は、コストと専門知識を共有するため、新しい医療技術の開発について共同で作業することに合意しました。\n【解説】'collaborate on ~' で「〜について共同で作業する」という意味です。共同研究や共同プロジェクトの文脈で頻出します。'corroborate' は「裏付ける」、'consolidate' は「統合する」で、文脈に合いません。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860D-033R3",
+          "questionText": "The new analytics software is unfortunately not ------- with our company's current operating system, so a system-wide upgrade is necessary.",
+          "options": ["comparable", "compatible", "compellable", "computable"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 compatible\n【訳】残念ながら、新しい分析ソフトウェアは当社の現在のオペレーティングシステムと互換性がないため、全社的なアップグレードが必要です。\n【解説】'compatible with ~' で「〜と互換性がある」という意味です。ソフトウェアやハードウェア、機器の相性について話す際の最重要単語の一つです。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860D-034R3",
+          "questionText": "The government has implemented _______ new environmental regulations to curb industrial pollution.",
+          "options": ["austere", "stringent", "stern", "rigid"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 stringent\n【訳】政府は、産業汚染を抑制するために、厳格な新しい環境規制を実施しました。\n【解説】規則や措置が「厳しい、厳格な」ことを示す場合、'stringent' が最も一般的に使われます。'austere' は「緊縮の、質素な」、'stern' は人柄が「厳格な」、'rigid' は「硬直した、曲げられない」という意味合いで、文脈に合いません。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860D-035R3",
+          "questionText": "Any information ------- to the ongoing patent infringement case should be forwarded to our legal team immediately.",
+          "options": ["pertaining", "depending", "insisting", "consisting"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 pertaining\n【訳】現在進行中の特許侵害訴訟に関するいかなる情報も、直ちに当社の法務チームに転送されるべきです。\n【解説】`pertaining to ~` は `related to ~` や `concerning ~` と同じく「〜に関する」という意味の表現で、よりフォーマルな響きがあります。名詞を後ろから修飾する現在分詞の形です。",
+          "category": "文法問題（分詞）"
+        },
+        {
+          "id": "860D-036R3",
+          "questionText": "The external consultant's recommendations were certainly _______, but they unfortunately lacked practical steps for implementation.",
+          "options": ["insight", "insightful", "insightfully", "insighted"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 insightful\n【訳】その外部コンサルタントの提言は確かに洞察に満ちていましたが、残念ながら実行のための具体的な手順を欠いていました。\n【解説】be動詞 'were' の補語となる形容詞が必要です。「洞察に満ちた」という意味の 'insightful' が正解です。'insight' は名詞、'insightfully' は副詞です。",
+          "category": "品詞問題（形容詞）"
+        },
+        {
+          "id": "860D-037R3",
+          "questionText": "To improve profitability, the firm decided to ------- its complex supply chain operations and focus on its core business activities.",
+          "options": ["streamline", "outline", "underline", "inline"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 streamline\n【訳】収益性を改善するため、その会社は複雑なサプライチェーン業務を合理化し、中核的な事業活動に集中することを決定しました。\n【解説】業務(`operations`)などを「合理化する、効率化する」という意味の動詞は 'streamline' です。ビジネスの文脈で頻出する動詞です。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860D-038R3",
+          "questionText": "Please ------- me of any significant changes to the project schedule as soon as they are officially confirmed.",
+          "options": ["appraise", "apprise", "appease", "appear"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 apprise\n【訳】プロジェクトのスケジュールに何か大きな変更があれば、正式に確認され次第、私に知らせてください。\n【解説】'apprise someone of something' で「（人）に（事）を知らせる」という意味のフォーマルな動詞です。「評価する」という意味の 'appraise' とスペルが似ており、TOEICでは頻出のひっかけ問題なので注意が必要です。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860D-039R3",
+          "questionText": "A spokesperson for 'Quantum Dynamics' announced that the company's quarterly earnings far exceeded financial analysts' ______.",
+          "options": ["projections", "rejections", "objections", "trajectories"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 projections\n【訳】「クォンタム・ダイナミクス」の広報担当者は、同社の四半期収益が金融アナリストの予測をはるかに超えたと発表しました。\n【解説】アナリストの「予測、見積もり」を意味する名詞は 'projections' です。'forecasts' や 'estimates' とほぼ同じ意味で使われます。",
+          "category": "語彙問題（名詞）"
+        },
+        {
+          "id": "860D-040R3",
+          "questionText": "The sensitive terms of this merger agreement are strictly confidential and are not to be ------- to any unauthorized third party.",
+          "options": ["divulged", "diverged", "diminished", "dispatched"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 divulged\n【訳】この合併契約の機密性の高い条件は厳格に秘密であり、許可なく第三者に漏らしてはなりません。\n【解説】秘密や情報を「漏らす、暴露する」という意味の動詞は 'divulge' です。'disclose' とほぼ同じ意味で使われる、フォーマルな単語です。",
+          "category": "語彙問題（動詞）"
+        }
+      ]
+    },
+    {
+      "setId": "860_SET_5_R3",
+      "setName": "実践問題 Vol. 5 (改訂版)",
+      "questions": [
+        {
+          "id": "860E-041R3",
+          "questionText": "The _______ of the new production facility in Vietnam is expected to significantly increase our company's overall output capacity.",
+          "options": ["acquisition", "requisition", "inquisition", "disquisition"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 acquisition\n【訳】ベトナムの新しい生産施設の獲得は、当社の総生産能力を大幅に増加させると期待されています。\n【解説】新しい工場を「獲得すること、取得すること」を指すため、'acquisition' が正解です。ビジネスでは企業の「買収」という意味でも頻繁に使われます。'requisition' は「要求、請求」で、全く意味が異なります。",
+          "category": "語彙問題（名詞）"
+        },
+        {
+          "id": "860E-042R3",
+          "questionText": "The changes to the company's pension plan will be implemented _______ over the next two years, starting with the most senior employees.",
+          "options": ["subsequently", "consecutively", "progressively", "respectively"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 progressively\n【訳】会社の年金制度の変更は、最上級の従業員から始め、今後2年間にわたって段階的に実施されます。\n【解説】「段階的に、徐々に」という意味で、変化が少しずつ進むことを示す副詞は 'progressively' です。'subsequently' は「その後に」、'consecutively' は「連続して」、'respectively' は「それぞれ」で、文脈に合いません。",
+          "category": "語彙問題（副詞）"
+        },
+        {
+          "id": "860E-043R3",
+          "questionText": "The CEO's reassuring speech during the all-staff meeting was intended to ------- employees' fears of a potential corporate downsizing.",
+          "options": ["allay", "ally", "array", "alley"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 allay\n【訳】全社員会議でのCEOの安心させるようなスピーチは、従業員の潜在的な人員削減への恐怖を和らげることを意図していました。\n【解説】懸念や恐怖などを「和らげる、静める」という意味の動詞は 'allay' です。'allay fears' (恐怖を和らげる) は定型表現として覚えておくと便利です。他の選択肢は発音が似ていますが、意味は全く異なります。",
+          "category": "語彙問題（動詞）"
+        },
+        {
+          "id": "860E-044R3",
+          "questionText": "A well-executed and comprehensive marketing campaign is often a _______ to a successful product launch in a competitive market.",
+          "options": ["precursor", "successor", "processor", "prosecutor"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 precursor\n【訳】うまく実行された包括的なマーケティングキャンペーンは、競争の激しい市場での製品発売の成功の、しばしば先駆けとなります。\n【解説】`precursor to ~` で「〜の先駆け、前兆」という意味です。成功したマーケティングが製品発売の成功の「前触れ」となる、という文脈ですね。",
+          "category": "語彙問題（名詞）"
+        },
+        {
+          "id": "860E-045R3",
+          "questionText": "The company fully automated its quality control processes, _______ significantly reducing the number of defective products reaching consumers.",
+          "options": ["thereby", "whereas", "wherever", "thereof"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 thereby\n【訳】その会社は品質管理プロセスを完全に自動化し、それによって消費者に届く欠陥製品の数を大幅に削減しました。\n【解説】'thereby' は「それによって」という意味の副詞で、前の文が原因となり、後ろの結果につながることを示します。`..., thereby -ing` の形で「～し、それによって…する」と、分詞構文と共に使われることが多いです。",
+          "category": "語彙問題（副詞）"
+        },
+        {
+          "id": "860E-046R3",
+          "questionText": "Mr. Schmidt was praised by the board for his _______ and effective response in handling the unexpected supply chain crisis.",
+          "options": ["expeditious", "expendable", "explicit", "exquisite"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 expeditious\n【訳】シュミットさんは、予期せぬサプライチェーン危機を処理したその迅速かつ効果的な対応を、取締役会から称賛されました。\n【解説】'expeditious' は「迅速な、手際の良い」という意味で、行動や対応の速さを評価する際によく使われる上級単語です。動詞 'expedite' (を早める) の形容詞形です。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860E-047R3",
+          "questionText": "The _______ reason for our company's sustained success is our unwavering commitment to superior customer service.",
+          "options": ["principal", "principle", "principally", "principality"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 principal\n【訳】当社の持続的な成功の主な理由は、優れた顧客サービスへの揺るぎないコミットメントです。\n【解説】名詞 'reason' (理由) を修飾する形容詞が必要です。「主要な」という意味の形容詞は 'principal' です。「原則」を意味する名詞 'principle' とスペルが似ており、TOEICでは定番のひっかけ問題なので注意してください。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860E-048R3",
+          "questionText": "The new employee benefits policy is _______; it applies to all full-time and part-time employees regardless of their department or position.",
+          "options": ["comprehensive", "comprehensible", "apprehensive", "defensive"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 comprehensive\n【訳】新しい従業員福利厚生規定は包括的です。それは、部署や役職に関係なく、すべての正社員とパートタイム従業員に適用されます。\n【解説】セミコロンの後ろで「すべての従業員に適用される」と説明していることから、その方針が「包括的な、広範囲にわたる」ものであるとわかります。正解は 'comprehensive' です。「理解できる」を意味する 'comprehensible' との区別が重要です。",
+          "category": "語彙問題（形容詞）"
+        },
+        {
+          "id": "860E-049R3",
+          "questionText": "The company's sharp legal team found a _______ in the supplier contract that could be used to renegotiate the terms.",
+          "options": ["loophole", "black hole", "pothole", "keyhole"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 loophole\n【訳】その会社の鋭い法務チームは、供給業者との契約書に、条件を再交渉するために利用できる抜け穴を見つけました。\n【解説】'loophole' は法律や契約の「抜け穴、抜け道」を意味する単語です。ビジネスや法律の文脈で使われます。他の選択肢は意味が全く異なります。",
+          "category": "語彙問題（名詞）"
+        },
+        {
+          "id": "860E-050R3",
+          "questionText": "To ensure impartiality, the organization's financial records are ------- audited by an independent, third-party firm each fiscal year.",
+          "options": ["externally", "internally", "eternally", "alternately"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 externally\n【訳】公平性を確保するため、その組織の財務記録は、会計年度ごとに独立した第三者企業によって外部監査されています。\n【解説】`by an independent, third-party firm` (独立した第三者企業によって) という記述から、監査が「外部で」行われることがわかります。正解は 'externally' です。",
+          "category": "語彙問題（副詞）"
+        }
+      ]
+    },
+        {
+          "setId": "860_SET_6_R3",
+          "setName": "実践問題 Vol. 6 (改訂版)",
+          "questions": [
+            {
+              "id": "860F-051",
+              "questionText": "The new manager's hands-off approach, unfortunately, seemed to ------- the existing communication problems within the team.",
+              "options": ["exacerbate", "alleviate", "fabricate", "facilitate"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 exacerbate\n【訳】残念ながら、新しいマネージャーの放任主義的なアプローチは、チーム内の既存のコミュニケーション問題を悪化させたようでした。\n【解説】文脈から、コミュニケーション問題が「悪化した」と考えるのが自然です。「（問題・状況などを）悪化させる、深刻にする」という意味の上級単語は 'exacerbate' です。'alleviate' (緩和する) や 'facilitate' (促進する) は逆の意味になります。",
+              "category": "語彙問題（動詞）"
+            },
+            {
+              "id": "860F-052",
+              "questionText": "Rarely _______ a candidate with such a perfect blend of technical expertise and leadership skills.",
+              "options": ["we have seen", "we see", "have we seen", "do we see"],
+              "correctAnswerIndex": 2,
+              "explanation": "【正解】 have we seen\n【訳】これほど技術的な専門知識とリーダーシップスキルを完璧に兼ね備えた候補者は、めったに見たことがありません。\n【解説】'Rarely' (めったに～ない) という否定的な意味の副詞が文頭に来ると、主語と動詞の倒置が起こります。ここでは現在完了形が使われているため、'have we seen' が正しい語順です。高得点パート頻出の文法です。",
+              "category": "文法問題（倒置）"
+            },
+            {
+              "id": "860F-053",
+              "questionText": "Although no formal contract was signed, there was a ------- understanding between the two companies to support each other's ventures.",
+              "options": ["tacit", "explicit", "blatant", "overt"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 tacit\n【訳】正式な契約は結ばれませんでしたが、両社間にはお互いの事業を支援するという暗黙の了解がありました。\n【解説】「正式な契約はないが、了解はあった」という文脈です。「暗黙の、言葉に出さない」という意味の上級形容詞 'tacit' が正解です。'explicit' (明確な) や 'overt' (公然の) は逆の意味です。",
+              "category": "語彙問題（形容詞）"
+            },
+            {
+              "id": "860F-054",
+              "questionText": "As a long-time _______ of sustainable business practices, the CEO implemented a company-wide recycling program.",
+              "options": ["proponent", "adversary", "detractor", "critic"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 proponent\n【訳】持続可能なビジネス慣行の長年にわたる支持者として、そのCEOは全社的なリサイクルプログラムを実施しました。\n【解説】リサイクルプログラムを実施したことから、CEOはその慣行の「支持者」であることが分かります。「支持者、提唱者」を意味する名詞 'proponent' が正解です。'adversary' (敵対者) や 'critic' (批判者) は逆の意味です。",
+              "category": "語彙問題（名詞）"
+            },
+            {
+              "id": "860F-055",
+              "questionText": "While Mr. Ito was _______ involved in the initial planning stages, he was not part of the core project execution team.",
+              "options": ["peripherally", "integrally", "centrally", "fundamentally"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 peripherally\n【訳】イトウさんは初期の計画段階には末梢的に関わっていましたが、中核となるプロジェクト実行チームの一員ではありませんでした。\n【解説】「中核チームの一員ではなかった」という後半の文から、彼の関与が「末梢的、周辺的」であったことが分かります。正解は副詞の 'peripherally' です。'integrally' (不可欠な形で) や 'centrally' (中心的に) は逆の意味になります。",
+              "category": "語彙問題（副詞）"
+            },
+            {
+              "id": "860F-056",
+              "questionText": "_______ the company to relocate its headquarters, it would likely face significant logistical challenges and employee dissatisfaction.",
+              "options": ["If", "Should", "Had", "Were"],
+              "correctAnswerIndex": 3,
+              "explanation": "【正解】 Were\n【訳】万が一会社が本社を移転するようなことがあれば、重大な物流上の課題と従業員の不満に直面するでしょう。\n【解説】これは仮定法未来 'If the company were to relocate...' の 'If' が省略された倒置構文です。Ifが省略されると、'Were' が文頭に出て 'Were S to do ...' という形になります。「万が一～するようなことがあれば」という、実現可能性の低い未来を仮定する表現です。",
+              "category": "文法問題（仮定法・倒置）"
+            },
+            {
+              "id": "860F-057",
+              "questionText": "To _______ the approval process for the new construction permit, the developer submitted a comprehensive environmental impact report.",
+              "options": ["expedite", "impede", "delay", "obstruct"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 expedite\n【訳】新しい建設許可の承認プロセスを迅速に進めるため、開発業者は包括的な環境影響報告書を提出しました。\n【解説】文脈から、承認プロセスを「早める、促進する」という意味の動詞が必要です。正解は 'expedite' です。'impede' (妨げる) や 'obstruct' (妨害する) は逆の意味です。",
+              "category": "語彙問題（動詞）"
+            },
+            {
+              "id": "860F-058",
+              "questionText": "The legal team worked tirelessly to verify the _______ of the witness's testimony before the trial.",
+              "options": ["veracity", "velocity", "vivacity", "voracity"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 veracity\n【訳】法務チームは、裁判の前に証人の証言の信憑性を検証するために、精力的に働きました。\n【解説】証言の「信憑性、真実性」を意味する上級名詞は 'veracity' です。'velocity' (速度)、'vivacity' (活発さ)、'voracity' (貪欲さ) など、形が似ている単語と区別できるかが問われます。",
+              "category": "語彙問題（名詞）"
+            },
+            {
+              "id": "860F-059",
+              "questionText": "The company's claim to the patent was considered _______ at best, as their documentation was incomplete.",
+              "options": ["tenuous", "substantial", "solid", "irrefutable"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 tenuous\n【訳】彼らの文書が不完全であったため、その特許に対する会社の主張は、よく言っても希薄なものだと見なされました。\n【解説】「文書が不完全だった」という理由から、特許の主張が「弱い、希薄な」ものであったと推測できます。正解は 'tenuous' です。'substantial' (実質的な) や 'solid' (確固たる) は逆の意味です。",
+              "category": "語彙問題（形容詞）"
+            },
+            {
+              "id": "860F-060",
+              "questionText": "The new data protection policy will be applied _______ as it does not conflict with existing national regulations.",
+              "options": ["insofar", "in spite", "in order", "in addition"],
+              "correctAnswerIndex": 0,
+              "explanation": "【正解】 insofar\n【訳】新しいデータ保護方針は、既存の国内規制と矛盾しない範囲で適用されます。\n【解説】'insofar as' は「～する限りにおいて」という範囲や限定を示す接続詞句です。「既存の規制と矛盾しない範囲で」という文脈にぴったりです。'in spite of' は「～にもかかわらず」という前置詞句なので、後ろに文が来るこの形では使えません。",
+              "category": "語彙問題（接続詞句）"
+            }
+          ]
+        }
+      ]
+    }

@@ -1,0 +1,250 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_1_BALANCED",
+      "setName": "【日常・ビジネス混合版】第1回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK1-001",
+          "questionText": "For safety reasons, customers at the public swimming pool are asked to store their valuables in a locker ------- all times.",
+          "options": ["at", "on", "in", "by"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】イディオム（定型表現）を問う問題です。\n\n【解説】「at all times」は「常に、いつでも」という意味で使われる、ひとかたまりで覚えるべき頻出のイディオムです。TOEICでは、このような特定の単語同士の組み合わせ（コロケーション）やイディオムの知識が直接問われます。「常に」という意味から、文脈（市民プールの利用客は、いつでも貴重品をロッカーに保管するよう求められる）にも完全に合致します。他の前置詞ではこの意味を成しません。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK1-002",
+          "questionText": "The new AeroClean vacuum cleaner is designed to pick up dust from carpets much more ------- than previous models.",
+          "options": ["efficient", "efficiency", "efficiently", "efficacious"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄には、動詞句「pick up」（吸い取る）を「どのように」吸い取るのかを説明する言葉が入ります。動詞の様子を詳しく説明するのは副詞の役割なので、-lyで終わる副詞(C)「efficiently」（効率的に）が正解です。文意は「新しい掃除機は、旧モデルよりずっと効率的にホコリを吸い取るよう設計されている」となります。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-003",
+          "questionText": "------- the cloudy sky, many families gathered at the park for a picnic and enjoyed their afternoon.",
+          "options": ["Although", "However", "Because", "Despite"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】前置詞と接続詞の使い分けを問う問題です。\n\n【解説】空欄の後ろは「the cloudy sky」（曇り空）という名詞の塊（名詞句）です。このように名詞句を後ろに続けられるのは前置詞です。選択肢の中で前置詞は(D)「Despite」（～にもかかわらず）のみです。文意も「曇り空にもかかわらず、多くの家族がピクニックのために公園に集まった」となり自然です。\n(A)「Although」（～だけれども）は意味が似ていますが、接続詞なので後ろには主語(S)と動詞(V)がそろった「文」が来る必要があります。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK1-004",
+          "questionText": "The regional manager, Ms. Aki Tanaka, personally ------- the entire sales team on their excellent performance and for exceeding the sales targets for the last quarter.",
+          "options": ["congratulated", "congratulates", "congratulate", "congratulating"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の時制を選ぶ問題です。\n\n【解説】文の後半に「last quarter」（前の四半期）という、明確に過去を示す言葉があります。このような「時を表す副詞句」は、正しい時制を選ぶための大きなヒントになります。過去の出来事について述べているので、動詞は過去形の(A)「congratulated」が正解です。また、「congratulate A on B」で「BのことでAを祝う・称賛する」という使い方をすることも覚えておきましょう。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK1-005",
+          "questionText": "To return this item for a full refund, please send it back in its original packaging ------- with the receipt.",
+          "options": ["along", "across", "among", "away"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】句動詞・熟語の知識を問う問題です。\n\n【解説】「along with ～」で「～と一緒に、～に加えて」という意味を持つ、ひとかたまりで使われる句前置詞です。文脈（「全額返金のためには、商品を元の包装に入れ、レシートと一緒に返送してください」）に最も合致します。このように、いくつかの単語がセットで特定の意味を成す表現は、そのまま覚えてしまうのが効果的です。",
+          "category": "句動詞"
+        },
+        {
+          "id": "MOCK1-006",
+          "questionText": "My monthly electricity bill has increased ------- ever since I started using this new type of powerful heater.",
+          "options": ["signify", "significant", "significance", "significantly"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄は、動詞句「has increased」（増加した）を修飾する位置にあります。動詞を修飾するのは副詞の役割なので、「著しく、大幅に」という意味の副詞(D)「significantly」が正解です。文意は「この新しい強力なヒーターを使い始めてから、毎月の電気代が大幅に増加した」となります。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-007",
+          "questionText": "Should you have any further questions regarding the assembly of the bookshelf, please do not ------- to call our support hotline.",
+          "options": ["hesitate", "hesitation", "hesitant", "hesitantly"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】定型表現と品詞の知識を問う問題です。\n\n【解説】「do not」の後ろには動詞の原形が続くのがルールです。選択肢の中で動詞の原形は(A)「hesitate」（ためらう）だけです。「please do not hesitate to do」は「どうぞご遠慮なく～してください」という意味の非常に丁寧な依頼表現です。文脈は「本棚の組み立てに関してご質問があれば、ご遠慮なくサポートにお電話ください」となります。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-08",
+          "questionText": "Your package from the online bookstore is ------- to be delivered this afternoon between 2 P.M. and 4 P.M.",
+          "options": ["scheduled", "scheduling", "schedule", "schedules"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】受動態と動詞の形を問う問題です。\n\n【解説】文の主語は「Your package」（あなたの荷物）です。「荷物」は自ら予定を立てるのではなく、人によって「配達が予定される」側です。このように主語が「～される」という受け身の意味を表す場合は、be動詞 + 過去分詞の受動態を使います。ここでは「be scheduled to do」（～する予定である）という形が適切なので、過去分詞の(A)「scheduled」が正解です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK1-09",
+          "questionText": "We are honored to have Ms. Evelyn Albright, the celebrated author ------- latest historical novel has won several prestigious awards, as our keynote speaker.",
+          "options": ["who", "whom", "which", "whose"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】関係代名詞の格（主格、目的格、所有格）を選ぶ問題です。\n\n【解説】空欄を挟んで前の名詞「author」（著者）と後ろの名詞「latest historical novel」（最新の歴史小説）の関係に注目します。「著者『の』最新の歴史小説」のように、「～の」という所有の関係で繋がります。この関係を表すのが所有格の関係代名詞(D)「whose」です。「whose」は「先行詞（前の名詞）の～」という意味の橋渡しをすると理解すると分かりやすいです。",
+          "category": "関係詞"
+        },
+        {
+          "id": "MOCK1-10",
+          "questionText": "The community workshop on gardening was postponed ------- a sudden problem with the venue's water supply.",
+          "options": ["because", "since", "due to", "although"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】前置詞と接続詞の使い分けを問う問題です。\n\n【解説】空欄の後ろは「a sudden problem...」（会場の水道の突然の問題）という名詞句です。前置詞は後ろに名詞（句）を、接続詞は後ろに文（主語+動詞）をとるというルールがあります。選択肢の中で前置詞の働きをするのは(C)「due to」（～が原因で、～のために）です。文意も「会場の水道の問題が原因で、ガーデニングのワークショップは延期された」となり、ぴったりです。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK1-11",
+          "questionText": "This 20% discount coupon distributed by FreshMart is ------- to all regular-priced frozen food items.",
+          "options": ["application", "applicable", "apply", "applicant"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】be動詞「is」の後ろには、主語「This...coupon」の状態を説明する補語(C)が必要です。補語になれるのは主に名詞か形容詞です。文脈から「そのクーポンは適用可能だ」と考えるのが自然なので、「適用可能な」を意味する形容詞(B)「applicable」が正解です。「be applicable to ～」で「～に適用される」という頻出表現です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-12",
+          "questionText": "To keep your kitchen knives sharp, you must regularly ------- and maintain them according to the manufacturer's instructions.",
+          "options": ["sharpen", "sharp", "sharply", "sharpener"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】並列構造（等位接続詞）と品詞を問う問題です。\n\n【解説】and, or, butなどの等位接続詞は、文法的に同じ形・役割のものを繋ぎます。この文では、助動詞「must」の後ろに「------- and maintain」と続いています。「maintain」（手入れする）が動詞の原形なので、andの前にある空欄にも同じく動詞の原形が入ります。したがって、「研ぐ」という意味の動詞(A)「sharpen」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-13",
+          "questionText": "As a reminder to all staff, all travel expense reports must be filled out correctly and approved by your ------- supervisor before being sent to the accounting department.",
+          "options": ["immediate", "immediately", "immediacy", "immerse"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】名詞を修飾する品詞を問う問題です。\n\n【解説】空欄には、後ろの名詞「supervisor」（上司）を修飾する言葉が入ります。名詞を修飾するのは形容詞の役割です。選択肢の中で形容詞は(A)「immediate」です。「immediate supervisor」は「直属の上司」という意味の決まった言い方で、TOEICのビジネスシーンで非常によく使われます。この組み合わせで覚えておくと便利です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK1-14",
+          "questionText": "This introductory cooking class is designed to ------- beginners with basic knife skills and kitchen safety.",
+          "options": ["familiar", "familiarity", "familiarize", "familiarly"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】語形と語法を問う問題です。\n\n【解説】「to」の後ろにあり、目的語「beginners」を従えていることから、空欄には動詞が入ることがわかります。選択肢の中で動詞は(C)「familiarize」です。「familiarize A with B」で「AをBに慣れさせる、精通させる」という意味の重要な語法です。文意も「この入門料理教室は、初心者を基本的な包丁の使い方とキッチンの安全に慣れさせることを目的としている」となり、自然です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-15",
+          "questionText": "Please remember that the successful launch of our new product line is entirely ------- upon the close cooperation of all team members from marketing, sales, and R&D.",
+          "options": ["dependent", "dependable", "depended", "depending"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】イディオムと品詞の知識を問う問題です。\n\n【解説】be動詞「is」と前置詞「upon」に挟まれています。ここは「be dependent on/upon ～」で「～次第である、～に依存している」という意味になる重要なイディオムです。したがって、形容詞の(A)「dependent」が正解です。(B)「dependable」は「信頼できる」という意味の形容詞ですが、「upon」とは結びつかず文脈にも合いません。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK1-16",
+          "questionText": "According to the new organizational chart at Kanto Electronics, ------- the international sales team will focus on emerging markets in Asia, the domestic team will now cover all of North America.",
+          "options": ["Whereas", "Unless", "Therefore", "Until"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文と文の意味関係に合う接続詞を選ぶ問題です。\n\n【解説】コンマの前後の文が「国際チームはアジア担当」と「国内チームは北米担当」という対照的な内容になっていることに注目します。このように2つの事柄を対比・対照するときに使う接続詞が(A)「Whereas」（～である一方、～に対して）です。他の選択肢は(B) Unless（～でない限り）、(C) Therefore（それゆえに）、(D) Until（～まで）となり、文脈に合いません。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK1-17",
+          "questionText": "The local supermarket has recently ------- its selection of organic vegetables to meet customer demand.",
+          "options": ["expanded", "expended", "expected", "exposed"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】目的語である「its selection of organic vegetables」（有機野菜の品揃え）に合う動詞を選ぶ問題です。文脈から「品揃えを『拡大した』」とするのが最も自然です。したがって、(A)「expanded」（拡大した）が正解です。\n(B) expended（費やした）\n(C) expected（期待した）\n(D) exposed（晒した）\nこれらは形が似ていて紛らわしいですが、意味が全く異なるので注意が必要です。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK1-18",
+          "questionText": "------- who wishes to join the guided museum tour at 3 P.M. should gather near the main entrance.",
+          "options": ["Anyone", "Someone", "Whatever", "Whoever"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】代名詞と関係代名詞の組み合わせを問う問題です。\n\n【解説】「who wishes to join...」という関係代名詞節が、前の名詞（代名詞）を修飾しています。「～する人は誰でも」という意味で、不特定の「人」を表す代名詞が必要です。この条件に合うのが(A)「Anyone」です。「Anyone who ～」で「～する人は誰でも」という頻出の形になります。(D)「Whoever」はそれ自体に「～する人は誰でも」という意味が含まれる複合関係代名詞なので、後ろに「who」を続けることはできません。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK1-19",
+          "questionText": "While rumors of the merger between Sterling Corp. and B&G Industries are widespread, the financial details have not yet been made ------- to the general public.",
+          "options": ["avail", "available", "availability", "availing"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】第5文型（S+V+O+C）の受動態を理解しているかを問う問題です。\n\n【解説】この文はもともと「They have not yet made the financial details available」（彼らはまだ財務詳細を公開していない）という第5文型です。これの受動態なので「the financial details (O) have not yet been made (V) available (C)」という語順になります。C（補語）の位置には形容詞が入るため、「入手可能な、公開されている」という意味の形容詞(B)「available」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-20",
+          "questionText": "We are confident that you will be completely satisfied ------- your purchase of our new non-stick frying pan.",
+          "options": ["of", "for", "with", "by"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】形容詞と前置詞の組み合わせ（コロケーション）を問う問題です。\n\n【解説】「be satisfied」は「～に満足する」という意味の重要な熟語で、後ろには前置詞「with」をとるのが決まりです。満足の対象を導くのが「with」の役割です。ここでは「新しい焦げ付かないフライパンのご購入に、きっとご満足いただけると確信しております」という意味になります。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK1-21",
+          "questionText": "The furniture from EasyBuild came with a ------- guide to its assembly, but I still found it difficult to put together.",
+          "options": ["comprehend", "comprehensive", "comprehension", "comprehensively"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】名詞を修飾する品詞を問う問題です。\n\n【解説】空欄は冠詞「a」と名詞「guide」（説明書）の間にあります。この位置には、名詞を修飾する形容詞が入ります。選択肢の中で形容詞は(B)「comprehensive」（包括的な、総合的な）です。文意も「包括的な説明書」となり、自然です。\n(A) comprehend（動詞：理解する）\n(C) comprehension（名詞：理解）\n(D) comprehensively（副詞：包括的に）",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-22",
+          "questionText": "Not only ------- the newly installed inventory management system increase operational efficiency, but it also significantly enhances our data security protocols.",
+          "options": ["is", "has", "does", "will"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】倒置構文の知識を問う、やや難易度の高い問題です。\n\n【解説】「Not only A but also B」（AだけでなくBも）という相関接続詞が使われています。「Not only」のような否定的な意味合いを持つ語句が文頭に来ると、その直後の節は主語と動詞が倒置され、疑問文と同じ語順になります。この文の動詞は一般動詞「increase」（の原形）なので、疑問文を作るときと同様に助動詞の「do/does/did」を使います。主語が三人称単数（the...system）なので、(C)「does」が正解です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK1-23",
+          "questionText": "The public library will ------- its collection of historical maps to a special, climate-controlled room on the second floor.",
+          "options": ["relocate", "renovate", "reimburse", "release"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】文脈は「図書館が所蔵する歴史的な地図を、2階の特別な空調管理された部屋へ～する」という内容です。この流れに最も合う動詞は(A)「relocate」（移転させる）です。\n(B) renovate（改修する）\n(C) reimburse（払い戻す、返済する）\n(D) release（解放する、公開する）",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK1-24",
+          "questionText": "All of the repair technicians at FixIt Garage are highly ------- professionals who can handle a wide range of car problems.",
+          "options": ["qualify", "qualified", "quality", "qualification"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形、特に分詞の形容詞的用法を問う問題です。\n\n【解説】空欄は副詞「highly」の直後で、be動詞「are」の補語の一部です。ここでは「修理技術者」が「資格を与えられている」という受け身の関係なので、過去分詞の(B)「qualified」（資格のある、適任の）が形容詞として使われます。「highly qualified」は「非常に優秀な、十分な資格を持つ」という意味で非常によく使われる組み合わせです。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-25",
+          "questionText": "------- completing the customer satisfaction survey for your recent purchase is entirely optional, your anonymous feedback would be greatly appreciated by our team.",
+          "options": ["Because", "As if", "Even though", "So that"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】文と文の意味関係に合う接続詞を選ぶ問題です。\n\n【解説】コンマの前の文（アンケートへの回答は任意である）と後ろの文（フィードバックは有り難い）は、逆の内容をつなぐ「譲歩」の関係にあります。「～であるけれども」「～にもかかわらず」といった意味を持つ接続詞が適切です。この意味を持つのは(C)「Even though」です。(A) Because（なぜなら）、(D) So that（～するために）は文脈に合いません。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK1-26",
+          "questionText": "Before being submitted to the board, the 50-page final report on market trends was ------- proofread by Mr. Evans's assistant to ensure there were no errors.",
+          "options": ["meticulous", "meticulously", "metropolis", "metaphor"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄は、動詞（の過去分詞）「proofread」（校正された）を修飾する位置にあります。動詞を修飾するのは副詞の役割なので、「細心の注意を払って、綿密に」という意味の副詞(B)「meticulously」が正解です。(A)「meticulous」は「細心の注意を払う」という形容詞で、動詞は修飾できません。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK1-27",
+          "questionText": "Using fresh, high-quality ingredients is ------- to making a truly delicious homemade pizza.",
+          "options": ["integral", "marginal", "superficial", "expedient"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「新鮮で質の高い食材を使うことは、本当においしい自家製ピザを作るのに『不可欠だ』」という文脈です。この意味に最も合う形容詞は(A)「integral」（不可欠な、必須の）です。「integral to ～」で「～にとって不可欠である」という形で使われます。\n(B) marginal（わずかな、重要でない）\n(C) superficial（表面的な）\n(D) expedient（好都合な、ご都合主義の）",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK1-28",
+          "questionText": "The apartment manager will ------- a new set of recycling rules for all residents starting from the first of next month.",
+          "options": ["implement", "imply", "import", "impose"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】「アパートの管理人が、新しい一連のリサイクル規則を全居住者に対して～する」という文脈です。この目的語「rules」に最も合う動詞は(A)「implement」（実行する、導入する）です。「implement rules/a plan/a strategy」という組み合わせは頻出です。\n(B) imply（示唆する）\n(C) import（輸入する）\n(D) impose（課す、強いる）",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK1-29",
+          "questionText": "To ensure you receive all important notifications from your bank, please make sure your contact information in your online profile is always kept up to -------.",
+          "options": ["day", "time", "date", "minute"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】イディオムの知識を問う問題です。\n\n【解説】「up to date」で「最新の」という意味を持つ、ひとかたまりで使われるイディオムです。「keep (something) up to date」で「（何か）を最新の状態に保つ」という意味になります。文脈にも「連絡先情報を最新に保つ」となり、完全に一致します。TOEICではビジネス、日常生活問わず頻出する表現です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK1-30",
+          "questionText": "------- you cancel your monthly subscription to the music streaming service, you will no longer have access to your downloaded playlists.",
+          "options": ["Once", "While", "Yet", "Still"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文と文の時間的な関係を表す接続詞を選ぶ問題です。\n\n【解説】「月額購読を解約する」という出来事が、「プレイリストにアクセスできなくなる」という出来事の引き金・条件になっています。このような「いったん～するとすぐに」「～した時点で」という時間的な前後関係や条件を表す接続詞は(A)「Once」です。\n(B) While（～する間に）は同時進行を表し、(C) Yet、(D) Stillは接続詞としての用法が異なります。",
+          "category": "接続詞"
+        }
+      ]
+    }
+  ]
+}

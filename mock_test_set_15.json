@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_15",
+      "setName": "第15回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK15-001",
+          "questionText": "The new software is expected to ------- the data analysis process significantly.",
+          "options": ["streamline", "observe", "require", "donate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアはデータ分析プロセスを大幅に『効率化する』と期待されている」という意味になります。「合理化する、効率化する」を意味する動詞 'streamline' が正解です。"
+        },
+        {
+          "id": "MOCK15-002",
+          "questionText": "The ------- of the new production facility will create over 200 jobs.",
+          "options": ["proximity", "establishment", "credibility", "variation"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から「新しい生産施設の『設立』は、200以上の雇用を創出する」という意味になります。「設立、創設」を意味する名詞 'establishment' が正解です。"
+        },
+        {
+          "id": "MOCK15-003",
+          "questionText": "------- all employees are required to attend the annual safety seminar.",
+          "options": ["Likewise", "Nonetheless", "Therefore", "Nevertheless"],
+          "correctAnswerIndex": 1,
+          "explanation": "この問題は接続副詞の理解を問います。前文がないため文脈を推測する必要がありますが、'Nonetheless' や 'Nevertheless' (それにもかかわらず) は逆接を示します。TOEICでは、単独の文で文法的に正しい選択肢を選ぶ問題もあり、この場合は'Nonetheless'が文頭に来てカンマで区切られる形が文法的に正しいため、これが最も可能性が高い選択肢です。ただし、本来は前後の文脈が必要です。ここでは文法的な形から判断します。"
+        },
+        {
+          "id": "MOCK15-004",
+          "questionText": "The speaker's ------- argument convinced the board to approve the project.",
+          "options": ["tentative", "persuasive", "subsequent", "marginal"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈と、後半の「役員会を納得させた」という結果から、「講演者の『説得力のある』主張」という意味になります。「説得力のある」を意味する形容詞 'persuasive' が正解です。"
+        },
+        {
+          "id": "MOCK15-005",
+          "questionText": "The company has a ------- procedure for handling customer complaints.",
+          "options": ["standardized", "vulnerable", "prosperous", "fictional"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社には、顧客からの苦情を処理するための『標準化された』手順がある」という意味になります。「標準化された」を意味する形容詞 'standardized' が正解です。"
+        },
+        {
+          "id": "MOCK15-006",
+          "questionText": "The two companies have ------- a strategic alliance to enter new markets.",
+          "options": ["forged", "postponed", "declined", "retracted"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は新しい市場に参入するため、戦略的提携を『築いた』」という意味になります。「（関係などを）築く」を意味する動詞 'forged' が正解です。"
+        },
+        {
+          "id": "MOCK15-007",
+          "questionText": "------- with the new regulations is mandatory for all financial institutions.",
+          "options": ["Compliance", "Ambition", "Precaution", "Sequence"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい規制の『順守』は、すべての金融機関にとって義務である」という意味になります。「順守」を意味する名詞 'Compliance' が正解です。'Compliance with ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK15-008",
+          "questionText": "The project was ------- more challenging than we had originally anticipated.",
+          "options": ["considerably", "mutually", "punctually", "optionally"],
+          "correctAnswerIndex": 0,
+          "explanation": "比較級 'more challenging' を修飾する副詞が必要です。文脈から「プロジェクトは当初予測していたよりも『かなり』難しかった」という意味になります。「かなり、相当に」を意味する副詞 'considerably' が正解です。"
+        },
+        {
+          "id": "MOCK15-009",
+          "questionText": "The consultant's recommendations provided ------- insights into our operational inefficiencies.",
+          "options": ["valuable", "reversible", "plausible", "generic"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「コンサルタントの勧告は、我々の業務の非効率性に対する『貴重な』洞察を提供した」という意味になります。「貴重な」を意味する形容詞 'valuable' が正解です。"
+        },
+        {
+          "id": "MOCK15-010",
+          "questionText": "The company is committed to ------- a diverse and inclusive workplace.",
+          "options": ["fostering", "waiving", "disrupting", "revoking"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、多様で包括的な職場を『育成する』ことに尽力している」という意味になります。「育む、育成する」を意味する動詞 'fostering' が正解です。'be committed to -ing' の構文です。"
+        },
+        {
+          "id": "MOCK15-011",
+          "questionText": "The terms of the contract are ------- and subject to negotiation.",
+          "options": ["provisional", "prominent", "perpetual", "pivotal"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の 'subject to negotiation' (交渉の対象となる) から、「契約の条件は『仮のものであり』」という意味になります。「仮の、暫定的な」を意味する形容詞 'provisional' が正解です。"
+        },
+        {
+          "id": "MOCK15-012",
+          "questionText": "The recent IT upgrade has ------- to a significant increase in productivity.",
+          "options": ["led", "based", "dealt", "come"],
+          "correctAnswerIndex": 0,
+          "explanation": "'lead to ~' は「～につながる、～という結果になる」という意味の句動詞です。文脈から「最近のITアップグレードは、生産性の大幅な向上につながった」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK15-013",
+          "questionText": "The manufacturer ------- that the new model will be available in the fall.",
+          "options": ["anticipates", "alleviates", "appoints", "applauds"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その製造業者は、新モデルが秋に発売されると『予測している』」という意味になります。「予測する、期待する」を意味する動詞 'anticipates' が正解です。"
+        },
+        {
+          "id": "MOCK15-014",
+          "questionText": "The city is planning to ------- the old warehouse into a modern art gallery.",
+          "options": ["transform", "transmit", "transact", "transcribe"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「市は、古い倉庫を現代アートのギャラリーに『変える』ことを計画している」という意味になります。「（姿・形を）変える、一変させる」を意味する動詞 'transform' が正解です。'transform A into B' の形で使われます。"
+        },
+        {
+          "id": "MOCK15-015",
+          "questionText": "The company's ------- on this matter is that customer privacy is our top priority.",
+          "options": ["stance", "stamina", "statue", "staple"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「この件に関する会社の『立場』は、顧客のプライバシーが最優先事項であるということです」という意味になります。「（問題に対する）立場、姿勢」を意味する名詞 'stance' が正解です。"
+        },
+        {
+          "id": "MOCK15-016",
+          "questionText": "The new software update includes several security -------.",
+          "options": ["enhancements", "enactments", "enclosures", "endeavors"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアのアップデートは、いくつかのセキュリティ『強化機能』を含んでいる」という意味になります。「強化、向上」を意味する名詞 'enhancements' が正解です。"
+        },
+        {
+          "id": "MOCK15-017",
+          "questionText": "The manager's ------- approval is required before purchasing any equipment over $500.",
+          "options": ["prior", "prime", "partial", "perennial"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「500ドル以上の備品を購入する前に、部長の『事前の』承認が必要です」という意味になります。「事前の、先の」を意味する形容詞 'prior' が正解です。'prior approval' は頻出の組み合わせです。"
+        },
+        {
+          "id": "MOCK15-018",
+          "questionText": "The company ------- a significant challenge in recruiting qualified engineers.",
+          "options": ["faces", "places", "traces", "races"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その会社は、有能な技術者の採用において大きな課題に『直面している』」という意味になります。「（困難などに）直面する」を意味する動詞 'faces' が正解です。"
+        },
+        {
+          "id": "MOCK15-019",
+          "questionText": "The two departments have ------- viewpoints on how to proceed with the project.",
+          "options": ["divergent", "diligent", "dominant", "dormant"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2つの部署は、プロジェクトの進め方について『異なった』見解を持っている」という意味になります。「分岐する、異なった」を意味する形容詞 'divergent' が正解です。"
+        },
+        {
+          "id": "MOCK15-020",
+          "questionText": "The hotel offers ------- shuttle service to and from the airport.",
+          "options": ["complimentary", "contemporary", "compensatory", "compulsory"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのホテルは、空港との間で『無料の』シャトルサービスを提供している」という意味になります。「無料の」を意味する形容詞 'complimentary' が正解です。"
+        },
+        {
+          "id": "MOCK15-021",
+          "questionText": "The new CEO is determined to ------- the company's reputation.",
+          "options": ["restore", "refrain", "relocate", "remit"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOは、会社の評判を『回復する』ことを固く決意している」という意味になります。「回復させる、修復する」を意味する動詞 'restore' が正解です。"
+        },
+        {
+          "id": "MOCK15-022",
+          "questionText": "A ------- portion of the budget has been allocated for employee training.",
+          "options": ["substantial", "subsequent", "subtle", "subordinate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「予算の『かなりの』部分が、従業員研修に割り当てられた」という意味になります。「かなりの、相当な」を意味する形容詞 'substantial' が正解です。"
+        },
+        {
+          "id": "MOCK15-023",
+          "questionText": "The research findings will be ------- in a leading scientific journal.",
+          "options": ["published", "polished", "punished", "perished"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その研究結果は、有力な科学雑誌に『掲載される』だろう」という意味になります。「出版する、掲載する」を意味する動詞 'published' が正解です。"
+        },
+        {
+          "id": "MOCK15-024",
+          "questionText": "The ------- of the new product was delayed due to unforeseen production issues.",
+          "options": ["launch", "growth", "merger", "decline"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「予期せぬ生産上の問題により、新製品の『発売』が遅れた」という意味になります。「発売、開始」を意味する名詞 'launch' が正解です。"
+        },
+        {
+          "id": "MOCK15-025",
+          "questionText": "The company has an ------- plan to deal with unexpected emergencies.",
+          "options": ["elaborate", "arbitrary", "obsolete", "intuitive"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社には、予期せぬ緊急事態に対処するための『綿密な』計画がある」という意味になります。「精巧な、綿密な」を意味する形容詞 'elaborate' が正解です。"
+        },
+        {
+          "id": "MOCK15-026",
+          "questionText": "The new policy aims to ------- a better work-life balance for all employees.",
+          "options": ["promote", "prohibit", "postpone", "predict"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい方針は、全従業員のより良いワークライフバランスを『促進する』ことを目的としている」という意味になります。「促進する」を意味する動詞 'promote' が正解です。"
+        },
+        {
+          "id": "MOCK15-027",
+          "questionText": "The candidate's resume was -------, but she lacked practical experience.",
+          "options": ["impeccable", "imperative", "implausible", "impartial"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「しかし、彼女は実務経験に欠けていた」という逆接の内容から、前半はポジティブな内容になります。「候補者の履歴書は『申し分のない』ものだった」という意味の 'impeccable' が正解です。"
+        },
+        {
+          "id": "MOCK15-028",
+          "questionText": "The company ------- its right to change the terms and conditions without prior notice.",
+          "options": ["reserves", "reverses", "resolves", "resides"],
+          "correctAnswerIndex": 0,
+          "explanation": "'reserve the right to do' は「～する権利を留保する」という意味の定型表現です。"
+        },
+        {
+        "id": "MOCK15-029",
+          "questionText": "The construction of the new highway is expected to ------- the local economy.",
+          "options": ["boost", "boast", "browse", "blame"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい高速道路の建設は、地域経済を『押し上げる』と期待されている」という意味になります。「押し上げる、促進する」を意味する動詞 'boost' が正解です。"
+        },
+        {
+          "id": "MOCK15-030",
+          "questionText": "The company offers a ------- benefits package to attract and retain talented employees.",
+          "options": ["comprehensive", "comprehensible", "compulsive", "comparative"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、有能な従業員を引きつけ、維持するために、『包括的な』福利厚生パッケージを提供している」という意味になります。「包括的な、総合的な」を意味する形容詞 'comprehensive' が正解です。"
+        }
+      ]
+    }
+  ]
+}

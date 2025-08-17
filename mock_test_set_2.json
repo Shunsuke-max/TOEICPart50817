@@ -1,0 +1,250 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_2_IMPROVED",
+      "setName": "【改訂版】第2回 Part5 模試（日常・ビジネス混合）",
+      "questions": [
+        {
+          "id": "MOCK2-001",
+          "questionText": "The annual technology conference hosted by Zenith Innovations was postponed ------- the keynote speaker's sudden illness.",
+          "options": ["because", "owing to", "although", "therefore"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】前置詞と接続詞の使い分けを問う問題です。\n\n【解説】空欄の後ろは「the keynote speaker's sudden illness」（基調講演者の突然の病気）という名詞句です。後ろに名詞句を続けられるのは前置詞です。(B)「owing to」（～が原因で）は「due to」とほぼ同じ意味で使われる前置詞句なので正解です。\n(A)「because」は接続詞のため、後ろには主語と動詞のある文が続きます。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK2-002",
+          "questionText": "All factory personnel at Apex Manufacturing are expected to ------- with the new safety regulations posted near the main entrance.",
+          "options": ["comply", "supply", "reply", "apply"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】動詞の語彙と語法を問う問題です。\n\n【解説】「comply with ～」で「（規則・法律など）を遵守する、～に従う」という意味を持つ非常に重要な句動詞です。文脈は「全工場職員は、新しい安全規則を遵守することが求められる」となり、意味が通ります。他の選択肢は文脈に合いません。",
+          "category": "句動詞"
+        },
+        {
+          "id": "MOCK2-003",
+          "questionText": "The report from Insight Analytics provides a ------- analysis of the current market trends, covering every major competitor.",
+          "options": ["thorough", "through", "though", "thought"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】紛らわしい語彙と品詞を問う問題です。\n\n【解説】空欄には後ろの名詞「analysis」（分析）を修飾する形容詞が必要です。「徹底的な、完全な」という意味の形容詞(A)「thorough」が正解です。\n(B) through（～を通して：前置詞）\n(C) though（～だけれども：接続詞）\n(D) thought（考え：名詞、thinkの過去形）\nこれらはスペルが似ているため、意味と品詞を正確に区別できるようにしておくことが重要です。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK2-004",
+          "questionText": "Our new department manager, Mr. Kenji Tanaka, has a very ------- and collaborative leadership style that everyone on the team appreciates.",
+          "options": ["approach", "approachable", "approaching", "approached"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】andの前後に注目すると、空欄と「collaborative」（協力的な）が、名詞「style」を修飾しています。「collaborative」が形容詞なので、空欄にも同じく形容詞が入ります。「親しみやすい、話しかけやすい」という意味の形容詞(B)「approachable」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK2-005",
+          "questionText": "As a courtesy to others, please ------- from using mobile phones during the movie screening.",
+          "options": ["contain", "obtain", "maintain", "refrain"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】定型表現（イディオム）を問う問題です。\n\n【解説】「refrain from doing」で「～するのを控える、慎む」という意味の定型表現です。後ろに動名詞「using」があることが大きなヒントになります。文意は「他の方への配慮として、映画上映中の携帯電話のご使用はお控えください」となります。",
+          "category": "句動詞"
+        },
+        {
+          "id": "MOCK2-006",
+          "questionText": "NextGen Solutions is currently looking for candidates with ------- experience in the field of project management.",
+          "options": ["extensive", "extended", "external", "exterior"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「extensive experience」は「広範囲にわたる経験、豊富な経験」という意味で非常によく使われるコロケーション（単語の組み合わせ）です。(A)「extensive」が正解です。\n(B) extended（延長された）\n(C) external（外部の）\n(D) exterior（外側の）",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK2-007",
+          "questionText": "The weekend photography workshop is open to all community members, ------- of their age or skill level.",
+          "options": ["regarding", "regardless", "regarded", "disregarding"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】前置詞句の知識を問う問題です。\n\n【解説】「regardless of ～」は「～にかかわらず、～に関係なく」という意味で使われる、ひとかたまりの前置詞句です。文意は「週末の写真ワークショップは、年齢やスキルレベルに関係なく、すべての地域住民に開かれています」となり、自然です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK2-008",
+          "questionText": "The monthly rent is fixed, but the other terms of the rental agreement are ------- and can be discussed with the landlord.",
+          "options": ["negotiate", "negotiation", "negotiator", "negotiable"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】be動詞「are」の後ろには、主語「the other terms」の状態を説明する補語が必要です。補語になれる形容詞が適切なので、「交渉可能な」という意味の(D)「negotiable」が正解です。\n(A) negotiate（動詞：交渉する）\n(B) negotiation（名詞：交渉）\n(C) negotiator（名詞：交渉人）",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK2-009",
+          "questionText": "The plumber said that we need to find a ------- solution to this recurring leaking pipe issue in the kitchen.",
+          "options": ["permanently", "permanent", "permitted", "permission"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】名詞を修飾する品詞を問う問題です。\n\n【解説】空欄には、後ろの名詞「solution」（解決策）を修飾する言葉が入ります。名詞を修飾するのは形容詞の役割なので、「永続的な、恒久的な」という意味の(B)「permanent」が正解です。「a permanent solution」で「恒久的な解決策」という一つの塊になります。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK2-010",
+          "questionText": "The local community center ------- a survey to gather residents' opinions on public park improvements last month.",
+          "options": ["conducts", "conducted", "is conducting", "has conducted"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】文脈に合う動詞の時制を選ぶ問題です。\n\n【解説】文末に「last month」（先月）という、明確に過去を示す言葉があります。この場合、動詞は過去形を使うのが原則です。したがって、(B)「conducted」（実施した）が正解です。「conduct a survey」で「調査を実施する」という頻出表現です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK2-011",
+          "questionText": "The new smartphone model from K-Mobile boasts several innovative ------- that set it apart from its main competitors.",
+          "options": ["feats", "features", "fees", "fears"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】文脈に合う名詞の語彙を選ぶ問題です。\n\n【解説】「スマートフォンの革新的な～」という文脈から、製品の「特徴、機能」を意味する(B)「features」が最も適切です。\n(A) feats（偉業、離れ業）\n(C) fees（料金）\n(D) fears（恐怖）",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK2-012",
+          "questionText": "------- the high cost of authentic materials, Ms. weaver's handmade furniture is sold at a reasonable price.",
+          "options": ["In spite of", "Because of", "As a result of", "In addition to"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】逆接を表す前置詞句を選ぶ問題です。\n\n【解説】「本物の素材のコストが高い」ことと、「手頃な価格で販売されている」ことは逆の内容です。このような逆接の関係を、後ろに名詞句を続けて表すことができるのは(A)「In spite of」（～にもかかわらず）です。「Despite」も同じ意味で使えます。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK2-013",
+          "questionText": "The ------- of the new community website is scheduled for early next month, and local volunteers are helping with the project.",
+          "options": ["implement", "implements", "implementation", "implementing"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】文の主語の位置にあり、定冠詞「The」の後ろで前置詞「of」の前にあることから、空欄には名詞が入ります。「実行、導入」を意味する名詞(C)「implementation」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK2-014",
+          "questionText": "The head librarian, Mr. Peterson, ------- reviews all returned books for any damage before putting them back on the shelves.",
+          "options": ["careful", "careless", "carefully", "caring"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄には、後ろの動詞「reviews」（点検する）を修飾する言葉が入ります。動詞を修飾するのは副詞の役割なので、「注意深く」という意味の(C)「carefully」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK2-015",
+          "questionText": "Chef Antoine Dubois is a ------- expert in the field of classic French cuisine, known throughout the country.",
+          "options": ["renowned", "renewed", "renounced", "recounted"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「～な専門家」という文脈で、後ろから「国中で知られている」と説明されていることから、「著名な、名高い」を意味する形容詞(A)「renowned」が最も適切です。",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK2-016",
+          "questionText": "A new, more advanced security system ------- in the main office building of Sterling Corp. last week.",
+          "options": ["installs", "is installing", "was installed", "has installed"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】受動態と時制を問う問題です。\n\n【解説】主語は「A new...system」で、これは自ら設置するのではなく「設置される」側なので受動態（be動詞 + 過去分詞）が必要です。また、「last week」と明確な過去の時点が示されているため、過去形を使います。両方の条件を満たすのは、受動態の過去形である(C)「was installed」です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK2-017",
+          "questionText": "The mayor's speech at the town hall meeting had a profound ------- on the local residents.",
+          "options": ["effect", "affect", "effective", "affection"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】紛らわしい語彙（名詞と動詞）を問う問題です。\n\n【解説】冠詞「a」と形容詞「profound」（深い）の後ろには名詞が必要です。「影響、効果」を意味する名詞は(A)「effect」です。一方、(B)「affect」は「～に影響を与える」という動詞なので、この場所には入れません。「have an effect on ～」で「～に影響を与える」という頻出表現です。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK2-018",
+          "questionText": "------- of the two final design proposals submitted by the architects was considered suitable for the new library project.",
+          "options": ["Both", "Either", "All", "Neither"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】代名詞と数の一致を問う問題です。\n\n【解説】後ろに続く動詞が「was」と単数形である点に注目します。また、文脈から「2つの提案のうち、どちらも適切ではなかった」という意味にするのが最も自然です。この「どちらも～ない」という意味を表し、単数として扱われるのが(D)「Neither」です。「Neither of the + 複数名詞 + 単数動詞」の形を覚えておきましょう。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK2-019",
+          "questionText": "The city announced that major road work is scheduled to take place on High Street ------- the entire weekend.",
+          "options": ["among", "throughout", "without", "within"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】期間を表す前置詞を選ぶ問題です。\n\n【解説】「週末『の間ずっと』」という、ある期間の初めから終わりまでを表す前置詞は(B)「throughout」です。文意は「市は、週末の間ずっとハイストリートで大規模な道路工事が行われる予定だと発表した」となります。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK2-020",
+          "questionText": "The local community college offers its students ------- opportunities for professional development and career counseling.",
+          "options": ["ample", "sample", "dimple", "trample"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「十分な、豊富な」という意味を持つ(A)「ample」が、後ろの名詞「opportunities」（機会）を修飾するのに最も適しています。「ample opportunities」は「十分な機会」という意味でよく使われる組み合わせです。",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK2-021",
+          "questionText": "It is ------- that all residents attend the mandatory fire drill scheduled for this Saturday morning.",
+          "options": ["imperative", "impartial", "inactive", "impeccable"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】that節を伴う形容詞の語彙問題です。\n\n【解説】「It is (形容詞) that S (should) V原形」の形で、「SがVすることは（形容詞）だ」という意味になります。文脈から「全住民が参加することは『必須である』」というのが最も自然なので、(A)「imperative」（必須の、急務の）が正解です。",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK2-022",
+          "questionText": "To enter the contest, please ------- the attached application form and return it to us by the deadline on Friday.",
+          "options": ["fill in", "fill up", "fill out", "fill with"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】句動詞の知識を問う問題です。\n\n【解説】「(書類)に必要事項を記入する」という意味の句動詞は(C)「fill out」です。アメリカ英語でよく使われます。(A)「fill in」も同じ意味で使えますが、特に空欄を埋めるニュアンスが強いです。TOEICでは「fill out a form」の形で頻出します。",
+          "category": "句動詞"
+        },
+        {
+          "id": "MOCK2-023",
+          "questionText": "The findings from the initial customer survey were -------, with different focus groups showing conflicting opinions.",
+          "options": ["inconclusive", "exclusive", "inclusive", "conclusive"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】「異なるグループが矛盾した意見を示した」という後半の文脈から、調査の「発見・結果」は「結論の出ない、決定的でない」ものであったと推測できます。この意味に合うのは、(A)「inconclusive」です。(D)「conclusive」（決定的な）はその逆の意味になります。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK2-024",
+          "questionText": "The team of volunteers worked ------- to prepare the community hall for the annual charity event.",
+          "options": ["diligence", "diligent", "diligently", "dilute"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄には、動詞「worked」（働いた）を修飾する言葉が入ります。動詞を修飾するのは副詞の役割なので、「勤勉に、熱心に」という意味の(C)「diligently」が正解です。\n(A) diligence（名詞：勤勉）\n(B) diligent（形容詞：勤勉な）",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK2-025",
+          "questionText": "According to product reviews, the batteries from this brand are far more ------- than the cheaper generic models.",
+          "options": ["rely", "reliable", "reliance", "reliant"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】比較級と品詞を問う問題です。\n\n【解説】「more ------- than」は比較級の形です。「more」の後ろには形容詞か副詞の原級が来るため、「信頼できる」を意味する形容詞(B)「reliable」が正解です。文意は「このブランドのバッテリーは、安いノーブランド品よりもはるかに信頼性が高い」となります。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK2-026",
+          "questionText": "The company policy states that they will ------- employees for any reasonable travel expenses incurred during business trips.",
+          "options": ["reverse", "reimburse", "rehearse", "reiterate"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】「出張中に発生した妥当な出張経費を従業員に～する」という文脈です。この流れに最も合う動詞は、「払い戻す、弁済する」を意味する(B)「reimburse」です。「reimburse A for B」で「AにB（経費など）を払い戻す」という形で使われます。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK2-027",
+          "questionText": "All passengers are kindly reminded to have their boarding passes ready ------- proceeding to the security checkpoint.",
+          "options": ["prior to", "in addition to", "due to", "according to"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】前置詞句の知識を問う問題です。\n\n【解説】「～の前に」を意味する前置詞句(A)「prior to」が正解です。これは「before」の少しフォーマルな言い方で、後ろには名詞または動名詞（-ing形）が続きます。文意は「保安検査場に進む前に、搭乗券をご用意ください」となります。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK2-028",
+          "questionText": "The event coordinator is responsible for ------- the new marketing campaign for the summer music festival.",
+          "options": ["oversee", "overseeing", "oversaw", "overseen"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】前置詞の後ろの形を問う問題です。\n\n【解説】「responsible for」のような、前置詞の後ろには動詞の原形は置けず、動名詞（-ing形）または名詞が来るのがルールです。したがって、「監督すること」を意味する動名詞(B)「overseeing」が正解となります。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK2-029",
+          "questionText": "The construction of the new highway is expected to have a significant ------- on local traffic patterns.",
+          "options": ["impact", "intact", "impart", "input"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う名詞の語彙を選ぶ問題です。\n\n【解説】冠詞「a」と形容詞「significant」（重大な）の後ろには名詞が必要です。「影響」を意味する名詞(A)「impact」が正解です。「have a significant impact on ～」で「～に重大な影響を与える」という、ひとかたまりで覚えておきたい表現です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK2-030",
+          "questionText": "If the cleaning service does not meet your personal _______, you can contact our customer service center for a full refund.",
+          "options": ["expectations", "exceptions", "excerpts", "executions"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う名詞の語彙を選ぶ問題です。\n\n【解説】「あなたの～を満たさない場合」という文脈で、所有格「your」の後ろに来る名詞として最も適切なのは、「期待、要望」を意味する(A)「expectations」です。「meet one's expectations」は「～の期待に応える」という意味の頻出表現です。",
+          "category": "コロケーション"
+        }
+      ]
+    }
+  ]
+}

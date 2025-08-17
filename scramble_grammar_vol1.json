@@ -1,0 +1,52 @@
+{
+  "scrambleQuestions": [
+    {
+      "id": "sg_vol1_001",
+      "chunks": [
+        "The new marketing campaign",
+        "resulted in",
+        "a significant increase",
+        "in sales."
+      ],
+      "explanation": "「result in ~」は「〜という結果になる」という意味の重要表現です。A resulted in Bで「AがBという結果をもたらした」となります。"
+    },
+    {
+      "id": "sg_vol1_002",
+      "chunks": [
+        "All employees are required",
+        "to attend",
+        "the mandatory safety training session."
+      ],
+      "explanation": "「be required to do」は「〜することを要求される、〜する必要がある」という受け身の形です。TOEICの設問で頻出の形です。"
+    },
+    {
+      "id": "sg_vol1_003",
+      "chunks": [
+        "Despite the heavy traffic,",
+        "Mr. Sato managed to arrive",
+        "at the meeting",
+        "on time."
+      ],
+      "explanation": "「Despite ~」（〜にもかかわらず）は前置詞で、後ろには名詞（句）が続きます。「manage to do」は「なんとか〜する」という意味の表現です。"
+    },
+    {
+      "id": "sg_vol1_004",
+      "chunks": [
+        "Please make sure that",
+        "you have submitted",
+        "your expense report",
+        "by the end of the day."
+      ],
+      "explanation": "「make sure that ~」で「〜であることを確かめる」という意味になります。「by the end of the day」は「今日中に」という頻出の期限表現です。"
+    },
+    {
+      "id": "sg_vol1_005",
+      "chunks": [
+        "The manager is looking for",
+        "someone who is proficient in",
+        "both English and Japanese."
+      ],
+      "explanation": "「be proficient in ~」は「〜に堪能である、熟達している」という意味の形容詞句です。関係代名詞whoが先行詞someoneを修飾しています。"
+    }
+  ]
+}

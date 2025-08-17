@@ -1,0 +1,250 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_3_REVISED",
+      "setName": "【改訂版】第3回 Part5 模試（日常・ビジネス混合）",
+      "questions": [
+        {
+          "id": "MOCK3-001",
+          "questionText": "Our lead designer, Ms. Albright, is out of the office today, but she can be ------- by e-mail at any time.",
+          "options": ["reach", "reached", "reaching", "reaches"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】受動態の形を問う問題です。\n\n【解説】助動詞「can」とbe動詞「be」の後ろには、動詞の過去分詞形を置いて受動態（～される）を作ります。ここでは「be reached」で「連絡がつく、連絡される」という意味になります。主語の「she」は連絡する側ではなく「連絡される」側なので、受動態が適切です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK3-002",
+          "questionText": "The product demonstration by the sales representative from Kanto Electronics was ------- informative and very well-organized.",
+          "options": ["high", "higher", "highly", "height"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】形容詞を修飾する副詞を選ぶ問題です。\n\n【解説】空欄には、後ろの形容詞「informative」（有益な）を修飾する言葉が入ります。形容詞を修飾するのは副詞の役割なので、「非常に」という意味の(C)「highly」が正解です。「highly informative」で「非常に有益な」という頻出の組み合わせになります。(A)「high」も副詞として使えますが、通常は物理的な高さを表します。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK3-003",
+          "questionText": "All lab technicians must obtain prior ------- from their supervisor, Dr. Chen, before ordering new equipment.",
+          "options": ["approve", "approved", "approvingly", "approval"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】動詞の目的語となる名詞を選ぶ品詞問題です。\n\n【解説】動詞「obtain」（得る）の後ろには、目的語となる名詞が必要です。選択肢の中で名詞は(D)「approval」（承認）です。「obtain approval」で「承認を得る」という決まった言い方です。\n(A) approve（動詞：承認する）\n(B) approved（過去分詞/形容詞：承認された）\n(C) approvingly（副詞：賛成して）",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK3-004",
+          "questionText": "The main distribution center for Quick-Ship Logistics was temporarily shut down ------- a major power failure in the area.",
+          "options": ["due to", "because", "even though", "so that"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】前置詞と接続詞の使い分けを問う問題です。\n\n【解説】空欄の後ろは「a major power failure」（大規模な停電）という名詞句です。後ろに名詞句を続けられるのは前置詞です。(A)「due to」（～が原因で）は前置詞句なので正解です。\n(B)「because」は接続詞のため、後ろには主語と動詞のある「文」が続きます。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK3-005",
+          "questionText": "The orientation program is designed to help new employees ------- to the company's unique work environment as smoothly as possible.",
+          "options": ["adopt", "adapt", "adept", "addict"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】紛らわしい動詞の語彙を問う問題です。\n\n【解説】「adapt to ～」で「～に適応する」という意味の句動詞です。文脈（「新入社員が会社の職場環境に適応するのを助ける」）に合致します。(A)「adopt」は「～を採用する」という意味で、よく混同されるので注意が必要です。(C)「adept」は「熟達した」という形容詞です。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK3-006",
+          "questionText": "The engineer from SYD-Tech ------- is responsible for overseeing this project has over ten years of industry experience.",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】関係代名詞の格を選ぶ問題です。\n\n【解説】空欄を含む節「------- is responsible...」は、直前の名詞「The engineer」を説明しています。空欄の後ろには動詞「is」が続いているので、空欄にはこの節の主語(S)の役割を果たす関係代名詞が必要です。先行詞が「人」で主格の働きをするのは(A)「who」です。",
+          "category": "関係詞"
+        },
+        {
+          "id": "MOCK3-007",
+          "questionText": "Please place all glass bottles and jars in the ------- marked green bins located behind the community center.",
+          "options": ["appropriate", "appropriately", "appropriateness", "appropriator"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄の後ろには「marked」（印のついた）という過去分詞（形容詞の働き）があります。この「marked」を修飾するのは副詞の役割です。したがって、「適切に」という意味の副詞(B)「appropriately」が正解です。「appropriately marked」で「適切に印のついた」という一つの意味の塊になります。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK3-008",
+          "questionText": "The department store's annual summer clearance sale will be held for one week, ------- next Monday.",
+          "options": ["start", "starts", "started", "starting"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】分詞構文（または前置詞的用法）を問う問題です。\n\n【解説】ここでは(D)「starting」が「～から始まって」という意味で、前置詞のように使われています。「starting next Monday」で「来週の月曜日から」という時の起点を表します。TOEICでは「starting」や「including」などがこの形で頻繁に使われます。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK3-009",
+          "questionText": "Our purchasing department is ------- seeking a new local supplier for our organic food ingredients.",
+          "options": ["active", "actively", "activity", "activate"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄には、後ろの動詞「seeking」（探している）を修飾する言葉が入ります。動詞を修飾するのは副詞の役割なので、「積極的に」という意味の(B)「actively」が正解です。「actively seeking」で「積極的に探している」となります。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK3-010",
+          "questionText": "Each of the new computers in the library ------- pre-installed with the latest graphic design software.",
+          "options": ["is", "are", "be", "been"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】主語と動詞の一致を問う問題です。\n\n【解説】「Each of the + 複数名詞」が主語になる場合、動詞は単数形で受けるのがルールです。「Each」（それぞれ）という単語が中心となるためです。したがって、単数動詞の(A)「is」が正解です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK3-011",
+          "questionText": "_______ the weather is unfavorable on Saturday, the outdoor concert at Green Park will be moved indoors to the city auditorium.",
+          "options": ["Whether", "Unless", "If", "Despite"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】条件を表す接続詞を選ぶ問題です。\n\n【解説】「土曜の天気が良くない」という条件のもとで、「野外コンサートは屋内に移動される」という結果が起こる、という構成です。このような単純な条件を表す接続詞は(C)「If」（もし～ならば）です。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK3-012",
+          "questionText": "The repair estimate from the auto shop was highly detailed and accurate ------- to the smallest charge.",
+          "options": ["up", "down", "in", "on"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】イディオムの知識を問う問題です。\n\n【解説】「down to the smallest detail/charge」で「ごく細部に至るまで」という意味の頻出イディオムです。文脈は「自動車修理店の見積もりは、ごく細かい料金に至るまで非常に詳細かつ正確だった」となります。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK3-013",
+          "questionText": "The restaurant owner is considering ------- a new delivery service to attract more customers in the neighborhood.",
+          "options": ["launch", "to launch", "launching", "launched"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】動詞の語法（目的語の形）を問う問題です。\n\n【解説】動詞「consider」（～を検討する）は、後ろに目的語として動名詞（-ing形）をとる代表的な動詞です。to不定詞はとれません。したがって、(C)「launching」（始めること）が正解です。suggest, enjoy, finishなども同様に動名詞を目的語にとります。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK3-014",
+          "questionText": "This new model of washing machine is _______ quieter and more energy-efficient than the one it replaced.",
+          "options": ["consider", "consideration", "considerable", "considerably"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】比較級を修飾する副詞を選ぶ問題です。\n\n【解説】「quieter」や「more energy-efficient」といった比較級を強調し、「かなり、相当に」という意味を付け加えるのは副詞の役割です。この意味を持つ副詞は(D)「considerably」です。(C)「considerable」は「かなりの」という形容詞なので、ここでは使えません。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK3-015",
+          "questionText": "------- of the two final candidates have the necessary qualifications, so the hiring decision will be very difficult.",
+          "options": ["Each", "Every", "Both", "All"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】数量を表す代名詞を選ぶ問題です。\n\n【解説】文脈が「two final candidates」（2人の最終候補者）について述べているので、「両方」を意味する(C)「Both」が最も適切です。「Both of the + 複数名詞」の形で使います。(A)「Each」も使えますが、その場合、動詞は単数形「has」になるのが一般的です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK3-016",
+          "questionText": "The professor insisted that all essays ------- electronically through the university's portal by 5 P.M. on Friday.",
+          "options": ["are submitted", "were submitted", "be submitted", "will be submitted"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】仮定法現在（要求・提案などを表す動詞の後のthat節）を問う問題です。\n\n【解説】insist, suggest, require, demand のような要求・提案を表す動詞の後のthat節の中では、動詞は「should + 原形」または「should」を省略した「原形」になる、というルールがあります。これを仮定法現在と呼びます。したがって、受動態の原形である(C)「be submitted」が正解です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK3-017",
+          "questionText": "The healthy growth of this indoor plant is largely ------- on receiving an adequate amount of sunlight.",
+          "options": ["dependent", "depended", "depending", "dependable"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】コロケーションと品詞を問う問題です。\n\n【解説】be動詞「is」と前置詞「on」に挟まれています。ここは「be dependent on ～」で「～次第である、～に依存している」という意味になる重要なコロケーションです。したがって、形容詞の(A)「dependent」が正解です。(D)「dependable」は「信頼できる」という意味の形容詞で、文脈に合いません。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK3-018",
+          "questionText": "This advanced cooking class aims to equip participants with the techniques ------- to create professional-quality desserts.",
+          "options": ["need", "needs", "needed", "needing"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】分詞の後置修飾を問う問題です。\n\n【解説】空欄には、前の名詞「the techniques」を後ろから修飾する言葉が入ります。「必要とされる技術」という受け身の意味なので、過去分詞の(C)「needed」が正解です。これはもともと「the techniques that are needed...」という関係代名詞節が短縮された形だと理解すると分かりやすいです。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK3-019",
+          "questionText": "The neighborhood association ------- last night to discuss the plans for the upcoming summer festival.",
+          "options": ["convenes", "convened", "is convening", "has convened"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】文脈に合う動詞の時制を選ぶ問題です。\n\n【解説】文中に「last night」（昨夜）という、明確に過去を示す言葉があります。この場合、動詞は単純な過去形を使うのが原則です。したがって、(B)「convened」（集まった）が正解です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK3-020",
+          "questionText": "Finding a ------- convenient time for the team meeting has been difficult due to everyone's busy schedules.",
+          "options": ["mutual", "mutually", "mutualism", "mutuality"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】形容詞を修飾する副詞を選ぶ問題です。\n\n【解説】空欄には、後ろの形容詞「convenient」（都合の良い）を修飾する言葉が入ります。形容詞を修飾するのは副詞の役割なので、「相互に、お互いに」という意味の(B)「mutually」が正解です。「a mutually convenient time」は「双方の都合の良い時間」という意味で、ビジネスシーンで頻出するコロケーションです。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK3-021",
+          "questionText": "------- that all safety conditions in the contract are met, work on the construction site can begin.",
+          "options": ["Assuming", "Given", "Provided", "Unless"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】条件を表す接続詞を選ぶ、やや難易度の高い問題です。\n\n【解説】(C)「Provided (that)」は、「もし～という条件が満たされれば」という意味で、「if」よりも固い、法的な文脈などで使われる接続詞です。文意（「契約の全安全条件が満たされれば、建設作業は開始できる」）に最も合致します。(A)「Assuming (that)」（～と仮定すれば）も似ていますが、「Provided」の方がより厳密な条件を表します。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK3-022",
+          "questionText": "During the audit, the independent auditor ------- some serious concerns about the company's accounting practices.",
+          "options": ["raised", "rose", "arose", "aroused"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】紛らわしい動詞（他動詞と自動詞）を問う問題です。\n\n【解説】「raise concerns」で「懸念を示す、問題を提起する」という意味の決まった言い方です。「raise」は「～を上げる、提起する」という他動詞（目的語が必要）です。一方、(B)「rose」（riseの過去形）や(C)「arose」（ariseの過去形）は「（問題などが）生じる」という意味の自動詞（目的語が不要）なので、ここでは使えません。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK3-023",
+          "questionText": "This new recycling rule applies to all residents in the apartment building, with no -------.",
+          "options": ["exemption", "exception", "exclusion", "extinction"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】イディオムと語彙の知識を問う問題です。\n\n【解説】「with no exception(s)」または「without exception」で「例外なく」という意味の頻出イディオムです。したがって、(B)「exception」（例外）が正解です。(A)「exemption」は「（義務などの）免除」という意味で、文脈によっては使えますが、「with no...」の形では「exception」が最も一般的です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK3-024",
+          "questionText": "The board of directors at Globex Corp. is now ------- a full-scale merger with its main competitor, SYD-Tech.",
+          "options": ["contemplating", "intending", "expecting", "projecting"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ、やや難易度の高い問題です。\n\n【解説】「大規模な合併」のような重大な事柄に対して、「じっくり考える、熟考する」というニュアンスを持つ動詞(A)「contemplate」が最も適切です。(B)「intend」（意図する）は「contemplate」ほど深く考えるニュアンスはありません。(C) expect（予期する）、(D) project（予測する）は文脈に合いません。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK3-025",
+          "questionText": "The quality control standards at our food processing plant are extremely ------- and will require significant investment to maintain.",
+          "options": ["strict", "stern", "stringent", "sturdy"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】似た意味を持つ形容詞の使い分けを問う問題です。\n\n【解説】規則、基準、要件などが「厳しい、厳格な」ことを表すのに最も適した単語は(C)「stringent」です。特に、公式で厳密なニュアンスを持ちます。(A)「strict」も「厳しい」ですが、より一般的な言葉です。(B)「stern」は通常、人や表情の厳しさを表します。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK3-026",
+          "questionText": "The initial promotional campaign was a great success. -------, we must now focus on retaining our new base of customers.",
+          "options": ["Moreover", "Therefore", "Subsequently", "Nonetheless"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】文と文の論理関係を表す接続副詞を選ぶ問題です。\n\n【解説】前の文（キャンペーンは成功した）と、後ろの文（今は顧客維持に集中すべきだ）は、単純な追加や結果の関係ではありません。「成功した、しかしそれに満足せず、次の課題がある」という逆接・対比のニュアンスです。この関係を最もよく表すのが(D)「Nonetheless」（それにもかかわらず）です。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK3-027",
+          "questionText": "The CEO is ------- obliged to act in the best interests of the company's shareholders.",
+          "options": ["legally", "faithfully", "morally", "personally"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う副詞とコロケーションを問う問題です。\n\n【解説】CEOと株主という文脈では、「道徳的」や「個人的」な義務以上に、「法的」な義務が強く意識されます。「legally obliged」は「法的に義務付けられている」という意味の非常に強い結びつきを持つコロケーションです。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK3-028",
+          "questionText": "That new Italian restaurant is _______ the best in the city, but its high price makes it a place for special occasions.",
+          "options": ["arguably", "decidedly", "absolutely", "positively"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】ニュアンスを伝える副詞を選ぶ、難易度の高い問題です。\n\n【解説】(A)「Arguably」は、「議論の余地はあるかもしれないが、ほぼ間違いなく～だ」というニュアンスを表します。断定を少し和らげつつ、強い主張をする際に使われます。「街で一番だと言ってもいいだろう」という文脈にぴったりです。断定的な(B)や(C)よりも、続く「but...」の文とのつながりが自然になります。",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK3-029",
+          "questionText": "Any major changes to the building's original design must be formally ------- by the city's planning committee.",
+          "options": ["approved", "concluded", "assigned", "developed"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】フォーマルな文脈で使われる動詞の語彙問題です。\n\n【解説】文脈は「設計の変更は、市の計画委員会によって公式に『承認』されなければならない」という内容です。この意味に最も合うのは(A)「approved」（承認された）です。`formally approved` (公式に承認される) は、公的な手続きにおいて頻繁に使われる組み合わせです。\n(B) concluded (結論付けられた)、(C) assigned (割り当てられた)、(D) developed (開発された) は、いずれも文脈に合いません。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK3-030",
+          "questionText": "The new corporate wellness program is _______ intended to boost employee morale, though some critics view it as an unnecessary expense.",
+          "options": ["ostensibly", "assuredly", "conspicuously", "allegedly"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】高度な副詞の語彙とニュアンスを問う問題です。\n\n【解説】(A)「Ostensibly」は「表向きは」という意味で、述べられている理由や目的の裏に、別の真実がある可能性を示唆します。プログラムの公式目的（士気向上）と、一部の批評家の見方（不要な経費）との対比を完璧に表現しています。非常に高度な単語ですが、TOEICの高得点を目指す上では知っておきたい語彙です。",
+          "category": "ビジネス語彙"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_11",
+      "setName": "第11回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK11-001",
+          "questionText": "The team's ------- efforts resulted in the successful completion of the project.",
+          "options": ["collective", "selective", "subjective", "defective"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「チームの『共同の』努力がプロジェクトの成功につながった」という意味が最も自然です。「共同の、集団の」を意味する形容詞 'collective' が正解です。"
+        },
+        {
+          "id": "MOCK11-002",
+          "questionText": "The new museum will ------- a wide range of exhibits from local artists.",
+          "options": ["feature", "figure", "lecture", "measure"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい博物館は地元アーティストの幅広い展示物を『目玉とする』」という意味が最も適切です。「～を呼び物にする、～を特集する」を意味する動詞 'feature' が正解です。"
+        },
+        {
+          "id": "MOCK11-003",
+          "questionText": "------- the company's financial performance has been strong, the stock price has remained stagnant.",
+          "options": ["Because", "Therefore", "Although", "So"],
+          "correctAnswerIndex": 2,
+          "explanation": "「会社の財務実績は好調で『あるにもかかわらず』、株価は停滞したままだ」という逆接の文脈なので、接続詞 'Although' が正解です。"
+        },
+        {
+          "id": "MOCK11-004",
+          "questionText": "The workshop is designed to ------- participants with the latest industry standards.",
+          "options": ["acquaint", "acquire", "assent", "assign"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「参加者に最新の業界基準を『熟知させる』」という意味が最も自然です。「熟知させる、精通させる」を意味する動詞 'acquaint' が正解です。'acquaint A with B' の形で使われます。"
+        },
+        {
+          "id": "MOCK11-005",
+          "questionText": "Please ------- any questions you may have to your immediate supervisor.",
+          "options": ["direct", "correct", "protect", "erect"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「質問があれば直属の上司に『向けてください』」という意味が最も適切です。「（質問・注意などを）向ける」を意味する動詞 'direct' が正解です。"
+        },
+        {
+          "id": "MOCK11-006",
+          "questionText": "The ------- of the new software is scheduled for the third quarter.",
+          "options": ["release", "lease", "decrease", "cease"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアの『発売』は第3四半期に予定されている」という意味が最も自然です。「発売、公開」を意味する名詞 'release' が正解です。"
+        },
+        {
+          "id": "MOCK11-007",
+          "questionText": "The hotel is ------- located within walking distance of the main train station.",
+          "options": ["conveniently", "conventionally", "conclusively", "consecutively"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「ホテルは主要駅から徒歩圏内の『便利な場所に』位置している」という意味になります。「便利に」を意味する副詞 'conveniently' が正解です。"
+        },
+        {
+          "id": "MOCK11-008",
+          "questionText": "The company decided to ------- a survey to gauge customer satisfaction.",
+          "options": ["conduct", "deduct", "conflict", "construct"],
+          "correctAnswerIndex": 0,
+          "explanation": "'conduct a survey' は「調査を実施する」という意味のコロケーションです。"
+        },
+        {
+          "id": "MOCK11-009",
+          "questionText": "The new regulations are ------- to all companies operating in the financial sector.",
+          "options": ["applicable", "approachable", "accountable", "allowable"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい規制は金融セクターで事業を行うすべての企業に『適用される』」という意味になります。「適用できる」を意味する形容詞 'applicable' が正解です。'be applicable to ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK11-010",
+          "questionText": "We need to find a more ------- way to manage our inventory.",
+          "options": ["efficient", "sufficient", "deficient", "proficient"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「在庫を管理するためのより『効率的な』方法を見つける必要がある」という意味になります。「効率的な」を意味する形容詞 'efficient' が正解です。"
+        },
+        {
+          "id": "MOCK11-011",
+          "questionText": "The ------- of this seminar is to provide practical marketing skills.",
+          "options": ["objective", "objection", "object", "obligation"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「このセミナーの『目的』は…」という意味が最も適切です。「目的、目標」を意味する名詞 'objective' が正解です。"
+        },
+        {
+          "id": "MOCK11-012",
+          "questionText": "Dr. Evans is a ------- expert in the field of artificial intelligence.",
+          "options": ["distinguished", "extinguished", "relinquished", "diminished"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「人工知能の分野で『著名な』専門家」という意味が最も適切です。「傑出した、著名な」を意味する形容詞 'distinguished' が正解です。"
+        },
+        {
+          "id": "MOCK11-013",
+          "questionText": "The company will ------- employees for reasonable expenses incurred during business trips.",
+          "options": ["reimburse", "reassure", "rebel", "rehearse"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「出張中に発生した妥当な経費を従業員に『払い戻す』」という意味になります。「払い戻す、弁償する」を意味する動詞 'reimburse' が正解です。"
+        },
+        {
+          "id": "MOCK11-014",
+          "questionText": "The new CEO plans to ------- several changes to improve the company's profitability.",
+          "options": ["implement", "compliment", "supplement", "increment"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社の収益性を改善するために、いくつかの変更を『実行する』」という意味になります。「実行する、導入する」を意味する動詞 'implement' が正解です。"
+        },
+        {
+          "id": "MOCK11-015",
+          "questionText": "The research findings were ------- with our initial expectations.",
+          "options": ["consistent", "persistent", "resistant", "insistent"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その研究結果は我々の当初の予測と『一致していた』」という意味になります。「一致した、矛盾のない」を意味する形容詞 'consistent' が正解です。'be consistent with ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK11-016",
+          "questionText": "------- the high demand, the new smartphone model is temporarily out of stock.",
+          "options": ["Due to", "Prior to", "In spite of", "According to"],
+          "correctAnswerIndex": 0,
+          "explanation": "「高い需要『のために』、その新しいスマートフォンは一時的に在庫切れです」という理由を表す文脈なので、前置詞句 'Due to' が正解です。"
+        },
+        {
+          "id": "MOCK11-017",
+          "questionText": "The consultant provided some ------- suggestions for improving our workflow.",
+          "options": ["valuable", "vulnerable", "variable", "volatile"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「ワークフローを改善するための『貴重な』提案」という意味が最も適切です。「貴重な、価値のある」を意味する形容詞 'valuable' が正解です。"
+        },
+        {
+          "id": "MOCK11-018",
+          "questionText": "The ------- of the two candidates will be chosen based on their experience and skills.",
+          "options": ["superior", "more superior", "most superior", "superiority"],
+          "correctAnswerIndex": 0,
+          "explanation": "'of the two' (2つのうちで) という表現があるため、比較級を使います。'superior' はそれ自体が比較の意味を持つラテン語由来の形容詞なので、'more' は付けません。「2人の候補者のうち、より優れた方」という意味になります。"
+        },
+        {
+          "id": "MOCK11-019",
+          "questionText": "The factory had to ------- its operations temporarily due to a power outage.",
+          "options": ["suspend", "sustain", "survey", "survive"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「停電のため、工場は一時的に操業を『中断し』なければならなかった」という意味になります。「一時停止する、中断する」を意味する動詞 'suspend' が正解です。"
+        },
+        {
+          "id": "MOCK11-020",
+          "questionText": "All employees are expected to ------- to the company's code of conduct.",
+          "options": ["adhere", "averse", "advertise", "advance"],
+          "correctAnswerIndex": 0,
+          "explanation": "'adhere to ~' は「～を順守する、固く守る」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK11-021",
+          "questionText": "The ------- of a new subway line is expected to alleviate traffic congestion.",
+          "options": ["construction", "destruction", "instruction", "obstruction"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい地下鉄路線の『建設』は、交通渋滞を緩和すると期待されている」という意味になります。「建設」を意味する名詞 'construction' が正解です。"
+        },
+        {
+          "id": "MOCK11-022",
+          "questionText": "The problem was more ------- than we had initially thought.",
+          "options": ["intricate", "intrinsic", "intimate", "intrepid"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その問題は、我々が当初考えていたよりも『複雑だった』」という意味になります。「複雑な、入り組んだ」を意味する形容詞 'intricate' が正解です。"
+        },
+        {
+          "id": "MOCK11-023",
+          "questionText": "The speaker's presentation was so ------- that the audience gave her a standing ovation.",
+          "options": ["compelling", "competing", "complaining", "compiling"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「講演者のプレゼンは非常に『説得力があった』ので、聴衆はスタンディングオベーションを送った」という意味になります。「説得力のある、人を引きつける」を意味する形容詞 'compelling' が正解です。"
+        },
+        {
+          "id": "MOCK11-024",
+          "questionText": "The company is looking for candidates who demonstrate a ------- for teamwork.",
+          "options": ["prospect", "propensity", "property", "proposal"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から「チームワークへの『傾向』を示す候補者を探している」という意味が最も自然です。「（好ましくないことへの）傾向、性向」を意味する 'propensity' が正解です。"
+        },
+        {
+          "id": "MOCK11-025",
+          "questionText": "The new software is designed to ------- with our existing systems seamlessly.",
+          "options": ["interact", "integrate", "interfere", "interpret"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から「既存のシステムとシームレスに『統合される』ように設計されている」という意味になります。「統合する」を意味する動詞 'integrate' が正解です。'integrate with ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK11-026",
+          "questionText": "The ------- between the two companies have been going on for several weeks.",
+          "options": ["negotiations", "notifications", "notations", "nominations"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社間の『交渉』は数週間続いている」という意味になります。「交渉」を意味する複数形の名詞 'negotiations' が正解です。"
+        },
+        {
+          "id": "MOCK11-027",
+          "questionText": "The government has introduced new measures to ------- economic growth.",
+          "options": ["stimulate", "stipulate", "simulate", "starve"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「政府は経済成長を『刺激する』ための新しい措置を導入した」という意味になります。「刺激する、促進する」を意味する動詞 'stimulate' が正解です。"
+        },
+        {
+          "id": "MOCK11-028",
+          "questionText": "The new CEO has a ------- track record of turning struggling companies around.",
+          "options": ["proven", "probable", "provided", "provisional"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「『実績のある』経歴」という意味が最も適切です。過去分詞が形容詞として使われ、「証明された、実績のある」を意味する 'proven' が正解です。"
+        },
+        {
+        "id": "MOCK11-029",
+          "questionText": "------- your application has been received, you will get a confirmation e-mail.",
+          "options": ["As soon as", "As long as", "As well as", "As far as"],
+          "correctAnswerIndex": 0,
+          "explanation": "「申込書が受理され『次第』、確認メールが届きます」という時間的な前後関係を示す文脈です。接続詞 'As soon as' (～するとすぐに) が正解です。"
+        },
+        {
+          "id": "MOCK11-030",
+          "questionText": "The details of the plan are -------, and are subject to change.",
+          "options": ["tentative", "tenacious", "terminal", "tangible"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈と後半の 'are subject to change' (変更されることがある) から、「計画の詳細は『仮のもの』である」という意味が最も自然です。「仮の、暫定的な」を意味する形容詞 'tentative' が正解です。"
+        }
+      ]
+    }
+  ]
+}

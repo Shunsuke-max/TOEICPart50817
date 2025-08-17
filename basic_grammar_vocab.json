@@ -1,0 +1,38 @@
+{
+       "quizSets": [
+         {
+           "setId": "basic_grammar_vocab_set_1",
+           "setName": "基礎文法重要単語 1",
+           "order": 1,
+           "questions": [
+             {
+               "id": "bgv_q1",
+              "questionText": "He ___ to school every day.",
+              "options": ["go", "goes", "going", "went"],
+              "correctAnswerIndex": 1,
+              "explanation": "主語が三人称単数なので、動詞は-esで終わる'goes'が正しいです。",
+              "word": "go",
+              "meaning": "行く",
+              "exampleSentence": "He goes to school by bus."
+            },
+            {
+              "id": "bgv_q2",
+              "questionText": "She is ___ a book now.",
+              "options": ["read", "reads", "reading", "to read"],
+              "correctAnswerIndex": 2,
+              "explanation": "現在進行形なので、動詞は-ing形になります。",
+              "word": "read",
+              "meaning": "読む",
+              "exampleSentence": "She is reading a book in her room."
+            }
+          ]
+        },
+        {
+          "setId": "basic_grammar_vocab_set_2",
+          "setName": "基礎文法重要単語 2",
+          "order": 2,
+          "questions": [
+          ]
+        }
+      ]
+    }

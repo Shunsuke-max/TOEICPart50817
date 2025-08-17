@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_7",
+      "setName": "第7回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK7-001",
+          "questionText": "The conference will cover a _______ of topics, including marketing and finance.",
+          "options": ["wide", "width", "widely", "variety"],
+          "correctAnswerIndex": 3,
+          "explanation": "'a variety of ~' は「さまざまな～」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK7-002",
+          "questionText": "All employees must attend the mandatory safety training session _______ Friday afternoon.",
+          "options": ["at", "in", "on", "for"],
+          "correctAnswerIndex": 2,
+          "explanation": "特定の日付や曜日を表す前置詞は 'on' です。'on Friday afternoon' で「金曜の午後に」となります。"
+        },
+        {
+          "id": "MOCK7-003",
+          "questionText": "The new manager is _______ respected by her colleagues for her leadership skills.",
+          "options": ["high", "height", "highly", "higher"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞 'respected' を修飾するのは副詞です。「大いに、非常に」を意味する 'highly' が正解です。'highly respected' は「非常に尊敬されている」という頻出の組み合わせです。"
+        },
+        {
+          "id": "MOCK7-004",
+          "questionText": "You can _______ return the product for a full refund or exchange it for another item.",
+          "options": ["either", "both", "neither", "not only"],
+          "correctAnswerIndex": 0,
+          "explanation": "'either A or B' は「AかBのどちらか」という意味の相関接続詞です。「全額返金のために製品を返品するか、別の商品と交換することができます」という文脈に合います。"
+        },
+        {
+          "id": "MOCK7-005",
+          "questionText": "The report should be submitted directly to Ms. Alvarez, _______ to her assistant.",
+          "options": ["rather", "instead", "not", "other"],
+          "correctAnswerIndex": 2,
+          "explanation": "'A, not B' の形で、「BではなくA」という意味になります。「レポートはアシスタントではなく、Alvarezさんに直接提出すべきです」という文脈です。"
+        },
+        {
+          "id": "MOCK7-006",
+          "questionText": "The success of the project depends _______ on effective teamwork and communication.",
+          "options": ["large", "largely", "larger", "enlarge"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞句 'depends on' を修飾するのは副詞です。「主として、大部分は」を意味する 'largely' が正解です。"
+        },
+        {
+          "id": "MOCK7-007",
+          "questionText": "The company has an _______ reputation for producing high-quality and reliable products.",
+          "options": ["establish", "establishing", "establishment", "established"],
+          "correctAnswerIndex": 3,
+          "explanation": "名詞 'reputation' を修飾するのは形容詞の働きをする言葉です。ここでは過去分詞が形容詞として使われ、「確立された、定評のある」という意味の 'established' が正解です。"
+        },
+        {
+          "id": "MOCK7-008",
+          "questionText": "Please make sure your contact information is _______ and up-to-date.",
+          "options": ["accuracy", "accurate", "accurately", "accuracies"],
+          "correctAnswerIndex": 1,
+          "explanation": "be動詞 'is' の後の補語として形容詞が必要です。「正確な」を意味する 'accurate' が正解です。"
+        },
+        {
+          "id": "MOCK7-009",
+          "questionText": "_______ unforeseen circumstances, the workshop will proceed as scheduled.",
+          "options": ["Barring", "Regarding", "Unlike", "During"],
+          "correctAnswerIndex": 0,
+          "explanation": "'Barring ~' は「～がなければ」という意味の前置詞です。「予期せぬ事態がなければ、ワークショップは予定通り進みます」という文脈に合います。"
+        },
+        {
+          "id": "MOCK7-010",
+          "questionText": "The new policy will become _______ on the first of next month.",
+          "options": ["effect", "effective", "effectively", "effectiveness"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞 'become' の後の補語として形容詞が必要です。「有効な、効力のある」を意味する 'effective' が正解です。"
+        },
+        {
+          "id": "MOCK7-011",
+          "questionText": "Our company is committed _______ providing the best possible service to our clients.",
+          "options": ["to", "for", "with", "at"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be committed to ~ing' は「～することに専念している、熱心に取り組んでいる」という意味の定型表現です。この 'to' は前置詞なので、後ろには動名詞 (providing) が来ます。"
+        },
+        {
+          "id": "MOCK7-012",
+          "questionText": "The _______ for the new marketing manager position will be interviewed next week.",
+          "options": ["contenders", "contents", "contracts", "conditions"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その職の『候補者』」という意味が最も適切です。「候補者、競争相手」を意味する名詞 'contenders' が正解です。"
+        },
+        {
+          "id": "MOCK7-013",
+          "questionText": "The restaurant is popular _______ its authentic Italian cuisine and cozy atmosphere.",
+          "options": ["by", "with", "for", "to"],
+          "correctAnswerIndex": 2,
+          "explanation": "'be popular for ~' は「～で人気がある」と、人気の理由を表します。"
+        },
+        {
+          "id": "MOCK7-014",
+          "questionText": "The changes to the schedule were announced _______ short notice, causing some confusion.",
+          "options": ["at", "on", "in", "with"],
+          "correctAnswerIndex": 1,
+          "explanation": "'on short notice' は「急な知らせで、間近になって」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK7-015",
+          "questionText": "The purpose of the survey is to _______ customer feedback on our new line of products.",
+          "options": ["solicit", "solidify", "solve", "select"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「顧客のフィードバックを『求める、得る』」という意味が最も自然です。「懇請する、求める」を意味する動詞 'solicit' が正解です。"
+        },
+        {
+          "id": "MOCK7-016",
+          "questionText": "_______ of the two proposals is acceptable, we will need to create a new one.",
+          "options": ["Either", "All", "Neither", "Both"],
+          "correctAnswerIndex": 2,
+          "explanation": "文の後半で「新しいものを作る必要がある」とあるため、前半は否定的な内容になります。「2つの提案の『どちらも』受理できない」という意味の 'Neither of ~' が正解です。'Neither' は単数動詞 (is) をとります。"
+        },
+        {
+          "id": "MOCK7-017",
+          "questionText": "The final report, _______ all the relevant data, must be submitted by Friday.",
+          "options": ["contain", "contained", "containing", "contains"],
+          "correctAnswerIndex": 2,
+          "explanation": "主語 'The final report' と動詞 'must be submitted' の間に挿入された句です。レポートが「データを含んでいる」という能動的な関係なので、現在分詞 'containing' を使って前の名詞を修飾します。"
+        },
+        {
+          "id": "MOCK7-018",
+          "questionText": "The sales figures for this quarter are _______ higher than we anticipated.",
+          "options": ["consider", "considerate", "considerably", "consideration"],
+          "correctAnswerIndex": 2,
+          "explanation": "比較級 'higher' を修飾するのは副詞です。「かなり、相当に」を意味する 'considerably' が正解です。"
+        },
+        {
+          "id": "MOCK7-019",
+          "questionText": "All employees are encouraged to take _______ of the professional development opportunities offered by the company.",
+          "options": ["part", "notice", "care", "advantage"],
+          "correctAnswerIndex": 3,
+          "explanation": "'take advantage of ~' は「～を利用する」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK7-020",
+          "questionText": "The company will _______ employees for any work-related travel expenses.",
+          "options": ["reimburse", "revise", "recruit", "restore"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「仕事関連の出張費を従業員に『払い戻す』」という意味が最も自然です。「払い戻す、弁償する」を意味する動詞 'reimburse' が正解です。"
+        },
+        {
+          "id": "MOCK7-021",
+          "questionText": "The museum features an _______ collection of 19th-century art.",
+          "options": ["impress", "impression", "impressive", "impressively"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞 'collection' を修飾するのは形容詞です。「印象的な、素晴らしい」を意味する 'impressive' が正解です。"
+        },
+        {
+          "id": "MOCK7-022",
+          "questionText": "_______ the project is completed on time depends on the cooperation of all team members.",
+          "options": ["Whether", "If", "That", "What"],
+          "correctAnswerIndex": 0,
+          "explanation": "文全体の主語となる名詞節を導く接続詞が必要です。'depends on' という動詞から、「～かどうかは…次第だ」という文脈が考えられます。名詞節を導き「～かどうか」という意味を持つ 'Whether' が正解です。"
+        },
+        {
+          "id": "MOCK7-023",
+          "questionText": "The new online system has made it much _______ for customers to track their orders.",
+          "options": ["easy", "easier", "easily", "ease"],
+          "correctAnswerIndex": 1,
+          "explanation": "'make it C for A to do' (Aが～するのをCにする) の構文です。'much' は比較級を強調するため、その後ろには比較級の 'easier' が入ります。"
+        },
+        {
+          "id": "MOCK7-024",
+          "questionText": "The terms of the agreement are not _______ and can be modified through further discussion.",
+          "options": ["negotiate", "negotiation", "negotiated", "negotiable"],
+          "correctAnswerIndex": 3,
+          "explanation": "be動詞 'are' の後の補語として形容詞が必要です。文脈から「交渉の『余地がある』」という意味が考えられるため、「交渉可能な」を意味する 'negotiable' が正解です。"
+        },
+        {
+          "id": "MOCK7-025",
+          "questionText": "The instructions were so _______ that some people had difficulty understanding them.",
+          "options": ["complicate", "complication", "complicated", "complicating"],
+          "correctAnswerIndex": 2,
+          "explanation": "'so ... that' 構文の 'so' の後ろには形容詞または副詞が入ります。主語 'The instructions' が「複雑にされている」状態を表すため、形容詞の働きをする過去分詞 'complicated' (複雑な) が正解です。"
+        },
+        {
+          "id": "MOCK7-026",
+          "questionText": "The company is seeking a _______ solution to reduce its environmental impact.",
+          "options": ["sustain", "sustained", "sustainable", "sustainability"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞 'solution' を修飾するのは形容詞です。「持続可能な」を意味する 'sustainable' が正解です。'sustainable solution' は頻出の組み合わせです。"
+        },
+        {
+          "id": "MOCK7-027",
+          "questionText": "It is _______ that all visitors wear a security badge at all times while in the building.",
+          "options": ["imperative", "impart", "impartial", "imperfection"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「すべての訪問者が常にセキュリティバッジを着用することは『極めて重要』である」という意味が最も自然です。「必須の、極めて重要な」を意味する形容詞 'imperative' が正解です。'It is imperative that S (should) V' の構文です。"
+        },
+        {
+          "id": "MOCK7-028",
+          "questionText": "Our new marketing campaign is aimed _______ a younger demographic.",
+          "options": ["for", "to", "at", "on"],
+          "correctAnswerIndex": 2,
+          "explanation": "'be aimed at ~' は「～をターゲットにしている、～を狙いとしている」という意味の定型表現です。"
+        },
+        {
+        "id": "MOCK7-029",
+          "questionText": "Dr. Evans is a leading _______ in the field of renewable energy.",
+          "options": ["author", "authority", "authorize", "authoritative"],
+          "correctAnswerIndex": 1,
+          "explanation": "冠詞 'a' と形容詞 'leading' の後には名詞が必要です。文脈から「再生可能エネルギー分野の第一人者（権威）」という意味になるため、'authority' が正解です。"
+        },
+        {
+          "id": "MOCK7-030",
+          "questionText": "The workshop was more informative _______ I had initially expected.",
+          "options": ["as", "than", "so", "like"],
+          "correctAnswerIndex": 1,
+          "explanation": "比較級 'more informative' が使われているため、比較の対象を示す接続詞 'than' が正解です。"
+        }
+      ]
+    }
+  ]
+}

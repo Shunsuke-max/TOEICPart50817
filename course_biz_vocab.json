@@ -1,0 +1,764 @@
+{
+  "quizSets": [
+    {
+      "setId": "BIZ_VOCAB_SET_1",
+      "setName": "頻出単語 Vol. 1",
+      "questions": [
+        {
+          "id": "2B-001",
+          "questionText": "Please _______ your expense reports to the accounting department by Friday.",
+          "options": ["submission", "submissive", "submit", "submitted"],
+          "correctAnswerIndex": 2,
+          "explanation": "命令文なので、動詞の原形が入ります。'submit'は「提出する」という意味の動詞です。"
+        },
+        {
+          "id": "2B-002",
+          "questionText": "The company plans to _______ a smaller firm to enter a new market.",
+          "options": ["acquire", "require", "inquire", "admire"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「（会社を）買収する、獲得する」という意味の'acquire'が最も適切です。'require'は「要求する」、'inquire'は「尋ねる」です。"
+        },
+        {
+          "id": "2B-003",
+          "questionText": "A list of _______ hotels is available on the conference website.",
+          "options": ["recommend", "recommendation", "recommended", "recommending"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞の 'hotels' を修飾するため、形容詞の役割をする過去分詞の'recommended'（推奨された）が正解です。"
+        },
+        {
+          "id": "2B-004",
+          "questionText": "We have interviewed several qualified _______ for the marketing position.",
+          "options": ["candidates", "contests", "conditions", "canvases"],
+          "correctAnswerIndex": 0,
+          "explanation": "「資格のある〜を面接した」という文脈から、「候補者」を意味する'candidates'が正解です。"
+        },
+        {
+          "id": "2B-005",
+          "questionText": "The annual sales _______ will be held in Boston next month.",
+          "options": ["conference", "reference", "preference", "difference"],
+          "correctAnswerIndex": 0,
+          "explanation": "「年次販売〜」という文脈から、「会議」を意味する'conference'が最も適切です。"
+        },
+        {
+          "id": "2B-006",
+          "questionText": "The flight was delayed _______ to mechanical problems.",
+          "options": ["because", "in spite", "according", "due"],
+          "correctAnswerIndex": 3,
+          "explanation": "'due to ~'で「〜が原因で、〜のために」という意味の熟語になります。"
+        },
+        {
+          "id": "2B-007",
+          "questionText": "The new software allows us to process orders more _______.",
+          "options": ["efficient", "efficiency", "efficacious", "efficiently"],
+          "correctAnswerIndex": 3,
+          "explanation": "動詞の 'process' を修飾するため、副詞の'efficiently'（効率的に）が正解です。"
+        },
+        {
+          "id": "2B-008",
+          "questionText": "For any _______ about our services, please call our customer support.",
+          "options": ["inquiry", "requirement", "acquisition", "insurance"],
+          "correctAnswerIndex": 0,
+          "explanation": "「サービスに関する〜」という文脈から、「問い合わせ」を意味する'inquiry'が正解です。"
+        },
+        {
+          "id": "2B-009",
+          "questionText": "The travel agent sent me the detailed _______ for my business trip.",
+          "options": ["itinerary", "inventory", "interview", "invitation"],
+          "correctAnswerIndex": 0,
+          "explanation": "「旅行の詳細な〜」という文脈から、「旅程表」を意味する'itinerary'が正解です。"
+        },
+        {
+          "id": "2B-010",
+          "questionText": "The manager has to _______ all travel expenses.",
+          "options": ["approve", "improve", "prove", "move"],
+          "correctAnswerIndex": 0,
+          "explanation": "「マネージャーはすべての出張費を〜しなければならない」という文脈から、「承認する」という意味の'approve'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_2",
+      "setName": "頻出単語 Vol. 2",
+      "questions": [
+        {
+          "id": "2B-011",
+          "questionText": "To apply for the job, please fill out the _______ form on our website.",
+          "options": ["apply", "applicable", "applicant", "application"],
+          "correctAnswerIndex": 3,
+          "explanation": "空欄の後ろにある'form'（名詞）を修飾する名詞（複合名詞）として、「申込書」を意味する'application'が入ります。"
+        },
+        {
+          "id": "2B-012",
+          "questionText": "The CEO gave a _______ presentation on the company's quarterly performance.",
+          "options": ["brief", "briefly", "briefing", "briefness"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞の'presentation'を修飾するため、形容詞の'brief'（簡潔な）が正解です。"
+        },
+        {
+          "id": "2B-013",
+          "questionText": "Could you please _______ your attendance at the workshop by this Friday?",
+          "options": ["confirm", "conform", "comfort", "confess"],
+          "correctAnswerIndex": 0,
+          "explanation": "「出席を〜してください」という文脈から、「確認する」を意味する'confirm'が正解です。"
+        },
+        {
+          "id": "2B-014",
+          "questionText": "We apologize for the _______ in responding to your e-mail.",
+          "options": ["delay", "relay", "decay", "display"],
+          "correctAnswerIndex": 0,
+          "explanation": "「返信の〜をお詫びします」という文脈から、「遅延」を意味する名詞の'delay'が正解です。"
+        },
+        {
+          "id": "2B-015",
+          "questionText": "The new office _______ will be delivered next Monday.",
+          "options": ["equipment", "equipped", "equipping", "equip"],
+          "correctAnswerIndex": 0,
+          "explanation": "'office'（オフィス）と共に使われる名詞として、「備品、機器」を意味する'equipment'が正解です。'equipment'は不可算名詞です。"
+        },
+        {
+          "id": "2B-016",
+          "questionText": "Our customer service team is trained to _______ complaints effectively.",
+          "options": ["handle", "hold", "hand", "hang"],
+          "correctAnswerIndex": 0,
+          "explanation": "「苦情を〜する」という文脈から、「扱う、処理する」を意味する'handle'が最も適切です。"
+        },
+        {
+          "id": "2B-017",
+          "questionText": "We regret to _______ you that the morning flight to New York has been canceled.",
+          "options": ["inform", "reform", "perform", "deform"],
+          "correctAnswerIndex": 0,
+          "explanation": "'inform A that ...'で「Aに…を知らせる」という使い方をします。文脈からも「〜をお知らせすることを残念に思います」となり、'inform'が正解です。"
+        },
+        {
+          "id": "2B-018",
+          "questionText": "The store offers a wide variety of _______, from clothing to electronics.",
+          "options": ["merchandise", "merchant", "market", "mechanism"],
+          "correctAnswerIndex": 0,
+          "explanation": "「衣類から電子機器まで、様々な〜」という文脈から、「商品」を意味する'merchandise'が正解です。"
+        },
+        {
+          "id": "2B-019",
+          "questionText": "All employees are encouraged to _______ in the upcoming training session.",
+          "options": ["participate", "participant", "participle", "participation"],
+          "correctAnswerIndex": 0,
+          "explanation": "'are encouraged to'の後には動詞の原形が来るため、「参加する」を意味する'participate'が正解です。'participate in ~'で「〜に参加する」という熟語です。"
+        },
+        {
+          "id": "2B-020",
+          "questionText": "We are looking for a _______ supplier who can guarantee on-time delivery.",
+          "options": ["reliable", "reliant", "rely", "reliability"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞の'supplier'（供給業者）を修飾するため、形容詞の'reliable'（信頼できる）が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_3",
+      "setName": "頻出単語 Vol. 3",
+      "questions": [
+        {
+          "id": "2B-021",
+          "questionText": "The hotel can _______ up to 500 guests for the conference.",
+          "options": ["accommodate", "accumulate", "accompany", "accomplish"],
+          "correctAnswerIndex": 0,
+          "explanation": "「ホテルは会議のために500人まで〜できる」という文脈から、「収容する」という意味の'accommodate'が正解です。"
+        },
+        {
+          "id": "2B-022",
+          "questionText": "The marketing department has exceeded its _______ for this quarter.",
+          "options": ["budget", "badge", "bridge", "bunch"],
+          "correctAnswerIndex": 0,
+          "explanation": "「マーケティング部門は今四半期の〜を超過した」という文脈から、「予算」を意味する'budget'が正解です。"
+        },
+        {
+          "id": "2B-023",
+          "questionText": "Our new office is in a _______ location, close to the subway station.",
+          "options": ["convenient", "convenience", "convene", "conveniently"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞の'location'を修飾するため、形容詞の'convenient'（便利な）が正解です。"
+        },
+        {
+          "id": "2B-024",
+          "questionText": "The company will _______ the cost of the damage from his salary.",
+          "options": ["deduct", "conduct", "predict", "induct"],
+          "correctAnswerIndex": 0,
+          "explanation": "「会社は彼の給料から損害費用を〜する」という文脈から、「差し引く、控除する」という意味の'deduct'が正解です。"
+        },
+        {
+          "id": "2B-025",
+          "questionText": "We need to _______ the performance of our new advertising campaign.",
+          "options": ["evaluate", "evaporate", "evacuate", "estimate"],
+          "correctAnswerIndex": 0,
+          "explanation": "「新しい広告キャンペーンの成果を〜する必要がある」という文脈から、「評価する」という意味の'evaluate'が正解です。"
+        },
+        {
+          "id": "2B-026",
+          "questionText": "The committee meets _______ to discuss the progress of the project.",
+          "options": ["frequently", "frequent", "frequency", "fluent"],
+          "correctAnswerIndex": 0,
+          "explanation": "動詞の'meets'を修飾するため、副詞の'frequently'（頻繁に）が正解です。"
+        },
+        {
+          "id": "2B-027",
+          "questionText": "We _______ that our products are free from defects for one year.",
+          "options": ["guarantee", "guard", "guide", "guess"],
+          "correctAnswerIndex": 0,
+          "explanation": "「我々の製品が1年間欠陥がないことを〜します」という文脈から、「保証する」という意味の'guarantee'が正解です。"
+        },
+        {
+          "id": "2B-028",
+          "questionText": "Please make sure to pay the _______ before the due date.",
+          "options": ["invoice", "invitation", "invention", "inventory"],
+          "correctAnswerIndex": 0,
+          "explanation": "「期日前に〜を支払う」という文脈から、「請求書」を意味する'invoice'が正解です。"
+        },
+        {
+          "id": "2B-029",
+          "questionText": "The company will _______ a new line of products next spring.",
+          "options": ["launch", "lunch", "lounge", "land"],
+          "correctAnswerIndex": 0,
+          "explanation": "「来春、新しい製品ラインを〜する」という文脈から、「発売する、開始する」という意味の'launch'が正解です。"
+        },
+        {
+          "id": "2B-030",
+          "questionText": "All employees will be _______ of the changes to the company policy.",
+          "options": ["notification", "notified", "notify", "notifying"],
+          "correctAnswerIndex": 1,
+          "explanation": "be動詞の後ろなので、受動態'be notified of ~'「〜を通知される」となり、過去分詞の'notified'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_4",
+      "setName": "頻出単語 Vol. 4",
+      "questions": [
+        {
+          "id": "2B-031",
+          "questionText": "You can find more details about our services in this _______.",
+          "options": ["brochure", "branch", "brand", "break"],
+          "correctAnswerIndex": 0,
+          "explanation": "「この〜でサービスの詳細を見つけられます」という文脈から、「パンフレット」を意味する'brochure'が正解です。"
+        },
+        {
+          "id": "2B-032",
+          "questionText": "I'd like you to meet my _______, Mr. Ken Tanaka.",
+          "options": ["colleague", "college", "collection", "collaboration"],
+          "correctAnswerIndex": 0,
+          "explanation": "「私の〜、田中研さんを紹介します」という文脈から、「同僚」を意味する'colleague'が正解です。"
+        },
+        {
+          "id": "2B-033",
+          "questionText": "The sales representative will _______ how to use the new software.",
+          "options": ["demonstrate", "demolish", "decline", "demand"],
+          "correctAnswerIndex": 0,
+          "explanation": "「営業担当者が新しいソフトウェアの使い方を〜する」という文脈から、「実演する、説明する」という意味の'demonstrate'が正解です。"
+        },
+        {
+          "id": "2B-034",
+          "questionText": "Employees who have worked here for over a year are _______ for a raise.",
+          "options": ["eligible", "illegible", "edible", "flexible"],
+          "correctAnswerIndex": 0,
+          "explanation": "'eligible for ~'で「〜の資格がある」という熟語です。'illegible'は「読みにくい」という意味です。"
+        },
+        {
+          "id": "2B-035",
+          "questionText": "The company is planning to build a new research _______ next year.",
+          "options": ["facility", "faculty", "fatality", "familiarity"],
+          "correctAnswerIndex": 0,
+          "explanation": "「新しい研究〜を建設する」という文脈から、「施設」を意味する'facility'が正解です。"
+        },
+        {
+          "id": "2B-036",
+          "questionText": "This project is expected to _______ a lot of revenue for the company.",
+          "options": ["generate", "generalize", "gentle", "genuine"],
+          "correctAnswerIndex": 0,
+          "explanation": "「多くの収益を〜することが期待されている」という文脈から、「生み出す」という意味の'generate'が正解です。"
+        },
+        {
+          "id": "2B-037",
+          "questionText": "A technician will come to _______ the new air conditioner tomorrow.",
+          "options": ["install", "instill", "insist", "instruct"],
+          "correctAnswerIndex": 0,
+          "explanation": "「新しいエアコンを〜するために技術者が来る」という文脈から、「設置する」という意味の'install'が正解です。"
+        },
+        {
+          "id": "2B-038",
+          "questionText": "It's important to _______ a good relationship with our clients.",
+          "options": ["maintain", "contain", "obtain", "retain"],
+          "correctAnswerIndex": 0,
+          "explanation": "「顧客と良い関係を〜することが重要だ」という文脈から、「維持する」という意味の'maintain'が正解です。"
+        },
+        {
+          "id": "2B-039",
+          "questionText": "We need to _______ the terms of the contract with the supplier.",
+          "options": ["negotiate", "neglect", "navigate", "nominate"],
+          "correctAnswerIndex": 0,
+          "explanation": "「供給業者と契約条件を〜する必要がある」という文脈から、「交渉する」という意味の'negotiate'が正解です。"
+        },
+        {
+          "id": "2B-040",
+          "questionText": "Ms. Johnson was hired to _______ the entire production process.",
+          "options": ["oversee", "overlook", "overcome", "overtake"],
+          "correctAnswerIndex": 0,
+          "explanation": "「生産プロセス全体を〜するために雇われた」という文脈から、「監督する」という意味の'oversee'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_5",
+      "setName": "頻出単語 Vol. 5",
+      "questions": [
+        {
+          "id": "2B-041",
+          "questionText": "If the original plan is not feasible, we need to find an _______ solution.",
+          "options": ["alternate", "alternative", "alternatively", "alternation"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞の'solution'を修飾するため、形容詞の'alternative'（代わりの）が正解です。'alternate'も形容詞ですが「交互の」という意味で文脈に合いません。"
+        },
+        {
+          "id": "2B-042",
+          "questionText": "Due to unforeseen circumstances, we have to _______ the meeting.",
+          "options": ["cancel", "conceal", "counsel", "council"],
+          "correctAnswerIndex": 0,
+          "explanation": "「予期せぬ事態により、会議を〜しなければならない」という文脈から、「中止する」という意味の'cancel'が正解です。"
+        },
+        {
+          "id": "2B-043",
+          "questionText": "The _______ for submitting the proposal is next Monday at 5 PM.",
+          "options": ["deadline", "headline", "guideline", "timeline"],
+          "correctAnswerIndex": 0,
+          "explanation": "「提案の提出〜は来週月曜の午後5時です」という文脈から、「締め切り」を意味する'deadline'が正解です。"
+        },
+        {
+          "id": "2B-044",
+          "questionText": "The marketing team will _______ flyers in the downtown area.",
+          "options": ["distribute", "contribute", "attribute", "dispute"],
+          "correctAnswerIndex": 0,
+          "explanation": "「マーケティングチームがダウンタウン地区でチラシを〜する」という文脈から、「配布する」という意味の'distribute'が正解です。"
+        },
+        {
+          "id": "2B-045",
+          "questionText": "The company is planning to _______ its operations into the European market.",
+          "options": ["expand", "expend", "expect", "expose"],
+          "correctAnswerIndex": 0,
+          "explanation": "「事業を欧州市場へ〜する計画だ」という文脈から、「拡大する」という意味の'expand'が正解です。'expend'は「費やす」です。"
+        },
+        {
+          "id": "2B-046",
+          "questionText": "We appreciate your _______ on our new line of products.",
+          "options": ["feedback", "fallback", "feed", "drawback"],
+          "correctAnswerIndex": 0,
+          "explanation": "「新製品ラインに関するあなたの〜に感謝します」という文脈から、「意見、フィードバック」を意味する'feedback'が正解です。"
+        },
+        {
+          "id": "2B-047",
+          "questionText": "We are looking to _______ a new project manager with at least five years of experience.",
+          "options": ["hire", "higher", "fire", "wire"],
+          "correctAnswerIndex": 0,
+          "explanation": "「新しいプロジェクトマネージャーを〜しようとしている」という文脈から、「雇う」という意味の'hire'が正解です。"
+        },
+        {
+          "id": "2B-048",
+          "questionText": "The management decided to _______ a new security policy.",
+          "options": ["implement", "imply", "implant", "complement"],
+          "correctAnswerIndex": 0,
+          "explanation": "「経営陣は新しいセキュリティ方針を〜することを決定した」という文脈から、「実行する、導入する」という意味の'implement'が正解です。"
+        },
+        {
+          "id": "2B-049",
+          "questionText": "The main _______ of this meeting is to finalize the project plan.",
+          "options": ["objective", "objection", "object", "subjective"],
+          "correctAnswerIndex": 0,
+          "explanation": "「この会議の主な〜はプロジェクト計画を最終決定することです」という文脈から、「目的」を意味する'objective'が正解です。"
+        },
+        {
+          "id": "2B-050",
+          "questionText": "Ms. Davis was _______ to the position of Senior Manager.",
+          "options": ["promotion", "prompted", "promoting", "promoted"],
+          "correctAnswerIndex": 3,
+          "explanation": "be動詞'was'の後なので、受動態'be promoted to ~'「〜に昇進する」となり、過去分詞の'promoted'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_6",
+      "setName": "頻出単語 Vol. 6",
+      "questions": [
+        {
+          "id": "2B-051",
+          "questionText": "The first item on the _______ is the review of the quarterly sales report.",
+          "options": ["agenda", "agent", "agency", "agile"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜の最初の項目は…です」という文脈と、会議の話題であることから、「議題」を意味する'agenda'が正解です。"
+        },
+        {
+          "id": "2B-052",
+          "questionText": "Many employees _______ to work by train.",
+          "options": ["commute", "compute", "compete", "complete"],
+          "correctAnswerIndex": 0,
+          "explanation": "「多くの従業員が電車で〜する」という文脈から、「通勤する」という意味の'commute'が正解です。"
+        },
+        {
+          "id": "2B-053",
+          "questionText": "Improving customer _______ is our top priority this year.",
+          "options": ["satisfy", "satisfactory", "satisfaction", "satisfied"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞'customer'の後ろに置かれ、「顧客満足」という複合名詞を作るため、名詞の'satisfaction'が正解です。"
+        },
+        {
+          "id": "2B-054",
+          "questionText": "We offer a 10% _______ to customers who subscribe to our newsletter.",
+          "options": ["discount", "discard", "discourse", "discover"],
+          "correctAnswerIndex": 0,
+          "explanation": "「10%の〜を提供する」という文脈から、「割引」を意味する'discount'が正解です。"
+        },
+        {
+          "id": "2B-055",
+          "questionText": "Please _______ that all the information in the form is correct.",
+          "options": ["ensure", "insure", "assure", "endure"],
+          "correctAnswerIndex": 0,
+          "explanation": "「用紙の情報がすべて正しいことを〜してください」という文脈から、「確実にする」という意味の'ensure'が正解です。'insure'は「保険をかける」、'assure'は「保証する」です。"
+        },
+        {
+          "id": "2B-056",
+          "questionText": "For _______ information, please visit our website or call us directly.",
+          "options": ["further", "father", "farther", "future"],
+          "correctAnswerIndex": 0,
+          "explanation": "「さらなる情報については」という意味で、'further information'は定型表現です。'farther'は物理的な距離を指します。"
+        },
+        {
+          "id": "2B-057",
+          "questionText": "The company's _______ is located in New York City.",
+          "options": ["headquarters", "hindquarters", "headsets", "highlights"],
+          "correctAnswerIndex": 0,
+          "explanation": "「会社の本社はニューヨーク市にあります」という意味で、'headquarters'が正解です。"
+        },
+        {
+          "id": "2B-058",
+          "questionText": "We need to check the _______ to see how many items we have in stock.",
+          "options": ["inventory", "invention", "invitation", "investment"],
+          "correctAnswerIndex": 0,
+          "explanation": "「在庫がいくつあるか見るために〜を確認する必要がある」という文脈から、「在庫、棚卸し」を意味する'inventory'が正解です。"
+        },
+        {
+          "id": "2B-059",
+          "questionText": "We may need to _______ the original design slightly.",
+          "options": ["modify", "modernize", "moderate", "mollify"],
+          "correctAnswerIndex": 0,
+          "explanation": "「元のデザインをわずかに〜する必要があるかもしれない」という文脈から、「修正する」という意味の'modify'が正解です。"
+        },
+        {
+          "id": "2B-060",
+          "questionText": "Please follow the standard _______ for requesting a vacation.",
+          "options": ["procedure", "proceed", "procession", "procedural"],
+          "correctAnswerIndex": 0,
+          "explanation": "「休暇を申請するための標準的な〜に従ってください」という文脈から、「手順」を意味する名詞の'procedure'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_7",
+      "setName": "頻出単語 Vol. 7",
+      "questions": [
+        {
+          "id": "2B-061",
+          "questionText": "The company holds an _______ meeting for all its shareholders.",
+          "options": ["annual", "annul", "manual", "animal"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞'meeting'を修飾するため、形容詞が必要です。「株主総会」など、文脈から「年に一度の」を意味する'annual'が正解です。"
+        },
+        {
+          "id": "2B-062",
+          "questionText": "I have an _______ with Dr. Smith at 3 PM tomorrow.",
+          "options": ["appointment", "appoint", "appointing", "appointee"],
+          "correctAnswerIndex": 0,
+          "explanation": "冠詞'an'の後ろなので名詞が入ります。「スミス医師との〜がある」という文脈から、「予約、約束」を意味する'appointment'が正解です。"
+        },
+        {
+          "id": "2B-063",
+          "questionText": "All hotel guests can enjoy a _______ breakfast at our restaurant.",
+          "options": ["complimentary", "complementary", "compliment", "complete"],
+          "correctAnswerIndex": 0,
+          "explanation": "「ホテルの宿泊客は〜な朝食を楽しめる」という文脈から、「無料の」を意味する'complimentary'が正解です。'complementary'は「補足的な」という意味で、スペルが似ているので注意が必要です。"
+        },
+        {
+          "id": "2B-064",
+          "questionText": "The team has won five _______ games.",
+          "options": ["consecutive", "consequent", "conscious", "conservative"],
+          "correctAnswerIndex": 0,
+          "explanation": "「チームは5〜の試合に勝った」という文脈から、「連続した」を意味する'consecutive'が正解です。"
+        },
+        {
+          "id": "2B-065",
+          "questionText": "Please sign the _______ and return it to us as soon as possible.",
+          "options": ["document", "doctrine", "dock", "domain"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜に署名して返送してください」という文脈から、「書類」を意味する'document'が正解です。"
+        },
+        {
+          "id": "2B-066",
+          "questionText": "We are looking for ways to _______ the efficiency of our production line.",
+          "options": ["enhance", "enforce", "engage", "enlarge"],
+          "correctAnswerIndex": 0,
+          "explanation": "「生産ラインの効率を〜する方法を探している」という文脈から、「高める、強化する」という意味の'enhance'が正解です。"
+        },
+        {
+          "id": "2B-067",
+          "questionText": "We are _______ for your continued support and cooperation.",
+          "options": ["grateful", "graceful", "gradual", "grand"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be grateful for ~'で「〜に感謝している」という表現になります。"
+        },
+        {
+          "id": "2B-068",
+          "questionText": "Please contact technical support _______ if you encounter any issues.",
+          "options": ["immediate", "immediately", "immediacy", "mediate"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'contact'を修飾するため、副詞の'immediately'（すぐに）が正解です。"
+        },
+        {
+          "id": "2B-069",
+          "questionText": "It takes about 24 hours to _______ a new application.",
+          "options": ["process", "progress", "profess", "possess"],
+          "correctAnswerIndex": 0,
+          "explanation": "「新しい申請を〜するのに約24時間かかる」という文脈から、「処理する」という意味の'process'が正解です。"
+        },
+        {
+          "id": "2B-070",
+          "questionText": "The committee will _______ a new plan at the next meeting.",
+          "options": ["propose", "purpose", "suppose", "expose"],
+          "correctAnswerIndex": 0,
+          "explanation": "「委員会は次の会議で新しい計画を〜するだろう」という文脈から、「提案する」という意味の'propose'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_8",
+      "setName": "頻出単語 Vol. 8",
+      "questions": [
+        {
+          "id": "2B-071",
+          "questionText": "Our company will open a new _______ in London next year.",
+          "options": ["branch", "brand", "bench", "bunch"],
+          "correctAnswerIndex": 0,
+          "explanation": "「来年ロンドンに新しい〜を開設する」という文脈から、「支店」を意味する'branch'が正解です。"
+        },
+        {
+          "id": "2B-072",
+          "questionText": "I am writing _______ the job opening advertised on your website.",
+          "options": ["concerning", "concerned", "concern", "concerns"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜に関して」という意味の前置詞'concerning'が正解です。'regarding'や'about'と同じ意味で使われます。"
+        },
+        {
+          "id": "2B-073",
+          "questionText": "We need to _______ closely with the marketing team on this project.",
+          "options": ["cooperate", "operate", "corporate", "corporation"],
+          "correctAnswerIndex": 0,
+          "explanation": "'to'の後ろなので動詞の原形が入ります。「マーケティングチームと緊密に〜する必要がある」という文脈から、「協力する」という意味の'cooperate'が正解です。"
+        },
+        {
+          "id": "2B-074",
+          "questionText": "Her _______ to the company is highly appreciated by everyone.",
+          "options": ["dedicate", "dedication", "dedicated", "dedicating"],
+          "correctAnswerIndex": 1,
+          "explanation": "所有格'Her'の後ろなので名詞が入ります。「会社への彼女の〜」という文脈から、「献身」を意味する'dedication'が正解です。"
+        },
+        {
+          "id": "2B-075",
+          "questionText": "The _______ staff must attend the mandatory safety training.",
+          "options": ["entire", "entry", "retire", "attire"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜のスタッフが安全研修に参加しなければならない」という文脈から、「全体の」を意味する'entire'が正解です。"
+        },
+        {
+          "id": "2B-076",
+          "questionText": "We hired a financial _______ to help us with our investments.",
+          "options": ["expert", "export", "excerpt", "expect"],
+          "correctAnswerIndex": 0,
+          "explanation": "「投資を手伝ってもらうために金融の〜を雇った」という文脈から、「専門家」を意味する'expert'が正解です。"
+        },
+        {
+          "id": "2B-077",
+          "questionText": "The main _______ discussed in the meeting was the budget cut.",
+          "options": ["issue", "exit", "tissue", "asset"],
+          "correctAnswerIndex": 0,
+          "explanation": "「会議で議論された主な〜は予算削減だった」という文脈から、「問題点、議題」を意味する'issue'が正解です。"
+        },
+        {
+          "id": "2B-078",
+          "questionText": "This job offers an excellent _______ for career growth.",
+          "options": ["opportunity", "operation", "opposition", "opinion"],
+          "correctAnswerIndex": 0,
+          "explanation": "「この仕事はキャリアアップのための素晴らしい〜を提供する」という文脈から、「機会」を意味する'opportunity'が正解です。"
+        },
+        {
+          "id": "2B-079",
+          "questionText": "The manager decided to _______ the meeting until next week.",
+          "options": ["postpone", "position", "possess", "propose"],
+          "correctAnswerIndex": 0,
+          "explanation": "「マネージャーは会議を来週まで〜することを決めた」という文脈から、「延期する」という意味の'postpone'が正解です。"
+        },
+        {
+          "id": "2B-080",
+          "questionText": "A college degree is a necessary _______ for this position.",
+          "options": ["qualify", "qualified", "qualification", "qualifying"],
+          "correctAnswerIndex": 2,
+          "explanation": "冠詞'a'と形容詞'necessary'の後ろなので名詞が入ります。「この職に必要な〜」という文脈から、「資格」を意味する'qualification'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_9",
+      "setName": "頻出単語 Vol. 9",
+      "questions": [
+        {
+          "id": "2B-081",
+          "questionText": "All conference _______ will receive a name tag at the registration desk.",
+          "options": ["attendees", "attendance", "attendant", "attended"],
+          "correctAnswerIndex": 0,
+          "explanation": "「すべての会議〜は受付で名札を受け取る」という文脈から、「出席者」を意味する'attendees'が正解です。"
+        },
+        {
+          "id": "2B-082",
+          "questionText": "Please handle the fragile items _______ to avoid any damage.",
+          "options": ["cautious", "cautiously", "caution", "cause"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'handle'を修飾するため、副詞の'cautiously'（慎重に）が正解です。"
+        },
+        {
+          "id": "2B-083",
+          "questionText": "The report provides a _______ analysis of the current market trends.",
+          "options": ["comprehensive", "comprehend", "comprehension", "comprehensible"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞'analysis'を修飾するため、形容詞の'comprehensive'（包括的な、総合的な）が正解です。"
+        },
+        {
+          "id": "2B-084",
+          "questionText": "The product was recalled due to a serious _______ in its design.",
+          "options": ["defect", "defeat", "defense", "deficit"],
+          "correctAnswerIndex": 0,
+          "explanation": "「設計上の深刻な〜が原因で製品がリコールされた」という文脈から、「欠陥」を意味する'defect'が正解です。"
+        },
+        {
+          "id": "2B-085",
+          "questionText": "The company _______s employees to take further training courses.",
+          "options": ["encourage", "encourages", "encouragement", "courage"],
+          "correctAnswerIndex": 1,
+          "explanation": "主語が'The company'（三人称単数）なので、動詞にsがついた'encourages'（奨励する）が正解です。"
+        },
+        {
+          "id": "2B-086",
+          "questionText": "Can we _______ the deadline for this project by one week?",
+          "options": ["extend", "expend", "expand", "intend"],
+          "correctAnswerIndex": 0,
+          "explanation": "「このプロジェクトの締め切りを1週間〜できますか？」という文脈から、「延長する」という意味の'extend'が正解です。"
+        },
+        {
+          "id": "2B-087",
+          "questionText": "The company decided to _______ heavily in new technology.",
+          "options": ["invest", "invent", "invite", "invoice"],
+          "correctAnswerIndex": 0,
+          "explanation": "「会社は新しい技術に多額の〜をすることを決めた」という文脈から、「投資する」という意味の'invest'が正解です。"
+        },
+        {
+          "id": "2B-088",
+          "questionText": "Our human resources department is trying to _______ talented engineers.",
+          "options": ["recruit", "receipt", "recede", "recite"],
+          "correctAnswerIndex": 0,
+          "explanation": "「人事部は有能なエンジニアを〜しようとしている」という文脈から、「採用する、募集する」という意味の'recruit'が正解です。"
+        },
+        {
+          "id": "2B-089",
+          "questionText": "If you are not satisfied with the product, you can return it for a full _______.",
+          "options": ["refund", "refuse", "regard", "reduce"],
+          "correctAnswerIndex": 0,
+          "explanation": "「製品に満足いただけない場合、全額〜のために返品できます」という文脈から、「返金」を意味する'refund'が正解です。"
+        },
+        {
+          "id": "2B-090",
+          "questionText": "The hotel lobby is currently closed because it is being _______.",
+          "options": ["renovated", "removable", "renowned", "reminded"],
+          "correctAnswerIndex": 0,
+          "explanation": "be動詞とbeingの後なので、受動態の進行形です。過去分詞が入り、「改装されている」という意味の'renovated'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "BIZ_VOCAB_SET_10",
+      "setName": "頻出単語 Vol. 10",
+      "questions": [
+        {
+          "id": "2B-091",
+          "questionText": "We need to ensure that we have _______ resources to complete the project.",
+          "options": ["adequate", "addicted", "adhere", "adjacent"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞'resources'を修飾するため、形容詞が必要です。「プロジェクトを完了するために〜な資源があるか確認する必要がある」という文脈から、「十分な」を意味する'adequate'が正解です。"
+        },
+        {
+          "id": "2B-092",
+          "questionText": "Only managers are _______d to approve expenses over $500.",
+          "options": ["authorize", "author", "authorized", "authority"],
+          "correctAnswerIndex": 2,
+          "explanation": "be動詞の後ろなので受動態となり、過去分詞の'authorized'が正解です。'be authorized to do'で「〜する権限を与えられている」という意味です。"
+        },
+        {
+          "id": "2B-093",
+          "questionText": "We are waiting for a shipment of a critical _______ for the machine.",
+          "options": ["component", "competent", "opponent", "complement"],
+          "correctAnswerIndex": 0,
+          "explanation": "「機械の重要な〜の出荷を待っている」という文脈から、「部品」を意味する'component'が正解です。"
+        },
+        {
+          "id": "2B-094",
+          "questionText": "You should _______ a lawyer before signing any legal documents.",
+          "options": ["consult", "insult", "conceal", "consent"],
+          "correctAnswerIndex": 0,
+          "explanation": "助動詞'should'の後ろなので動詞の原形が入ります。「法的な書類に署名する前に弁護士に〜すべきだ」という文脈から、「相談する」という意味の'consult'が正解です。"
+        },
+        {
+          "id": "2B-095",
+          "questionText": "Our new suitcases are made of _______, lightweight material.",
+          "options": ["durable", "duration", "during", "doable"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞'material'を修飾するため、形容詞の'durable'（耐久性のある）が正解です。"
+        },
+        {
+          "id": "2B-096",
+          "questionText": "_______ to the start of the seminar, please turn off your mobile phones.",
+          "options": ["Prior", "Priority", "Prioritize", "Previously"],
+          "correctAnswerIndex": 0,
+          "explanation": "'prior to ~'で「〜の前に」という意味の熟語になります。'before'と同じ意味で使われます。"
+        },
+        {
+          "id": "2B-097",
+          "questionText": "The company will _______ its headquarters to a new building next year.",
+          "options": ["relocate", "reelect", "allocate", "locate"],
+          "correctAnswerIndex": 0,
+          "explanation": "「会社は来年、本社を新しいビルに〜する」という文脈から、「移転する」という意味の'relocate'が正解です。"
+        },
+        {
+          "id": "2B-098",
+          "questionText": "Sales have increased _______ since the launch of the new product.",
+          "options": ["significant", "significance", "significantly", "signature"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞'increased'を修飾するため、副詞の'significantly'（大幅に）が正解です。"
+        },
+        {
+          "id": "2B-099",
+          "questionText": "The marketing team developed a new _______ to attract more customers.",
+          "options": ["strategy", "straight", "strength", "stretch"],
+          "correctAnswerIndex": 0,
+          "explanation": "「マーケティングチームはより多くの顧客を引きつけるための新しい〜を開発した」という文脈から、「戦略」を意味する'strategy'が正解です。"
+        },
+        {
+          "id": "2B-100",
+          "questionText": "The conference will be held at a different _______ this year.",
+          "options": ["venue", "revenue", "avenue", "value"],
+          "correctAnswerIndex": 0,
+          "explanation": "「会議は今年は違う〜で開催される」という文脈から、「会場」を意味する'venue'が正解です。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_20",
+      "setName": "第20回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK20-001",
+          "questionText": "The company's failure to adapt to changing market dynamics was the primary cause of its -------.",
+          "options": ["demise", "premise", "surmise", "treatise"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「市場力学の変化に適応できなかったことが、その会社の『終焉』の主な原因だった」という意味になります。「終焉、消滅」を意味する名詞 'demise' が正解です。"
+        },
+        {
+          "id": "MOCK20-002",
+          "questionText": "The new legislation is intended to ------- the tax burden on low-income families.",
+          "options": ["alleviate", "aggravate", "articulate", "ascertain"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい法律は、低所得世帯の税負担を『軽減する』ことを目的としている」という意味になります。「（負担などを）軽減する、和らげる」を意味する動詞 'alleviate' が正解です。"
+        },
+        {
+          "id": "MOCK20-003",
+          "questionText": "The board of directors gave its ------- approval to the new strategic plan.",
+          "options": ["tacit", "hectic", "static", "frantic"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「取締役会は、新しい戦略計画に『暗黙の』承認を与えた」という意味になります。「暗黙の、無言の」を意味する形容詞 'tacit' が正解です。'tacit approval' は「黙認」という意味のコロケーションです。"
+        },
+        {
+          "id": "MOCK20-004",
+          "questionText": "The ------- of the new factory has been postponed indefinitely due to funding issues.",
+          "options": ["commissioning", "committing", "commenting", "commanding"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「資金問題のため、新しい工場の『本格稼働』は無期限に延期された」という意味になります。「（工場・機械などの）本格稼働、試運転」を意味する名詞 'commissioning' が正解です。"
+        },
+        {
+          "id": "MOCK20-005",
+          "questionText": "The two companies have formed a strategic ------- to explore opportunities in the renewable energy sector.",
+          "options": ["alliance", "allowance", "allegiance", "appliance"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は、再生可能エネルギー分野での機会を探るため、戦略的『提携』を結んだ」という意味になります。「同盟、提携」を意味する名詞 'alliance' が正解です。"
+        },
+        {
+          "id": "MOCK20-006",
+          "questionText": "The new CEO's ------- management style has led to a significant improvement in employee morale.",
+          "options": ["participatory", "parsimonious", "perfunctory", "precarious"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「従業員の士気の大きな向上につながった」という結果から、ポジティブな意味の形容詞が入ると推測できます。「新しいCEOの『参加型』の経営スタイル」という意味の 'participatory' が最も適切です。"
+        },
+        {
+          "id": "MOCK20-007",
+          "questionText": "The results of the clinical trial were -------, failing to show a clear benefit of the new drug.",
+          "options": ["inconclusive", "incompatible", "incoherent", "inconspicuous"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「新薬の明確な利点を示すことができなかった」という内容から、「臨床試験の結果は『決定的なものではなかった』」という意味になります。「決定的な、結論の出ない」を意味する形容詞 'inconclusive' が正解です。"
+        },
+        {
+          "id": "MOCK20-008",
+          "questionText": "The company has ------- a significant amount of capital to fund its expansion plans.",
+          "options": ["earmarked", "embarked", "enacted", "engraved"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、拡大計画の資金として、かなりの額の資本を『充当した』」という意味になります。「（資金などを特定の目的に）充当する、取っておく」を意味する動詞 'earmarked' が正解です。"
+        },
+        {
+          "id": "MOCK20-009",
+          "questionText": "The ------- between the projected figures and the actual results was larger than expected.",
+          "options": ["discrepancy", "diplomacy", "dispatch", "disposition"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「予測値と実際の結果との間の『食い違い』は、予想よりも大きかった」という意味になります。「食い違い、不一致」を意味する名詞 'discrepancy' が正解です。"
+        },
+        {
+          "id": "MOCK20-010",
+          "questionText": "The consultant's recommendations were ------- and did not address the core issues.",
+          "options": ["superficial", "substantial", "sufficient", "subsequent"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「核心的な問題に対処していなかった」という内容から、「コンサルタントの勧告は『表面的な』ものだった」という意味になります。「表面的な、浅薄な」を意味する形容詞 'superficial' が正解です。"
+        },
+        {
+          "id": "MOCK20-011",
+          "questionText": "The company's ability to ------- its operations during the crisis was a key to its survival.",
+          "options": ["sustain", "ascertain", "attain", "contain"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「危機の間、事業を『持続させる』会社の能力が、その存続の鍵だった」という意味になります。「持続させる、維持する」を意味する動詞 'sustain' が正解です。"
+        },
+        {
+          "id": "MOCK20-012",
+          "questionText": "The new policy gives managers greater ------- in making hiring decisions.",
+          "options": ["discretion", "distraction", "dissension", "distortion"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい方針は、採用決定を行う上で、マネージャーにより大きな『裁量権』を与える」という意味になります。「自由裁量（権）」を意味する名詞 'discretion' が正解です。"
+        },
+        {
+          "id": "MOCK20-013",
+          "questionText": "The marketing team has been tasked with ------- a more aggressive advertising strategy.",
+          "options": ["devising", "revising", "despising", "dividing"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「マーケティングチームは、より積極的な広告戦略を『考案する』という任務を課されている」という意味になります。「考案する、工夫する」を意味する動詞 'devising' が正解です。"
+        },
+        {
+          "id": "MOCK20-014",
+          "questionText": "The ------- of the new software has been met with mixed reactions from employees.",
+          "options": ["advent", "adversary", "advocacy", "adequacy"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアの『出現』は、従業員から様々な反応で迎えられた」という意味になります。「出現、到来」を意味する名詞 'advent' が正解です。"
+        },
+        {
+          "id": "MOCK20-015",
+          "questionText": "The two countries signed a treaty to ------- the long-standing border dispute.",
+          "options": ["resolve", "revolve", "revoke", "reveal"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「両国は、長年の国境紛争を『解決する』ための条約に署名した」という意味になります。「（紛争・問題を）解決する」を意味する動詞 'resolve' が正解です。"
+        },
+        {
+          "id": "MOCK20-016",
+          "questionText": "The ------- of the company's assets will be overseen by a court-appointed trustee.",
+          "options": ["liquidation", "limitation", "litigation", "liberation"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社の資産の『清算』は、裁判所が任命した管財人によって監督される」という意味になります。「（会社の）清算、整理」を意味する名詞 'liquidation' が正解です。"
+        },
+        {
+          "id": "MOCK20-017",
+          "questionText": "The company has a ------- policy of promoting from within whenever possible.",
+          "options": ["long-standing", "long-winded", "long-suffering", "long-range"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その会社には、可能な限り内部から昇進させるという『長年の』方針がある」という意味になります。「長年の、昔からの」を意味する形容詞 'long-standing' が正解です。"
+        },
+        {
+          "id": "MOCK20-018",
+          "questionText": "The new system is designed to ------- the risk of human error in the data entry process.",
+          "options": ["obviate", "occupy", "offend", "oppress"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいシステムは、データ入力プロセスにおける人的ミスのリスクを『取り除く』ように設計されている」という意味になります。「（危険・困難などを）取り除く、不要にする」を意味する動詞 'obviate' が正解です。"
+        },
+        {
+          "id": "MOCK20-019",
+          "questionText": "The ------- of the new CEO's speech was that the company must embrace innovation to survive.",
+          "options": ["gist", "gust", "grid", "grip"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOのスピーチの『要点』は、会社が生き残るためにはイノベーションを受け入れなければならないということだった」という意味になります。「要点、骨子」を意味する名詞 'gist' が正解です。"
+        },
+        {
+          "id": "MOCK20-020",
+          "questionText": "The new marketing campaign was ------- with the company's overall brand strategy.",
+          "options": ["congruent", "congested", "congenial", "consecutive"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいマーケティングキャンペーンは、会社の全体的なブランド戦略と『一致していた』」という意味になります。「一致する、調和する」を意味する形容詞 'congruent' が正解です。'be congruent with ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK20-021",
+          "questionText": "The company decided to ------- its operations to reduce costs.",
+          "options": ["streamline", "stagnate", "subscribe", "substitute"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、コストを削減するために、事業を『合理化する』ことを決定した」という意味になります。「合理化する、効率化する」を意味する動詞 'streamline' が正解です。"
+        },
+        {
+          "id": "MOCK20-022",
+          "questionText": "The manager's ------- of the new policy was unclear, leading to confusion among the staff.",
+          "options": ["exposition", "expedition", "expulsion", "exploitation"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「マネージャーによる新しい方針の『詳細な説明』が不明瞭で、スタッフの間に混乱を引き起こした」という意味になります。「詳細な説明、解説」を意味する名詞 'exposition' が正解です。"
+        },
+        {
+          "id": "MOCK20-023",
+          "questionText": "The company's ------- into the European market has been highly successful.",
+          "options": ["foray", "folly", "foyer", "fervor"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その会社のヨーロッパ市場への『進出』は、非常に成功している」という意味になります。「（新しい分野への）進出、試み」を意味する名詞 'foray' が正解です。"
+        },
+        {
+          "id": "MOCK20-024",
+          "questionText": "The CEO's ------- decision to invest in the new technology paid off handsomely.",
+          "options": ["prescient", "prevalent", "pretentious", "precarious"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい技術に投資するというCEOの『先見の明のある』決断は、見事に報われた」という意味になります。「予知の、先見の明のある」を意味する形容詞 'prescient' が正解です。"
+        },
+        {
+          "id": "MOCK20-025",
+          "questionText": "The new regulations have created a significant ------- for small businesses.",
+          "options": ["impediment", "implement", "impetus", "imprint"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい規制は、中小企業にとって大きな『障害』を生み出した」という意味になります。「障害、妨げ」を意味する名詞 'impediment' が正解です。"
+        },
+        {
+          "id": "MOCK20-026",
+          "questionText": "The company's financial situation is -------, and it may face bankruptcy.",
+          "options": ["precarious", "preposterous", "pretentious", "preliminary"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈と後半の「破産に直面するかもしれない」という内容から、「会社の財政状況は『不安定である』」という意味になります。「不安定な、危険な」を意味する形容詞 'precarious' が正解です。"
+        },
+        {
+          "id": "MOCK20-027",
+          "questionText": "The research team is trying to ------- the cause of the system failure.",
+          "options": ["pinpoint", "pioneer", "placate", "plagiarize"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「研究チームは、システム障害の原因を『正確に特定しよう』と試みている」という意味になります。「正確に特定する、突き止める」を意味する動詞 'pinpoint' が正解です。"
+        },
+        {
+          "id": "MOCK20-028",
+          "questionText": "The two companies are ------- over the patent rights for the new technology.",
+          "options": ["in litigation", "in liquidation", "in levitation", "in limitation"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は、新技術の特許権をめぐって『訴訟中である』」という意味になります。'in litigation' は「訴訟中である」という意味の定型表現です。"
+        },
+        {
+        "id": "MOCK20-029",
+          "questionText": "The ------- of the new software is designed to be user-friendly and intuitive.",
+          "options": ["interface", "interference", "interim", "interior"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアの『インターフェース』は、ユーザーフレンドリーで直感的に設計されている」という意味になります。「インターフェース、接点」を意味する名詞 'interface' が正解です。"
+        },
+        {
+          "id": "MOCK20-030",
+          "questionText": "The CEO's ------- remarks at the end of the meeting boosted the team's morale.",
+          "options": ["galvanizing", "garrulous", "generic", "genuine"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会議の最後でのCEOの『活気づける』言葉が、チームの士気を高めた」という意味になります。「活気づける、刺激する」を意味する形容詞 'galvanizing' が正解です。"
+        }
+      ]
+    }
+  ]
+}

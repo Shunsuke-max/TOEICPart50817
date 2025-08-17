@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_19",
+      "setName": "第19回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK19-001",
+          "questionText": "The new software is designed to ------- complex tasks and improve user workflow.",
+          "options": ["resolve", "simplify", "gather", "postpone"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から「新しいソフトウェアは、複雑なタスクを『単純化し』、ユーザーのワークフローを改善するように設計されている」という意味になります。「単純化する」を意味する動詞 'simplify' が正解です。"
+        },
+        {
+          "id": "MOCK19-002",
+          "questionText": "Dr. Anya Sharma is a ------- authority on international trade law.",
+          "options": ["respective", "renowned", "reluctant", "removable"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から「Anya Sharma博士は、国際貿易法の『著名な』権威だ」という意味になります。「著名な、名高い」を意味する形容詞 'renowned' が正解です。"
+        },
+        {
+          "id": "MOCK19-003",
+          "questionText": "The ------- of the new production line has significantly increased our output capacity.",
+          "options": ["intention", "installation", "intuition", "invitation"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から「新しい生産ラインの『設置』が、我々の生産能力を大幅に増加させた」という意味になります。「設置、導入」を意味する名詞 'installation' が正解です。"
+        },
+        {
+          "id": "MOCK19-004",
+          "questionText": "The city's plan to expand the subway system has been met with ------- from some residents.",
+          "options": ["resistance", "resemblance", "remittance", "reliance"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「市の地下鉄システムを拡張する計画は、一部の住民から『抵抗』に遭っている」という意味になります。「抵抗、反対」を意味する名詞 'resistance' が正解です。"
+        },
+        {
+          "id": "MOCK19-005",
+          "questionText": "The management team decided to ------- the new policy in stages over the next six months.",
+          "options": ["roll out", "call off", "put up", "bring in"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「経営陣は、新しい方針を今後6ヶ月かけて段階的に『展開する』ことを決定した」という意味になります。「（新製品や新制度を）展開する、導入する」を意味する句動詞 'roll out' が正解です。"
+        },
+        {
+          "id": "MOCK19-006",
+          "questionText": "The company offers a ------- work schedule to help employees balance their work and personal lives.",
+          "options": ["rigid", "strict", "flexible", "fixed"],
+          "correctAnswerIndex": 2,
+          "explanation": "後半の「従業員が仕事と私生活のバランスをとるのを助ける」という内容から、「会社は『柔軟な』勤務スケジュールを提供している」という意味になります。「柔軟な」を意味する形容詞 'flexible' が正解です。"
+        },
+        {
+          "id": "MOCK19-007",
+          "questionText": "Mr. Davies has ------- to lead the new project, given his extensive experience.",
+          "options": ["appointed", "been appointed", "appointing", "appoints"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から「Daviesさんは、その豊富な経験を考慮して、新しいプロジェクトを率いるよう『任命された』」という意味の受動態が適切です。主語は任命される側なので、'has been appointed' が正解です。"
+        },
+        {
+          "id": "MOCK19-008",
+          "questionText": "The ------- of the two reports shows a significant discrepancy in the sales figures.",
+          "options": ["comparison", "competition", "completion", "compassion"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2つの報告書の『比較』が、売上高における重大な食い違いを示している」という意味になります。「比較」を意味する名詞 'comparison' が正解です。"
+        },
+        {
+          "id": "MOCK19-009",
+          "questionText": "All employees are expected to ------- with the company's dress code.",
+          "options": ["comply", "clarify", "commute", "compose"],
+          "correctAnswerIndex": 0,
+          "explanation": "'comply with ~' は「（規則などに）従う」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK19-010",
+          "questionText": "The ------- of the new factory is scheduled to take place next spring.",
+          "options": ["inauguration", "interruption", "investigation", "implication"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい工場の『落成式（操業開始）』は、来春に行われる予定だ」という意味になります。「落成式、開業、就任式」を意味する名詞 'inauguration' が正解です。"
+        },
+        {
+          "id": "MOCK19-011",
+          "questionText": "The workshop will provide ------- insights into effective negotiation techniques.",
+          "options": ["practical", "potential", "partial", "perpetual"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのワークショップは、効果的な交渉術に関する『実践的な』洞察を提供する」という意味になります。「実践的な、実用的な」を意味する形容詞 'practical' が正解です。"
+        },
+        {
+          "id": "MOCK19-012",
+          "questionText": "The success of the campaign was ------- due to the creative advertisements.",
+          "options": ["primarily", "privately", "previously", "punctually"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのキャンペーンの成功は、『主として』創造的な広告によるものだった」という意味になります。「主として、第一に」を意味する副詞 'primarily' が正解です。"
+        },
+        {
+          "id": "MOCK19-013",
+          "questionText": "The new CEO has a ------- vision for the future of the company.",
+          "options": ["bold", "bare", "busy", "brief"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOは、会社の将来に対する『大胆な』ビジョンを持っている」という意味になります。「大胆な、勇敢な」を意味する形容詞 'bold' が正解です。"
+        },
+        {
+          "id": "MOCK19-014",
+          "questionText": "The company has ------- a partnership with a local university to foster innovation.",
+          "options": ["established", "estimated", "eliminated", "evaluated"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、イノベーションを促進するために、地元の大学との提携関係を『築いた』」という意味になります。「設立する、築く」を意味する動詞 'established' が正解です。"
+        },
+        {
+          "id": "MOCK19-015",
+          "questionText": "The ------- of the survey results will take approximately two weeks.",
+          "options": ["analysis", "analyst", "analyze", "analytical"],
+          "correctAnswerIndex": 0,
+          "explanation": "定冠詞 'The' の後で、'of' の前にあるため名詞が必要です。「分析」を意味する名詞 'analysis' が正解です。"
+        },
+        {
+          "id": "MOCK19-016",
+          "questionText": "The new system allows for more ------- tracking of shipments.",
+          "options": ["precise", "precious", "previous", "precocious"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいシステムは、より『正確な』貨物の追跡を可能にする」という意味になります。「正確な、精密な」を意味する形容詞 'precise' が正解です。"
+        },
+        {
+          "id": "MOCK19-017",
+          "questionText": "The company is ------- to reducing its environmental footprint.",
+          "options": ["dedicated", "deducted", "defeated", "delayed"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be dedicated to ~' は「～に専念している、～に打ち込んでいる」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK19-018",
+          "questionText": "The two managers have ------- opinions on how to handle the situation.",
+          "options": ["contrasting", "containing", "confirming", "connecting"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2人のマネージャーは、その状況をどう処理するかについて『対照的な』意見を持っている」という意味になります。「対照的な」を意味する形容詞 'contrasting' が正解です。"
+        },
+        {
+          "id": "MOCK19-019",
+          "questionText": "The ------- of the new software has been postponed until all bugs are fixed.",
+          "options": ["release", "relief", "receipt", "review"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「すべてのバグが修正されるまで、新しいソフトウェアの『リリース』は延期された」という意味になります。「発売、公開」を意味する名詞 'release' が正解です。"
+        },
+        {
+          "id": "MOCK19-020",
+          "questionText": "The project must be completed within the ------- budget.",
+          "options": ["allocated", "alleviated", "aggravated", "alternated"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「プロジェクトは、『割り当てられた』予算内で完了しなければならない」という意味になります。過去分詞が形容詞として使われ、「割り当てられた」を意味する 'allocated' が正解です。"
+        },
+        {
+          "id": "MOCK19-021",
+          "questionText": "The new marketing campaign ------- a broad audience.",
+          "options": ["targets", "touches", "talks", "tests"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいマーケティングキャンペーンは、幅広い層を『対象としている』」という意味になります。「～を対象とする、狙う」を意味する動詞 'targets' が正解です。"
+        },
+        {
+          "id": "MOCK19-022",
+          "questionText": "The ------- of the two companies will create the largest telecommunications provider in the country.",
+          "options": ["amalgamation", "ambiguity", "ambition", "animation"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社の『合併』は、国内最大の通信事業者を生み出すだろう」という意味になります。「合併、合同」を意味する名詞 'amalgamation' が正解です。'merger' と類義です。"
+        },
+        {
+          "id": "MOCK19-023",
+          "questionText": "The team's ------- performance in the final quarter exceeded all expectations.",
+          "options": ["exemplary", "expendable", "explanatory", "explicit"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「最終四半期におけるチームの『模範的な』業績は、すべての期待を上回った」という意味になります。「模範的な、素晴らしい」を意味する形容詞 'exemplary' が正解です。"
+        },
+        {
+          "id": "MOCK19-024",
+          "questionText": "The government has implemented policies to ------- foreign investment.",
+          "options": ["facilitate", "fluctuate", "fabricate", "fascinate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「政府は、海外からの投資を『促進する』ための方針を実施した」という意味になります。「促進する、容易にする」を意味する動詞 'facilitate' が正解です。"
+        },
+        {
+          "id": "MOCK19-025",
+          "questionText": "The ------- of the new airport terminal is expected to take three years.",
+          "options": ["construction", "destruction", "instruction", "obstruction"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい空港ターミナルの『建設』は、3年かかると予想されている」という意味になります。「建設」を意味する名詞 'construction' が正解です。"
+        },
+        {
+          "id": "MOCK19-026",
+          "questionText": "The research provides ------- evidence to support the new theory.",
+          "options": ["compelling", "competing", "complaining", "compiling"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その研究は、新しい理論を裏付ける『説得力のある』証拠を提供している」という意味になります。「説得力のある、強力な」を意味する形容詞 'compelling' が正解です。"
+        },
+        {
+          "id": "MOCK19-027",
+          "questionText": "The company has a ------- process for evaluating employee performance.",
+          "options": ["rigorous", "vigorous", "righteous", "riotous"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社には、従業員の業績を評価するための『厳格な』プロセスがある」という意味になります。「厳格な、厳密な」を意味する形容詞 'rigorous' が正解です。"
+        },
+        {
+          "id": "MOCK19-028",
+          "questionText": "The new CEO plans to ------- the company's organizational structure.",
+          "options": ["restructure", "restore", "restrain", "retrieve"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOは、会社の組織構造を『再構築する』計画だ」という意味になります。「再構築する」を意味する動詞 'restructure' が正解です。"
+        },
+        {
+        "id": "MOCK19-029",
+          "questionText": "The ------- of a skilled workforce is a major challenge for the industry.",
+          "options": ["scarcity", "security", "scrutiny", "serenity"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「熟練した労働力の『不足』が、その業界にとって大きな課題だ」という意味になります。「不足、希少性」を意味する名詞 'scarcity' が正解です。"
+        },
+        {
+          "id": "MOCK19-030",
+          "questionText": "The success of the project is a ------- to the team's hard work and creativity.",
+          "options": ["testament", "testimony", "testiness", "tendency"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「プロジェクトの成功は、チームの熱心な仕事と創造性の『証』である」という意味になります。「（～の）証拠、証」を意味する名詞 'testament' が正解です。'be a testament to ~' の形でよく使われます。"
+        }
+      ]
+    }
+  ]
+}

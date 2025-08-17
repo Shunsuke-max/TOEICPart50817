@@ -1,0 +1,250 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_4_IMPROVED",
+      "setName": "【改訂版】第4回 Part5 模試（日常・ビジネス混合）",
+      "questions": [
+        {
+          "id": "MOCK4-001",
+          "questionText": "The quarterly financial report drafted by Mr. Evans must be reviewed ------- before it is submitted to the board of directors at Apex Industries.",
+          "options": ["care", "careful", "carefully", "caring"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】空欄には、動詞句「be reviewed」（レビューされる）を修飾する言葉が入ります。動詞を修飾するのは副詞の役割なので、「注意深く」という意味の(C)「carefully」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK4-002",
+          "questionText": "The online webinar on sustainable business practices, hosted by Dr. Lena Petrova, will begin promptly ------- 9:00 A.M. Japan Standard Time.",
+          "options": ["at", "on", "in", "for"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】時刻を表す前置詞を選ぶ問題です。\n\n【解説】特定の時刻の前には前置詞「at」を用いるのがルールです。「at 9:00 A.M.」で「午前9時ちょうどに」となります。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK4-003",
+          "questionText": "We have received numerous compliments from our clients at Sterling Corp. regarding the ------- of our customer service team.",
+          "options": ["professional", "professionally", "professor", "professionalism"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】名詞を選ぶ品詞問題です。\n\n【解説】定冠詞「the」と前置詞「of」に挟まれた位置には、名詞が入ります。文脈から「プロ意識、専門性」を意味する名詞(D)「professionalism」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK4-004",
+          "questionText": "The company's new remote work policy ------- to all employees during last Monday's all-hands meeting.",
+          "options": ["explains", "was explained", "has explained", "will explain"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】受動態と時制を問う問題です。\n\n【解説】主語は「The...policy」（方針）であり、これは自ら説明するのではなく「説明される」側なので受動態（be動詞 + 過去分詞）が適切です。また、「last Monday's meeting」という明確な過去の時点を示す表現があるため、過去形の受動態である(B)「was explained」が正解です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK4-005",
+          "questionText": "For your safety, the cabin crew will instruct all passengers to ------- their seatbelts before the plane takes off.",
+          "options": ["fasten", "connect", "unlock", "release"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】文脈から「シートベルトを締めてください」という意味になるため、「締める」を意味する動詞(A)「fasten」が正解です。他の選択肢は意味が通じません。",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK4-006",
+          "questionText": "The recent social media campaign by Nova Marketing was highly ------- in boosting brand awareness among younger consumers.",
+          "options": ["success", "succeed", "successful", "successfully"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】品詞の形を見分ける問題です。\n\n【解説】be動詞「was」の後ろにあり、副詞「highly」（非常に）に修飾されていることから、この場所には補語となる形容詞が必要です。「成功した」を意味する形容詞(C)「successful」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK4-007",
+          "questionText": "------- who are interested in volunteering for the annual city cleanup event should sign up on the community website by Friday.",
+          "options": ["They", "Those", "Them", "Their"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】代名詞の用法を問う問題です。\n\n【解説】「those who ...」は「～する人々」という意味で使われる、非常に重要な定型表現です。後ろから関係代名詞節「who are interested...」が修飾しています。この文の主語として適切なのは(B)「Those」です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK4-008",
+          "questionText": "With the installation of the new automated system, we will _______ to process customer orders much faster.",
+          "options": ["can", "could", "be able", "ability"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】助動詞のルールを問う問題です。\n\n【解説】助動詞「will」の後ろには、別の助動詞「can」を置くことはできません。そのため、「～できる」という同じ意味を持つ「be able to」を動詞の原形の形で用います。したがって、(C)「be able」が正解です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK4-009",
+          "questionText": "Thanks to the diligent work of the entire team at SYD-Tech, the software development project was completed ahead ------- schedule.",
+          "options": ["of", "on", "in", "by"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】イディオムの知識を問う問題です。\n\n【解説】「ahead of schedule」は「予定より早く」という意味で使われる、ひとかたまりの頻出イディオムです。このまま覚えてしまいましょう。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK4-010",
+          "questionText": "Aria Cosmetics plans to ------- its line of organic skincare products next year to meet growing consumer demand.",
+          "options": ["wide", "width", "widely", "widen"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】to不定詞の後ろの品詞を問う問題です。\n\n【解説】「to」の後ろには動詞の原形が続いて、to不定詞の塊を作ります。選択肢の中で動詞の原形は、「広げる、拡大する」という意味の(D)「widen」です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK4-011",
+          "questionText": "The community's annual outdoor festival was cancelled ------- the unexpected heavy rain throughout the day.",
+          "options": ["although", "because", "despite", "due to"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】前置詞と接続詞の使い分けを問う問題です。\n\n【解説】空欄の後ろは「the unexpected heavy rain...」という名詞句なので、前置詞の働きをする(D)「due to」（～が原因で）が正解です。(A)「although」や(B)「because」は接続詞なので、後ろには主語と動詞のある「文」が続きます。",
+          "category": "前置詞"
+        },
+        {
+          "id": "MOCK4-012",
+          "questionText": "The project manager's primary role is to ------- tasks and resources effectively to the various team members.",
+          "options": ["allocate", "define", "inspect", "reverse"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】文脈から「タスクやリソースをチームメンバーに『割り当てる』」という意味が最も適切です。(A)「allocate」は、資源や仕事などを計画的に「割り当てる、配分する」という意味の動詞で、この文脈にぴったりです。他の選択肢は意味が通りません。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK4-013",
+          "questionText": "Our entire organization is committed to ------- a diverse and inclusive workplace for everyone.",
+          "options": ["foster", "fostering", "fostered", "fosters"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】前置詞の後ろの形を問う問題です。\n\n【解説】「be committed to ～」の「to」はto不定詞のtoではなく前置詞です。そのため、後ろには名詞または動名詞（-ing形）が来ます。したがって、「育成すること」を意味する動名詞(B)「fostering」が正解です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK4-014",
+          "questionText": "We have hired a freelance consultant from Innovatech Solutions ------- expertise in cloud computing is well-known in the industry.",
+          "options": ["who", "which", "that", "whose"],
+          "correctAnswerIndex": 3,
+          "explanation": "【ポイント】関係代名詞の格を選ぶ問題です。\n\n【解説】空欄の後ろの名詞「expertise」（専門知識）と、先行詞「a freelance consultant」の関係が、「そのコンサルタント『の』専門知識」という所有の関係になっています。この関係を表すのが所有格の関係代名詞(D)「whose」です。",
+          "category": "関係詞"
+        },
+        {
+          "id": "MOCK4-015",
+          "questionText": "Applicants for the senior web developer position must be highly ------- in at least two modern programming languages.",
+          "options": ["proficient", "sufficient", "deficient", "efficient"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う形容詞の語彙を選ぶ問題です。\n\n【解説】文脈から「（技術などに）熟達した、堪能な」という意味の形容詞が必要です。「proficient in ～」で「～に熟達している」という意味の頻出表現になります。(B) sufficient (十分な)、(C) deficient (不十分な)、(D) efficient (効率的な) は文脈に合いません。",
+          "category": "紛らわしい語彙"
+        },
+        {
+          "id": "MOCK4-016",
+          "questionText": "The new manufacturing process at the Kenwood factory is ------- more energy-efficient than the previous one.",
+          "options": ["so", "very", "considerably", "too"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】比較級を修飾する副詞を選ぶ問題です。\n\n【解説】比較級「more energy-efficient」を強調して「かなり、相当に」という意味を表す副詞は(C)「considerably」です。「far」「much」「significantly」なども同様に使われますが、「very」は比較級を直接修飾できない、というルールは重要です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK4-017",
+          "questionText": "The director, Ms. Flores, has ------- confidence in her team's ability to meet the ambitious project deadline.",
+          "options": ["every", "complete", "all", "whole"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】コロケーション（語の組み合わせ）を問う問題です。\n\n【解説】「complete confidence」は「全幅の信頼」という意味で使われる、決まった語の組み合わせです。(B)「complete」は形容詞として、不可算名詞の「confidence」を修飾します。他の選択肢は文法的に不適切か、不自然です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK4-018",
+          "questionText": "The results of the recent customer satisfaction survey were _______ with our initial predictions from last quarter.",
+          "options": ["consist", "consistent", "consistency", "consistently"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】品詞の形とコロケーションを問う問題です。\n\n【解説】be動詞「were」の後ろには、主語の状態を説明する補語として形容詞が必要です。「be consistent with ～」で「～と一致している、矛盾しない」という意味の定型表現になるため、形容詞(B)「consistent」が正解です。",
+          "category": "品詞"
+        },
+        {
+          "id": "MOCK4-019",
+          "questionText": "A final decision on the proposed merger with B&G Industries _______ until all financial implications have been carefully reviewed.",
+          "options": ["will postpone", "is postponing", "will be postponed", "has postponed"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】受動態と時制を問う問題です。\n\n【解説】主語「A final decision」（最終決定）は、自ら延期するのではなく「延期される」ものなので、受動態が必要です。また、これは未来のことについて述べているため、未来形の受動態である(C)「will be postponed」が正解です。",
+          "category": "動詞の形・時制"
+        },
+        {
+          "id": "MOCK4-020",
+          "questionText": "The new kitchen appliance is easy to use; _______, it is very simple to clean.",
+          "options": ["however", "moreover", "otherwise", "therefore"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】文と文の論理関係を表す接続副詞を選ぶ問題です。\n\n【解説】前の文（使いやすい）というプラスの情報に加えて、後ろの文（掃除も簡単だ）という、さらに別のプラスの情報を付け加えています。この場合、「その上、さらに」を意味する接続副詞(B)「moreover」が最も適切です。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK4-021",
+          "questionText": "Rarely _______ such a dedicated and talented group of individuals assembled for a single project.",
+          "options": ["an organization has", "has an organization", "an organization", "did an organization"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】倒置構文の知識を問う、やや難易度の高い問題です。\n\n【解説】「Rarely」（めったに～ない）のような否定的な意味を持つ副詞が文頭に来ると、その後ろは疑問文と同じ語順（主語と動詞の倒置）になります。この文は現在完了形なので、「has（助動詞） + an organization（主語） + assembled（過去分詞）」という語順の(B)が正解です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK4-022",
+          "questionText": "The two research universities agreed to _______ on the development of a new type of biodegradable plastic.",
+          "options": ["collaborate", "compete", "negotiate", "organize"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う動詞の語彙を選ぶ問題です。\n\n【解説】複数の組織が共通の目標（新しいプラスチックの開発）のために「共同で作業する、協力して作り上げる」という文脈です。この意味に最も適した動詞は(A)「collaborate」です。「collaborate on ～」で「～について共同作業する」という形で使われます。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK4-023",
+          "questionText": "Had the company invested in new technology sooner, it _______ in a much stronger competitive position today.",
+          "options": ["is", "will be", "would be", "would have been"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】混合仮定法を問う、難易度の高い問題です。\n\n【解説】「Had the company invested...」は「If the company had acted...」（もし会社が投資していたら）という、過去の事実に反する仮定を表します。しかし、文末に「today」（今日）があるため、帰結節は現在の状況を表します。このように「過去に～していたら、今頃は～だろうに」という文は混合仮定法と呼ばれ、主節は「would + 動詞の原形」の形になります。よって(C)「would be」が正解です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK4-024",
+          "questionText": "The rental agreement clearly _______ that all payments must be made on the first day of each month.",
+          "options": ["stipulates", "requests", "estimates", "infers"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】フォーマルな文脈で使われる動詞の語彙問題です。\n\n【解説】契約書や規則などが、条件として「～を規定する、明記する」という意味で使われる動詞は(A)「stipulate」です。法的な文書や契約書で頻出する、やや固い表現です。他の選択肢は意味が合いません。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK4-025",
+          "questionText": "_______ with a sudden drop in online sales, the retail company had to revise its annual revenue forecast.",
+          "options": ["Facing", "Faced", "To face", "Have faced"],
+          "correctAnswerIndex": 1,
+          "explanation": "【ポイント】分詞構文を問う問題です。\n\n【解説】これは分詞構文で、主節の主語である「the retail company」が「売上の急落に直面させられた」という受動的な関係にあります。したがって、過去分詞(B)「Faced」で始めるのが適切です。「Faced with ～」は「～に直面して」という意味で使われる定型表現です。",
+          "category": "その他文法"
+        },
+        {
+          "id": "MOCK4-026",
+          "questionText": "The community meeting was ------- cancelled after the main speaker announced he was unable to attend.",
+          "options": ["abruptly", "positively", "precisely", "relatively"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】文脈に合う副詞の語彙を選ぶ問題です。\n\n【解説】「主要な講演者が出席できなくなった」という理由から、「会議が『突然』中止された」という文脈が最も自然です。「突然に、不意に」を意味する副詞(A)「abruptly」が正解です。",
+          "category": "一般語彙"
+        },
+        {
+          "id": "MOCK4-027",
+          "questionText": "The success of our product launch is entirely _______ on our ability to generate interest through social media.",
+          "options": ["reliant", "relative", "related", "responsible"],
+          "correctAnswerIndex": 0,
+          "explanation": "【ポイント】コロケーションと品詞を問う問題です。\n\n【解説】be動詞「is」と前置詞「on」に挟まれています。「be reliant on ～」は「～に依存している、～頼みである」という意味の表現で、「be dependent on」とほぼ同じ意味で使われます。形容詞(A)「reliant」が正解です。",
+          "category": "コロケーション"
+        },
+        {
+          "id": "MOCK4-028",
+          "questionText": "The marketing campaign was creative and well-received, _______ it failed to result in a significant increase in sales.",
+          "options": ["so", "for", "yet", "nor"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】逆接を表す接続詞を選ぶ問題です。\n\n【解説】「キャンペーンは創造的で評判が良かった」（プラスの内容）と、「しかし売上を大きく伸ばすには至らなかった」（マイナスの内容）という、対照的な2つの文をつないでいます。この場合、逆接を表す等位接続詞の(C)「yet」（しかし、それでも）が最も適切です。",
+          "category": "接続詞"
+        },
+        {
+          "id": "MOCK4-029",
+          "questionText": "The consultant was hired to help management ------- the underlying causes of low employee morale.",
+          "options": ["access", "assess", "address", "assert"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】紛らわしい動詞の語彙を選ぶ問題です。\n\n【解説】動詞「address」には、物理的な住所を尋ねる意味の他に、「（問題などに）取り組む、対処する」という重要な意味があります。ここでは「士気の低さの根本原因に取り組む」という文脈に最も適しています。(A) access (アクセスする)、(B) assess (評価する)、(D) assert (主張する) は文脈に合いません。",
+          "category": "ビジネス語彙"
+        },
+        {
+          "id": "MOCK4-030",
+          "questionText": "The assembly instructions for the new office furniture were so _______ that even experienced staff found them confusing.",
+          "options": ["complicate", "complicating", "complicated", "complication"],
+          "correctAnswerIndex": 2,
+          "explanation": "【ポイント】構文と品詞の知識を問う問題です。\n\n【解説】「so + 形容詞/副詞 + that ...」は「非常に…なので～だ」という意味の結果を表す構文です。ここではbe動詞「were」の補語として、形容詞が入ります。したがって、「複雑な」という意味の形容詞(C)「complicated」が正解となります。",
+          "category": "品詞"
+        }
+      ]
+    }
+  ]
+}

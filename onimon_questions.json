@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "ONIMON_SURVIVAL_SET_1",
+      "setName": "鬼問サバイバルセット",
+      "questions": [
+        {
+          "id": "onimon-001",
+          "questionText": "The internal audit team _______ examined the financial records, leaving no stone unturned in their search for discrepancies.",
+          "options": ["scrupulously", "perpetually", "sporadically", "superficially"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈は「内部監査チームが財務記録を（徹底的に）調査した」という意味。「綿密に、細心の注意を払って」という意味の 'scrupulously' が最も適切です。'perpetually' (絶えず)、'sporadically' (散発的に)、'superficially' (表面上は) は文脈に合いません。"
+        },
+        {
+          "id": "onimon-002",
+          "questionText": "His inspection of the safety equipment was so _______ that he failed to notice a critical malfunction.",
+          "options": ["punctual", "perfunctory", "pertinent", "profound"],
+          "correctAnswerIndex": 1,
+          "explanation": "「重大な機能不全に気づかなかった」という結果から、検査が「おざなりな、いい加減な」ものであったことが推測されます。'perfunctory' がその意味に合致します。'punctual' (時間厳守の)、'pertinent' (関連のある)、'profound' (深い) は不適切です。"
+        },
+        {
+          "id": "onimon-003",
+          "questionText": "The manager's thoughtless comments served only to _______ the already tense situation between the two departments.",
+          "options": ["ameliorate", "alleviate", "exacerbate", "facilitate"],
+          "correctAnswerIndex": 2,
+          "explanation": "「すでに緊張した状況を」どうしたか、という文脈です。'thoughtless comments' (配慮のないコメント) は状況を「悪化させる」のが自然です。'exacerbate' (悪化させる) が正解。'ameliorate' と 'alleviate' は「改善する、緩和する」、'facilitate' は「促進する」で逆の意味になります。"
+        },
+        {
+          "id": "onimon-004",
+          "questionText": "_______ it not for the timely intervention of the IT department, the entire network would have crashed.",
+          "options": ["Had", "Should", "Would", "Were"],
+          "correctAnswerIndex": 3,
+          "explanation": "これは仮定法過去の倒置構文です。元の文は 'If it were not for ...' で、「もし〜がなければ」という意味。Ifが省略されると 'Were it not for ...' という語順になります。主節が 'would have crashed' であれば 'Had it not been for ...' となりますが、ここでは 'would crash' の意味合いで 'Were' が使われています。"
+        },
+        {
+          "id": "onimon-005",
+          "questionText": "The pharmaceutical industry is subject to _______ regulations to ensure the safety and efficacy of new drugs.",
+          "options": ["lenient", "negligible", "stringent", "voluntary"],
+          "correctAnswerIndex": 2,
+          "explanation": "「新薬の安全性と有効性を確保するため」という目的から、製薬業界には「厳格な」規制があると考えられます。'stringent' (厳格な) が正解です。'lenient' (寛大な)、'negligible' (無視できるほどの)、'voluntary' (自主的な) は文脈に合いません。"
+        },
+        {
+          "id": "onimon-006",
+          "questionText": "The new policy will be _______ to all employees through a company-wide memo and a series of informational meetings.",
+          "options": ["disseminated", "retracted", "concealed", "appropriated"],
+          "correctAnswerIndex": 0,
+          "explanation": "「全社的なメモと一連の情報会議を通じて」という手段から、新しい方針が従業員に「広められる」ことが分かります。'disseminate' (情報を広める、普及させる) が最も適切な動詞です。"
+        },
+        {
+          "id": "onimon-007",
+          "questionText": "Little _______ the marketing team know that their new campaign would become a viral sensation overnight.",
+          "options": ["was", "had", "did", "could"],
+          "correctAnswerIndex": 2,
+          "explanation": "否定の副詞句 'Little' が文頭に来ているため、主語と動詞の倒置が起こります。後ろに一般動詞の原形 'know' があるため、疑問文の形を作る 'did' が必要です。「彼らは〜とは夢にも思わなかった」という意味になります。"
+        },
+        {
+          "id": "onimon-008",
+          "questionText": "The salary offered for the position will be _______ with the candidate's experience and qualifications.",
+          "options": ["compliant", "commensurate", "compatible", "consistent"],
+          "correctAnswerIndex": 1,
+          "explanation": "給与が「候補者の経験や資格に相応のものである」という文脈です。「～に相応した、比例した」という意味の 'commensurate with' が定型表現として最も適しています。'compatible with' (～と互換性がある) も似ていますが、給与水準には 'commensurate' がより一般的です。"
+        },
+        {
+          "id": "onimon-009",
+          "questionText": "The advent of cloud computing has _______ many traditional data storage solutions obsolete.",
+          "options": ["rendered", "produced", "compelled", "inferred"],
+          "correctAnswerIndex": 0,
+          "explanation": "この文はS+V+O+C（OをCの状態にする）の第5文型です。クラウドコンピューティングの出現が「多くの従来のデータストレージを時代遅れなものにした」という意味になります。この文型を取れる動詞 'render' (〜を〜の状態にする) が正解です。"
+        },
+        {
+          "id": "onimon-010",
+          "questionText": "The side effects of the new medication, _______ unknown, are now being carefully documented by researchers.",
+          "options": ["henceforth", "hitherto", "whereby", "thereafter"],
+          "correctAnswerIndex": 1,
+          "explanation": "「今、研究者によって注意深く記録されている」という現在の状況と対比して、「これまでは知られていなかった」副作用という文脈になります。「これまで、今までは」を意味する副詞 'hitherto' が最適です。"
+        },
+        {
+          "id": "onimon-011",
+          "questionText": "The lawyer presented new evidence to _______ her client's claim of innocence.",
+          "options": ["undermine", "refute", "bolster", "waive"],
+          "correctAnswerIndex": 2,
+          "explanation": "「依頼人の無罪の主張を」どうするために新しい証拠を提出したか、という文脈です。主張を「強化する、支持する」ために証拠を出すのが自然です。'bolster' がその意味に合致します。'undermine' (弱体化させる) や 'refute' (論破する) は逆の意味です。"
+        },
+        {
+          "id": "onimon-012",
+          "questionText": "It is imperative that all staff members _______ the new security protocols without exception.",
+          "options": ["adhere to", "adhered to", "adheres to", "adhering to"],
+          "correctAnswerIndex": 0,
+          "explanation": "'It is imperative that ...' (〜することが極めて重要である) のような、重要性・必要性を表す表現の後のthat節では、動詞は原形(または should + 原形)になります。これを仮定法現在と呼びます。したがって、主語が 'all staff members' であっても原形の 'adhere to' が正解です。"
+        },
+        {
+          "id": "onimon-013",
+          "questionText": "In today's digital age, Wi-Fi access has become _______ in cafes, airports, and public libraries.",
+          "options": ["scarce", "obsolete", "ubiquitous", "optional"],
+          "correctAnswerIndex": 2,
+          "explanation": "カフェや空港、図書館など、様々な場所が例示されていることから、Wi-Fiが「どこにでもある、遍在する」状態であることがわかります。'ubiquitous' がその意味にぴったりです。'scarce' (希少な) や 'obsolete' (時代遅れの) は逆の意味になります。"
+        },
+        {
+          "id": "onimon-014",
+          "questionText": "The company restructured its operations with a view to _______ its market share in Asia.",
+          "options": ["increase", "increasing", "be increased", "an increase"],
+          "correctAnswerIndex": 1,
+          "explanation": "'with a view to -ing' は「〜する目的で」という意味の定型表現です。この 'to' は不定詞のtoではなく前置詞なので、後ろには動名詞(-ing形)が来ます。したがって 'increasing' が正解です。"
+        },
+        {
+          "id": "onimon-015",
+          "questionText": "The employee was formally _______ by his supervisor for repeatedly failing to meet deadlines.",
+          "options": ["commended", "reprimanded", "promoted", "reimbursed"],
+          "correctAnswerIndex": 1,
+          "explanation": "「繰り返し締め切りを守れなかった」という理由から、従業員は上司に「叱責された」と考えるのが自然です。'reprimand' (を叱責する) が正解。'commend' (を褒める) や 'promote' (を昇進させる) は文脈に合いません。"
+        },
+        {
+          "id": "onimon-016",
+          "questionText": "The firm implemented a new digital workflow system, _______ significantly reducing paperwork and improving efficiency.",
+          "options": ["whereof", "therein", "whereby", "henceforth"],
+          "correctAnswerIndex": 2,
+          "explanation": "「新しいシステムを導入し、それによって事務作業が大幅に削減された」という関係を表す必要があります。「それによって〜する」という意味を持つ関係副詞 'whereby' が最も適切です。'whereby' は 'by which' と置き換えられます。"
+        },
+        {
+          "id": "onimon-017",
+          "questionText": "A quiet and well-lit workspace is _______ to concentration and productivity.",
+          "options": ["conducive", "detrimental", "irrelevant", "subservient"],
+          "correctAnswerIndex": 0,
+          "explanation": "'conducive to ~' は「〜の助けとなる、〜に貢献する」という意味の表現です。静かで明るい職場は「集中と生産性の助けとなる」という文脈に合致します。'detrimental to ~' (〜にとって有害な) は逆の意味です。"
+        },
+        {
+          "id": "onimon-018",
+          "questionText": "_______ you require any further assistance, please do not hesitate to contact our customer support team.",
+          "options": ["If", "Unless", "Were", "Should"],
+          "correctAnswerIndex": 3,
+          "explanation": "これは仮定法未来の 'If you should require...' からIfを省略した倒置構文です。「万が一〜が必要な場合は」という丁寧な表現で、ビジネス文書やアナウンスでよく使われます。'Should' が文頭に来て、主語、動詞の原形と続きます。"
+        },
+        {
+          "id": "onimon-019",
+          "questionText": "The next project meeting has been _______ scheduled for Tuesday morning, but the time is subject to change.",
+          "options": ["permanently", "tentatively", "decisively", "rigidly"],
+          "correctAnswerIndex": 1,
+          "explanation": "後半の 'but the time is subject to change' (しかし時間は変更される可能性がある) という部分がヒントです。ここから、会議の日程が「仮に」決められたことがわかります。「仮に、暫定的に」という意味の 'tentatively' が正解です。"
+        },
+        {
+          "id": "onimon-020",
+          "questionText": "The detective's clever questioning was designed to _______ a confession from the suspect without using force.",
+          "options": ["illicit", "elicit", "allude", "evade"],
+          "correctAnswerIndex": 1,
+          "explanation": "容疑者から自白を「引き出す」という文脈です。'elicit' は「（情報・反応などを）引き出す」という意味の動詞です。スペルが似ている 'illicit' (形容詞: 違法の、不法の) との混同を狙った問題です。"
+        },
+        {
+          "id": "onimon-021",
+          "questionText": "All employees are expected to _______ by the company's code of conduct.",
+          "options": ["abide", "comply", "adhere", "observe"],
+          "correctAnswerIndex": 0,
+          "explanation": "空欄の後の前置詞 'by' が最大のヒントです。'abide by ~' で「(規則・法律など)を守る、に従う」という意味になります。'comply with ~' や 'adhere to ~' も「従う」という意味ですが、後続の前置詞が異なります。'observe' は他動詞として「(規則)を守る」という意味で使えますが、前置詞は不要です。"
+        },
+        {
+          "id": "onimon-022",
+          "questionText": "The new city ordinance will _______ the use of plastic bags in all retail stores.",
+          "options": ["prescribe", "proscribe", "subscribe", "transcribe"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈から、市条例がレジ袋の使用を「禁止する」という意味になると考えられます。'proscribe' は「(公的に)禁止する」という意味の動詞です。スペルが似ている 'prescribe' (規定する、処方する) との区別が重要です。"
+        },
+        {
+          "id": "onimon-023",
+          "questionText": "The project manager double-checked the calculations _______ there be any errors in the final report.",
+          "options": ["unless", "lest", "otherwise", "if"],
+          "correctAnswerIndex": 1,
+          "explanation": "'lest S (should) V' は「SがVしないように」という目的を表す、やや硬い表現です。「最終報告書に誤りがないように、念のため計算を再確認した」という文脈に合致します。'unless' (〜でない限り) とは意味が異なります。"
+        },
+        {
+          "id": "onimon-024",
+          "questionText": "Achieving long-term success in any field requires not only talent but also unwavering _______.",
+          "options": ["perseverance", "hesitation", "complacency", "ambivalence"],
+          "correctAnswerIndex": 0,
+          "explanation": "「長期的な成功」に必要なものを問われています。「才能だけでなく、揺るぎない〜も必要だ」という文脈から、ポジティブな意味の単語が入ります。「忍耐、粘り強さ」を意味する 'perseverance' が最適です。'complacency' (自己満足) や 'ambivalence' (ためらい) は不適切です。"
+        },
+        {
+          "id": "onimon-025",
+          "questionText": "The investigation into the matter must be handled with _______ care to avoid alerting the individuals involved.",
+          "options": ["discrete", "discreet", "dispersed", "distorted"],
+          "correctAnswerIndex": 1,
+          "explanation": "「関係者に気づかれないように」という文脈から、調査は「慎重な」配慮をもって扱われる必要があります。'discreet' は「思慮分別のある、慎重な」という意味です。スペルが酷似している 'discrete' (個別の、別々の) との区別が問われる問題です。"
+        },
+        {
+          "id": "onimon-026",
+          "questionText": "To _______ the approval process, please ensure all required documents are submitted together.",
+          "options": ["expedite", "obstruct", "prolong", "complicate"],
+          "correctAnswerIndex": 0,
+          "explanation": "「必要な書類をすべて一緒に提出してください」という依頼は、承認プロセスを「迅速に進める」ためだと考えるのが自然です。'expedite' は「(物事を)はかどらせる、迅速に処理する」という意味の動詞です。"
+        },
+        {
+          "id": "onimon-027",
+          "questionText": "_______ with the sudden rainstorm and the heavy traffic, the marketing director arrived an hour late for the meeting.",
+          "options": ["Owing", "Along", "What", "Despite"],
+          "correctAnswerIndex": 2,
+          "explanation": "'What with A and (what with) B' は「AやらBやらで」と、複数の原因・理由を列挙する口語的な表現です。「突然の嵐やらひどい渋滞やらで、マーケティング部長は会議に1時間遅れた」という文脈にぴったりです。"
+        },
+        {
+          "id": "onimon-028",
+          "questionText": "_______ the numerous setbacks, the team managed to launch the product on schedule.",
+          "options": ["Furthermore", "Nevertheless", "Notwithstanding", "Therefore"],
+          "correctAnswerIndex": 2,
+          "explanation": "空欄は 'the numerous setbacks' (数々の妨げ) という名詞句の前にあります。文意は「数々の妨げにもかかわらず、チームは〜できた」なので、「〜にもかかわらず」という意味の前置詞が必要です。'Notwithstanding' は前置詞としてこの意味で使えます。'Nevertheless' (それにもかかわらず) は接続副詞であり、コンマで文と区切られます。"
+        },
+        {
+          "id": "onimon-029",
+          "questionText": "The company policy states that employees will be _______ for all reasonable travel expenses incurred on business trips.",
+          "options": ["remunerated", "reimbursed", "compensated", "indemnified"],
+          "correctAnswerIndex": 1,
+          "explanation": "文脈は「出張で生じた妥当な旅費は、従業員に払い戻される」という意味です。'reimburse' は「(経費などを)払い戻す、返済する」という意味で、まさにこの文脈で使われます。'remunerate' は「(労働に対して)報酬を支払う」、'compensate' は「補償する」という意味合いが強く、経費の払い戻しには 'reimburse' が最も一般的です。"
+        },
+        {
+          "id": "onimon-030",
+          "questionText": "The success of the entire project is _______ on securing adequate funding within the next quarter.",
+          "options": ["redundant", "contingent", "impervious", "indicative"],
+          "correctAnswerIndex": 1,
+          "explanation": "'contingent on/upon ~' は「〜次第である、〜を条件とする」という意味の重要な表現です。「プロジェクト全体の成功は、次の四半期内に十分な資金を確保できるかどうかにかかっている」という文脈に完全に一致します。"
+        }
+      ]
+    }
+  ]
+}

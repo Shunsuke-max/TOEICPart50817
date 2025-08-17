@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_14",
+      "setName": "第14回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK14-001",
+          "questionText": "The marketing team has launched an ------- campaign to promote the new product.",
+          "options": ["ambitious", "anxious", "ambiguous", "addictive"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新製品を宣伝するための『意欲的な』キャンペーン」という意味が最も自然です。「野心的な、意欲的な」を意味する形容詞 'ambitious' が正解です。"
+        },
+        {
+          "id": "MOCK14-002",
+          "questionText": "The company's new wellness program ------- a free gym membership and nutrition counseling.",
+          "options": ["encompasses", "encourages", "endorses", "engineers"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社の新しいウェルネスプログラムは、無料のジム会員権と栄養カウンセリングを『含む』」という意味になります。「（多くのものを）含む、網羅する」を意味する動詞 'encompasses' が正解です。"
+        },
+        {
+          "id": "MOCK14-003",
+          "questionText": "------- the project proposal is approved, we can begin hiring new staff.",
+          "options": ["Once", "Unless", "Until", "Whereas"],
+          "correctAnswerIndex": 0,
+          "explanation": "「プロジェクトの提案が承認され『次第』、新しいスタッフの採用を開始できる」という、ある行為が次の行為のきっかけとなる文脈です。接続詞 'Once' (いったん～すると) が正解です。"
+        },
+        {
+          "id": "MOCK14-004",
+          "questionText": "The factory has ------- strict quality control standards to ensure product excellence.",
+          "options": ["adopted", "adapted", "addicted", "admitted"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「工場は製品の卓越性を確保するために、厳格な品質管理基準を『採用した』」という意味になります。「採用する」を意味する動詞 'adopted' が正解です。'adapted' (適応させた) との混同に注意が必要です。"
+        },
+        {
+          "id": "MOCK14-005",
+          "questionText": "The CEO's ------- speech inspired the employees to work towards a common goal.",
+          "options": ["eloquent", "equivalent", "evasive", "eventual"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「CEOの『雄弁な』スピーチが、従業員を共通の目標に向かって働くよう鼓舞した」という意味になります。「雄弁な、説得力のある」を意味する形容詞 'eloquent' が正解です。"
+        },
+        {
+          "id": "MOCK14-006",
+          "questionText": "The legal team was asked to ------- the contract before it was signed.",
+          "options": ["scrutinize", "synchronize", "summarize", "specialize"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「契約書に署名する前に、法務チームはそれを『精査する』よう依頼された」という意味になります。「綿密に調べる、精査する」を意味する動詞 'scrutinize' が正解です。"
+        },
+        {
+          "id": "MOCK14-007",
+          "questionText": "The recent merger is expected to create a more ------- organization.",
+          "options": ["cohesive", "coercive", "corrosive", "conclusive"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「最近の合併は、より『結束力のある』組織を生み出すと期待されている」という意味になります。「結束力のある、まとまりのある」を意味する形容詞 'cohesive' が正解です。"
+        },
+        {
+          "id": "MOCK14-008",
+          "questionText": "The new manager is ------- for overseeing the entire production process.",
+          "options": ["responsible", "responsive", "respectful", "receptive"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいマネージャーは、生産プロセス全体の監督に『責任がある』」という意味になります。'be responsible for ~' で「～に責任がある」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK14-009",
+          "questionText": "The training program covers a ------- of subjects, from basic accounting to advanced financial analysis.",
+          "options": ["spectrum", "specimen", "specter", "specialty"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「研修プログラムは、基礎会計から高度な財務分析まで、幅広い『範囲』の科目をカバーしている」という意味になります。「（広範な）範囲」を意味する 'spectrum' が正解です。'a spectrum of ~' の形でよく使われます。"
+        },
+        {
+          "id": "MOCK14-010",
+          "questionText": "The government introduced a new tax ------- to encourage investment in small businesses.",
+          "options": ["incentive", "initiative", "insight", "ingredient"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「政府は、中小企業への投資を奨励するための新しい税制『優遇措置』を導入した」という意味になります。「誘因、奨励策」を意味する名詞 'incentive' が正解です。"
+        },
+        {
+          "id": "MOCK14-011",
+          "questionText": "The company ------- its success to a combination of innovative products and effective marketing.",
+          "options": ["attributes", "contributes", "distributes", "constitutes"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その会社は自社の成功を、革新的な製品と効果的なマーケティングの組み合わせの『おかげだとしている』」という意味になります。'attribute A to B' で「AをBに帰する」という意味の構文です。"
+        },
+        {
+          "id": "MOCK14-012",
+          "questionText": "It is ------- that all employees familiarize themselves with the new safety procedures.",
+          "options": ["mandatory", "monetary", "military", "mundane"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「全従業員が新しい安全手順に精通することは『義務である』」という意味になります。「義務的な、強制的な」を意味する形容詞 'mandatory' が正解です。"
+        },
+        {
+          "id": "MOCK14-013",
+          "questionText": "The IT department is working to ------- the network outage as quickly as possible.",
+          "options": ["resolve", "revolve", "revoke", "result"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「IT部門は、ネットワークの停止をできるだけ早く『解決する』ために作業している」という意味になります。「（問題を）解決する」を意味する動詞 'resolve' が正解です。"
+        },
+        {
+          "id": "MOCK14-014",
+          "questionText": "The candidate's extensive experience makes her ------- qualified for the position.",
+          "options": ["uniquely", "uniformly", "unwillingly", "unusually"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その候補者の幅広い経験は、彼女をその職に『比類なく』適任にしている」という意味になります。「比類なく、独特な方法で」を意味する副詞 'uniquely' が正解です。"
+        },
+        {
+          "id": "MOCK14-015",
+          "questionText": "The company's performance this year was -------, with strong growth in the first half but a decline in the second.",
+          "options": ["inconsistent", "inconsiderate", "inconclusive", "indiscreet"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「前半は力強い成長だったが、後半は減少した」という内容から、「今年の会社の業績は『一貫性がなかった』」という意味になります。「一貫性のない、矛盾した」を意味する形容詞 'inconsistent' が正解です。"
+        },
+        {
+          "id": "MOCK14-016",
+          "questionText": "The speaker used several anecdotes to ------- her main points.",
+          "options": ["illustrate", "illuminate", "imitate", "isolate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「講演者は、自身の要点を『説明する』ためにいくつかの逸話を用いた」という意味になります。「（例を挙げて）説明する、例証する」を意味する動詞 'illustrate' が正解です。"
+        },
+        {
+          "id": "MOCK14-017",
+          "questionText": "The architect's design for the new library is both functional and ------- appealing.",
+          "options": ["aesthetically", "authentically", "athletically", "academically"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「建築家の新しい図書館のデザインは、機能的であり、かつ『美的に』魅力的だ」という意味になります。「美的に、美学的に」を意味する副詞 'aesthetically' が正解です。"
+        },
+        {
+          "id": "MOCK14-018",
+          "questionText": "The new regulations will ------- a challenge for many small businesses.",
+          "options": ["pose", "post", "poll", "poke"],
+          "correctAnswerIndex": 0,
+          "explanation": "'pose a challenge' (または 'pose a threat/risk') は「課題（脅威/リスク）をもたらす、突きつける」という意味のコロケーションです。"
+        },
+        {
+          "id": "MOCK14-019",
+          "questionText": "The company is seeking to ------- its presence in the Asian market.",
+          "options": ["solidify", "simplify", "satisfy", "solicit"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その会社はアジア市場での存在感を『確固たるものに』しようと努めている」という意味になります。「固める、確固たるものにする」を意味する動詞 'solidify' が正解です。"
+        },
+        {
+          "id": "MOCK14-020",
+          "questionText": "The project was a ------- success, exceeding all of our initial expectations.",
+          "options": ["resounding", "rebounding", "residing", "resigning"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのプロジェクトは『大』成功で、我々のすべての当初の期待を上回った」という意味になります。「鳴り響く、圧倒的な」といった意味から転じて「大成功」などを強調する形容詞 'resounding' が正解です。"
+        },
+        {
+          "id": "MOCK14-021",
+          "questionText": "The manager ------- the importance of meeting the deadline.",
+          "options": ["reiterated", "retaliated", "retreated", "retrieved"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「マネージャーは、締め切りを守ることの重要性を『繰り返し述べた』」という意味になります。「繰り返して言う」を意味する動詞 'reiterated' が正解です。"
+        },
+        {
+          "id": "MOCK14-022",
+          "questionText": "The two companies have entered into a ------- agreement to share technology.",
+          "options": ["reciprocal", "reluctant", "redundant", "remedial"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は、技術を共有するための『相互』協定を結んだ」という意味になります。「相互の、互恵的な」を意味する形容詞 'reciprocal' が正解です。"
+        },
+        {
+          "id": "MOCK14-023",
+          "questionText": "The city has ------- plans to redevelop the waterfront area.",
+          "options": ["unveiled", "unraveled", "unloaded", "unleashed"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「市は、ウォーターフロント地区を再開発する計画を『発表した』」という意味になります。「（計画などを）公表する、明らかにする」を意味する動詞 'unveiled' が正解です。"
+        },
+        {
+          "id": "MOCK14-024",
+          "questionText": "The consultant's analysis provided a fresh ------- on our business strategy.",
+          "options": ["perspective", "perception", "permission", "persuasion"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「コンサルタントの分析は、我々のビジネス戦略に新たな『視点』を提供した」という意味になります。「視点、観点」を意味する名詞 'perspective' が正解です。"
+        },
+        {
+          "id": "MOCK14-025",
+          "questionText": "The company is known for its ------- commitment to customer satisfaction.",
+          "options": ["unwavering", "unwieldy", "unwarranted", "unwitting"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その会社は、顧客満足度への『揺るぎない』コミットメントで知られている」という意味になります。「揺るぎない、断固とした」を意味する形容詞 'unwavering' が正解です。"
+        },
+        {
+          "id": "MOCK14-026",
+          "questionText": "The new CEO's primary goal is to ------- the company's profitability.",
+          "options": ["bolster", "banter", "barter", "batter"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOの主な目標は、会社の収益性を『強化する』ことだ」という意味になります。「強化する、てこ入れする」を意味する動詞 'bolster' が正解です。"
+        },
+        {
+          "id": "MOCK14-027",
+          "questionText": "The negotiations reached an -------, and both sides agreed to meet again next week.",
+          "options": ["impasse", "impact", "implant", "impart"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「交渉は『行き詰まり』に達し、双方は来週再び会うことに合意した」という意味になります。「行き詰まり、手詰まり状態」を意味する名詞 'impasse' が正解です。"
+        },
+        {
+          "id": "MOCK14-028",
+          "questionText": "The research findings ------- the need for a new approach to the problem.",
+          "options": ["underscore", "undermine", "undergo", "undertake"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その研究結果は、問題への新しいアプローチの必要性を『強調している』」という意味になります。「強調する」を意味する動詞 'underscore' が正解です。'underline' とほぼ同義です。"
+        },
+        {
+        "id": "MOCK14-029",
+          "questionText": "The company's marketing efforts are ------- aimed at increasing brand awareness.",
+          "options": ["predominantly", "permanently", "permissively", "peripherally"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社のマーケティング活動は、『主として』ブランド認知度の向上を目的としている」という意味になります。「主として、大部分は」を意味する副詞 'predominantly' が正解です。"
+        },
+        {
+          "id": "MOCK14-030",
+          "questionText": "The manager's ------- praise motivated the team to work even harder.",
+          "options": ["effusive", "elusive", "evasive", "exclusive"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「マネージャーの『熱烈な』賞賛が、チームをさらに熱心に働くよう動機づけた」という意味になります。「（感情表現が）熱烈な、大げさな」を意味する形容詞 'effusive' が正解です。"
+        }
+      ]
+    }
+  ]
+}

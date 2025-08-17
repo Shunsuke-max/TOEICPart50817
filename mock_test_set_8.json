@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_8",
+      "setName": "第8回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK8-001",
+          "questionText": "The seminar on financial planning was _______ informative and practical.",
+          "options": ["each", "both", "either", "neither"],
+          "correctAnswerIndex": 1,
+          "explanation": "'both A and B' は「AとBの両方」という意味の相関接続詞です。「そのセミナーは有益であり、かつ実践的であった」という文脈に合います。"
+        },
+        {
+          "id": "MOCK8-002",
+          "questionText": "The company's new policy on remote work will go into _______ next Monday.",
+          "options": ["affect", "effect", "effective", "effectively"],
+          "correctAnswerIndex": 1,
+          "explanation": "'go into effect' は「（法律などが）施行される、効力を生じる」という意味の定型表現です。'effect' は「効果、効力」という意味の名詞です。"
+        },
+        {
+          "id": "MOCK8-003",
+          "questionText": "The new software is _______ with most existing operating systems.",
+          "options": ["compatible", "comparable", "competing", "compelled"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアはほとんどの既存OSと『互換性がある』」という意味が最も自然です。「互換性のある」を意味する形容詞 'compatible' が正解です。'be compatible with ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK8-004",
+          "questionText": "The construction of the new bridge _______ by heavy rains and strong winds.",
+          "options": ["has delayed", "was delayed", "delayed", "delays"],
+          "correctAnswerIndex": 1,
+          "explanation": "主語 'The construction' (建設) は「遅らされる」側なので受動態が必要です。また、文脈から過去の出来事であると判断できるため、過去形の受動態 'was delayed' が正解です。"
+        },
+        {
+          "id": "MOCK8-005",
+          "questionText": "The marketing team is _______ a new strategy to increase online sales.",
+          "options": ["devising", "revising", "advising", "prising"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい戦略を『考案している』」という意味が最も適切です。「考案する、工夫する」を意味する動詞 'devising' が正解です。"
+        },
+        {
+          "id": "MOCK8-006",
+          "questionText": "All visitors must present a valid form of _______ at the security desk.",
+          "options": ["identify", "identity", "identification", "identified"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞句 'a valid form of ~' の '~' には名詞が入ります。「身分証明」を意味する名詞 'identification' が正解です。"
+        },
+        {
+          "id": "MOCK8-007",
+          "questionText": "_______ a thorough review of the proposal, the committee decided to approve it.",
+          "options": ["Following", "Before", "Without", "Instead of"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「提案を徹底的に検討『した後』、委員会はそれを承認することを決定した」という意味になります。「～の後で」を意味する前置詞 'Following' が正解です。'After' と同じ意味で使われます。"
+        },
+        {
+          "id": "MOCK8-008",
+          "questionText": "The deadline for the project is approaching _______, so we need to work efficiently.",
+          "options": ["rapid", "rapidity", "rapids", "rapidly"],
+          "correctAnswerIndex": 3,
+          "explanation": "動詞 'approaching' を修飾するのは副詞です。「急速に」を意味する 'rapidly' が正解です。"
+        },
+        {
+          "id": "MOCK8-009",
+          "questionText": "The workshop is open to all employees, _______ of their department or position.",
+          "options": ["regardless", "regarding", "in spite", "due"],
+          "correctAnswerIndex": 0,
+          "explanation": "'regardless of ~' は「～にかかわらず」という意味の前置詞句です。"
+        },
+        {
+          "id": "MOCK8-010",
+          "questionText": "Mr. Kim is the person _______ is responsible for overseeing the entire project.",
+          "options": ["which", "whose", "who", "whom"],
+          "correctAnswerIndex": 2,
+          "explanation": "先行詞 'the person' (人) を修飾する関係代名詞節で、空所がその節の主語の役割をしているため、主格の関係代名詞 'who' が正解です。"
+        },
+        {
+          "id": "MOCK8-011",
+          "questionText": "The feedback from our customers has been _______ positive.",
+          "options": ["overwhelm", "overwhelming", "overwhelmed", "overwhelmingly"],
+          "correctAnswerIndex": 3,
+          "explanation": "形容詞 'positive' を修飾するのは副詞です。「圧倒的に」を意味する 'overwhelmingly' が正解です。"
+        },
+        {
+          "id": "MOCK8-012",
+          "questionText": "To _______ a reservation, please visit our website or call us directly.",
+          "options": ["make", "do", "get", "have"],
+          "correctAnswerIndex": 0,
+          "explanation": "'make a reservation' は「予約をする」という意味のコロケーション（よく使われる語の組み合わせ）です。"
+        },
+        {
+          "id": "MOCK8-013",
+          "questionText": "_______ its compact size, the new printer is surprisingly powerful.",
+          "options": ["Given", "Although", "Because", "Unless"],
+          "correctAnswerIndex": 0,
+          "explanation": "'Given ~' は「～を考慮すると」という意味の前置詞です。「そのコンパクトなサイズを考慮すると、その新しいプリンターは驚くほどパワフルだ」という文脈に合います。"
+        },
+        {
+          "id": "MOCK8-014",
+          "questionText": "The company has made a _______ commitment to reducing its carbon footprint.",
+          "options": ["subscribe", "substance", "substantial", "substantially"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞 'commitment' を修飾するのは形容詞です。「かなりの、相当な」を意味する 'substantial' が正解です。"
+        },
+        {
+          "id": "MOCK8-015",
+          "questionText": "The results of the study were not _______ with the researchers' initial hypotheses.",
+          "options": ["consistent", "consisted", "consistency", "consisting"],
+          "correctAnswerIndex": 0,
+          "explanation": "be動詞 'were' の後の補語として形容詞が必要です。「一致した、矛盾のない」を意味する 'consistent' が正解です。'be consistent with ~' は「～と一致している」という頻出表現です。"
+        },
+        {
+          "id": "MOCK8-016",
+          "questionText": "The city council approved a plan to _______ the old library into a community center.",
+          "options": ["convert", "conduct", "confer", "conclude"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「古い図書館をコミュニティセンターに『転換する』」という意味が最も自然です。「転換する、改造する」を意味する動詞 'convert' が正解です。'convert A into B' の形で使われます。"
+        },
+        {
+          "id": "MOCK8-017",
+          "questionText": "_______ the risk of data loss, it is crucial to back up your files regularly.",
+          "options": ["To minimize", "By minimizing", "Minimized", "Minimization"],
+          "correctAnswerIndex": 0,
+          "explanation": "文の主部から独立した、目的を表す不定詞句です。「データ損失のリスクを『最小限にするために』、ファイルを定期的にバックアップすることが極めて重要です」という意味になります。"
+        },
+        {
+          "id": "MOCK8-018",
+          "questionText": "The new CEO, _______ innovative ideas have transformed the company, will give a speech tomorrow.",
+          "options": ["who", "whom", "whose", "which"],
+          "correctAnswerIndex": 2,
+          "explanation": "関係代名詞節内で 'innovative ideas' を修飾し、先行詞 'The new CEO' との所有関係（CEOのアイデア）を示すため、所有格の関係代名詞 'whose' が正解です。"
+        },
+        {
+          "id": "MOCK8-019",
+          "questionText": "The new regulations will have a significant _______ on small businesses.",
+          "options": ["impact", "compact", "intact", "exact"],
+          "correctAnswerIndex": 0,
+          "explanation": "冠詞 'a' と形容詞 'significant' の後には名詞が必要です。文脈から「大きな『影響』」という意味になるため、'impact' が正解です。"
+        },
+        {
+          "id": "MOCK8-020",
+          "questionText": "The team worked _______ to meet the tight deadline.",
+          "options": ["collaborate", "collaboration", "collaborative", "collaboratively"],
+          "correctAnswerIndex": 3,
+          "explanation": "動詞 'worked' を修飾するのは副詞です。「協力して、共同で」を意味する 'collaboratively' が正解です。"
+        },
+        {
+          "id": "MOCK8-021",
+          "questionText": "_______ we can secure additional funding, we will have to postpone the project.",
+          "options": ["If", "After", "Unless", "When"],
+          "correctAnswerIndex": 2,
+          "explanation": "「追加の資金を確保でき『ない限り』、プロジェクトを延期しなければならないだろう」という条件を示す文脈です。'if ... not' の意味を持つ接続詞 'Unless' が正解です。"
+        },
+        {
+          "id": "MOCK8-022",
+          "questionText": "The hotel is _______ located near the city's main attractions.",
+          "options": ["convenience", "convenient", "conveniently", "convene"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞 'located' を修飾するのは副詞です。「便利に」を意味する 'conveniently' が正解です。'conveniently located' (便利な場所にある) は頻出の組み合わせです。"
+        },
+        {
+          "id": "MOCK8-023",
+          "questionText": "The _______ of the two candidates for the mayoral election will be announced tonight.",
+          "options": ["victor", "victory", "victorious", "victoriously"],
+          "correctAnswerIndex": 0,
+          "explanation": "定冠詞 'The' の後で、'of' の前にあるため名詞が必要です。文脈から「市長選挙の2人の候補者の『勝者』」という意味になるため、人を表す名詞 'victor' が正解です。"
+        },
+        {
+          "id": "MOCK8-024",
+          "questionText": "The company's performance this year was _______ better than last year.",
+          "options": ["mark", "marker", "marked", "markedly"],
+          "correctAnswerIndex": 3,
+          "explanation": "比較級 'better' を修飾するのは副詞です。「著しく、際立って」を意味する 'markedly' が正解です。"
+        },
+        {
+          "id": "MOCK8-025",
+          "questionText": "The manager reminded her staff _______ the importance of workplace safety.",
+          "options": ["of", "to", "for", "with"],
+          "correctAnswerIndex": 0,
+          "explanation": "'remind A of B' は「AにBを思い出させる、気づかせる」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK8-026",
+          "questionText": "The research team is on the _______ of a major breakthrough.",
+          "options": ["edge", "verge", "side", "point"],
+          "correctAnswerIndex": 1,
+          "explanation": "'on the verge of ~' は「～の寸前で、今にも～しそうで」という意味の定型表現です。'on the edge of ~' も似た意味ですが、'verge' の方がより切迫したニュアンスで使われることが多いです。"
+        },
+        {
+          "id": "MOCK8-027",
+          "questionText": "It is _______ that all receipts be submitted with the expense report.",
+          "options": ["advising", "advisable", "advice", "advised"],
+          "correctAnswerIndex": 1,
+          "explanation": "'It is ... that S (should) V' の構文です。be動詞 'is' の後の補語として形容詞が必要です。「賢明である、得策である」を意味する 'advisable' が正解です。"
+        },
+        {
+          "id": "MOCK8-028",
+          "questionText": "Our goal is to provide our customers with products of the _______ quality.",
+          "options": ["high", "higher", "highest", "highly"],
+          "correctAnswerIndex": 2,
+          "explanation": "定冠詞 'the' が付いていることから最上級が適切です。「最高の品質」を意味する 'the highest quality' となります。"
+        },
+        {
+        "id": "MOCK8-029",
+          "questionText": "The museum prohibits the use of flash photography to _______ the delicate artworks.",
+          "options": ["preserve", "reverse", "deserve", "observe"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「繊細な芸術作品を『保護する』ために」という意味が最も自然です。「保存する、保護する」を意味する動詞 'preserve' が正解です。"
+        },
+        {
+          "id": "MOCK8-030",
+          "questionText": "The new software is expected to _______ the workflow and increase efficiency.",
+          "options": ["streamline", "mainline", "outline", "underline"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「ワークフローを『合理化し』、効率を上げる」という意味が最も適切です。「合理化する、簡素化する」を意味する動詞 'streamline' が正解です。"
+        }
+      ]
+    }
+  ]
+}

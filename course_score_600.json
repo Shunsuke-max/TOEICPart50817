@@ -1,0 +1,580 @@
+{
+  "quizSets": [
+    {
+      "setId": "600_PRACTICE_SET_1_R2",
+      "setName": "実践問題 Vol. 1",
+      "questions": [
+        {
+          "id": "6C-001R2",
+          "questionText": "For security reasons, all employees at Kenko Pharmaceuticals must wear their identification badges ------- all times while on the premises.",
+          "options": ["at", "on", "in", "by"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 at\n【訳】安全上の理由から、ケンコー製薬の全従業員は、敷地内にいる間は常に身分証明書を着用しなければなりません。\n【解説】'at all times' は「常に、いつでも」を意味する頻出のイディオムです。これはもう「そういうものだ」とセットで覚えてしまうのが一番の近道です。文が長くなっても、この決まり文句を知っていれば一瞬で解けます。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_preposition", "idiom"]
+        },
+        {
+          "id": "6C-002R2",
+          "questionText": "Our new department manager, Ms. Ito, is known for being very ------- and easy to talk to.",
+          "options": ["approach", "approachable", "approaching", "approached"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 approachable\n【訳】私たちの新しい部長であるイトウさんは、とても親しみやすく、話しかけやすいことで知られています。\n【解説】品詞問題です。be動詞 'is' の後には、主語であるイトウさんの人柄を説明する形容詞が必要です。「親しみやすい、話しかけやすい」という意味の形容詞 'approachable' が正解です。'-able' で終わる単語は形容詞が多い、というのもヒントになりますね。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "word_form"]
+        },
+        {
+          "id": "6C-003R2",
+          "questionText": "We kindly ask that you complete the short customer satisfaction survey ------- you leave the store today.",
+          "options": ["before", "during", "afterward", "then"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 before\n【訳】本日、店舗を出る前に、短い顧客満足度アンケートにご記入くださいますよう、お願い申し上げます。\n【解説】空欄の後ろに 'you leave the store' という主語(S)+動詞(V)の文が来ていますね。このように文と文をつなぐことができるのは接続詞です。文脈から「店を出る『前に』」というのが自然なので、接続詞 'before' を選びます。'during' は前置詞（～の間に）、'afterward' と 'then' は副詞（その後に）なので、文をつなぐ働きはありません。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_conjunctions", "sentence_structure"]
+        },
+        {
+          "id": "6C-004R2",
+          "questionText": "The marketing team at Apex Solutions ------- diligently to meet the client's demanding expectations for the new campaign.",
+          "options": ["work", "works", "is working", "are working"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 works\n【訳】Apex Solutions社のマーケティングチームは、新しいキャンペーンに対するクライアントの厳しい期待に応えるため、熱心に働いています。\n【解説】主語と動詞の数の一致を問う問題です。主語 'The marketing team' は、ここでは「一つのまとまり」として考えられる集合名詞なので、単数として扱います。そのため、動詞には三人称単数現在の 's' がついた 'works' が正解となります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_subject_verb_agreement", "grammar_tenses"]
+        },
+        {
+          "id": "6C-005R2",
+          "questionText": "The outdoor music festival was canceled ------- the sudden torrential rain.",
+          "options": ["because", "due to", "although", "since"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 due to\n【訳】突然の豪雨のため、野外音楽フェスティバルは中止になりました。\n【解説】空欄の後が 'the sudden torrential rain' という名詞句（名詞のまとまり）になっています。この形を続けられるのは前置詞（句）です。理由を表す前置詞句 'due to' (～が原因で) が正解です。'because' や 'although' は接続詞なので、後ろに主語(S)+動詞(V)の文が続く必要があります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_prepositions", "grammar_conjunctions", "cause_and_effect"]
+        },
+        {
+          "id": "6C-031R2",
+          "questionText": "According to the quarterly report, this year's sales figures for our new kitchen appliance are much ------- than last year's.",
+          "options": ["high", "higher", "highly", "highest"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 higher\n【訳】四半期報告書によると、当社の新しいキッチン家電の今年の売上高は、昨年のものよりずっと高いです。\n【解説】比較級の基本問題です。文の中に 'than' (～よりも) があるのを見つけたら、比較級の形を探しましょう。'high' の比較級は 'higher' です。空欄の前にある 'much' は比較級を強調する働きがあり、「ずっと、はるかに」という意味を加えます。これも大きなヒントですね。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_comparatives_superlatives", "word_form"]
+        },
+        {
+          "id": "6C-032R2",
+          "questionText": "Each participant in the safety workshop was asked by the instructor to fill out a brief ------- at the end of the session.",
+          "options": ["questionnaire", "question", "query", "request"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 questionnaire\n【訳】安全研修の各参加者は、セッションの最後に、講師から簡単なアンケート用紙に記入するよう求められました。\n【解説】語彙の問題です。`fill out` (記入する) という動詞の目的語として、文脈に最も合うものを選びます。選択肢の中で「アンケート用紙」という意味を持つのは 'questionnaire' だけです。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocab_general", "collocation"]
+        },
+        {
+          "id": "6C-033R2",
+          "questionText": "Please note that the new overtime policy will be ------- to all full-time employees starting next month.",
+          "options": ["apply", "applied", "applicable", "applicant"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 applicable\n【訳】新しい残業規定は、来月から全正社員に適用されますのでご注意ください。\n【解説】品詞を問う問題です。be動詞 'will be' の後ろには、主語を説明する補語として形容詞が入ります。「適用可能な」を意味する形容詞 'applicable' が正解です。'be applicable to ~' で「～に適用される」という熟語として覚えておくと便利です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "word_form"]
+        },
+        {
+          "id": "6C-034R2",
+          "questionText": "You can get a full refund on the 'Quick-Brew Coffee Maker' ------- you return the product in its original packaging within 30 days.",
+          "options": ["as long as", "as well as", "as soon as", "as far as"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 as long as\n【訳】30日以内に元の包装で製品を返品しさえすれば、「クイックブリュー・コーヒーメーカー」の全額返金を受けられます。\n【解説】接続詞の問題です。「30日以内に返品する」という条件を満たせば、「全額返金を受けられる」という文脈です。このような「～という条件で、～である限り」という意味を表す接続詞は 'as long as' です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_conjunctions", "conditionals"]
+        },
+        {
+          "id": "6C-035R2",
+          "questionText": "The marketing department of 'FreshFarm Foods' will ------- a survey next week to gauge customer satisfaction with their new organic products.",
+          "options": ["conduct", "perform", "join", "make"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 conduct\n【訳】FreshFarm Foods社のマーケティング部は、新しいオーガニック製品に対する顧客満足度を測るため、来週、調査を実施します。\n【解説】語彙・コロケーション（よく使われる単語の組み合わせ）の問題です。「調査(a survey)を実施する」という場合、動詞は 'conduct' を使うのが最も一般的です。'conduct a survey' はセットで覚えておきましょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocab_business", "collocation"]
+        }
+      ]
+    },
+    {
+      "setId": "600_PRACTICE_SET_2_R2",
+      "setName": "実践問題 Vol. 2",
+      "questions": [
+        {
+          "id": "6C-006R2",
+          "questionText": "If you have any questions about the new software, please do not ------- to contact the IT support team.",
+          "options": ["hesitate", "hesitation", "hesitant", "hesitantly"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 hesitate\n【訳】新しいソフトウェアについて何かご質問がございましたら、ご遠慮なくITサポートチームにご連絡ください。\n【解説】'do not' の後には動詞の原形が来る、という文法の基本ルールです。選択肢の中で動詞の原形は「ためらう」を意味する 'hesitate' しかありません。'do not hesitate to do ~' は「ご遠慮なく～してください」という、ビジネスメールなどでも頻出の定型表現です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_verb_form", "idiom"]
+        },
+        {
+          "id": "6C-007R2",
+          "questionText": "As the project lead, Ms. Garcia is responsible ------- organizing the entire annual conference and booking the venue.",
+          "options": ["of", "with", "for", "to"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 for\n【訳】プロジェクトリーダーとして、ガルシアさんは年次会議全体の準備と会場の予約を担当しています。\n【解説】'be responsible for ~' で「～に対して責任がある、～を担当している」という意味になる、絶対に覚えておきたい熟語です。前置詞 'for' を選びましょう。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_preposition", "idiom"]
+        },
+        {
+          "id": "6C-008R2",
+          "questionText": "Aperture Electronics has announced that it will ------- its new line of smartphones next month.",
+          "options": ["launch", "launches", "launched", "launching"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 launch\n【訳】Aperture Electronics社は来月、新しいスマートフォン製品ラインを発売すると発表しました。\n【解説】助動詞 'will' の後には、必ず動詞の原形が続く、というルールを問う問題です。したがって、「～を発売する、開始する」という意味の動詞の原形 'launch' が正解です。'will' のような助動詞を見つけたら、後ろは動詞の原形、と覚えておけばすぐに解けます。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_verb_form", "grammar_tenses"]
+        },
+        {
+          "id": "6C-009R2",
+          "questionText": "You can find all the ------- information for the upcoming business trip in the attached document from Mr. Sato.",
+          "options": ["require", "requires", "required", "requiring"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 required\n【訳】来る出張に必要なすべての情報は、サトウさんからの添付書類の中にあります。\n【解説】空欄は名詞 'information' を前から修飾する形容詞の役割をします。情報は人によって「要求される」側なので、受け身の意味を持つ過去分詞 'required' が形容詞として使われます。'required information' で「要求された情報」、つまり「必要な情報」という意味になります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "participles"]
+        },
+        {
+          "id": "6C-010R2",
+          "questionText": "Today's staff meeting has been ------- until next Friday afternoon due to a scheduling conflict.",
+          "options": ["postponed", "canceled", "attended", "scheduled"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 postponed\n【訳】今日のスタッフ会議は、スケジュールの重複により、来週の金曜の午後まで延期されました。\n【解説】語彙の問題です。`due to a scheduling conflict` (スケジュールの重複が理由で) という部分と、`until next Friday` (来週の金曜日まで) という表現に合う動詞を選びます。「延期する」という意味の 'postpone' が最も自然な流れですね。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocab_business", "contextual_meaning"]
+        },
+        {
+          "id": "6C-036R2",
+          "questionText": "The manager requested that all weekly progress reports ------- submitted to her by 5 P.M. every Friday.",
+          "options": ["are", "were", "be", "have been"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 be\n【訳】マネージャーは、すべての週次進捗報告書が毎週金曜日の午後5時までに彼女に提出されるよう要請しました。\n【解説】これは少し発展的な文法、「仮定法現在」です。`request`, `suggest`, `demand`, `insist` といった要求・提案・命令などを表す動詞の後の `that` 節の中では、動詞は主語や時制に関わらず、必ず原形になります。そのため、be動詞の原形である 'be' が正解です。これはルールとして覚えてしまいましょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_subjunctive", "grammar_verb_form"]
+        },
+        {
+          "id": "6C-037R2",
+          "questionText": "We are looking for an administrative assistant ------- has at least five years of experience in a corporate environment.",
+          "options": ["which", "who", "what", "whose"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 who\n【訳】私たちは、企業環境で少なくとも5年の経験がある総務アシスタントを探しています。\n【解説】関係代名詞の問題です。空欄の前の名詞（先行詞）が 'an administrative assistant' という「人」です。そして空欄の後ろには動詞 'has' が続いていますね。このように、人を説明し、かつ関係詞節の中で主語の働きをする関係代名詞は 'who' です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_relative_pronouns", "sentence_structure"]
+        },
+        {
+          "id": "6C-038R2",
+          "questionText": "Due to a minor mechanical issue with the aircraft, the flight to Fukuoka was ------- delayed by about 30 minutes.",
+          "options": ["slight", "slightly", "slightness", "slighted"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 slightly\n【訳】航空機の軽微な機械的不具合により、福岡行きの便は約30分、わずかに遅れました。\n【解説】品詞を問う問題です。空欄は、動詞（過去分詞）'delayed' (遅れた) を修飾しています。動詞を修飾できるのは副詞なので、「わずかに、少し」という意味の副詞 'slightly' が正解となります。'slight' は形容詞です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "word_form"]
+        },
+        {
+          "id": "6C-039R2",
+          "questionText": "This afternoon's training workshop will focus ------- improving teamwork and cross-departmental communication.",
+          "options": ["at", "with", "in", "on"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 on\n【訳】今日の午後の研修会は、チームワークと部門間のコミュニケーションの向上に焦点を当てます。\n【解説】前置詞と動詞の組み合わせ（熟語）の問題です。'focus on ~' で「～に集中する、～に焦点を当てる」という意味になります。これは頻出の表現なので、セットで覚えてしまいましょう。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_preposition", "idiom"]
+        },
+        {
+          "id": "6C-040R2",
+          "questionText": "------- of the two proposed designs for the new logo is acceptable, but I believe the first one is more memorable.",
+          "options": ["Both", "Either", "Neither", "All"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 Either\n【訳】提案された2つの新しいロゴのデザインのどちらも受理可能ですが、最初のものがより記憶に残ると私は思います。\n【解説】代名詞の使い分けの問題です。`of the two` (2つのうち) という表現があるので、選択肢は2つのものを扱う代名詞に絞られます。後ろの動詞が `is` という単数形であることから、単数扱いする「どちらか一方」を意味する 'Either' が正解です。もし 'Both' を使うなら、動詞は複数形の `are` になります (`Both of the two designs are acceptable`)。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_pronouns", "grammar_subject_verb_agreement"]
+        }
+      ]
+    },
+    {
+      "setId": "600_PRACTICE_SET_3_R2",
+      "setName": "実践問題 Vol. 3",
+      "questions": [
+        {
+          "id": "6C-011R2",
+          "questionText": "Our new downtown office is ------- located just a short walk from the central train station.",
+          "options": ["convenience", "convenient", "conveniently", "convene"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 conveniently\n【訳】私たちの新しい都心のオフィスは、中央駅から歩いてすぐの便利な場所にあります。\n【解説】品詞を問う問題です。空欄は、動詞（ここでは過去分詞）'located' (位置している) の状態を詳しく説明しています。動詞を修飾するのは副詞の役割なので、「都合よく、便利に」を意味する副詞 'conveniently' が正解です。`-ly`で終わる単語は副詞、と覚えておくと役立ちます。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "word_form"]
+        },
+        {
+          "id": "6C-012R2",
+          "questionText": "------- the unexpectedly bad weather, the outdoor charity concert was considered a great success by the organizers.",
+          "options": ["Despite", "Because", "Therefore", "However"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 Despite\n【訳】予期せぬ悪天候にもかかわらず、その屋外チャリティーコンサートは主催者によって大成功と見なされました。\n【解説】「悪天候」というネガティブな事柄と、「コンサートは成功だった」というポジティブな事柄、逆の内容をつなぐ言葉を選ぶ問題です。空欄の後ろは `the ... weather` という名詞句なので、前置詞が必要です。逆接の意味を持つ前置詞は 'Despite' (～にもかかわらず) です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_preposition", "conjunctions"]
+        },
+        {
+          "id": "6C-013R2",
+          "questionText": "Customers of 'StyleSpree Online Store' who purchase more than two items in a single order will receive a 10% ------- on their next purchase.",
+          "options": ["discount", "account", "receipt", "fee"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 discount\n【訳】StyleSpreeオンラインストアで、1回の注文で商品を2点以上ご購入のお客様は、次回のお買い物で10%の割引を受けられます。\n【解説】語彙の問題です。「2つ以上の商品を購入した顧客は10%の～を受け取る」という文脈から、購入特典として最も考えられる「割引」を意味する 'discount' が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocab_business", "contextual_meaning"]
+        },
+        {
+          "id": "6C-014R2",
+          "questionText": "To ensure timely processing, all expense reports must be submitted ------- to the head of the accounting department.",
+          "options": ["direct", "direction", "directly", "director"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 directly\n【訳】迅速な処理を確実にするため、すべての経費報告書は経理部長に直接提出されなければなりません。\n【解説】品詞を問う問題です。空欄は、動詞句 'must be submitted' (提出されなければならない) の方法を詳しく説明しています。動詞を修飾するのは副詞なので、「直接に」という意味の副詞 'directly' が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "word_form"]
+        },
+        {
+          "id": "6C-015R2",
+          "questionText": "Unfortunately, the new accounting software is not ------- with the current operating system on our office computers.",
+          "options": ["comparable", "compatible", "competitive", "complimentary"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 compatible\n【訳】残念ながら、その新しい会計ソフトウェアは、私たちのオフィスのコンピューターの現在のOSと互換性がありません。\n【解説】語彙と熟語の問題です。`be compatible with ~` で「～と互換性がある」という、IT関連で頻出の定型表現です。ソフトウェアとOS(operating system)の関係を説明するのに最適な単語です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocab_general", "collocation"]
+        },
+        {
+          "id": "6C-041R2",
+          "questionText": "For the comfort of all attendees, we kindly ask that you ------- from using your mobile phone during the presentation.",
+          "options": ["refrain", "resist", "prevent", "avoid"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 refrain\n【訳】ご出席の皆様が快適に過ごせるよう、プレゼンテーション中は携帯電話のご使用をお控えくださいますよう、お願い申し上げます。\n【解説】動詞と前置詞の組み合わせ（熟語）を問う問題です。'refrain from ~ing' で「～するのを控える、慎む」という意味になります。アナウンスなどで使われる丁寧な表現です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_verb_form", "idiom"]
+        },
+        {
+          "id": "6C-042R2",
+          "questionText": "By the time Ms. Chen arrives from her trip to Singapore, our team ------- the initial phase of the project.",
+          "options": ["will finish", "will have finished", "are finishing", "finished"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 will have finished\n【訳】チェンさんがシンガポール出張から到着する頃までには、私たちのチームはプロジェクトの初期段階を終えているでしょう。\n【解説】未来の時制を問う問題です。`By the time + S + V(現在形)` (～が～する時までには) という未来の一点を表す節がある場合、主節では「その時までには～し終えているだろう」という未来完了形 `will have + 過去分詞` を使うのがルールです。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_tenses", "future_perfect"]
+        },
+        {
+          "id": "6C-043R2",
+          "questionText": "The successful ------- of the merger between the two companies was celebrated with a large party for all employees.",
+          "options": ["succeed", "success", "successful", "successfully"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 success\n【訳】2社間の合併の成功は、全従業員のための大きなパーティーで祝われました。\n【解説】品詞を問う問題です。形容詞 'successful' (成功した) の後ろで、前置詞 'of' の前にあるため、空欄には名詞が入ります。「成功」を意味する名詞 'success' が正解です。`The successful success of...` とは言わないので、形容詞`successful`は、後ろの`merger`ではなく、空欄の名詞を修飾していると判断します。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_noun", "word_form"]
+        },
+        {
+          "id": "6C-044R2",
+          "questionText": "The 'Daily Grind Cafe' is open every day of the week ------- on national holidays, when it is closed.",
+          "options": ["except", "without", "unless", "apart"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 except\n【訳】「デイリー・グラインド・カフェ」は、祝祭日を除いて毎日営業しています。祝祭日は休業です。\n【解説】前置詞の問題です。文脈から「祝祭日『を除いて』毎日開いている」という意味が最も自然です。したがって、前置詞 'except' が正解となります。'unless' は接続詞なので、後ろに文が来る必要があります。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_preposition", "contextual_meaning"]
+        },
+        {
+          "id": "6C-045R2",
+          "questionText": "------- Mr. Kim is a new member of our team, he has already adapted very quickly to our company's culture.",
+          "options": ["Because", "So that", "Although", "In case"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 Although\n【訳】キムさんは私たちのチームの新メンバーですが、すでに当社の文化にとても早く順応しました。\n【解説】接続詞を選ぶ問題です。「新メンバーである」ことと、「早く順応した」ということの間には、「にもかかわらず」という逆接の関係があります。この意味を表す接続詞は 'Although' です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_conjunctions", "contextual_meaning"]
+        }
+      ]
+    },
+    {
+      "setId": "600_PRACTICE_SET_4_R2",
+      "setName": "実践問題 Vol. 4",
+      "questions": [
+        {
+          "id": "6C-016R2",
+          "questionText": "Mr. Chen has ------- worked as a lead engineer at 'Dynamic Motors' for over twenty years.",
+          "options": ["already", "yet", "still", "soon"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 already\n【訳】チェンさんは、すでに20年以上、「ダイナミック・モーターズ」で主任技術者として働いています。\n【解説】副詞の用法を問う問題です。現在完了形 `has worked` と共に使われ、「すでに、もう」という完了を強調する副詞 'already' が最も適切です。'yet' は主に否定文・疑問文で使われます。'still' は継続を、'soon' は未来を表します。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_adverbs", "grammar_tenses"]
+        },
+        {
+          "id": "6C-017R2",
+          "questionText": "The ------- of the new 'Grandview Shopping Mall' is scheduled to begin in May and will take two years to complete.",
+          "options": ["construct", "constructive", "construction", "constructed"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 construction\n【訳】新しい「グランドビュー・ショッピングモール」の建設は、5月に始まる予定で、完成までに2年かかります。\n【解説】品詞を問う問題です。定冠詞 'The' の後で、前置詞 'of' の前にあるため、空欄には名詞が入ります。「建設」を意味する名詞 'construction' が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_noun", "word_form"]
+        },
+        {
+          "id": "6C-018R2",
+          "questionText": "------- of our 'Dura-Shine' kitchen products are made from recycled materials and come with a one-year warranty.",
+          "options": ["Each", "Every", "All", "Any"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 All\n【訳】当社の「デューラシャイン」キッチン製品はすべて、リサイクル素材から作られており、1年間の保証が付いています。\n【解説】代名詞と動詞の数の一致を問う問題です。空欄の後ろが複数名詞 'products' で、動詞が 'are' と 'come' という複数形なので、複数扱いできる代名詞 'All' が正解です。'Each of our products' の場合、動詞は単数形の 'is' や 'comes' になります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_pronouns", "grammar_subject_verb_agreement"]
+        },
+        {
+          "id": "6C-019R2",
+          "questionText": "The mandatory training program for new hires is designed to increase employee ------- and efficiency.",
+          "options": ["produce", "productive", "productivity", "production"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 productivity\n【訳】新入社員向けの必須研修プログラムは、従業員の生産性と効率を高めることを目的としています。\n【解説】品詞と語彙の問題です。動詞 'increase' の目的語となる名詞が必要です。「従業員の生産性」とするのが最も自然なので、'productivity' が正解です。`and efficiency` (そして効率) という部分も、'productivity' が適切であることを示唆しています。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_noun", "word_form", "vocab_business"]
+        },
+        {
+          "id": "6C-020R2",
+          "questionText": "Before processing your order, please make sure that your shipping address and contact information are -------.",
+          "options": ["accurate", "accurately", "accuracy", "inaccurate"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 accurate\n【訳】ご注文を処理する前に、配送先住所と連絡先情報が正確であることをご確認ください。\n【解説】品詞を問う問題です。be動詞 'are' の後ろに置かれ、主語 `your shipping address and contact information` の状態を説明する補語として、形容詞が必要です。「正確な」を意味する 'accurate' が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "word_form"]
+        },
+        {
+          "id": "6C-046R2",
+          "questionText": "According to the schedule, neither the lead actor ------- the director will be available for interviews after the premiere.",
+          "options": ["or", "and", "but", "nor"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 nor\n【訳】スケジュールによると、主演俳優も監督も、初演の後にインタビューに応じることはできません。\n【解説】相関接続詞の基本問題です。`neither A nor B` で「AもBも～ない」という意味の決まった形です。文頭に `neither` が見えたら、相方の `nor` を探しましょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_conjunctions", "correlative_conjunctions"]
+        },
+        {
+          "id": "6C-047R2",
+          "questionText": "The new import regulations will significantly ------- all businesses that rely on overseas suppliers, including ours.",
+          "options": ["effect", "affect", "afford", "effort"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 affect\n【訳】新しい輸入規制は、当社を含め、海外の供給業者に依存するすべての事業に大きな影響を及ぼすでしょう。\n【解説】紛らわしい語彙の問題です。助動詞 'will' の後なので動詞の原形が入ります。文脈上、「～に影響を与える」という意味の動詞 'affect' が正解です。名詞の 'effect'（影響、効果）と形が似ているので、混同しないように注意が必要です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocab_business", "confusing_words"]
+        },
+        {
+          "id": "6C-048R2",
+          "questionText": "Our manager, Ms. Webb, is always very ------- of her team's efforts and provides constructive feedback.",
+          "options": ["support", "supporting", "supportive", "supported"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 supportive\n【訳】私たちの上司であるウェブさんは、常にチームの努力をとても支持しており、建設的なフィードバックをくれます。\n【解説】品詞と熟語の問題です。be動詞 'is' の後には補語となる形容詞が入ります。「支持している、協力的な」を意味する形容詞 'supportive' が正解です。`be supportive of ~` で「～を支持する」という熟語として覚えましょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "idiom"]
+        },
+        {
+          "id": "6C-049R2",
+          "questionText": "We must review the terms of the contract ------- before sending it to our new client, Innovate Corp.",
+          "options": ["careful", "careless", "care", "carefully"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 carefully\n【訳】私たちは、新しいクライアントであるInnovate社に送る前に、契約の条項を注意深く見直さなければなりません。\n【解説】品詞を問う問題です。動詞 'review' (見直す) の方法を説明しているため、副詞が必要です。「注意深く」という意味の副詞 'carefully' が正解となります。'careful' は形容詞です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "word_form"]
+        },
+        {
+          "id": "6C-050R2",
+          "questionText": "The main computer system was down for two hours this morning, ------- we could not process any online orders during that time.",
+          "options": ["but", "so", "or", "for"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 so\n【訳】今朝、メインのコンピューターシステムが2時間ダウンしていたので、その間、私たちはオンライン注文を一切処理できませんでした。\n【解説】接続詞の問題です。前半が原因（システムがダウン）、後半がその結果（注文を処理できない）を表しています。この因果関係を示す接続詞は「だから、なので」という意味の 'so' です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_conjunctions", "cause_and_effect"]
+        }
+      ]
+    },
+    {
+      "setId": "600_PRACTICE_SET_5_R2",
+      "setName": "実践問題 Vol. 5",
+      "questions": [
+        {
+          "id": "6C-021R2",
+          "questionText": "The user manual for the 'SmartHome Hub' provides -------, step-by-step instructions on how to assemble the device.",
+          "options": ["detail", "details", "detailed", "detailing"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 detailed\n【訳】「スマートホーム・ハブ」のユーザーマニュアルは、その装置の組み立て方に関する詳細な、ステップごとの指示を提供しています。\n【解説】品詞を問う問題です。名詞 'instructions' (指示) を前から修飾する形容詞が必要です。「詳細な」という意味を表すのは、過去分詞が形容詞化した 'detailed' です。'detailed instructions' で「詳細な指示」という決まった言い方として覚えてしまいましょう。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "word_form"]
+        },
+        {
+          "id": "6C-022R2",
+          "questionText": "Sales of our winter coats have increased ------- since we launched the new online advertising campaign in October.",
+          "options": ["signify", "significant", "significance", "significantly"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 significantly\n【訳】10月に新しいオンライン広告キャンペーンを開始して以来、当社の冬物コートの売上は大幅に増加しました。\n【解説】品詞を問う問題です。動詞句 'have increased' (増加した) を修飾するのは副詞です。選択肢の中で副詞は「著しく、大幅に」を意味する 'significantly' だけです。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "word_form"]
+        },
+        {
+          "id": "6C-023R2",
+          "questionText": "The package containing the fragile glassware was sent to the wrong ------- by the shipping company by mistake.",
+          "options": ["address", "access", "addition", "advice"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 address\n【訳】壊れやすいガラス製品が入ったその小包は、配送会社の手違いで間違った住所に送られてしまいました。\n【解説】語彙の問題です。「小包が間違って～に送られた」という文脈から、送付先として最も適切な「住所」を意味する 'address' を選びます。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocab_general", "contextual_meaning"]
+        },
+        {
+          "id": "6C-024R2",
+          "questionText": "Job applicants for the graphic designer position should submit a portfolio of their work ------- with a resume and a cover letter.",
+          "options": ["along", "across", "among", "away"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 along\n【訳】グラフィックデザイナー職の応募者は、履歴書とカバーレターと一緒に、作品集を提出してください。\n【解説】熟語の問題です。`along with ~` で「～と一緒に」という意味になります。履歴書やカバーレターに加えて、ポートフォリオも提出する、という文脈にぴったり合いますね。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_preposition", "idiom"]
+        },
+        {
+          "id": "6C-025R2",
+          "questionText": "Tickets for the upcoming 'Innovate Tomorrow' conference are still ------- for purchase on the official event website.",
+          "options": ["available", "valuable", "possible", "reliable"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 available\n【訳】来たる「イノベート・トゥモロー」カンファレンスのチケットは、まだ公式イベントサイトで購入可能です。\n【解説】語彙の問題です。「チケットはまだウェブサイトで購入～だ」という文脈に合う形容詞を選びます。「入手可能である、利用可能である」という意味の 'available' が最も適切です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocab_general", "contextual_meaning"]
+        },
+        {
+          "id": "6C-051R2",
+          "questionText": "The CEO of 'Pinpoint Analytics', Ms. Diaz, was reportedly very ------- with the marketing team's quarterly sales report.",
+          "options": ["impressed", "impressive", "impression", "impress"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 impressed\n【訳】「ピンポイント・アナリティクス」社のCEOであるディアスさんは、マーケティングチームの四半期売上報告に非常に感銘を受けたと報じられています。\n【解説】感情を表す動詞の形を問う問題です。主語が人 (Ms. Diaz) で、「感銘を受ける」という感情を表す場合、受け身の形である過去分詞 'impressed' を使います。'be impressed with/by ~'で「～に感銘を受ける」と覚えましょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "word_form"]
+        },
+        {
+          "id": "6C-052R2",
+          "questionText": "This is the historic building ------- our company, 'Evergreen Textiles', was originally founded by my grandfather 50 years ago.",
+          "options": ["which", "when", "where", "what"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 where\n【訳】これが、50年前に私の祖父によって私たちの会社「エバーグリーン・テキスタイル」が元々設立された、歴史的な建物です。\n【解説】関係副詞の問題です。先行詞 'the historic building' (場所) を修飾し、後ろが `our company ... was founded` という完全な文（S+Vの受け身）になっています。場所を先行詞にとり、後ろに完全な文が続く場合、関係副詞 'where' が適切です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_relative_pronouns", "sentence_structure"]
+        },
+        {
+          "id": "6C-053R2",
+          "questionText": "Please be advised that participation in the upcoming team-building workshop is -------, not mandatory.",
+          "options": ["optional", "opposite", "optimal", "original"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 optional\n【訳】来るチームビルディング研修への参加は、必須ではなく任意ですのでご留意ください。\n【解説】語彙の問題です。`not mandatory` (必須ではない) という部分が大きなヒントです。必須の反対は「任意」ですよね。「任意の、自由参加の」を意味する 'optional' が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocab_general", "antonyms"]
+        },
+        {
+          "id": "6C-054R2",
+          "questionText": "The 'Grand Plaza Hotel' provides a ------- shuttle service from the airport for all of its registered guests.",
+          "options": ["compliment", "complimentary", "complemented", "complimenting"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 complimentary\n【訳】「グランド・プラザ・ホテル」は、登録済みの全宿泊客に、空港からの無料シャトルサービスを提供しています。\n【解説】語彙と品詞の問題です。名詞 'shuttle service' を修飾する形容詞が必要です。文脈から「無料の」という意味の 'complimentary' が正解です。TOEICでは「無料の」という意味で非常によく出題される単語なので、絶対に覚えておきましょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocab_business", "confusing_words"]
+        },
+        {
+          "id": "6C-055R2",
+          "questionText": "If the photocopier is not working correctly, it might just be ------- of paper.",
+          "options": ["off", "down", "out", "away"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 out\n【訳】もしコピー機が正しく作動しないなら、単に紙が切れているだけかもしれません。\n【解説】熟語の問題です。`be out of ~`で「～が切れている、～を使い果たしている」という意味の頻出表現です。ここでは「紙切れ」の状態を表しています。",
+          "difficultyLevel": "easy",
+          "skillTags": ["idiom", "contextual_meaning"]
+        }
+      ]
+    },
+    {
+      "setId": "600_PRACTICE_SET_6_R2",
+      "setName": "実践問題 Vol. 6",
+      "questions": [
+        {
+          "id": "6C-026R2",
+          "questionText": "From the entire team at 'Brighton Real Estate', we would appreciate ------- if you could send us the signed contract by tomorrow.",
+          "options": ["this", "that", "it", "them"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 it\n【訳】ブライトン不動産のチーム一同より、明日までに署名済みの契約書をお送りいただけると、大変ありがたく存じます。\n【解説】`appreciate it if ~` で「もし～していただけるとありがたいのですが」という、丁寧な依頼を表す決まった言い方です。この構文の 'it' は、if節以下の内容全体を指す形式目的語で、省略することはできません。この形をそのまま覚えてしまいましょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_pronouns", "idiom"]
+        },
+        {
+          "id": "6C-027R2",
+          "questionText": "All laboratory staff must follow the new safety -------, which will be implemented from next Monday.",
+          "options": ["proceeds", "procedures", "processions", "professions"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 procedures\n【訳】すべての研究室スタッフは、新しい安全手順に従わなければならず、それは来週の月曜日から実施されます。\n【解説】語彙の問題です。「安全の～に従わなければならない」という文脈に合う名詞を選びます。「手順、手続き」を意味する 'procedures' が最も適切です。'safety procedures' で「安全手順」というよく使われる複合名詞になります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocab_business", "contextual_meaning"]
+        },
+        {
+          "id": "6C-028R2",
+          "questionText": "------- Ms. Lee was attending a conference in Shanghai, her assistant, Mr. Davis, handled all her urgent calls.",
+          "options": ["Although", "During", "While", "Because of"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 While\n【訳】リーさんが上海での会議に出席している間、彼女のアシスタントであるデイビスさんが、すべての緊急の電話に対応しました。\n【解説】空欄の後ろに 'Ms. Lee was attending...' という主語(S)+動詞(V)の文が続いています。そのため、文と文をつなぐ接続詞が必要です。文脈から「会議に出席している『間』」という時を表すのが自然なので、接続詞 'While' が正解です。'During' は同じ意味ですが前置詞なので、後ろに名詞句（例: during the conference）が来ます。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_conjunctions", "time_expressions"]
+        },
+        {
+          "id": "6C-029R2",
+          "questionText": "After months of discussion, we need to find a ------- solution to this ongoing budget problem as soon as possible.",
+          "options": ["permanently", "permanent", "permanence", "permits"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 permanent\n【訳】数ヶ月の議論の末、私たちはこの継続中の予算問題に対して、できるだけ早く恒久的な解決策を見つける必要があります。\n【解説】品詞を問う問題です。空欄は冠詞 'a' と名詞 'solution' (解決策) の間にあり、名詞を修飾する形容詞が入ります。「永続的な、恒久的な」という意味の形容詞 'permanent' が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "word_form"]
+        },
+        {
+          "id": "6C-030R2",
+          "questionText": "The factory's total output of automotive parts has nearly doubled ------- the last two years.",
+          "options": ["since", "from", "over", "until"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 over\n【訳】その工場の自動車部品の総生産高は、過去2年間でほぼ倍になりました。\n【解説】前置詞の用法を問う問題です。`the last two years` のような期間を表す名詞句と共に使われ、「～にわたって」「～の間に」という期間を表す前置詞 'over' が最も適切です。`over the past/last + 期間` (過去～間に) は非常によく使われる表現です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_preposition", "time_expressions"]
+        },
+        {
+          "id": "6C-056R2",
+          "questionText": "Employees must obtain prior ------- from their direct supervisor before purchasing any equipment costing more than $500.",
+          "options": ["authorize", "authorized", "authorization", "authoritative"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 authorization\n【訳】従業員は、500ドルを超える備品を購入する前に、直属の上司から事前の許可を得なければなりません。\n【解説】品詞を問う問題です。形容詞 'prior' (事前の) の後で、動詞 'obtain' (得る) の目的語となれるのは名詞だけです。「許可、承認」を意味する名詞 'authorization' が正解となります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_noun", "word_form"]
+        },
+        {
+          "id": "6C-057R2",
+          "questionText": "On behalf of 'SkyHigh Airlines', we ------- apologize to all passengers for any inconvenience the flight cancellation has caused.",
+          "options": ["sincere", "sincerely", "sincerity", "most sincere"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 sincerely\n【訳】「スカイハイ航空」を代表し、フライトの欠航が引き起こしたいかなるご不便に対しても、全乗客の皆様に心からお詫び申し上げます。\n【解説】品詞を問う問題です。動詞 'apologize' (謝罪する) を修飾するのは副詞です。「心から、誠実に」を意味する副詞 'sincerely' が正解です。アナウンスや公式な謝罪でよく使われる表現です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "word_form"]
+        },
+        {
+          "id": "6C-058R2",
+          "questionText": "After careful consideration of rising operational costs, the company has decided ------- its main office to a more affordable location.",
+          "options": ["moving", "to move", "move", "moved"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 to move\n【訳】上昇する運営コストを慎重に検討した結果、その会社は本社をより手頃な場所に移転することを決定しました。\n【解説】動詞の形を問う問題です。'decide' は、後ろに目的語としてto不定詞 (to + 動詞の原形) をとる代表的な動詞です。`decide to do` で「～することを決める」という意味になります。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_verb_form", "infinitive"]
+        },
+        {
+          "id": "6C-059R2",
+          "questionText": "Of the three final candidates interviewed by Mr. Harris, Ms. Evans is clearly the ------- qualified for the senior accountant position.",
+          "options": ["more", "much", "most", "many"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 most\n【訳】ハリス氏が面接した3人の最終候補者のうち、エバンスさんが明らかに会計主任の職に最も適任です。\n【解説】最上級の形を問う問題です。`Of the three...` (3人のうちで) と比較の範囲が示されていることから、3人以上の中で一番であることを示す最上級が適切だと判断できます。`the most qualified` で「最も適任な」となります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_comparatives_superlatives", "grammar_adjectives"]
+        },
+        {
+          "id": "6C-060R2",
+          "questionText": "The project was completed well ahead of schedule; -------, it was more than 10% under budget.",
+          "options": ["however", "therefore", "otherwise", "moreover"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 moreover\n【訳】プロジェクトは予定よりかなり早く完了しました。さらに、予算を10%以上も下回りました。\n【解説】文と文の意味関係をつなぐ接続副詞の問題です。「予定より早く完了した」という良い情報に、「予算も下回った」という別の良い情報を付け加える文脈です。この場合、「さらに、その上」という意味で情報を追加する 'moreover' が最も適切です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_conjunctions", "adverbial_phrases"]
+        }
+      ]
+    }
+  ]
+}

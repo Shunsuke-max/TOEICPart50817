@@ -1,0 +1,150 @@
+{
+  "quizSets": [
+    {
+      "setId": "SCORE_600_ACHIEVEMENT_TEST",
+      "setName": "600点突破 達成度テスト",
+      "questions": [
+        {
+          "id": "600_Q001",
+          "questionText": "The new software update is expected to ______ system performance.",
+          "options": ["enhance", "enhances", "enhancing", "enhanced"],
+          "correctAnswerIndex": 0,
+          "explanation": "「システム性能を向上させる」という意味で、動詞の原形 'enhance' が適切です。"
+        },
+        {
+          "id": "600_Q002",
+          "questionText": "The company's annual report will be published ______ the end of this month.",
+          "options": ["at", "on", "by", "in"],
+          "correctAnswerIndex": 2,
+          "explanation": "「〜までに」という意味を表す前置詞 'by' が適切です。"
+        },
+        {
+          "id": "600_Q003",
+          "questionText": "All employees are required to ______ their identification badges at all times.",
+          "options": ["wear", "wearing", "wore", "worn"],
+          "correctAnswerIndex": 0,
+          "explanation": "to不定詞の後に続く動詞の原形 'wear' が適切です。"
+        },
+        {
+          "id": "600_Q004",
+          "questionText": "The new policy will be implemented ______ next Monday.",
+          "options": ["from", "since", "until", "by"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜から」という意味を表す前置詞 'from' が適切です。"
+        },
+        {
+          "id": "600_Q005",
+          "questionText": "The manager decided to ______ the meeting until next week.",
+          "options": ["postpone", "postponed", "postponing", "postpones"],
+          "correctAnswerIndex": 0,
+          "explanation": "to不定詞の後に続く動詞の原形 'postpone' が適切です。"
+        },
+        {
+          "id": "600_Q006",
+          "questionText": "The customer service representative was very ______ and helpful.",
+          "options": ["polite", "politely", "politeness", "impolite"],
+          "correctAnswerIndex": 0,
+          "explanation": "be動詞の後に続く形容詞 'polite' が適切です。"
+        },
+        {
+          "id": "600_Q007",
+          "questionText": "Please submit your application ______ the deadline.",
+          "options": ["before", "after", "during", "while"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜の前に」という意味を表す前置詞 'before' が適切です。"
+        },
+        {
+          "id": "600_Q008",
+          "questionText": "The company is looking for candidates with strong ______ skills.",
+          "options": ["communication", "communicate", "communicating", "communicated"],
+          "correctAnswerIndex": 0,
+          "explanation": "「コミュニケーション能力」という意味で、名詞 'communication' が適切です。"
+        },
+        {
+          "id": "600_Q009",
+          "questionText": "The new factory will ______ over 100 new jobs.",
+          "options": ["create", "creates", "creating", "created"],
+          "correctAnswerIndex": 0,
+          "explanation": "助動詞 'will' の後に続く動詞の原形 'create' が適切です。"
+        },
+        {
+          "id": "600_Q010",
+          "questionText": "The report clearly ______ the company's financial situation.",
+          "options": ["describes", "describe", "describing", "described"],
+          "correctAnswerIndex": 0,
+          "explanation": "主語が三人称単数なので、動詞にsがついた 'describes' が適切です。"
+        },
+        {
+          "id": "600_Q011",
+          "questionText": "The new product is expected to be ______ in high demand.",
+          "options": ["in", "on", "at", "by"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜の需要がある」という意味で、'in demand' が適切です。"
+        },
+        {
+          "id": "600_Q012",
+          "questionText": "The company offers a wide range of ______ for its employees.",
+          "options": ["benefits", "beneficial", "benefited", "benefiting"],
+          "correctAnswerIndex": 0,
+          "explanation": "「福利厚生」という意味で、名詞の複数形 'benefits' が適切です。"
+        },
+        {
+          "id": "600_Q013",
+          "questionText": "The project was completed ______ schedule.",
+          "options": ["on", "in", "at", "by"],
+          "correctAnswerIndex": 0,
+          "explanation": "「予定通りに」という意味で、'on schedule' が適切です。"
+        },
+        {
+          "id": "600_Q014",
+          "questionText": "The new system will allow us to process orders more ______.",
+          "options": ["efficiently", "efficient", "efficiency", "efficiencies"],
+          "correctAnswerIndex": 0,
+          "explanation": "動詞 'process' を修飾する副詞 'efficiently' が適切です。"
+        },
+        {
+          "id": "600_Q015",
+          "questionText": "The company is committed to providing excellent customer ______.",
+          "options": ["service", "serve", "serving", "servant"],
+          "correctAnswerIndex": 0,
+          "explanation": "「顧客サービス」という意味で、名詞 'service' が適切です。"
+        },
+        {
+          "id": "600_Q016",
+          "questionText": "The new regulations will take effect ______ next month.",
+          "options": ["from", "since", "until", "by"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜から発効する」という意味で、'take effect from' が適切です。"
+        },
+        {
+          "id": "600_Q017",
+          "questionText": "The manager asked the team to ______ the report by Friday.",
+          "options": ["finalize", "finalizes", "finalizing", "finalized"],
+          "correctAnswerIndex": 0,
+          "explanation": "to不定詞の後に続く動詞の原形 'finalize' が適切です。"
+        },
+        {
+          "id": "600_Q018",
+          "questionText": "The company's success is largely due to its innovative ______.",
+          "options": ["products", "produce", "producing", "produced"],
+          "correctAnswerIndex": 0,
+          "explanation": "「革新的な製品」という意味で、名詞の複数形 'products' が適切です。"
+        },
+        {
+          "id": "600_Q019",
+          "questionText": "The new marketing campaign aims to ______ brand awareness.",
+          "options": ["increase", "increases", "increasing", "increased"],
+          "correctAnswerIndex": 0,
+          "explanation": "to不定詞の後に続く動詞の原形 'increase' が適切です。"
+        },
+        {
+          "id": "600_Q020",
+          "questionText": "The company is seeking a candidate with a strong ______ in project management.",
+          "options": ["background", "back", "behind", "backwards"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜の経歴」という意味で、名詞 'background' が適切です。"
+        }
+      ]
+    }
+  ]
+}

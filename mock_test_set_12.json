@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_12",
+      "setName": "第12回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK12-001",
+          "questionText": "The company decided to ------- on a new marketing initiative to boost sales.",
+          "options": ["embark", "impart", "remark", "partake"],
+          "correctAnswerIndex": 0,
+          "explanation": "'embark on ~' は「（新しいこと・困難なことに）乗り出す、着手する」という意味の句動詞です。文脈から「新しいマーケティングの取り組みに着手する」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-002",
+          "questionText": "The seminar aims to ------- participants with a comprehensive understanding of the new regulations.",
+          "options": ["provide", "prevent", "promote", "propose"],
+          "correctAnswerIndex": 0,
+          "explanation": "'provide A with B' は「AにBを提供する」という意味の構文です。「参加者に新しい規制の包括的な理解を提供する」という文脈に合致します。"
+        },
+        {
+          "id": "MOCK12-003",
+          "questionText": "The new manager is trying to ------- a good relationship with her team members.",
+          "options": ["cultivate", "calculate", "circulate", "capitulate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「チームメンバーとの良好な関係を『育む』」という意味が最も適切です。「育む、養う」を意味する動詞 'cultivate' が正解です。"
+        },
+        {
+          "id": "MOCK12-004",
+          "questionText": "We need to ------- with the safety guidelines at all times.",
+          "options": ["comply", "collide", "confer", "compete"],
+          "correctAnswerIndex": 0,
+          "explanation": "'comply with ~' は「（規則・ガイドラインなどに）従う」という意味の定型表現です。'adhere to ~' や 'abide by ~' と類義です。"
+        },
+        {
+          "id": "MOCK12-005",
+          "questionText": "The research findings ------- from a year-long study involving over a thousand participants.",
+          "options": ["derived", "deprived", "denied", "descended"],
+          "correctAnswerIndex": 0,
+          "explanation": "'derive from ~' は「～に由来する、～から得られる」という意味です。文脈から「その研究結果は1年間の研究に由来する」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-006",
+          "questionText": "The company has ------- a new system for tracking employee work hours.",
+          "options": ["instituted", "insured", "inquired", "inspired"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「従業員の労働時間を追跡するための新しい制度を『導入した』」という意味が最も適切です。「（制度などを）設立する、導入する」を意味する動詞 'instituted' が正解です。"
+        },
+        {
+          "id": "MOCK12-007",
+          "questionText": "The marketing team was ------- with developing a new advertising campaign.",
+          "options": ["tasked", "talked", "taken", "tested"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be tasked with ~' は「～という任務を課される」という意味の受動態の表現です。「マーケティングチームは新しい広告キャンペーンを開発する任務を課された」という文脈に合います。"
+        },
+        {
+          "id": "MOCK12-008",
+          "questionText": "This coupon ------- you to a 20% discount on your next purchase.",
+          "options": ["entitles", "enables", "ensures", "encourages"],
+          "correctAnswerIndex": 0,
+          "explanation": "'entitle A to B' は「AにBの資格・権利を与える」という意味です。文脈から「このクーポンはあなたに次回の購入で20%割引の権利を与えます」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-009",
+          "questionText": "The success of the event can be largely ------- to the hard work of the volunteers.",
+          "options": ["attributed", "contributed", "distributed", "constituted"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be attributed to ~' は「～に起因する、～のおかげである」という意味です。「イベントの成功は、主としてボランティアの熱心な働きのおかげだ」という文脈に合います。"
+        },
+        {
+          "id": "MOCK12-010",
+          "questionText": "The two departments need to ------- more closely on this project.",
+          "options": ["collaborate", "corroborate", "celebrate", "compensate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2つの部署はこのプロジェクトでより緊密に『協力する』必要がある」という意味になります。「協力する、共同作業する」を意味する動詞 'collaborate' が正解です。"
+        },
+        {
+          "id": "MOCK12-011",
+          "questionText": "The museum's collection ------- mainly of 20th-century paintings and sculptures.",
+          "options": ["consists", "contains", "conforms", "convinces"],
+          "correctAnswerIndex": 0,
+          "explanation": "'consist of ~' は「～から成る、～で構成されている」という意味の句動詞です。'contain' (含む) は他動詞なので 'of' をとりません。"
+        },
+        {
+          "id": "MOCK12-012",
+          "questionText": "The company has decided to ------- from the market due to intense competition.",
+          "options": ["withdraw", "withhold", "withstand", "without"],
+          "correctAnswerIndex": 0,
+          "explanation": "'withdraw from ~' は「～から撤退する」という意味です。文脈から「激しい競争のため、市場から撤退することを決定した」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-013",
+          "questionText": "The new policy is intended to ------- between the sales and marketing teams.",
+          "options": ["facilitate", "fabricate", "fluctuate", "fascinate"],
+          "correctAnswerIndex": 0,
+          "explanation": "空所の後ろに名詞がないため、目的語を必要としない動詞か、目的語が省略されていると考えられます。ここでは 'facilitate communication' の 'communication' が文脈上省略されていると解釈するのが自然です。「営業とマーケティングチーム間の（連携）を『促進する』」という意味になります。"
+        },
+        {
+          "id": "MOCK12-014",
+          "questionText": "We ------- in providing customized solutions to meet our clients' specific needs.",
+          "options": ["specialize", "specify", "speculate", "spectate"],
+          "correctAnswerIndex": 0,
+          "explanation": "'specialize in ~' は「～を専門にする」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK12-015",
+          "questionText": "The speaker will ------- on the impact of technology on modern society.",
+          "options": ["elaborate", "evaporate", "elevate", "estimate"],
+          "correctAnswerIndex": 0,
+          "explanation": "'elaborate on ~' は「～について詳述する、詳しく説明する」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK12-016",
+          "questionText": "Please ------- from using your mobile phone during the performance.",
+          "options": ["refrain", "restrain", "regain", "remain"],
+          "correctAnswerIndex": 0,
+          "explanation": "'refrain from ~ing' は「～するのを控える、慎む」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK12-017",
+          "questionText": "The new online course ------- to a wide range of learners, from beginners to experts.",
+          "options": ["caters", "covers", "conveys", "collides"],
+          "correctAnswerIndex": 0,
+          "explanation": "'cater to ~' は「（要求・必要に）応える、～向けのサービスを提供する」という意味です。'cater for ~' も同様の意味で使われます。"
+        },
+        {
+          "id": "MOCK12-018",
+          "questionText": "The firm has decided to ------- with a leading technology company to develop a new product.",
+          "options": ["partner", "part", "portion", "participate"],
+          "correctAnswerIndex": 0,
+          "explanation": "'partner with ~' は「～と提携する」という意味です。文脈から「新しい製品を開発するために、有力なテクノロジー企業と提携する」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-019",
+          "questionText": "It took several months to ------- for the damages caused by the flood.",
+          "options": ["compensate", "complete", "complain", "complicate"],
+          "correctAnswerIndex": 0,
+          "explanation": "'compensate for ~' は「～を補償する、埋め合わせる」という意味です。文脈から「洪水による損害を補償するのに数ヶ月かかった」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-020",
+          "questionText": "The new CEO is expected to ------- a new era of growth for the company.",
+          "options": ["usher", "utter", "usurp", "utilize"],
+          "correctAnswerIndex": 0,
+          "explanation": "'usher in ~' は「（新しい時代・時期の）到来を告げる」という意味です。文脈から「新しいCEOは会社に新しい成長の時代の到来を告げると期待されている」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-021",
+          "questionText": "The report fails to ------- for the recent fluctuations in the market.",
+          "options": ["account", "amount", "announce", "apply"],
+          "correctAnswerIndex": 0,
+          "explanation": "'account for ~' は「～を説明する」という意味です。文脈から「その報告書は最近の市場の変動を説明できていない」という意味が最も自然です。他に「（割合を）占める」という意味もあります。"
+        },
+        {
+          "id": "MOCK12-022",
+          "questionText": "The new policy will ------- a significant improvement in workplace safety.",
+          "options": ["bring about", "call off", "give in", "set up"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい方針は職場の安全に大きな改善を『もたらす』だろう」という意味になります。「～を引き起こす、もたらす」を意味する句動詞 'bring about' が正解です。"
+        },
+        {
+          "id": "MOCK12-023",
+          "questionText": "The speaker did not ------- to any specific examples during his presentation.",
+          "options": ["allude", "elude", "delude", "include"],
+          "correctAnswerIndex": 0,
+          "explanation": "'allude to ~' は「～をほのめかす、暗に言及する」という意味です。文脈から「講演者はプレゼン中に具体的な例には一切言及しなかった」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-024",
+          "questionText": "The committee will ------- on a new proposal next week.",
+          "options": ["deliberate", "demonstrate", "delegate", "deviate"],
+          "correctAnswerIndex": 0,
+          "explanation": "'deliberate on ~' は「～について審議する、熟考する」という意味です。文脈から「委員会は来週、新しい提案について審議する」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK12-025",
+          "questionText": "The company plans to ------- its business into Asian markets.",
+          "options": ["expand", "expend", "extend", "expel"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「アジア市場へ事業を『拡大する』」という意味が最も自然です。「拡大する」を意味する動詞 'expand' が正解です。'extend' は期間や範囲を「延長・拡張する」意味で、事業そのものを大きくするニュアンスでは 'expand' が使われます。"
+        },
+        {
+          "id": "MOCK12-026",
+          "questionText": "I would like to ------- my sincere gratitude for your generous support.",
+          "options": ["extend", "expend", "expand", "attend"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「寛大なご支援に心からの感謝を『表したい』」という意味になります。「（感謝・歓迎などを）表す、差し向ける」を意味する動詞 'extend' が正解です。"
+        },
+        {
+          "id": "MOCK12-027",
+          "questionText": "The manager decided to ------- a new team to handle the project.",
+          "options": ["assemble", "resemble", "dissemble", "disassemble"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「プロジェクトを処理するために新しいチームを『編成する』」という意味になります。「（人・物を）集める、組み立てる」を意味する動詞 'assemble' が正解です。"
+        },
+        {
+          "id": "MOCK12-028",
+          "questionText": "The latest model ------- from its predecessor in several key aspects.",
+          "options": ["differs", "defers", "deters", "detours"],
+          "correctAnswerIndex": 0,
+          "explanation": "'differ from ~' は「～と異なる」という意味です。文脈から「最新モデルはいくつかの主要な点で前のモデルと異なる」という意味が最も自然です。"
+        },
+        {
+        "id": "MOCK12-029",
+          "questionText": "The company has to ------- a number of challenges to remain competitive.",
+          "options": ["overcome", "oversee", "overlook", "overthrow"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「競争力を維持するために、多くの課題を『克服し』なければならない」という意味になります。「克服する」を意味する動詞 'overcome' が正解です。"
+        },
+        {
+          "id": "MOCK12-030",
+          "questionText": "The new CEO has been ------- with turning the company's fortunes around.",
+          "options": ["credited", "charged", "tasked", "cited"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be credited with ~' は「～の功績があるとされる」という意味です。文脈から「新しいCEOは会社の運勢を好転させた功績があるとされている」という意味が最も自然です。'be tasked with ~'も文法的には可能ですが、「任務を課された」となり、既に成し遂げた功績を述べる文脈とは少し異なります。"
+        }
+      ]
+    }
+  ]
+}

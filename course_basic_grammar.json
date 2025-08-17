@@ -1,0 +1,1904 @@
+{
+  "quizSets": [
+    {
+      "setId": "GRAMMAR_1-1",
+      "setName": "[1-1] 名詞・冠詞・代名詞",
+      "questions": [
+        {
+          "id": "G-001",
+          "questionText": "Could you give me _______ advice on this matter?",
+          "options": ["an", "some", "many", "these"],
+          "correctAnswerIndex": 1,
+          "explanation": "'advice'は数えられない名詞（不可算名詞）なので、'a/an'や'many'は使えません。'some'は可算名詞・不可算名詞の両方に使えます。"
+        },
+        {
+          "id": "G-002",
+          "questionText": "I saw _______ eagle flying high in the sky.",
+          "options": ["a", "an", "the", "some"],
+          "correctAnswerIndex": 1,
+          "explanation": "'eagle'は母音（a, i, u, e, o）の音で始まるので、不定冠詞は'an'を使います。"
+        },
+        {
+          "id": "G-003",
+          "questionText": "This pen is not mine. It must be _______.",
+          "options": ["her", "she", "hers", "herself"],
+          "correctAnswerIndex": 2,
+          "explanation": "「彼女のもの」という意味の所有代名詞'hers'が適切です。'her'は「彼女の〜」という所有格なので、後ろに名詞が必要です。"
+        },
+        {
+          "id": "G-004",
+          "questionText": "My sister and _______ are going to the concert tonight.",
+          "options": ["I", "me", "my", "myself"],
+          "correctAnswerIndex": 0,
+          "explanation": "文の主語になる人称代名詞なので、主格の'I'が正解です。'My sister and me'は口語で使われることもありますが、文法的には'I'が正しいです。"
+        },
+        {
+          "id": "G-005",
+          "questionText": "We need to buy new _______ for the office.",
+          "options": ["furniture", "furnitures", "a furniture", "some furnitures"],
+          "correctAnswerIndex": 0,
+          "explanation": "'furniture'（家具）は数えられない名詞（不可算名詞）なので、複数形の's'は付きません。"
+        },
+        {
+          "id": "G-006",
+          "questionText": "The teacher gave the report back to _______.",
+          "options": ["I", "my", "me", "mine"],
+          "correctAnswerIndex": 2,
+          "explanation": "前置詞'to'の後ろに来る代名詞は目的格なので、'me'が正解です。"
+        },
+        {
+          "id": "G-007",
+          "questionText": "Is this _______ wallet? I found it on the floor.",
+          "options": ["you", "your", "yours", "yourself"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞'wallet'を修飾する所有格なので、「あなたの」を意味する'your'が正解です。"
+        },
+        {
+          "id": "G-008",
+          "questionText": "There isn't _______ information about the new product yet.",
+          "options": ["many", "much", "a lot", "few"],
+          "correctAnswerIndex": 1,
+          "explanation": "'information'は数えられない名詞なので、量を表すには'much'を使います。'many'は数えられる名詞に使います。"
+        },
+        {
+          "id": "G-009",
+          "questionText": "My brother has two _______. One is a boy and the other is a girl.",
+          "options": ["child", "childs", "children", "childrens"],
+          "correctAnswerIndex": 2,
+          "explanation": "'child'の複数形は'children'という不規則な形になります。"
+        },
+        {
+          "id": "G-010",
+          "questionText": "_______ sun rises in the east.",
+          "options": ["A", "An", "The", "Some"],
+          "correctAnswerIndex": 2,
+          "explanation": "太陽(sun)のように、世界に一つしかないものを指す場合は、定冠詞'the'を使います。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_1-2",
+      "setName": "[1-2] 動詞・形容詞・副詞",
+      "questions": [
+        {
+          "id": "G-011",
+          "questionText": "She speaks English very ______.",
+          "options": ["good", "well", "best", "better"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'speaks'を修飾するため、副詞の'well'が適切です。'good'は形容詞なので名詞を修飾します。"
+        },
+        {
+          "id": "G-012",
+          "questionText": "The music is too _______. Could you turn it down?",
+          "options": ["loud", "loudly", "louder", "loudness"],
+          "correctAnswerIndex": 0,
+          "explanation": "be動詞'is'の補語になるため、形容詞の'loud'が正解です。"
+        },
+        {
+          "id": "G-013",
+          "questionText": "He _______ drives his car to work.",
+          "options": ["careful", "carefully", "care", "caring"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'drives'を修飾するため、副詞の'carefully'（注意深く）が正解です。"
+        },
+        {
+          "id": "G-014",
+          "questionText": "The flowers smell ______.",
+          "options": ["sweet", "sweetly", "sweetness", "sweeter"],
+          "correctAnswerIndex": 0,
+          "explanation": "'smell'のような五感を現す動詞の後には、補語として形容詞が来ます。そのため'sweet'が正解です。"
+        },
+        {
+          "id": "G-015",
+          "questionText": "That was an _______ movie.",
+          "options": ["amazing", "amazingly", "amazed", "amazement"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞'movie'を修飾するため、形容詞の'amazing'が正解です。"
+        },
+        {
+          "id": "G-016",
+          "questionText": "My friends _______ at the library every day.",
+          "options": ["study", "studies", "is studying", "are study"],
+          "correctAnswerIndex": 0,
+          "explanation": "主語が複数（My friends）で、習慣（every day）を表すので、一般動詞の原形'study'が正解です。"
+        },
+        {
+          "id": "G-017",
+          "questionText": "The soup tastes _______. I love it.",
+          "options": ["wonderful", "wonderfully", "wonder", "wondering"],
+          "correctAnswerIndex": 0,
+          "explanation": "'taste'（〜の味がする）の後には形容詞が来るため、'wonderful'が正解です。"
+        },
+        {
+          "id": "G-018",
+          "questionText": "The train arrived _______, so we weren't late.",
+          "options": ["punctual", "punctually", "punctuality", "punctuated"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'arrived'を修飾するため、副詞の'punctually'（時間通りに）が正解です。"
+        },
+        {
+          "id": "G-019",
+          "questionText": "Tom _______ a student at this university.",
+          "options": ["am", "are", "is", "be"],
+          "correctAnswerIndex": 2,
+          "explanation": "主語が三人称単数（Tom）なので、be動詞は'is'を使います。"
+        },
+        {
+          "id": "G-020",
+          "questionText": "Please be _______ when you cross the street.",
+          "options": ["quiet", "quietly", "quieter", "quietness"],
+          "correctAnswerIndex": 0,
+          "explanation": "be動詞'be'の補語になるため、形容詞の'quiet'（静かな）が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_2-1",
+      "setName": "[2-1] 5文型：基本(SV, SVC)",
+      "questions": [
+        {
+          "id": "G-021",
+          "questionText": "The baby is sleeping _______ in her crib.",
+          "options": ["sound", "soundly", "sounding", "sounds"],
+          "correctAnswerIndex": 1,
+          "explanation": "この文は「赤ちゃんが寝ている」というSV（第1文型）で完結しています。動詞'is sleeping'を修飾する副詞'soundly'（ぐっすりと）が適切です。"
+        },
+        {
+          "id": "G-022",
+          "questionText": "My father _______ in a large company.",
+          "options": ["works", "is", "makes", "feels"],
+          "correctAnswerIndex": 0,
+          "explanation": "この文は「父が働く」というSV（第1文型）です。主語が三人称単数なので、動詞は'works'となります。"
+        },
+        {
+          "id": "G-023",
+          "questionText": "She became a famous _______.",
+          "options": ["singer", "sing", "sings", "sang"],
+          "correctAnswerIndex": 0,
+          "explanation": "この文はSVC（第2文型）です。'She = a famous singer'という関係が成り立つため、補語(C)として名詞の'singer'が入ります。"
+        },
+        {
+          "id": "G-024",
+          "questionText": "The birds _______ south for the winter.",
+          "options": ["fly", "are", "look", "get"],
+          "correctAnswerIndex": 0,
+          "explanation": "「鳥が飛ぶ」というSV（第1文型）の文です。主語が複数なので動詞の原形'fly'が適切です。'south'は「南へ」という副詞です。"
+        },
+        {
+          "id": "G-025",
+          "questionText": "The new manager seems very _______.",
+          "options": ["friend", "friendly", "friendship", "befriend"],
+          "correctAnswerIndex": 1,
+          "explanation": "SVC（第2文型）の文です。'seem'の後には補語として形容詞が来ます。「親しみやすい」という意味の形容詞'friendly'が正解です。"
+        },
+        {
+          "id": "G-026",
+          "questionText": "He looks _______ in that suit.",
+          "options": ["handsome", "handsomely", "hand", "hands"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVC（第2文型）の文です。動詞'looks'（〜に見える）の後には補語として形容詞が来るため、'handsome'が正解です。"
+        },
+        {
+          "id": "G-027",
+          "questionText": "The sun _______ brightly.",
+          "options": ["shines", "is", "seems", "feels"],
+          "correctAnswerIndex": 0,
+          "explanation": "「太陽が輝く」というSV（第1文型）の文です。'brightly'は動詞を修飾する副詞です。"
+        },
+        {
+          "id": "G-028",
+          "questionText": "This milk has gone _______.",
+          "options": ["bad", "badly", "worse", "worst"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVC（第2文型）の文です。'go'には「（悪い状態に）なる」という意味があり、補語として形容詞の'bad'を取ります。「この牛乳は腐ってしまった」という意味です。"
+        },
+        {
+          "id": "G-029",
+          "questionText": "Time _______ very quickly.",
+          "options": ["passes", "is", "makes", "feels"],
+          "correctAnswerIndex": 0,
+          "explanation": "「時が過ぎる」というSV（第1文型）の文です。主語が三人称単数なので動詞は'passes'になります。'quickly'は副詞です。"
+        },
+        {
+          "id": "G-030",
+          "questionText": "My sister is _______ a nurse at the city hospital.",
+          "options": ["work", "works", "working", "a"],
+          "correctAnswerIndex": 3,
+          "explanation": "SVC（第2文型）の文です。'My sister = a nurse'という関係なので、補語として名詞句'a nurse'が入ります。'is'が動詞です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_2-2",
+      "setName": "[2-2] 5文型：SVO",
+      "questions": [
+        {
+          "id": "G-031",
+          "questionText": "I _______ a new camera last week.",
+          "options": ["bought", "was", "went", "looked"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVO（第3文型）の文です。「私は新しいカメラを買った」という意味にするため、目的語'a new camera'を取れる動詞'bought'が正解です。"
+        },
+        {
+          "id": "G-032",
+          "questionText": "She is reading _______ interesting book.",
+          "options": ["a", "an", "the", "some"],
+          "correctAnswerIndex": 1,
+          "explanation": "SVOの文で、'interesting book'が目的語です。'interesting'が母音で始まるので冠詞は'an'を使います。"
+        },
+        {
+          "id": "G-033",
+          "questionText": "Many people _______ soccer all over the world.",
+          "options": ["enjoy", "are", "go", "seem"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの文です。「多くの人々はサッカーを楽しむ」という意味にするため、目的語'soccer'を取れる動詞'enjoy'が正解です。"
+        },
+        {
+          "id": "G-034",
+          "questionText": "My mother _______ delicious cakes.",
+          "options": ["makes", "is", "gets", "goes"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの文です。「私の母は美味しいケーキを作る」という意味にするため、動詞'makes'が適切です。"
+        },
+        {
+          "id": "G-035",
+          "questionText": "He didn't _______ my question.",
+          "options": ["answer", "answered", "answering", "to answer"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの否定文です。助動詞'didn't'の後ろなので、動詞の原形'answer'が正解です。"
+        },
+        {
+          "id": "G-036",
+          "questionText": "I _______ my keys and I can't find them.",
+          "options": ["have lost", "have been", "have gone", "have looked"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの文です。「鍵をなくしてしまった」という意味にするため、目的語'my keys'を取れる'have lost'が正解です。"
+        },
+        {
+          "id": "G-037",
+          "questionText": "We _______ the beautiful sunset from the beach.",
+          "options": ["watched", "were", "went", "seemed"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの文です。「私たちは美しい夕日を見た」という意味にするため、目的語'the beautiful sunset'を取れる動詞'watched'が正解です。"
+        },
+        {
+          "id": "G-038",
+          "questionText": "Do you _______ this song?",
+          "options": ["know", "are", "go", "seem"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの疑問文です。「あなたはこの歌を知っていますか？」という意味にするため、目的語'this song'を取れる動詞'know'が正解です。"
+        },
+        {
+          "id": "G-039",
+          "questionText": "The company _______ a new product next month.",
+          "options": ["will launch", "is", "will be", "goes"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの未来形の文です。「その会社は新製品を発売するだろう」という意味にするため、動詞'will launch'が適切です。"
+        },
+        {
+          "id": "G-040",
+          "questionText": "Please _______ the window. It's cold in here.",
+          "options": ["close", "is", "are", "look"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOの命令文です。「窓を閉めてください」という意味にするため、目的語'the window'を取れる動詞'close'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_2-3",
+      "setName": "[2-3] 5文型：応用(SVOO, SVOC)",
+      "questions": [
+        {
+          "id": "G-041",
+          "questionText": "My father bought _______ a new bicycle.",
+          "options": ["I", "my", "me", "mine"],
+          "correctAnswerIndex": 2,
+          "explanation": "SVOO（第4文型）の文です。'buy + 人 + 物'で「人に物を買う」という意味になります。間接目的語(O)なので目的格の'me'が正解です。"
+        },
+        {
+          "id": "G-042",
+          "questionText": "She showed _______ her family photos.",
+          "options": ["we", "our", "us", "ours"],
+          "correctAnswerIndex": 2,
+          "explanation": "SVOO（第4文型）の文です。'show + 人 + 物'で「人に物を見せる」という意味になります。間接目的語(O)なので目的格の'us'が正解です。"
+        },
+        {
+          "id": "G-043",
+          "questionText": "The news made me _______.",
+          "options": ["sad", "sadly", "sadness", "to be sad"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOC（第5文型）の文です。'make + O + C'で「OをCの状態にする」という意味になります。補語(C)には形容詞の'sad'が入ります。"
+        },
+        {
+          "id": "G-044",
+          "questionText": "Please call me _______.",
+          "options": ["Ken", "Ken's", "to Ken", "for Ken"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOC（第5文型）の文です。'call + O + C'で「OをCと呼ぶ」という意味になります。'me = Ken'の関係なので、補語(C)として'Ken'が入ります。"
+        },
+        {
+          "id": "G-045",
+          "questionText": "Can you lend me _______ pen?",
+          "options": ["a", "an", "the", "some"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOO（第4文型）の文です。「私にペンを貸してくれませんか」という意味です。特定のペンではないので不定冠詞'a'が適切です。"
+        },
+        {
+          "id": "G-046",
+          "questionText": "We named our dog ______.",
+          "options": ["Pochi", "to Pochi", "as Pochi", "Pochi's"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOC（第5文型）の文です。'name + O + C'で「OをCと名付ける」という意味になります。補語(C)として名前の'Pochi'が入ります。"
+        },
+        {
+          "id": "G-047",
+          "questionText": "He sent his girlfriend _______ flowers.",
+          "options": ["beautiful", "beautifully", "beauty", "a beautiful"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOO（第4文型）の文です。目的語である'flowers'を修飾する形容詞'beautiful'が適切です。"
+        },
+        {
+          "id": "G-048",
+          "questionText": "I found the book very _______.",
+          "options": ["interest", "interesting", "interestingly", "to interest"],
+          "correctAnswerIndex": 1,
+          "explanation": "SVOC（第5文型）の文です。'find + O + C'で「OがCだとわかる」という意味になります。補語(C)として、本が「面白い」ことを表す形容詞'interesting'が入ります。"
+        },
+        {
+          "id": "G-049",
+          "questionText": "My parents always keep the kitchen _______.",
+          "options": ["clean", "cleanly", "cleanness", "to clean"],
+          "correctAnswerIndex": 0,
+          "explanation": "SVOC（第5文型）の文です。'keep + O + C'で「OをCの状態に保つ」という意味になります。補語(C)には形容詞の'clean'が入ります。"
+        },
+        {
+          "id": "G-050",
+          "questionText": "Could you teach _______ how to play the guitar?",
+          "options": ["I", "my", "me", "mine"],
+          "correctAnswerIndex": 2,
+          "explanation": "SVOO（第4文型）の文です。'teach + 人 + 物'で「人に物を教える」という意味になります。間接目的語(O)なので目的格の'me'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_2-4",
+      "setName": "[2-4] 文の種類：否定文・疑問文",
+      "questions": [
+        {
+          "id": "G-051",
+          "questionText": "_______ you like coffee or tea?",
+          "options": ["Are", "Do", "Have", "Can"],
+          "correctAnswerIndex": 1,
+          "explanation": "一般動詞'like'の疑問文なので、文頭に'Do'を置きます。"
+        },
+        {
+          "id": "G-052",
+          "questionText": "He _______ have any brothers or sisters.",
+          "options": ["is not", "do not", "does not", "has not"],
+          "correctAnswerIndex": 2,
+          "explanation": "一般動詞'have'の否定文で、主語が三人称単数（He）なので、'does not'（短縮形はdoesn't）を使います。"
+        },
+        {
+          "id": "G-053",
+          "questionText": "_______ did you go on your last vacation?",
+          "options": ["What", "Who", "Where", "When"],
+          "correctAnswerIndex": 2,
+          "explanation": "答えが場所（例：to Hawaii）になることを想定しているため、場所を尋ねる疑問詞'Where'が適切です。"
+        },
+        {
+          "id": "G-054",
+          "questionText": "She is a doctor, _______ she?",
+          "options": ["is", "isn't", "does", "doesn't"],
+          "correctAnswerIndex": 1,
+          "explanation": "付加疑問文の問題です。主節が肯定文（She is a doctor）なので、付加疑問は否定形（isn't she?）になります。"
+        },
+        {
+          "id": "G-055",
+          "questionText": "_______ is your favorite color?",
+          "options": ["What", "Who", "Which", "How"],
+          "correctAnswerIndex": 0,
+          "explanation": "「何色」と尋ねているので、疑問詞'What'が正解です。"
+        },
+        {
+          "id": "G-056",
+          "questionText": "They _______ at home yesterday.",
+          "options": ["wasn't", "weren't", "didn't", "don't"],
+          "correctAnswerIndex": 1,
+          "explanation": "be動詞の過去の否定文です。主語が複数（They）なので、'were not'（短縮形はweren't）を使います。"
+        },
+        {
+          "id": "G-057",
+          "questionText": "_______ tall is your brother?",
+          "options": ["What", "Which", "Who", "How"],
+          "correctAnswerIndex": 3,
+          "explanation": "身長や程度を尋ねるときは'How'を使います。'How tall'で「どれくらいの身長」という意味になります。"
+        },
+        {
+          "id": "G-058",
+          "questionText": "I don't have _______ money with me.",
+          "options": ["some", "any", "no", "many"],
+          "correctAnswerIndex": 1,
+          "explanation": "否定文や疑問文では、通常'some'の代わりに'any'を使います。"
+        },
+        {
+          "id": "G-059",
+          "questionText": "_______ you finish your homework yet?",
+          "options": ["Do", "Did", "Have", "Are"],
+          "correctAnswerIndex": 2,
+          "explanation": "'yet'（まだ）は現在完了形と共によく使われる語です。現在完了形の疑問文なので、'Have'を文頭に置きます。"
+        },
+        {
+          "id": "G-060",
+          "questionText": "Why _______ you late for the meeting this morning?",
+          "options": ["are", "were", "do", "did"],
+          "correctAnswerIndex": 1,
+          "explanation": "'this morning'（今朝）と過去の時点を表しているので、be動詞の過去形'were'を使います。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_3-1",
+      "setName": "[3-1] 基本時制（現在・過去・未来）",
+      "questions": [
+        {
+          "id": "G-061",
+          "questionText": "The earth _______ around the sun.",
+          "options": ["go", "goes", "is going", "went"],
+          "correctAnswerIndex": 1,
+          "explanation": "「地球が太陽の周りを回る」という普遍の真理は、現在形で表します。主語が三人称単数なので'goes'が正解です。"
+        },
+        {
+          "id": "G-062",
+          "questionText": "I _______ to the museum with my family last weekend.",
+          "options": ["go", "goes", "went", "have gone"],
+          "correctAnswerIndex": 2,
+          "explanation": "'last weekend'（先週末）という過去の時点を表す語があるので、動詞は過去形の'went'が適切です。"
+        },
+        {
+          "id": "G-063",
+          "questionText": "It _______ tomorrow, so you should take an umbrella.",
+          "options": ["rains", "rained", "will rain", "is raining"],
+          "correctAnswerIndex": 2,
+          "explanation": "'tomorrow'（明日）という未来のことなので、未来を表す'will rain'が正解です。"
+        },
+        {
+          "id": "G-064",
+          "questionText": "He _______ up at six o'clock every morning.",
+          "options": ["get", "gets", "got", "is getting"],
+          "correctAnswerIndex": 1,
+          "explanation": "'every morning'（毎朝）という習慣を表しているので、現在形を使います。主語が三人称単数なので'gets'になります。"
+        },
+        {
+          "id": "G-065",
+          "questionText": "My grandfather _______ this house 50 years ago.",
+          "options": ["builds", "built", "has built", "is building"],
+          "correctAnswerIndex": 1,
+          "explanation": "'50 years ago'という明確な過去の時点があるので、過去形の'built'が正解です。"
+        },
+        {
+          "id": "G-066",
+          "questionText": "Look at the dark clouds. It's _______ to rain.",
+          "options": ["go", "going", "goes", "went"],
+          "correctAnswerIndex": 1,
+          "explanation": "目の前の状況から確信度の高い未来を予測する場合、'be going to'を使います。'is'があるので'going'が続きます。"
+        },
+        {
+          "id": "G-067",
+          "questionText": "We _______ in this city when I was a child.",
+          "options": ["live", "lived", "have lived", "are living"],
+          "correctAnswerIndex": 1,
+          "explanation": "'when I was a child'（私が子供だったとき）という過去の時点の話なので、過去形の'lived'が正解です。"
+        },
+        {
+          "id": "G-068",
+          "questionText": "I promise I _______ tell anyone your secret.",
+          "options": ["don't", "am not", "won't", "haven't"],
+          "correctAnswerIndex": 2,
+          "explanation": "「〜しないと約束する」という未来の意志を表すので、'will not'の短縮形'won't'が適切です。"
+        },
+        {
+          "id": "G-069",
+          "questionText": "What time _______ the next train leave?",
+          "options": ["is", "do", "does", "will"],
+          "correctAnswerIndex": 2,
+          "explanation": "時刻表などで決まっている未来の予定は現在形で表します。主語が三人称単数（the next train）の疑問文なので、'does'を使います。"
+        },
+        {
+          "id": "G-070",
+          "questionText": "She _______ a famous artist in the 19th century.",
+          "options": ["is", "was", "will be", "has been"],
+          "correctAnswerIndex": 1,
+          "explanation": "'in the 19th century'（19世紀に）という過去の時点の話なので、be動詞の過去形'was'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_3-2",
+      "setName": "[3-2] 進行形と現在完了形",
+      "questions": [
+        {
+          "id": "G-071",
+          "questionText": "Please be quiet. The baby _______ now.",
+          "options": ["sleeps", "slept", "is sleeping", "has slept"],
+          "correctAnswerIndex": 2,
+          "explanation": "'now'（今）という、まさに今行われている動作を表すので、現在進行形の'is sleeping'が正解です。"
+        },
+        {
+          "id": "G-072",
+          "questionText": "I _______ in this town for ten years.",
+          "options": ["live", "lived", "am living", "have lived"],
+          "correctAnswerIndex": 3,
+          "explanation": "'for ten years'（10年間）という期間を表し、過去から現在までの継続を示しているので、現在完了形の'have lived'が正解です。"
+        },
+        {
+          "id": "G-073",
+          "questionText": "He _______ to Europe three times.",
+          "options": ["is", "was", "has been", "is going"],
+          "correctAnswerIndex": 2,
+          "explanation": "「ヨーロッパに3回行ったことがある」という過去の経験を表しているので、現在完了形の'has been'が正解です。'go'の経験は'have been'で表します。"
+        },
+        {
+          "id": "G-074",
+          "questionText": "What _______ you _______ at this time yesterday?",
+          "options": ["are, doing", "were, doing", "did, do", "have, done"],
+          "correctAnswerIndex": 1,
+          "explanation": "'at this time yesterday'（昨日のこの時間）という、過去のある時点での動作を表すので、過去進行形の'were doing'が正解です。"
+        },
+        {
+          "id": "G-075",
+          "questionText": "She has _______ finished her homework.",
+          "options": ["yet", "just", "still", "ago"],
+          "correctAnswerIndex": 1,
+          "explanation": "「ちょうど宿題を終えたところだ」という現在完了形の完了用法です。'just'が最も適切です。"
+        },
+        {
+          "id": "G-076",
+          "questionText": "My parents _______ for a walk when I called them.",
+          "options": ["go", "went", "were going", "have gone"],
+          "correctAnswerIndex": 2,
+          "explanation": "「私が電話したとき」という過去の時点に、「彼らが散歩をしていた」という継続中の動作を表すので、過去進行形の'were going'が正解です。"
+        },
+        {
+          "id": "G-077",
+          "questionText": "Have you ever _______ sushi?",
+          "options": ["eat", "ate", "eaten", "eating"],
+          "correctAnswerIndex": 2,
+          "explanation": "現在完了形の疑問文（Have you ever ...?）では、動詞は過去分詞形を使います。'eat'の過去分詞は'eaten'です。"
+        },
+        {
+          "id": "G-078",
+          "questionText": "We _______ for the bus for over half an hour.",
+          "options": ["wait", "waited", "are waiting", "have been waiting"],
+          "correctAnswerIndex": 3,
+          "explanation": "'for over half an hour'（30分以上）という期間、待ち続けている動作を強調するため、現在完了進行形の'have been waiting'が最も適切です。"
+        },
+        {
+          "id": "G-079",
+          "questionText": "The train has not arrived _______.",
+          "options": ["just", "already", "yet", "ago"],
+          "correctAnswerIndex": 2,
+          "explanation": "現在完了形の否定文で「まだ〜ない」という意味を表すには'yet'を使います。'yet'は文末に置かれます。"
+        },
+        {
+          "id": "G-080",
+          "questionText": "It _______ all day. The ground is wet.",
+          "options": ["rains", "rained", "has been raining", "is raining"],
+          "correctAnswerIndex": 2,
+          "explanation": "「一日中ずっと雨が降っている」という動作の継続と、その結果「地面が濡れている」ことを示しているので、現在完了進行形の'has been raining'が最も適切です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_3-3",
+      "setName": "[3-3] 過去完了形と完了進行形",
+      "questions": [
+        {
+          "id": "G-081",
+          "questionText": "When I arrived at the station, the train _______ left.",
+          "options": ["has already", "had already", "already", "was already"],
+          "correctAnswerIndex": 1,
+          "explanation": "「私が駅に着いた」（過去）よりも前に「電車が出発してしまった」（大過去）ので、過去完了形の'had already left'が正解です。"
+        },
+        {
+          "id": "G-082",
+          "questionText": "He _______ for three hours when his friend finally arrived.",
+          "options": ["waits", "was waiting", "has been waiting", "had been waiting"],
+          "correctAnswerIndex": 3,
+          "explanation": "「友達が到着した」（過去）の時点まで、「3時間ずっと待っていた」という動作の継続を表すため、過去完了進行形の'had been waiting'が正解です。"
+        },
+        {
+          "id": "G-083",
+          "questionText": "She told me that she _______ the movie before.",
+          "options": ["sees", "saw", "has seen", "had seen"],
+          "correctAnswerIndex": 3,
+          "explanation": "「彼女が私に言った」（過去）よりも前に「その映画を見た」（大過去）ので、過去完了形の'had seen'が正解です。"
+        },
+        {
+          "id": "G-084",
+          "questionText": "I didn't know his name because I _______ him before.",
+          "options": ["never met", "had never met", "have never met", "was not meeting"],
+          "correctAnswerIndex": 1,
+          "explanation": "「彼の名前を知らなかった」（過去）のは、それ以前に「一度も会ったことがなかった」（大過去）からなので、過去完了形の'had never met'が正解です。"
+        },
+        {
+          "id": "G-085",
+          "questionText": "By the time he was 20, he _______ to more than 10 countries.",
+          "options": ["traveled", "has traveled", "had traveled", "was traveling"],
+          "correctAnswerIndex": 2,
+          "explanation": "「彼が20歳だった時までに」という過去のある時点までに、「10カ国以上を旅行した」という経験を表すので、過去完了形の'had traveled'が正解です。"
+        },
+        {
+          "id": "G-086",
+          "questionText": "They _______ for only a few minutes when it started to rain heavily.",
+          "options": ["walked", "have been walking", "were walking", "had been walking"],
+          "correctAnswerIndex": 3,
+          "explanation": "「大雨が降り始めた」（過去）の時点まで、「ほんの数分間歩いていた」という動作の継続を表すため、過去完了進行形の'had been walking'が正解です。"
+        },
+        {
+          "id": "G-087",
+          "questionText": "The room was messy. Someone _______ a party.",
+          "options": ["had", "had had", "was having", "has had"],
+          "correctAnswerIndex": 1,
+          "explanation": "「部屋が散らかっていた」（過去）のは、それより前に誰かが「パーティーを開いていた」（大過去）からだと推測できます。過去完了形は'had + 過去分詞'なので、'have'の過去分詞'had'を使い、'had had'となります。"
+        },
+        {
+          "id": "G-088",
+          "questionText": "She _______ English for five years before she moved to London.",
+          "options": ["studies", "studied", "has studied", "had studied"],
+          "correctAnswerIndex": 3,
+          "explanation": "「彼女がロンドンに引っ越した」（過去）よりも前の5年間、英語を「勉強していた」という継続を表すため、過去完了形の'had studied'が正解です。"
+        },
+        {
+          "id": "G-089",
+          "questionText": "I realized I _______ my wallet at home.",
+          "options": ["leave", "left", "have left", "had left"],
+          "correctAnswerIndex": 3,
+          "explanation": "「気づいた」（過去）よりも前に「財布を忘れてきた」（大過去）ので、過去完了形の'had left'が正解です。"
+        },
+        {
+          "id": "G-090",
+          "questionText": "How long _______ you _______ before you found a new job?",
+          "options": ["are, looking", "were, looking", "have, been looking", "had, been looking"],
+          "correctAnswerIndex": 3,
+          "explanation": "「新しい仕事を見つけた」（過去）の時点まで、どのくらいの期間「探し続けていたのか」を尋ねるため、過去完了進行形の'had you been looking'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_4-1",
+      "setName": "[4-1] 助動詞の基本と推量",
+      "questions": [
+        {
+          "id": "G-091",
+          "questionText": "You _______ see a doctor if you're not feeling well.",
+          "options": ["should", "can", "may", "will"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜すべきだ」というアドバイスや忠告を表すので、助動詞'should'が最も適切です。"
+        },
+        {
+          "id": "G-092",
+          "questionText": "He _______ be at home. I just saw him at the library.",
+          "options": ["must", "can't", "may", "should"],
+          "correctAnswerIndex": 1,
+          "explanation": "「彼が家にいるはずがない」という強い否定の推量を表します。'I just saw him at the library'がその根拠です。'can't'が正解です。"
+        },
+        {
+          "id": "G-093",
+          "questionText": "_______ I use your phone for a moment?",
+          "options": ["Must", "Will", "May", "Should"],
+          "correctAnswerIndex": 2,
+          "explanation": "「〜してもよろしいですか？」と丁寧に許可を求める表現です。'May'が最も適切です。'Can'も使えますが、'May'の方がよりフォーマルです。"
+        },
+        {
+          "id": "G-094",
+          "questionText": "She looks very tired. She _______ have worked late last night.",
+          "options": ["must", "can't", "shouldn't", "may not"],
+          "correctAnswerIndex": 0,
+          "explanation": "「彼女は昨夜遅くまで働いていたに違いない」という過去の事柄に対する強い肯定の推量を表します。'must have + 過去分詞'の形を使います。"
+        },
+        {
+          "id": "G-095",
+          "questionText": "You _______ be quiet in the library.",
+          "options": ["must", "can", "may", "will"],
+          "correctAnswerIndex": 0,
+          "explanation": "「〜しなければならない」という義務や規則を表すので、'must'が正解です。"
+        },
+        {
+          "id": "G-096",
+          "questionText": "It _______ rain later. The sky is getting dark.",
+          "options": ["must", "can", "might", "should"],
+          "correctAnswerIndex": 2,
+          "explanation": "「後で雨が降るかもしれない」という未来に対する不確かな推量を表します。'may'や'might'が使えます。"
+        },
+        {
+          "id": "G-097",
+          "questionText": "I'm sorry, I _______ help you right now. I'm too busy.",
+          "options": ["must not", "cannot", "should not", "may not"],
+          "correctAnswerIndex": 1,
+          "explanation": "「〜できない」という能力の否定を表すので、'cannot'（can't）が正解です。"
+        },
+        {
+          "id": "G-098",
+          "questionText": "You _______ have told her the secret. Now she is angry.",
+          "options": ["must", "could", "shouldn't", "might"],
+          "correctAnswerIndex": 2,
+          "explanation": "「彼女に秘密を話すべきではなかったのに」という過去の行動に対する後悔や非難を表します。'should not have + 過去分詞'の形を使います。"
+        },
+        {
+          "id": "G-099",
+          "questionText": "The package _______ arrive tomorrow morning.",
+          "options": ["can", "should", "must", "may not"],
+          "correctAnswerIndex": 1,
+          "explanation": "「明日の朝には到着するはずだ」という期待を込めた推量を表します。'should'が適切です。"
+        },
+        {
+          "id": "G-100",
+          "questionText": "You don't _______ to worry about it. Everything will be fine.",
+          "options": ["must", "should", "have", "can"],
+          "correctAnswerIndex": 2,
+          "explanation": "'don't have to'で「〜する必要はない」という不必要を表します。'must not'（〜してはいけない）との違いに注意しましょう。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_5-1",
+      "setName": "[5-1] 受動態の作り方と応用",
+      "questions": [
+        {
+          "id": "G-101",
+          "questionText": "This book _______ by a famous writer.",
+          "options": ["wrote", "was written", "writes", "is writing"],
+          "correctAnswerIndex": 1,
+          "explanation": "「この本は書かれた」という受け身の意味なので、受動態を使います。過去の出来事なので'be動詞の過去形 + 過去分詞'の'was written'が正解です。"
+        },
+        {
+          "id": "G-102",
+          "questionText": "English _______ in many countries around the world.",
+          "options": ["speaks", "is spoken", "spoke", "has spoken"],
+          "correctAnswerIndex": 1,
+          "explanation": "「英語は話されている」という受け身の意味で、一般的な事実なので、現在形の受動態'is spoken'が正解です。"
+        },
+        {
+          "id": "G-103",
+          "questionText": "The new bridge _______ next year.",
+          "options": ["builds", "is built", "will be built", "was built"],
+          "correctAnswerIndex": 2,
+          "explanation": "「新しい橋は建設されるだろう」という未来の受け身なので、未来形の受動態'will be built'が正解です。"
+        },
+        {
+          "id": "G-104",
+          "questionText": "My wallet _______ from my bag yesterday.",
+          "options": ["stole", "was stolen", "is stolen", "has been stolen"],
+          "correctAnswerIndex": 1,
+          "explanation": "「財布が盗まれた」という受け身の意味で、'yesterday'とあるので過去形の受動態'was stolen'が正解です。"
+        },
+        {
+          "id": "G-105",
+          "questionText": "This room _______ cleaned every day.",
+          "options": ["must", "has to", "should be", "must be"],
+          "correctAnswerIndex": 3,
+          "explanation": "「この部屋は毎日掃除されなければならない」という義務の受け身なので、'must be cleaned'が適切です。'be'を忘れないように注意しましょう。"
+        },
+        {
+          "id": "G-106",
+          "questionText": "The summit of the mountain is covered _______ snow all year round.",
+          "options": ["by", "with", "in", "of"],
+          "correctAnswerIndex": 1,
+          "explanation": "'be covered with ~'で「〜で覆われている」という決まった表現です。受動態でも必ず'by'を使うわけではありません。"
+        },
+        {
+          "id": "G-107",
+          "questionText": "I was surprised _______ the news.",
+          "options": ["by", "at", "with", "for"],
+          "correctAnswerIndex": 1,
+          "explanation": "'be surprised at ~'で「〜に驚く」という決まった表現です。'by'も使われることがありますが、'at'が一般的です。"
+        },
+        {
+          "id": "G-108",
+          "questionText": "The problem _______ discussed at the meeting now.",
+          "options": ["is", "is being", "was", "was being"],
+          "correctAnswerIndex": 1,
+          "explanation": "'now'とあるので、現在進行形の受動態'is being discussed'（議論されているところだ）が正解です。"
+        },
+        {
+          "id": "G-109",
+          "questionText": "This song is known _______ almost everyone in Japan.",
+          "options": ["by", "with", "for", "to"],
+          "correctAnswerIndex": 3,
+          "explanation": "'be known to ~'で「（人）に知られている」という意味になります。'be known for'は「〜で有名だ」という意味です。"
+        },
+        {
+          "id": "G-110",
+          "questionText": "The results of the survey will _______ announced tomorrow.",
+          "options": ["is", "are", "be", "been"],
+          "correctAnswerIndex": 2,
+          "explanation": "助動詞'will'の後ろなので、動詞の原形'be'が来て'will be announced'（発表されるだろう）という未来の受動態になります。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_6-1",
+      "setName": "[6-1] 不定詞：名詞的・形容詞的用法",
+      "questions": [
+        {
+          "id": "G-111",
+          "questionText": "_______ a new language is always a challenge.",
+          "options": ["Learn", "Learns", "To learn", "Learning to"],
+          "correctAnswerIndex": 2,
+          "explanation": "「新しい言語を学ぶこと」が文の主語になっています。このように「〜すること」という意味を表すには、不定詞の名詞的用法'To learn'を使います。動名詞'Learning'も可能です。"
+        },
+        {
+          "id": "G-112",
+          "questionText": "My dream is _______ a doctor.",
+          "options": ["become", "to become", "becoming", "became"],
+          "correctAnswerIndex": 1,
+          "explanation": "「私の夢は医者になることです」という文です。be動詞'is'の補語として「〜すること」を意味する不定詞の名詞的用法'to become'が適切です。"
+        },
+        {
+          "id": "G-113",
+          "questionText": "I need something _______.",
+          "options": ["drink", "to drink", "drinking", "drunk"],
+          "correctAnswerIndex": 1,
+          "explanation": "「何か飲むためのもの」という意味で、不定詞が前の名詞'something'を修飾しています。これは不定詞の形容詞的用法です。"
+        },
+        {
+          "id": "G-114",
+          "questionText": "He decided _______ abroad for a year.",
+          "options": ["study", "to study", "studying", "studied"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'decided'の目的語として「留学すること」が入ります。'decide'は目的語に不定詞をとる動詞です。"
+        },
+        {
+          "id": "G-115",
+          "questionText": "She has a lot of homework _______ tonight.",
+          "options": ["do", "to do", "doing", "done"],
+          "correctAnswerIndex": 1,
+          "explanation": "「今夜すべき宿題」という意味で、不定詞'to do'が前の名詞'homework'を修飾しています。不定詞の形容詞的用法です。"
+        },
+        {
+          "id": "G-116",
+          "questionText": "The best way _______ your English is to practice every day.",
+          "options": ["improve", "to improve", "improving", "improved"],
+          "correctAnswerIndex": 1,
+          "explanation": "「英語を上達させるための最善の方法」という意味で、不定詞'to improve'が'the best way'を修飾しています。形容詞的用法です。"
+        },
+        {
+          "id": "G-117",
+          "questionText": "It is important _______ enough sleep.",
+          "options": ["get", "to get", "getting", "got"],
+          "correctAnswerIndex": 1,
+          "explanation": "この'It'は形式主語で、本当の主語は'to get enough sleep'（十分な睡眠をとること）です。不定詞の名詞的用法です。"
+        },
+        {
+          "id": "G-118",
+          "questionText": "He promised _______ me with my move.",
+          "options": ["help", "to help", "helping", "helped"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'promised'の目的語として「手伝うこと」が入ります。'promise'は目的語に不定詞をとる動詞です。"
+        },
+        {
+          "id": "G-119",
+          "questionText": "I don't have a pen _______ with.",
+          "options": ["write", "to write", "writing", "written"],
+          "correctAnswerIndex": 1,
+          "explanation": "「書くためのペン」という意味の形容詞的用法です。'write with a pen'という関係なので、不定詞の最後に前置詞'with'が必要です。"
+        },
+        {
+          "id": "G-120",
+          "questionText": "Her goal is _______ the marathon.",
+          "options": ["finish", "to finish", "finishing", "finished"],
+          "correctAnswerIndex": 1,
+          "explanation": "「彼女の目標はマラソンを完走することです」という文です。be動詞'is'の補語として、不定詞の名詞的用法'to finish'が適切です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_6-2",
+      "setName": "[6-2] 不定詞：副詞的用法と原形不定詞",
+      "questions": [
+        {
+          "id": "G-121",
+          "questionText": "He went to the library _______ for the exam.",
+          "options": ["study", "to study", "studying", "studied"],
+          "correctAnswerIndex": 1,
+          "explanation": "「試験のために勉強する」という目的を表す不定詞の副詞的用法です。'to study'が正解です。"
+        },
+        {
+          "id": "G-122",
+          "questionText": "I was very happy _______ you again.",
+          "options": ["see", "to see", "seeing", "saw"],
+          "correctAnswerIndex": 1,
+          "explanation": "「あなたに再会できてとても嬉しい」という感情の原因を表す不定詞の副詞的用法です。'happy'のような感情を表す形容詞の後に続きます。"
+        },
+        {
+          "id": "G-123",
+          "questionText": "My mother made me _______ my room.",
+          "options": ["clean", "to clean", "cleaning", "cleaned"],
+          "correctAnswerIndex": 0,
+          "explanation": "'make'は使役動詞で、'make + O + 動詞の原形'の形をとります。「母は私に部屋を掃除させた」という意味です。"
+        },
+        {
+          "id": "G-124",
+          "questionText": "She must be a genius _______ such a difficult problem.",
+          "options": ["solve", "to solve", "solving", "solved"],
+          "correctAnswerIndex": 1,
+          "explanation": "「そんな難しい問題を解くなんて、彼女は天才に違いない」という判断の根拠を表す不定詞の副詞的用法です。"
+        },
+        {
+          "id": "G-125",
+          "questionText": "I saw him _______ the street.",
+          "options": ["cross", "to cross", "crossed", "crosses"],
+          "correctAnswerIndex": 0,
+          "explanation": "'see'は知覚動詞で、'see + O + 動詞の原形'の形をとります。「彼が道を渡るのを見た」という意味です。'crossing'（現在分詞）も可能です。"
+        },
+        {
+          "id": "G-126",
+          "questionText": "He grew up _______ a great musician.",
+          "options": ["be", "to be", "being", "was"],
+          "correctAnswerIndex": 1,
+          "explanation": "「彼は成長して偉大な音楽家になった」という結果を表す不定詞の副詞的用法です。'grow up to be'はよく使われる表現です。"
+        },
+        {
+          "id": "G-127",
+          "questionText": "Let me _______ you with your bags.",
+          "options": ["help", "to help", "helping", "helped"],
+          "correctAnswerIndex": 0,
+          "explanation": "'let'は使役動詞で、'let + O + 動詞の原形'の形をとります。「あなたのバッグを持つのを手伝わせてください」という意味です。"
+        },
+        {
+          "id": "G-128",
+          "questionText": "This book is too difficult for me _______.",
+          "options": ["understand", "to understand", "understanding", "understood"],
+          "correctAnswerIndex": 1,
+          "explanation": "'too ... to ~'の構文で、「〜するには...すぎる」という意味になります。「私が理解するには難しすぎる」となります。"
+        },
+        {
+          "id": "G-129",
+          "questionText": "We worked hard only _______ in the end.",
+          "options": ["fail", "to fail", "failing", "failed"],
+          "correctAnswerIndex": 1,
+          "explanation": "'only to ~'で「〜したが、結局…だった」という予想外の結果を表す不定詞の副詞的用法です。「一生懸命働いたが、結局失敗しただけだった」となります。"
+        },
+        {
+          "id": "G-130",
+          "questionText": "The teacher had the students _______ a report.",
+          "options": ["write", "to write", "writing", "written"],
+          "correctAnswerIndex": 0,
+          "explanation": "'have'は使役動詞で、'have + O + 動詞の原形'の形をとります。「先生は生徒たちにレポートを書かせた」という意味です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_7-1",
+      "setName": "[7-1] 動名詞と不定詞の使い分け",
+      "questions": [
+        {
+          "id": "G-131",
+          "questionText": "I enjoy _______ to music in my free time.",
+          "options": ["listen", "to listen", "listening", "listened"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞'enjoy'は、目的語に動名詞（-ing形）をとります。「音楽を聴くことを楽しむ」という意味です。"
+        },
+        {
+          "id": "G-132",
+          "questionText": "She decided _______ a new car.",
+          "options": ["buy", "to buy", "buying", "bought"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'decide'は、目的語に不定詞（to + 動詞の原形）をとります。「新しい車を買うことを決めた」という意味です。"
+        },
+        {
+          "id": "G-133",
+          "questionText": "He is good at _______ pictures.",
+          "options": ["draw", "to draw", "drawing", "drew"],
+          "correctAnswerIndex": 2,
+          "explanation": "前置詞'at'の後ろには、名詞か動名詞が来ます。したがって'drawing'が正解です。'be good at ~ing'で「〜するのが得意だ」という意味です。"
+        },
+        {
+          "id": "G-134",
+          "questionText": "Please stop _______ so much noise.",
+          "options": ["make", "to make", "making", "made"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞'stop'は目的語に動名詞をとると「〜するのをやめる」という意味になります。「騒音を立てるのをやめてください」となります。'stop to make'だと「騒音を立てるために立ち止まる」という意味になります。"
+        },
+        {
+          "id": "G-135",
+          "questionText": "I want _______ abroad someday.",
+          "options": ["travel", "to travel", "traveling", "traveled"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞'want'は、目的語に不定詞をとります。「いつか海外旅行がしたい」という意味です。"
+        },
+        {
+          "id": "G-136",
+          "questionText": "Would you mind _______ the window?",
+          "options": ["open", "to open", "opening", "opened"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞'mind'は、目的語に動名詞をとります。「窓を開けていただけませんか？」という丁寧な依頼の表現です。"
+        },
+        {
+          "id": "G-137",
+          "questionText": "He finished _______ the report at midnight.",
+          "options": ["write", "to write", "writing", "written"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞'finish'は、目的語に動名詞をとります。「レポートを書き終えた」という意味です。"
+        },
+        {
+          "id": "G-138",
+          "questionText": "I forgot _______ the door when I left home.",
+          "options": ["lock", "to lock", "locking", "locked"],
+          "correctAnswerIndex": 1,
+          "explanation": "'forget to do'は「〜するのを忘れる」という意味です。「家を出るときにドアに鍵をかけるのを忘れた」となります。'forget doing'は「〜したことを忘れる」という意味です。"
+        },
+        {
+          "id": "G-139",
+          "questionText": "Thank you for _______ me.",
+          "options": ["help", "to help", "helping", "helped"],
+          "correctAnswerIndex": 2,
+          "explanation": "前置詞'for'の後ろなので、動名詞の'helping'が正解です。「手伝ってくれてありがとう」となります。"
+        },
+        {
+          "id": "G-140",
+          "questionText": "She avoided _______ to him about the problem.",
+          "options": ["talk", "to talk", "talking", "talked"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞'avoid'は、目的語に動名詞をとります。「彼女はその問題について彼と話すのを避けた」という意味です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_8-1",
+      "setName": "[8-1] 分詞の形容詞的用法",
+      "questions": [
+        {
+          "id": "G-141",
+          "questionText": "The boy _______ a blue cap is my brother.",
+          "options": ["wear", "wears", "wearing", "worn"],
+          "correctAnswerIndex": 2,
+          "explanation": "「青い帽子をかぶっている少年」という意味で、前の名詞'the boy'を修飾しています。「〜している」という能動の意味なので、現在分詞'wearing'が正解です。"
+        },
+        {
+          "id": "G-142",
+          "questionText": "This is a picture _______ by a famous artist.",
+          "options": ["paint", "paints", "painting", "painted"],
+          "correctAnswerIndex": 3,
+          "explanation": "「有名な画家によって描かれた絵」という意味で、前の名詞'a picture'を修飾しています。「〜される」という受け身の意味なので、過去分詞'painted'が正解です。"
+        },
+        {
+          "id": "G-143",
+          "questionText": "I found the movie very _______.",
+          "options": ["excite", "exciting", "excited", "excitement"],
+          "correctAnswerIndex": 1,
+          "explanation": "映画が「人をワクワクさせる」ものなので、能動の意味を持つ現在分詞'exciting'が正解です。"
+        },
+        {
+          "id": "G-144",
+          "questionText": "I was very _______ to hear the news.",
+          "options": ["surprise", "surprising", "surprised", "surprisingly"],
+          "correctAnswerIndex": 2,
+          "explanation": "私が「驚かされた」という受け身の意味なので、過去分詞'surprised'が正解です。人の感情を表す場合は過去分詞になることが多いです。"
+        },
+        {
+          "id": "G-145",
+          "questionText": "The language _______ in Brazil is Portuguese.",
+          "options": ["speak", "speaking", "spoken", "spoke"],
+          "correctAnswerIndex": 2,
+          "explanation": "「ブラジルで話されている言語」という意味で、'the language'を修飾しています。「〜される」という受け身の意味なので、過去分詞'spoken'が正解です。"
+        },
+        {
+          "id": "G-146",
+          "questionText": "Who is that girl _______ by the window?",
+          "options": ["stand", "stands", "standing", "stood"],
+          "correctAnswerIndex": 2,
+          "explanation": "「窓のそばに立っている少女」という意味で、'that girl'を修飾しています。「〜している」という能動の意味なので、現在分詞'standing'が正解です。"
+        },
+        {
+          "id": "G-147",
+          "questionText": "I received a letter _______ in English.",
+          "options": ["write", "writing", "written", "wrote"],
+          "correctAnswerIndex": 2,
+          "explanation": "「英語で書かれた手紙」という意味で、'a letter'を修飾しています。「〜される」という受け身の意味なので、過去分詞'written'が正解です。"
+        },
+        {
+          "id": "G-148",
+          "questionText": "The work was very _______. I need a rest.",
+          "options": ["tire", "tiring", "tired", "tiresome"],
+          "correctAnswerIndex": 1,
+          "explanation": "仕事が「人を疲れさせる」ものなので、能動の意味を持つ現在分詞'tiring'が正解です。"
+        },
+        {
+          "id": "G-149",
+          "questionText": "All the students were _______ with the results.",
+          "options": ["satisfy", "satisfying", "satisfied", "satisfaction"],
+          "correctAnswerIndex": 2,
+          "explanation": "生徒たちが「満足させられた」という受け身の意味なので、過去分詞'satisfied'が正解です。'be satisfied with'で「〜に満足している」という意味です。"
+        },
+        {
+          "id": "G-150",
+          "questionText": "Look at the _______ leaves on the ground.",
+          "options": ["fall", "falling", "fallen", "fell"],
+          "correctAnswerIndex": 2,
+          "explanation": "「地面に落ちている葉」という意味で、'fallen'は「落ちてしまった」という完了の状態を表す形容詞として使われます。'falling leaves'は「舞い落ちている葉」という動作の進行を表します。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_8-2",
+      "setName": "[8-2] 分詞構文",
+      "questions": [
+        {
+          "id": "G-151",
+          "questionText": "_______ the street, I saw an old friend.",
+          "options": ["Cross", "To cross", "Crossing", "Crossed"],
+          "correctAnswerIndex": 2,
+          "explanation": "「道を渡っているとき」という意味で、時を表す分詞構文です。主語の'I'が「渡る」という能動の関係なので、現在分詞'Crossing'が正解です。元の文は'While I was crossing the street, ...'です。"
+        },
+        {
+          "id": "G-152",
+          "questionText": "_______ from a distance, the rock looks like a human face.",
+          "options": ["See", "Seeing", "Seen", "To see"],
+          "correctAnswerIndex": 2,
+          "explanation": "「遠くから見られると」という意味で、条件を表す分詞構文です。主語の'the rock'が「見られる」という受け身の関係なので、過去分詞'Seen'が正解です。元の文は'If it is seen from a distance, ...'です。"
+        },
+        {
+          "id": "G-153",
+          "questionText": "_______ no money, I couldn't buy the ticket.",
+          "options": ["Have", "To have", "Having", "Had"],
+          "correctAnswerIndex": 2,
+          "explanation": "「お金がなかったので」という意味で、理由を表す分詞構文です。主語の'I'が「持っている」という能動の関係なので、現在分詞'Having'が正解です。'Because I had no money, ...'と同じ意味です。"
+        },
+        {
+          "id": "G-154",
+          "questionText": "She sat on the sofa, _______ a magazine.",
+          "options": ["read", "to read", "reading", "reads"],
+          "correctAnswerIndex": 2,
+          "explanation": "「雑誌を読みながら」という意味で、付帯状況（〜しながら）を表す分詞構文です。主語の'She'が「読む」という能動の関係なので、現在分詞'reading'が正解です。"
+        },
+        {
+          "id": "G-155",
+          "questionText": "_______ in a hurry, he forgot his wallet.",
+          "options": ["Leave", "To leave", "Leaving", "Left"],
+          "correctAnswerIndex": 2,
+          "explanation": "「急いでいたので」という意味で、理由を表す分詞構文です。元の文は'As he was leaving in a hurry, ...'のような形です。"
+        },
+        {
+          "id": "G-156",
+          "questionText": "All things _______, you have done a good job.",
+          "options": ["consider", "to consider", "considering", "considered"],
+          "correctAnswerIndex": 3,
+          "explanation": "'All things considered'は「すべてのことを考慮すると」という意味の独立分詞構文で、慣用的な表現です。'things'が「考慮される」という受け身の関係です。"
+        },
+        {
+          "id": "G-157",
+          "questionText": "_______ what to do, I asked my teacher for advice.",
+          "options": ["Not know", "Not knowing", "Not known", "Didn't know"],
+          "correctAnswerIndex": 1,
+          "explanation": "「何をすべきかわからなかったので」という意味の分詞構文の否定形です。分詞の前に'Not'を置きます。'Not knowing'が正解です。"
+        },
+        {
+          "id": "G-158",
+          "questionText": "The train leaves at 7, _______ at the destination at 9.",
+          "options": ["arrive", "arriving", "arrived", "to arrive"],
+          "correctAnswerIndex": 1,
+          "explanation": "「そして目的地に9時に着く」という連続した動作や結果を表す分詞構文です。'and arrives'の代わりに'arriving'が使われます。"
+        },
+        {
+          "id": "G-159",
+          "questionText": "_______ in simple English, this book is easy for beginners.",
+          "options": ["Write", "Writing", "Written", "Wrote"],
+          "correctAnswerIndex": 2,
+          "explanation": "「簡単な英語で書かれているので」という意味の分詞構文です。主語の'this book'が「書かれている」という受け身の関係なので、過去分詞'Written'が正解です。"
+        },
+        {
+          "id": "G-160",
+          "questionText": "_______ tired, I went to bed early.",
+          "options": ["Feel", "To feel", "Feeling", "Felt"],
+          "correctAnswerIndex": 2,
+          "explanation": "「疲れていたので」という意味で、理由を表す分詞構文です。主語の'I'が「感じる」という能動の関係なので、現在分詞'Feeling'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_9-1",
+      "setName": "[9-1] 比較：基本（原級・比較級・最上級）",
+      "questions": [
+        {
+          "id": "G-161",
+          "questionText": "My brother is _______ than me.",
+          "options": ["tall", "taller", "tallest", "as tall"],
+          "correctAnswerIndex": 1,
+          "explanation": "'than'があるので、比較級の文だとわかります。'tall'の比較級は'taller'です。"
+        },
+        {
+          "id": "G-162",
+          "questionText": "This is the _______ building in the world.",
+          "options": ["high", "higher", "highest", "as high"],
+          "correctAnswerIndex": 2,
+          "explanation": "'the ... in the world'という形から、最上級の文だとわかります。'high'の最上級は'highest'です。"
+        },
+        {
+          "id": "G-163",
+          "questionText": "She is as _______ as her sister.",
+          "options": ["beautiful", "more beautiful", "most beautiful", "beautifully"],
+          "correctAnswerIndex": 0,
+          "explanation": "'as ... as'の構文（原級比較）では、形容詞・副詞の原形を使います。'beautiful'が正解です。"
+        },
+        {
+          "id": "G-164",
+          "questionText": "This book is more _______ than that one.",
+          "options": ["interest", "interesting", "interested", "interestingly"],
+          "correctAnswerIndex": 1,
+          "explanation": "'interesting'のような長い単語の比較級は、前に'more'を付けます。"
+        },
+        {
+          "id": "G-165",
+          "questionText": "He is the _______ soccer player on the team.",
+          "options": ["good", "better", "best", "well"],
+          "correctAnswerIndex": 2,
+          "explanation": "'good'の最上級は不規則に変化し、'best'になります。"
+        },
+        {
+          "id": "G-166",
+          "questionText": "I think health is _______ important than money.",
+          "options": ["much", "more", "most", "as"],
+          "correctAnswerIndex": 1,
+          "explanation": "'important'の比較級は'more important'です。「健康は金より重要だ」という意味です。"
+        },
+        {
+          "id": "G-167",
+          "questionText": "This is one of the _______ cities in Japan.",
+          "options": ["large", "larger", "largest", "as large"],
+          "correctAnswerIndex": 2,
+          "explanation": "'one of the + 最上級 + 複数名詞'で「最も〜なものの一つ」という表現です。'largest'が正解です。"
+        },
+        {
+          "id": "G-168",
+          "questionText": "She speaks English _______ than I do.",
+          "options": ["good", "well", "better", "best"],
+          "correctAnswerIndex": 2,
+          "explanation": "副詞'well'（上手に）の比較級は'better'です。「彼女は私より上手に英語を話す」という意味です。"
+        },
+        {
+          "id": "G-169",
+          "questionText": "This computer is not as _______ as the new one.",
+          "options": ["fast", "faster", "fastest", "fastly"],
+          "correctAnswerIndex": 0,
+          "explanation": "'not as ... as'で「〜ほど…ではない」という否定の原級比較です。形容詞の原形'fast'が入ります。"
+        },
+        {
+          "id": "G-170",
+          "questionText": "Which is _______, the sun or the moon?",
+          "options": ["large", "larger", "largest", "as large"],
+          "correctAnswerIndex": 1,
+          "explanation": "二つのものを比べて「どちらがより〜か」と尋ねているので、比較級の'larger'が正解です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_9-2",
+      "setName": "[9-2] 比較：応用・慣用表現",
+      "questions": [
+        {
+          "id": "G-171",
+          "questionText": "This car is _______ more expensive than I thought.",
+          "options": ["many", "very", "much", "so"],
+          "correctAnswerIndex": 2,
+          "explanation": "比較級を強調する（「ずっと〜だ」）には、'much', 'far', 'a lot'などを使います。'very'は原級を強調するので使えません。"
+        },
+        {
+          "id": "G-172",
+          "questionText": "The _______ you study, the _______ you will get.",
+          "options": ["harder, smarter", "hard, smart", "hardest, smartest", "harder, smart"],
+          "correctAnswerIndex": 0,
+          "explanation": "'The + 比較級, the + 比較級'で「〜すればするほど、ますます…」という構文です。"
+        },
+        {
+          "id": "G-173",
+          "questionText": "He is senior _______ me by two years.",
+          "options": ["than", "as", "to", "for"],
+          "correctAnswerIndex": 2,
+          "explanation": "'senior', 'junior', 'superior', 'inferior'などのラテン語系の比較級は、'than'の代わりに'to'を使います。"
+        },
+        {
+          "id": "G-174",
+          "questionText": "She is the second _______ student in her class.",
+          "options": ["tall", "taller", "tallest", "as tall"],
+          "correctAnswerIndex": 2,
+          "explanation": "'the + 序数 + 最上級'で「〜番目に…な」という意味になります。'the second tallest'で「2番目に背が高い」となります。"
+        },
+        {
+          "id": "G-175",
+          "questionText": "I prefer walking _______ taking the bus.",
+          "options": ["than", "as", "to", "for"],
+          "correctAnswerIndex": 2,
+          "explanation": "'prefer A to B'で「BよりもAを好む」という意味の比較表現です。"
+        },
+        {
+          "id": "G-176",
+          "questionText": "No other mountain in Japan is as _______ as Mt. Fuji.",
+          "options": ["high", "higher", "highest", "height"],
+          "correctAnswerIndex": 0,
+          "explanation": "'No other ... is as ~ as A'で「Aほど〜な…はない」、つまりAが最も〜だ、という最上級の意味を表す表現です。"
+        },
+        {
+          "id": "G-177",
+          "questionText": "This new model is superior in every way _______ the old one.",
+          "options": ["than", "as", "to", "for"],
+          "correctAnswerIndex": 2,
+          "explanation": "'superior to ~'で「〜よりも優れている」という意味です。'than'は使いません。"
+        },
+        {
+          "id": "G-178",
+          "questionText": "The population of Tokyo is larger than _______ of London.",
+          "options": ["it", "this", "that", "one"],
+          "correctAnswerIndex": 2,
+          "explanation": "比較の対象が同じ種類の名詞の繰り返しを避けるため、代名詞を使います。ここでは'the population'の繰り返しを避けるため'that'を使います。複数形なら'those'になります。"
+        },
+        {
+          "id": "G-179",
+          "questionText": "The problem was _______ difficult than I had expected.",
+          "options": ["less", "least", "little", "few"],
+          "correctAnswerIndex": 0,
+          "explanation": "'less'は'more'の反対で、「より〜でない」という劣等比較を表します。「その問題は私が予想していたほど難しくなかった」という意味です。"
+        },
+        {
+          "id": "G-180",
+          "questionText": "He is not so much a writer _______ a scholar.",
+          "options": ["than", "as", "to", "for"],
+          "correctAnswerIndex": 1,
+          "explanation": "'not so much A as B'で「AというよりはむしろB」という意味の慣用表現です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_10-1",
+      "setName": "[10-1] 関係代名詞（主格・所有格・目的格）",
+      "questions": [
+        {
+          "id": "G-181",
+          "questionText": "The man _______ lives next door is a doctor.",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 0,
+          "explanation": "先行詞が人（The man）で、関係詞節の中で主語の働きをしているので、主格の関係代名詞'who'が正解です。"
+        },
+        {
+          "id": "G-182",
+          "questionText": "This is the book _______ I bought yesterday.",
+          "options": ["who", "which", "whose", "what"],
+          "correctAnswerIndex": 1,
+          "explanation": "先行詞が物（the book）で、関係詞節の中で目的語（I bought [the book]）の働きをしています。目的格の関係代名詞'which'または'that'が使えます。省略も可能です。"
+        },
+        {
+          "id": "G-183",
+          "questionText": "I know a girl _______ father is a famous actor.",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 2,
+          "explanation": "「その少女の父親」という所有の関係を表しているので、所有格の関係代名詞'whose'が正解です。"
+        },
+        {
+          "id": "G-184",
+          "questionText": "The woman _______ I met at the party is a lawyer.",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 3,
+          "explanation": "先行詞が人（The woman）で、関係詞節の中で目的語（I met [the woman]）の働きをしています。目的格なので'whom'が正解です。口語では'who'も使われます。"
+        },
+        {
+          "id": "G-185",
+          "questionText": "He showed me the watch _______ was given to him by his grandfather.",
+          "options": ["who", "that", "whose", "what"],
+          "correctAnswerIndex": 1,
+          "explanation": "先行詞が物（the watch）で、関係詞節の中で主語の働きをしています。主格の関係代名詞'which'または'that'が使えます。"
+        },
+        {
+          "id": "G-186",
+          "questionText": "This is the hospital in _______ I was born.",
+          "options": ["that", "which", "where", "what"],
+          "correctAnswerIndex": 1,
+          "explanation": "前置詞'in'の目的語となる関係代名詞が必要です。先行詞が物（the hospital）なので'which'が正解です。'that'は前置詞の後には置けません。'in which'は'where'に置き換えられます。"
+        },
+        {
+          "id": "G-187",
+          "questionText": "The dog _______ is running in the park is mine.",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 1,
+          "explanation": "先行詞が動物（The dog）なので、関係代名詞は'which'または'that'を使います。ここでは主格の働きをしています。"
+        },
+        {
+          "id": "G-188",
+          "questionText": "Do you know the boy _______ bike was stolen?",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 2,
+          "explanation": "「その少年の自転車」という所有の関係を表しているので、所有格の関係代名詞'whose'が正解です。"
+        },
+        {
+          "id": "G-189",
+          "questionText": "Everything _______ he said was true.",
+          "options": ["who", "which", "that", "what"],
+          "correctAnswerIndex": 2,
+          "explanation": "先行詞が'everything'や'all', 'the only'などの場合、関係代名詞は'that'が好んで使われます。"
+        },
+        {
+          "id": "G-190",
+          "questionText": "This is the best movie _______ I have ever seen.",
+          "options": ["who", "which", "that", "what"],
+          "correctAnswerIndex": 2,
+          "explanation": "先行詞が最上級（the best）で修飾されている場合、関係代名詞は'that'が好んで使われます。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_10-2",
+      "setName": "[10-2] 関係副詞と応用（what, 非制限用法）",
+      "questions": [
+        {
+          "id": "G-191",
+          "questionText": "This is the town _______ I grew up.",
+          "options": ["which", "when", "where", "why"],
+          "correctAnswerIndex": 2,
+          "explanation": "先行詞が場所（the town）で、「そこで育った」と場所を表す関係副詞'where'が正解です。'where'は'in which'に置き換えられます。"
+        },
+        {
+          "id": "G-192",
+          "questionText": "I'll never forget the day _______ we first met.",
+          "options": ["which", "when", "where", "why"],
+          "correctAnswerIndex": 1,
+          "explanation": "先行詞が時（the day）で、「その日に初めて会った」と時を表す関係副詞'when'が正解です。'when'は'on which'に置き換えられます。"
+        },
+        {
+          "id": "G-193",
+          "questionText": "Tell me the reason _______ you were late.",
+          "options": ["which", "when", "where", "why"],
+          "correctAnswerIndex": 3,
+          "explanation": "先行詞が理由（the reason）で、「その理由で遅れた」と理由を表す関係副詞'why'が正解です。'why'は'for which'に置き換えられます。"
+        },
+        {
+          "id": "G-194",
+          "questionText": "This is _______ I want for my birthday.",
+          "options": ["that", "which", "whose", "what"],
+          "correctAnswerIndex": 3,
+          "explanation": "先行詞を含んだ関係代名詞'what'を使います。'what'は'the thing which'と同じ意味で、「〜なこと・もの」と訳します。「これは私が誕生日に欲しいものです」となります。"
+        },
+        {
+          "id": "G-195",
+          "questionText": "My father, _______ is a doctor, works at a large hospital.",
+          "options": ["that", "who", "whom", "whose"],
+          "correctAnswerIndex": 1,
+          "explanation": "コンマ(,)で区切られた非制限用法です。先行詞が人（My father）で主格なので'who'が正解です。非制限用法では'that'は使えません。"
+        },
+        {
+          "id": "G-196",
+          "questionText": "He finally passed the exam, _______ made his parents happy.",
+          "options": ["that", "who", "which", "what"],
+          "correctAnswerIndex": 2,
+          "explanation": "コンマ(,)で区切られた非制限用法です。先行する文全体（He finally passed the exam）を先行詞とする場合、'which'を使います。"
+        },
+        {
+          "id": "G-197",
+          "questionText": "You can eat _______ you like in the restaurant.",
+          "options": ["that", "which", "whatever", "whoever"],
+          "correctAnswerIndex": 2,
+          "explanation": "複合関係代名詞'whatever'を使います。'whatever'は'anything that'と同じ意味で、「〜するものは何でも」と訳します。"
+        },
+        {
+          "id": "G-198",
+          "questionText": "I don't understand _______ he is saying.",
+          "options": ["that", "which", "what", "how"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞'understand'の目的語として「彼が言っていること」という名詞節が必要です。先行詞を含んだ関係代名詞'what'が適切です。"
+        },
+        {
+          "id": "G-199",
+          "questionText": "The hotel _______ we stayed was very comfortable.",
+          "options": ["which", "when", "where", "why"],
+          "correctAnswerIndex": 2,
+          "explanation": "先行詞が場所（The hotel）で、「そこに滞在した」と場所を表す関係副詞'where'が正解です。"
+        },
+        {
+          "id": "G-200",
+          "questionText": "That's _______ I couldn't come to the party yesterday.",
+          "options": ["the reason", "how", "what", "why"],
+          "correctAnswerIndex": 3,
+          "explanation": "'That's why ...'で「そういうわけで〜だ」という決まった表現です。'why'は関係副詞で、'the reason'が省略されています。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_11-1",
+      "setName": "[11-1] 様々な接続詞の使い分け",
+      "questions": [
+        {
+          "id": "G-201",
+          "questionText": "I'll go shopping _______ it stops raining.",
+          "options": ["if", "unless", "while", "because"],
+          "correctAnswerIndex": 0,
+          "explanation": "「もし雨が止んだら」という条件を表すので、接続詞'if'が正解です。"
+        },
+        {
+          "id": "G-202",
+          "questionText": "She studied hard, _______ she failed the exam.",
+          "options": ["and", "but", "so", "or"],
+          "correctAnswerIndex": 1,
+          "explanation": "「彼女は熱心に勉強した、しかし試験に落ちた」という逆接の関係なので、'but'が適切です。"
+        },
+        {
+          "id": "G-203",
+          "questionText": "He was late _______ he missed the train.",
+          "options": ["so", "because", "though", "if"],
+          "correctAnswerIndex": 1,
+          "explanation": "「電車に乗り遅れたので、彼は遅刻した」という理由を表すので、接続詞'because'が正解です。"
+        },
+        {
+          "id": "G-204",
+          "questionText": "_______ he is young, he is very responsible.",
+          "options": ["Because", "If", "Unless", "Although"],
+          "correctAnswerIndex": 3,
+          "explanation": "「彼は若いが、とても責任感がある」という譲歩（〜だけれども）を表すので、接続詞'Although'（または'Though'）が正解です。"
+        },
+        {
+          "id": "G-205",
+          "questionText": "You can't go out _______ you finish your homework.",
+          "options": ["if", "unless", "when", "while"],
+          "correctAnswerIndex": 1,
+          "explanation": "'unless'は'if ... not'と同じ意味です。「宿題を終えない限り、外出できません」という条件を表します。"
+        },
+        {
+          "id": "G-206",
+          "questionText": "I was watching TV _______ my mother was cooking.",
+          "options": ["when", "while", "since", "until"],
+          "correctAnswerIndex": 1,
+          "explanation": "「母が料理している間、私はテレビを見ていた」という、二つの動作が同時に進行していることを表すので、'while'が正解です。"
+        },
+        {
+          "id": "G-207",
+          "questionText": "It was raining hard, _______ we decided to stay home.",
+          "options": ["and", "but", "so", "or"],
+          "correctAnswerIndex": 2,
+          "explanation": "「雨が激しく降っていた、だから私たちは家にいることに決めた」という原因と結果の関係なので、'so'が適切です。"
+        },
+        {
+          "id": "G-208",
+          "questionText": "Please wait here _______ I come back.",
+          "options": ["while", "since", "until", "unless"],
+          "correctAnswerIndex": 2,
+          "explanation": "「私が戻ってくるまで、ここで待っていてください」という、ある時点までの継続を表すので、'until'が正解です。"
+        },
+        {
+          "id": "G-209",
+          "questionText": "I don't know _______ she will come to the party or not.",
+          "options": ["if", "that", "whether", "what"],
+          "correctAnswerIndex": 2,
+          "explanation": "'... or not'がある場合、「〜かどうか」という意味の接続詞は'whether'を使います。'if'も「〜かどうか」という意味がありますが、'or not'を直後に続けることはできません。"
+        },
+        {
+          "id": "G-210",
+          "questionText": "You should hurry up, _______ you will miss the bus.",
+          "options": ["and", "but", "so", "or"],
+          "correctAnswerIndex": 3,
+          "explanation": "「急ぎなさい、さもないとバスに乗り遅れますよ」という命令文の後で、「さもないと」という意味を表すのは'or'です。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_12-1",
+      "setName": "[12-1] 仮定法過去・過去完了",
+      "questions": [
+        {
+          "id": "G-211",
+          "questionText": "If I _______ a bird, I would fly to you.",
+          "options": ["am", "is", "was", "were"],
+          "correctAnswerIndex": 3,
+          "explanation": "現在の事実に反する仮定を表す仮定法過去です。If節の動詞は過去形を使いますが、be動詞は主語に関わらず'were'を使うのが正式です。「もし私が鳥なら、あなたのところに飛んでいくだろうに」"
+        },
+        {
+          "id": "G-212",
+          "questionText": "If I had more time, I _______ travel around the world.",
+          "options": ["can", "will", "could", "have"],
+          "correctAnswerIndex": 2,
+          "explanation": "仮定法過去の主節では、助動詞の過去形（would, could, should, might）を使います。「もしもっと時間があれば、世界中を旅行できるのに」となります。"
+        },
+        {
+          "id": "G-213",
+          "questionText": "If I _______ his phone number, I would have called him.",
+          "options": ["know", "knew", "had known", "have known"],
+          "correctAnswerIndex": 2,
+          "explanation": "主節が'would have called'（助動詞の過去形 + have + 過去分詞）なので、過去の事実に反する仮定法過去完了だとわかります。If節は過去完了形（had + 過去分詞）の'had known'が正解です。"
+        },
+        {
+          "id": "G-214",
+          "questionText": "What would you do if you _______ a million dollars?",
+          "options": ["win", "won", "had won", "have won"],
+          "correctAnswerIndex": 1,
+          "explanation": "主節が'would you do'なので、現在の事実に反する仮定法過去だとわかります。If節の動詞は過去形の'won'が正解です。「もし100万ドル当たったら、どうしますか？」"
+        },
+        {
+          "id": "G-215",
+          "questionText": "If he had studied harder, he _______ the exam.",
+          "options": ["would pass", "would have passed", "will pass", "passed"],
+          "correctAnswerIndex": 1,
+          "explanation": "If節が'had studied'（過去完了形）なので、仮定法過去完了の文です。主節は'助動詞の過去形 + have + 過去分詞'の'would have passed'が正解です。"
+        },
+        {
+          "id": "G-216",
+          "questionText": "If I _______ you, I would accept the offer.",
+          "options": ["am", "is", "was", "were"],
+          "correctAnswerIndex": 3,
+          "explanation": "'If I were you, ...'は「もし私があなたなら、〜するだろう」というアドバイスの定型表現です。仮定法過去なので'were'を使います。"
+        },
+        {
+          "id": "G-217",
+          "questionText": "She would have come to the party if she _______ invited.",
+          "options": ["was", "were", "has been", "had been"],
+          "correctAnswerIndex": 3,
+          "explanation": "主節が'would have come'なので仮定法過去完了です。If節は過去完了形になり、さらに「招待される」という受け身の意味なので、'had been invited'が正解です。"
+        },
+        {
+          "id": "G-218",
+          "questionText": "If it _______ for your help, I couldn't have finished it.",
+          "options": ["is not", "was not", "had not been", "has not been"],
+          "correctAnswerIndex": 2,
+          "explanation": "'If it had not been for ~'は「もし〜がなかったら」という仮定法過去完了の慣用表現です。主節が'couldn't have finished'であることからもわかります。"
+        },
+        {
+          "id": "G-219",
+          "questionText": "I would be very happy if my favorite team _______ the championship.",
+          "options": ["win", "won", "had won", "wins"],
+          "correctAnswerIndex": 1,
+          "explanation": "主節が'would be'なので仮定法過去です。If節の動詞は過去形の'won'が正解です。"
+        },
+        {
+          "id": "G-220",
+          "questionText": "If I had taken the earlier train, I _______ late for the meeting.",
+          "options": ["am not", "would not be", "would not have been", "was not"],
+          "correctAnswerIndex": 2,
+          "explanation": "If節が'had taken'なので仮定法過去完了です。主節は'would not have been'となります。「もしもっと早い電車に乗っていたら、会議に遅れなかっただろうに」"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_12-2",
+      "setName": "[12-2] 仮定法の応用（wish, as if, 倒置）",
+      "questions": [
+        {
+          "id": "G-221",
+          "questionText": "I wish I _______ speak French fluently.",
+          "options": ["can", "could", "can't", "couldn't"],
+          "correctAnswerIndex": 1,
+          "explanation": "'I wish'の後ろは仮定法になり、現在の実現不可能な願望を表す場合は仮定法過去（動詞の過去形）を使います。「流暢にフランス語が話せたらなあ」"
+        },
+        {
+          "id": "G-222",
+          "questionText": "He talks as if he _______ everything.",
+          "options": ["knows", "knew", "had known", "has known"],
+          "correctAnswerIndex": 1,
+          "explanation": "'as if'（まるで〜かのように）の後ろも仮定法になります。現在の事実に反するので仮定法過去（動詞の過去形）の'knew'が正解です。「彼はまるで何でも知っているかのように話す」"
+        },
+        {
+          "id": "G-223",
+          "questionText": "_______ I rich, I would buy that castle.",
+          "options": ["If", "Am", "Was", "Were"],
+          "correctAnswerIndex": 3,
+          "explanation": "仮定法ではIfが省略されると、主語と動詞の倒置が起こります。これは'If I were rich, ...'のIfが省略された形です。"
+        },
+        {
+          "id": "G-224",
+          "questionText": "I wish I _______ so much last night.",
+          "options": ["didn't eat", "don't eat", "hadn't eaten", "haven't eaten"],
+          "correctAnswerIndex": 2,
+          "explanation": "'I wish'の後ろで、過去の事実に対する後悔を表す場合は、仮定法過去完了（had + 過去分詞）を使います。「昨夜あんなにたくさん食べなければよかったなあ」"
+        },
+        {
+          "id": "G-225",
+          "questionText": "_______ you need any help, please let me know.",
+          "options": ["If", "Were", "Should", "Had"],
+          "correctAnswerIndex": 2,
+          "explanation": "これは'If you should need any help, ...'のIfが省略された倒置構文です。「万が一助けが必要な場合は」という丁寧な表現になります。"
+        },
+        {
+          "id": "G-226",
+          "questionText": "It's time you _______ to bed.",
+          "options": ["go", "went", "had gone", "should go"],
+          "correctAnswerIndex": 1,
+          "explanation": "'It's time + 仮定法過去'で「もう〜する時間だ」という意味の表現です。動詞の過去形'went'が正解です。"
+        },
+        {
+          "id": "G-227",
+          "questionText": "She looked as if she _______ a ghost.",
+          "options": ["sees", "saw", "has seen", "had seen"],
+          "correctAnswerIndex": 3,
+          "explanation": "'as if'の後ろで、主節の'looked'（過去）よりも前の出来事を表す場合は、仮定法過去完了を使います。「彼女はまるで幽霊でも見たかのような顔をしていた」"
+        },
+        {
+          "id": "G-228",
+          "questionText": "_______ it not been for the seatbelt, I would have been seriously injured.",
+          "options": ["If", "Was", "Were", "Had"],
+          "correctAnswerIndex": 3,
+          "explanation": "これは'If it had not been for the seatbelt, ...'のIfが省略された倒置構文です。「もしシートベルトがなかったら」という意味です。"
+        },
+        {
+          "id": "G-229",
+          "questionText": "If only I _______ more careful!",
+          "options": ["am", "was", "had been", "have been"],
+          "correctAnswerIndex": 2,
+          "explanation": "'If only'は'I wish'とほぼ同じ意味で、強い願望や後悔を表します。過去の事実に対する後悔なので、仮定法過去完了の'had been'が正解です。「もっと注意深かったらなあ！」"
+        },
+        {
+          "id": "G-230",
+          "questionText": "He demanded that the rule _______ changed.",
+          "options": ["is", "was", "be", "would be"],
+          "correctAnswerIndex": 2,
+          "explanation": "'demand'や'suggest', 'insist'などの動詞のthat節の中では、仮定法現在（動詞の原形）が使われます。「彼はその規則が変更されるべきだと要求した」"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_13-1",
+      "setName": "[13-1] 倒置・強調構文",
+      "questions": [
+        {
+          "id": "G-231",
+          "questionText": "Never _______ I seen such a beautiful sunset.",
+          "options": ["do", "did", "have", "am"],
+          "correctAnswerIndex": 2,
+          "explanation": "否定の副詞'Never'が文頭に来ると、主語と助動詞の倒置が起こります。元の文は'I have never seen ...'なので、助動詞'have'が主語'I'の前に出ます。"
+        },
+        {
+          "id": "G-232",
+          "questionText": "It was my mother _______ gave me this watch.",
+          "options": ["who", "which", "whom", "whose"],
+          "correctAnswerIndex": 0,
+          "explanation": "'It is/was ... that/who/which ...'の強調構文です。強調する語が人（my mother）で主格なので、'who'または'that'を使います。"
+        },
+        {
+          "id": "G-233",
+          "questionText": "Not only _______ sing well, but she also plays the piano.",
+          "options": ["she can", "can she", "she does", "does she"],
+          "correctAnswerIndex": 1,
+          "explanation": "'Not only'が文頭に来ると倒置が起こります。元の文は'She can not only sing well ...'なので、助動詞'can'が主語'she'の前に出ます。"
+        },
+        {
+          "id": "G-234",
+          "questionText": "Under no circumstances _______ you open this box.",
+          "options": ["should", "do", "are", "have"],
+          "correctAnswerIndex": 0,
+          "explanation": "否定の副詞句'Under no circumstances'（いかなる状況でも〜ない）が文頭に来ると倒置が起こります。「この箱を開けてはならない」という強い禁止を表すので、'should'が適切です。"
+        },
+        {
+          "id": "G-235",
+          "questionText": "I _______ like your new hairstyle.",
+          "options": ["so", "very", "really", "do"],
+          "correctAnswerIndex": 3,
+          "explanation": "一般動詞を強調する（「本当に〜だ」）には、動詞の原形の前に'do/does/did'を置きます。ここでは現在形なので'do'が正解です。"
+        },
+        {
+          "id": "G-236",
+          "questionText": "It was yesterday _______ I lost my wallet.",
+          "options": ["when", "which", "that", "where"],
+          "correctAnswerIndex": 2,
+          "explanation": "時を表す語'yesterday'を強調する構文です。強調構文では、強調する語の種類に関わらず、基本的に'that'を使います。"
+        },
+        {
+          "id": "G-237",
+          "questionText": "Seldom _______ we have the chance to see him.",
+          "options": ["are", "do", "have", "can"],
+          "correctAnswerIndex": 1,
+          "explanation": "否定の副詞'Seldom'（めったに〜ない）が文頭に来ると倒置が起こります。元の文は'We seldom have ...'なので、一般動詞の疑問文と同じように'do'を主語の前に置きます。"
+        },
+        {
+          "id": "G-238",
+          "questionText": "On the hill _______ a beautiful old church.",
+          "options": ["stand", "stands", "stood", "standing"],
+          "correctAnswerIndex": 1,
+          "explanation": "場所を表す副詞句（On the hill）が文頭に来ると、倒置が起こることがあります。主語は'a beautiful old church'（単数）なので、動詞は三人称単数現在の'stands'が正解です。"
+        },
+        {
+          "id": "G-239",
+          "questionText": "What _______ is it that you want to tell me?",
+          "options": ["on earth", "in the world", "ever", "at all"],
+          "correctAnswerIndex": 0,
+          "explanation": "疑問詞を強調する（「一体全体〜」）には、疑問詞の直後に'on earth'や'in the world'などを置きます。"
+        },
+        {
+          "id": "G-240",
+          "questionText": "Little _______ he know that he was being watched.",
+          "options": ["is", "was", "does", "did"],
+          "correctAnswerIndex": 3,
+          "explanation": "否定の副詞'Little'（ほとんど〜ない）が文頭に来ると倒置が起こります。過去の文なので、'did'を主語'he'の前に置きます。"
+        }
+      ]
+    },
+    {
+      "setId": "GRAMMAR_14-1",
+      "setName": "[14-1] 間接話法と時制の一致",
+      "questions": [
+        {
+          "id": "G-241",
+          "questionText": "He said, \"I am busy.\"  -> He said that he _______ busy.",
+          "options": ["is", "was", "has been", "had been"],
+          "correctAnswerIndex": 1,
+          "explanation": "直接話法を間接話法に書き換える際、主節の動詞が過去形（said）の場合、従属節の時制も過去にずれます（時制の一致）。'am'（現在形）は'was'（過去形）になります。"
+        },
+        {
+          "id": "G-242",
+          "questionText": "She said to me, \"I will call you tomorrow.\" -> She told me that she would call me the _______ day.",
+          "options": ["tomorrow", "next", "previous", "day after"],
+          "correctAnswerIndex": 1,
+          "explanation": "間接話法では、時や場所を表す副詞も変化します。'tomorrow'は'the next day'または'the following day'になります。"
+        },
+        {
+          "id": "G-243",
+          "questionText": "He asked me, \"Do you like sports?\" -> He asked me _______ I liked sports.",
+          "options": ["that", "what", "if", "how"],
+          "correctAnswerIndex": 2,
+          "explanation": "Yes/Noで答えられる疑問文を間接話法にする場合、接続詞'if'または'whether'を使います。「〜かどうか尋ねた」という意味になります。"
+        },
+        {
+          "id": "G-244",
+          "questionText": "She said, \"I studied hard yesterday.\" -> She said that she _______ hard the day before.",
+          "options": ["studied", "studies", "has studied", "had studied"],
+          "correctAnswerIndex": 3,
+          "explanation": "時制の一致により、従属節の'studied'（過去形）は'had studied'（過去完了形）にずれます。また、'yesterday'は'the day before'または'the previous day'に変わります。"
+        },
+        {
+          "id": "G-245",
+          "questionText": "My teacher said, \"The earth is round.\" -> My teacher said that the earth _______ round.",
+          "options": ["is", "was", "has been", "had been"],
+          "correctAnswerIndex": 0,
+          "explanation": "普遍の真理や科学的な事実は、主節の動詞が過去形でも時制の一致を受けず、常に現在形のままです。"
+        },
+        {
+          "id": "G-246",
+          "questionText": "He asked her, \"What are you doing?\" -> He asked her what she _______ doing.",
+          "options": ["is", "was", "are", "were"],
+          "correctAnswerIndex": 1,
+          "explanation": "Wh-疑問文を間接話法にする場合、'Wh-語 + 主語 + 動詞'の語順になります。時制の一致により'are'は'was'になります。"
+        },
+        {
+          "id": "G-247",
+          "questionText": "She said to him, \"Please open the door.\" -> She asked him _______ the door.",
+          "options": ["open", "to open", "opening", "opened"],
+          "correctAnswerIndex": 1,
+          "explanation": "命令文を間接話法にする場合、'ask/tell + 人 + to do'の形を使います。「彼にドアを開けるよう頼んだ」という意味になります。"
+        },
+        {
+          "id": "G-248",
+          "questionText": "He said, \"I have been to Paris.\" -> He said that he _______ to Paris.",
+          "options": ["has been", "was", "had been", "went"],
+          "correctAnswerIndex": 2,
+          "explanation": "時制の一致により、従属節の'have been'（現在完了形）は'had been'（過去完了形）にずれます。"
+        },
+        {
+          "id": "G-249",
+          "questionText": "The doctor told me, \"Don't eat too much.\" -> The doctor advised me _______ eat too much.",
+          "options": ["to", "not to", "don't", "shouldn't"],
+          "correctAnswerIndex": 1,
+          "explanation": "否定の命令文を間接話法にする場合、'ask/tell/advise + 人 + not to do'の形を使います。"
+        },
+        {
+          "id": "G-250",
+          "questionText": "She said, \"I may be late.\" -> She said that she _______ be late.",
+          "options": ["may", "might", "can", "could"],
+          "correctAnswerIndex": 1,
+          "explanation": "時制の一致により、助動詞も過去形に変わります。'may'は'might'になります。"
+        }
+      ]
+    }
+  ]
+}

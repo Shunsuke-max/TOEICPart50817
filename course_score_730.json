@@ -1,0 +1,580 @@
+{
+  "quizSets": [
+    {
+      "setId": "730_SET_1_R2",
+      "setName": "実践問題 Vol. 1 (改訂版)",
+      "questions": [
+        {
+          "id": "730A-001R2",
+          "questionText": "According to the latest financial report from Zenith Corp., the company's net profits for this quarter have increased -------, reaching well beyond initial projections.",
+          "options": ["substantial", "substantially", "substance", "substantiate"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 substantially\n【訳】Zenith社の最新財務報告によると、当四半期の純利益は当初の予測をはるかに超え、大幅に増加しました。\n【解説】この文の骨格は `profits have increased` (利益が増加した) です。動詞 `have increased` を「どのように」増加したのか説明する副詞が必要ですね。選択肢の中で副詞は②の `substantially` (大幅に) だけです。文頭の `According to...` や文末の `reaching...` といった修飾語句に惑わされず、文の核となる主語と動詞の関係を見抜くことが重要です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "word_form", "modifier"]
+        },
+        {
+          "id": "730A-002R2",
+          "questionText": "Employees must obtain written ------- from a supervisor before purchasing any office equipment costing over $500.",
+          "options": ["authorize", "authorized", "authoritative", "authorization"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 authorization\n【訳】従業員は、500ドルを超えるオフィス備品を購入する前に、上司から書面による許可を得なければなりません。\n【解説】空欄の前にある形容詞 `written` (書面による) は、後ろに来る名詞を修飾します。動詞 `obtain` (得る) の目的語にもなる必要があるので、名詞を探します。「許可、承認」を意味する名詞は④の `authorization` です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_noun", "word_form", "collocation"]
+        },
+        {
+          "id": "730A-003R2",
+          "questionText": "------- the marketing team at Innovatech focuses on domestic sales, the international division is responsible for all overseas clients.",
+          "options": ["Whereas", "Despite", "Unless", "Therefore"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 Whereas\n【訳】Innovatech社のマーケティングチームが国内販売に重点を置いている一方で、国際部門はすべての海外顧客を担当しています。\n【解説】「国内販売に集中するチーム」と「海外顧客を担当するチーム」という2つの異なる役割を対比させている文です。このように「～である一方、～である」と対比・対照を示す接続詞は①の `Whereas` です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_conjunctions", "contrast", "sentence_structure"]
+        },
+        {
+          "id": "730A-004R2",
+          "questionText": "To better focus on the upcoming merger, the manager decided to ------- some of her daily responsibilities to her trusted assistant.",
+          "options": ["delegate", "contribute", "propose", "assign"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 delegate\n【訳】来る合併により集中するため、そのマネージャーは日常業務の一部を信頼するアシスタントに委任することにしました。\n【解説】文脈から「（権限や責任）を委任する、委譲する」という意味の動詞が最も適切です。アシスタントに仕事を「任せる」というニュアンスに一番近いのは①の `delegate` です。④の `assign` も「割り当てる」という意味ですが、権限の委任というニュアンスでは `delegate` の方がより具体的で適切です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "nuance", "collocation"]
+        },
+        {
+          "id": "730A-005R2",
+          "questionText": "The keynote speaker at the conference will be Dr. Evans, a scientist ------- research on renewable energy has been widely acclaimed.",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 whose\n【訳】その会議の基調講演者は、再生可能エネルギーに関する研究が広く称賛されている科学者のエバンズ博士です。\n【解説】関係代名詞の問題です。空欄の前後関係を見てみましょう。前には `a scientist` (科学者) という人、後ろには `research` (研究) という名詞があります。`the scientist's research` (その科学者の研究) という所有の関係が成り立ちますね。このように「～の」という所有の関係を表す関係代名詞は③の `whose` です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_relative_pronouns", "possessive", "clause"]
+        },
+        {
+          "id": "730A-006R2",
+          "questionText": "According to the company policy, all full-time employees are ------- for a yearly performance review and a potential salary increase.",
+          "options": ["eligible", "alleviated", "permissible", "edible"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 eligible\n【訳】社内規定によると、全正社員は年次の業績評価と昇給の可能性についての資格があります。\n【解説】`be eligible for ~` で「～の資格がある、～の対象となる」という意味の頻出熟語です。文脈に最も合う形容詞は①の `eligible` です。他の選択肢は意味が全く異なります。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocabulary_adjectives", "idiom", "collocation"]
+        },
+        {
+          "id": "730A-007R2",
+          "questionText": "The launch of the new 'Pro-Gamer' headset has been postponed ------- some unforeseen production issues at our main factory.",
+          "options": ["because", "due to", "although", "so that"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 due to\n【訳】新しい「プロゲーマー」ヘッドセットの発売は、当社の主要工場での予期せぬ生産上の問題のため、延期されました。\n【解説】空欄の後ろが `some unforeseen production issues` という名詞句（名詞のまとまり）になっていますね。後ろに名詞句を続けて理由を表せるのは、前置詞（句）の② `due to` (～が原因で) です。① `because` は接続詞なので、後ろに節（主語+動詞）が続く必要があります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_prepositions", "grammar_conjunctions", "cause_and_effect"]
+        },
+        {
+          "id": "730A-008R2",
+          "questionText": "The new accounting software is designed to improve operational ------- and reduce the number of manual errors.",
+          "options": ["efficient", "efficiency", "efficiently", "efficacious"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 efficiency\n【訳】新しい会計ソフトウェアは、業務効率を改善し、手作業によるエラーの数を減らすように設計されています。\n【解説】形容詞 `operational` (運営上の) が修飾する名詞が空欄に入ります。また、動詞 `improve` (を改善する) の目的語にもなっています。「効率」を意味する名詞② `efficiency` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_noun", "word_form", "modifier"]
+        },
+        {
+          "id": "730A-009R2",
+          "questionText": "To remain competitive in today's fast-paced market, our company must ------- quickly to changing consumer demands.",
+          "options": ["adapt", "adopt", "adept", "addict"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 adapt\n【訳】今日のペースの速い市場で競争力を維持するためには、当社は変化する消費者の要求に迅速に適応しなければなりません。\n【解説】`adapt to ~` で「～に適応する」という意味の熟語になります。変化する要求に「適応する」という文脈にぴったりですね。② `adopt` は「採用する」、③ `adept` は「熟練した」という形容詞なので、文脈にも形にも合いません。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "collocation", "word_choice"]
+        },
+        {
+          "id": "730A-010R2",
+          "questionText": "This advanced workshop is intended for senior personnel ------- in managing large-scale international projects.",
+          "options": ["involved", "involving", "involve", "involvement"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 involved\n【訳】この上級研修会は、大規模な国際プロジェクトの管理に携わっている上級職員を対象としています。\n【解説】空欄を含む `involved in ...` が、前の名詞 `personnel` (職員) を後ろから修飾しています。職員はプロジェクトに「関わらせられる」側なので、受け身の意味を持つ過去分詞の `involved` が正解です。もともとは `personnel who are involved in...` であったものが、`who are` が省略された形と考えると分かりやすいです。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_participles", "adjective_clause_ellipsis", "modifier"]
+        }
+      ]
+    },
+    {
+      "setId": "730_SET_2_R2",
+      "setName": "実践問題 Vol. 2 (改訂版)",
+      "questions": [
+        {
+          "id": "730B-011R2",
+          "questionText": "The finance department issued a ------- to all employees that their timesheets for the month must be submitted by this Friday.",
+          "options": ["reminder", "remainder", "remark", "remedy"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 reminder\n【訳】経理部は、今月分のタイムシートを今週の金曜日までに提出する必要があるというリマインダーを全従業員に出しました。\n【解説】経理部が「金曜までにタイムシートを提出するように」と出す通知は、日本語でも言う「リマインダー（思い出させるもの）」ですね。正解は① `reminder` です。② `remainder` は「残り」、③ `remark` は「意見」、④ `remedy` は「治療法、改善策」で、意味が全く異なります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_nouns", "word_choice", "context"]
+        },
+        {
+          "id": "730B-012R2",
+          "questionText": "According to the press release, ------- the CEO of the acquiring firm nor the board members of the target company were aware of the accounting error.",
+          "options": ["Both", "Either", "Neither", "Not only"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 Neither\n【訳】プレスリリースによると、買収側企業のCEOも対象企業の取締役も、その会計ミスに気づいていませんでした。\n【解説】`A nor B` という形を見たら、相方である `Neither` を探しましょう。`Neither A nor B` で「AもBも～ない」という相関接続詞の構文です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_correlative_conjunctions", "sentence_structure"]
+        },
+        {
+          "id": "730B-013R2",
+          "questionText": "The new security measures, including updated data encryption protocols, will be ------- across all departments starting next month.",
+          "options": ["implemented", "implicated", "complimented", "supplemented"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 implemented\n【訳】更新されたデータ暗号化プロトコルを含む新しい安全対策が、来月から全部門で実施されます。\n【解説】`will be` の後なので、動詞の受動態 `be + 過去分詞` の形です。「新しい安全対策が『実施される』」という文脈なので、「実行する、導入する」を意味する動詞 `implement` の過去分詞形 `implemented` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "past_participle", "passive_voice"]
+        },
+        {
+          "id": "730B-014R2",
+          "questionText": "Please note that the information ------- in this confidential report is intended solely for internal use and should not be shared externally.",
+          "options": ["contain", "contains", "containing", "contained"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 contained\n【訳】この機密報告書に含まれている情報は、社内での使用のみを目的としており、外部と共有してはならないことにご留意ください。\n【解説】前の名詞 `The information` を後ろから修飾するカタマリを作る問題です。情報は、報告書に「含まれている」側なので、受け身の意味を表す過去分詞 `contained` を選びます。`The information (which is) contained...` と、関係代名詞とbe動詞が省略されている形と考えると分かりやすいでしょう。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_participles", "adjective_clause_ellipsis", "modifier"]
+        },
+        {
+          "id": "730B-015R2",
+          "questionText": "For the comfort and focus of all attendees, we kindly ask you to ------- from using mobile phones during the workshop sessions.",
+          "options": ["refrain", "prevent", "prohibit", "avoid"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 refrain\n【訳】ご出席の皆様の快適さと集中のため、研修セッション中は携帯電話のご使用をお控えくださいますよう、お願い申し上げます。\n【解説】`refrain from -ing` で「～するのを控える、慎む」という決まった言い方です。他の動詞も意味は似ていますが、後ろに `from` を伴ってこの形を取るのは `refrain` です。アナウンスなどで使われる丁寧な表現ですね。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "idiom", "collocation"]
+        },
+        {
+          "id": "730B-016R2",
+          "questionText": "The ------- of the two leading software companies, VeriSoft and TechGen, is expected to create the largest telecommunications firm in the country.",
+          "options": ["merger", "acquisition", "collaboration", "venture"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 merger\n【訳】ソフトウェア業界をリードする2社、VeriSoft社とTechGen社の合併は、国内最大の電気通信会社を生み出すと期待されています。\n【解説】「2社の『合併』」が、国内最大の会社を作る、という文脈です。対等な「合併」を意味する① `merger` が最も自然です。② `acquisition` は「（一方的な）買収」というニュアンスが強いです。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_nouns", "word_choice", "business_terms"]
+        },
+        {
+          "id": "730B-017R2",
+          "questionText": "Customers who experience any technical issues with our products are encouraged to contact our support team ------- via the online chat feature.",
+          "options": ["prompt", "promptly", "promptness", "prompter"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 promptly\n【訳】当社製品で技術的な問題を経験されたお客様は、オンラインチャット機能を通じて、速やかにサポートチームにご連絡いただくことをお勧めします。\n【解説】動詞 `contact` を「どのように」連絡するのか修飾するため、副詞の② `promptly` (迅速に) が正解です。`-ly`で終わる単語は副詞、という基本も役立ちます。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "modifier", "word_form"]
+        },
+        {
+          "id": "730B-018R2",
+          "questionText": "Please remember that the initial terms of the contract are not -------; we can certainly discuss any clauses you are concerned about.",
+          "options": ["negotiable", "negotiated", "negotiation", "negotiator"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 negotiable\n【訳】契約の初期条件は交渉の余地がないわけではないことを覚えておいてください。ご懸念の条項については、もちろん協議できます。\n【解説】be動詞 `are` の補語となる形容詞が必要です。後半の文で「協議できる」と言っていることから、契約条件は「交渉可能」だと分かります。正解は「交渉可能な」を意味する① `negotiable` です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "word_form", "opinion"]
+        },
+        {
+          "id": "730B-019R2",
+          "questionText": "Our team's recent success in securing the 'Zenith Tower' project can be ------- attributed to the dedication and expertise of its members.",
+          "options": ["large", "largely", "larger", "enlarge"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 largely\n【訳】私たちのチームが最近「ゼニスタワー」プロジェクトを確保できた成功は、主としてそのメンバーの献身と専門知識のおかげです。\n【解説】`be attributed to ~` (〜に起因する) という動詞句を修飾するため、副詞が必要です。「主に、大部分は」という意味の副詞② `largely` が最も適切です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "modifier", "collocation"]
+        },
+        {
+          "id": "730B-020R2",
+          "questionText": "For the international sales position, Ms. Chen is looking for an assistant ------- is fluent in both Mandarin and English.",
+          "options": ["who", "which", "whose", "whom"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 who\n【訳】国際営業職のために、チェンさんは中国語と英語の両方に堪能なアシスタントを探しています。\n【解説】関係代名詞の問題です。先行詞が `an assistant` (人) であり、空欄の後ろが `is` (動詞) であるため、関係詞節の中で主語の働きをする主格の関係代名詞 `who` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_relative_pronouns", "pronoun_case", "clause"]
+        }
+      ]
+    },
+    {
+      "setId": "730_SET_3_R2",
+      "setName": "実践問題 Vol. 3 (改訂版)",
+      "questions": [
+        {
+          "id": "730C-021R2",
+          "questionText": "The construction project for the new city library was completed a month ahead of schedule, ------- the initial budget by nearly ten percent.",
+          "options": ["undercutting", "undercut", "to undercut", "undercuts"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 undercutting\n【訳】新しい市立図書館の建設プロジェクトは予定より1ヶ月早く完了し、当初の予算を10%近く下回りました。\n【解説】これは分詞構文です。「プロジェクトが完了した」という主節の状況に付帯して、「そして、その結果、予算を下回った」という状況を説明しています。このように能動的に何かをする場合は、現在分詞 `-ing` を使います。ここでは 'undercutting' が正解です。",
+          "difficultyLevel": "hard",
+          "skillTags": ["grammar_participles", "participial_phrase", "result", "sentence_structure"]
+        },
+        {
+          "id": "730C-022R2",
+          "questionText": "Due to the sensitive nature of the data, it is ------- that all personnel attend the mandatory security training on Monday.",
+          "options": ["imperative", "imperatively", "imperial", "impartial"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 imperative\n【訳】データの機密性が高いため、全職員が月曜日の必須セキュリティ研修に出席することが絶対不可欠です。\n【解説】`It is imperative that S (should) V` の構文で、「SがVすることは極めて重要である（絶対である）」という意味になります。`It is` の後ろにくる補語として、形容詞の① `imperative` が正解です。700点以上を目指すなら覚えておきたい構文です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_subjunctive", "idiom", "vocabulary_adjectives"]
+        },
+        {
+          "id": "730C-023R2",
+          "questionText": "The 'AutoMate' car factory had to temporarily halt its ------- line due to a critical shortage of semiconductor chips.",
+          "options": ["produce", "producer", "production", "productive"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 production\n【訳】「オートメイト」自動車工場は、半導体チップの深刻な不足のため、生産ラインを一時的に停止しなければなりませんでした。\n【解説】`halt its _______ line` (その～ラインを停止する) という部分で、`its` (その) は形容詞の働きをします。したがって、空欄には名詞が入ります。「生産」を意味する③ `production` が正解で、`production line` (生産ライン) という複合名詞になります。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_noun", "word_form", "object"]
+        },
+        {
+          "id": "730C-024R2",
+          "questionText": "Our marketing team, led by Ms. Vogel, has come up with several ------- strategies to promote the new 'EcoClean' product line.",
+          "options": ["innovate", "innovative", "innovation", "innovator"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 innovative\n【訳】フォーゲルさんが率いる当社のマーケティングチームは、新しい「エコクリーン」製品ラインを宣伝するための、いくつかの革新的な戦略を考案しました。\n【解説】名詞 `strategies` (戦略) を修飾する形容詞が必要です。「革新的な」という意味の② `innovative` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "modifier", "word_form"]
+        },
+        {
+          "id": "730C-025R2",
+          "questionText": "------- you require any further assistance with your 'SmartHome Hub' device, do not hesitate to contact our 24-hour customer support.",
+          "options": ["Should", "Unless", "Despite", "Therefore"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 Should\n【訳】万が一、お使いの「スマートホーム・ハブ」装置に関してさらに支援が必要な場合は、24時間対応のカスタマーサポートまでご遠慮なくご連絡ください。\n【解説】これは `If you should require...` という仮定法の文で、`If` が省略されたことによって主語と助動詞が倒置された形です。「万が一～の場合は」という、非常に丁寧な響きを持つ表現で、ビジネス文書や顧客対応でよく使われます。",
+          "difficultyLevel": "hard",
+          "skillTags": ["grammar_inversion", "conditional", "formal_english"]
+        },
+        {
+          "id": "730C-026R2",
+          "questionText": "The management of 'BioGen Corp.' has decided to ------- more financial resources to its research and development department.",
+          "options": ["allocate", "accommodate", "accumulate", "accelerate"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 allocate\n【訳】「バイオジェン社」の経営陣は、より多くの財源を研究開発部門に割り当てることを決定しました。\n【解説】`resources to ...` (～へ資源を) という形と相性が良い動詞を選びます。「（資源や資金）を割り当てる」という意味の動詞① `allocate` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "word_choice", "business_terms"]
+        },
+        {
+          "id": "730C-027R2",
+          "questionText": "A ------- list of all registered attendees for the 'Global Finance Summit' will be provided at the registration desk upon arrival.",
+          "options": ["comprehensive", "comprehensible", "comprehend", "comprehension"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 comprehensive\n【訳】「グローバル・ファイナンス・サミット」の登録済み全出席者の包括的なリストは、到着時に受付にて提供されます。\n【解説】名詞 `list` (リスト) を修飾する形容詞が必要です。① `comprehensive` は「包括的な、網羅的な」、② `comprehensible` は「理解できる」という意味です。出席者「全員を網羅した」リストという文脈なので、① `comprehensive` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_adjectives", "modifier", "word_choice"]
+        },
+        {
+          "id": "730C-028R2",
+          "questionText": "The response to the workshop was so positive that we had to book a ------- venue to accommodate all the interested employees.",
+          "options": ["more spacious", "space", "spacious", "most spacious"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 more spacious\n【訳】その研修会への反応は非常に好評だったため、関心のある全従業員を収容するために、より広々とした会場を予約しなければなりませんでした。\n【解説】`so ... that ~` の構文です。非常に好評だったので、結果として「より大きな」会場が必要になった、という文脈です。「より広々とした」という意味になる比較級の形① `more spacious` が適切です。`a` があるので最上級 `most spacious` は使えません。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_comparative_adjectives", "modifier", "so_that_clause"]
+        },
+        {
+          "id": "730C-029R2",
+          "questionText": "As a condition of employment, all new hires are required to ------- with the company's code of conduct.",
+          "options": ["comply", "rely", "apply", "supply"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 comply\n【訳】雇用条件として、すべての新入社員は会社の行動規範を遵守することが求められます。\n【解説】`comply with ~` で「～を遵守する、～に従う」という重要な熟語です。`policy` (方針) や `regulations` (規則)、`code of conduct` (行動規範) といった単語と非常によく一緒に使われます。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocabulary_verbs", "idiom", "collocation"]
+        },
+        {
+          "id": "730C-030R2",
+          "questionText": "The superior durability of 'DuraTek' fabrics is one of the key features that ------- our products from our competitors.",
+          "options": ["distinguishes", "distinguish", "distinguished", "distinguishing"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 distinguishes\n【訳】「デューラテック」生地の優れた耐久性は、当社の製品を競合他社から際立たせる重要な特徴の一つです。\n【解説】これは主語と動詞の一致を問う、少しひっかけ問題です。関係代名詞 `that` の先行詞は、直前の複数名詞 `features` ではなく、文の主語である `One` (of the key features) です。「特徴の一つ」という単数の `One` が主語なので、動詞には三人称単数現在の `s` が付いた `distinguishes` が正解となります。",
+          "difficultyLevel": "hard",
+          "skillTags": ["grammar_subject_verb_agreement", "grammar_relative_pronouns", "number_agreement"]
+        }
+      ]
+    },
+    {
+      "setId": "730_SET_4_R2",
+      "setName": "実践問題 Vol. 4 (改訂版)",
+      "questions": [
+        {
+          "id": "730D-031R2",
+          "questionText": "The results of the initial market study were not -------; therefore, more data is needed before we draw any firm conclusions.",
+          "options": ["conclusive", "concluded", "conclusion", "concluding"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 conclusive\n【訳】初期の市場調査の結果は決定的なものではありませんでした。したがって、確固たる結論を出す前により多くのデータが必要です。\n【解説】be動詞 `were` の補語となる形容詞が必要です。「調査結果は『決定的な』ものではなかった」という文脈なので、① `conclusive` が正解です。`conclusive evidence` (決定的な証拠) のような使われ方もします。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "word_form", "opinion"]
+        },
+        {
+          "id": "730D-032R2",
+          "questionText": "Our company's CEO, Ms. Rodriguez, will personally preside ------- the annual shareholder meeting next Tuesday morning.",
+          "options": ["at", "on", "over", "in"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 over\n【訳】当社のCEOであるロドリゲスさんが、来週火曜の朝、自ら年次株主総会の議長を務めます。\n【解説】`preside over ~` で「～の議長を務める、～を司会する」という意味の熟語です。`meeting` (会議) や `ceremony` (式典) といった単語と共によく使われます。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_prepositions", "idiom", "collocation"]
+        },
+        {
+          "id": "730D-033R2",
+          "questionText": "------- to the new safety regulations, all staff working in the laboratory must complete the online ethics course by the end of this month.",
+          "options": ["According", "Regarding", "Pertaining", "Adhering"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 According\n【訳】新しい安全規則に従い、研究室で働くすべてのスタッフは、今月末までにオンラインの倫理コースを修了しなければなりません。\n【解説】`According to ~` で「～によれば、～に従って」という意味の前置詞句を作ります。文頭でルールや情報の出所を示すのによく使われる形です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_prepositions", "phrasal_prepositions", "sentence_structure"]
+        },
+        {
+          "id": "730D-034R2",
+          "questionText": "On behalf of the entire staff at 'The Grove Hotel', we sincerely apologize for any ------- caused by the unexpected system maintenance last night.",
+          "options": ["inconvenience", "inconvenient", "inconveniently", "convene"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 inconvenience\n【訳】「ザ・グローブ・ホテル」の全スタッフを代表し、昨夜の予期せぬシステムメンテナンスによって生じたいかなるご不便に対しても、心からお詫び申し上げます。\n【解説】`apologize for any _______` という形で、「いかなる～に対してもお詫びします」という意味になります。`any` の後には名詞が来るため、「不便」を意味する名詞① `inconvenience` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_noun", "word_form", "cause_and_effect"]
+        },
+        {
+          "id": "730D-035R2",
+          "questionText": "If the marketing department ------- a larger budget for the campaign last year, it would have been able to reach a wider audience.",
+          "options": ["had", "has had", "had had", "would have"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 had had\n【訳】もし昨年、マーケティング部がそのキャンペーンのためにもっと大きな予算を持っていたなら、より広範な顧客層にリーチできていただろう。\n【解説】仮定法過去完了の文です。主節が `it would have been able to` (would have + 過去分詞) となっているので、If節の中は過去完了形 `had + 過去分詞` にする必要があります。ここでは動詞 `have` (持つ) の過去完了形なので、`had had` が正解となります。",
+          "difficultyLevel": "hard",
+          "skillTags": ["grammar_conditionals", "hypothetical_past", "tense_sequence"]
+        },
+        {
+          "id": "730D-036R2",
+          "questionText": "The success of our online retail store depends ------- on customer satisfaction and an efficient, user-friendly website.",
+          "options": ["heavy", "heavily", "heaviness", "heavier"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 heavily\n【訳】当社のオンライン小売店の成功は、顧客満足度と効率的で使いやすいウェブサイトに大きく依存しています。\n【解説】動詞 `depends` を「どのように」依存するのか修飾するため、副詞の② `heavily` (大いに、非常に) が正解です。`depend heavily on ~` で「〜に大きく依存する」という決まった言い方として覚えましょう。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adverb", "modifier", "collocation"]
+        },
+        {
+          "id": "730D-037R2",
+          "questionText": "Mr. Sato was publicly commended by the CEO for his ------- handling of the very difficult contract negotiations with a key client.",
+          "options": ["expert", "expertly", "expertise", "expertness"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 expert\n【訳】サトウさんは、重要顧客との非常に困難な契約交渉における、その専門的な手腕をCEOから公に称賛されました。\n【解説】名詞 `handling` (処理、手腕) を修飾する形容詞が必要です。「専門的な、熟練した」という意味の① `expert` が正解です。`expert` は「専門家」という名詞としても使われますが、ここでは形容詞として使われています。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "modifier", "word_form"]
+        },
+        {
+          "id": "730D-038R2",
+          "questionText": "The new regional manager is responsible for ------- the performance and daily operations of the entire sales team in the area.",
+          "options": ["oversee", "overseeing", "overseen", "overseer"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 overseeing\n【訳】新しい地域マネージャーは、その地域の営業チーム全体の業績と日常業務を監督する責任があります。\n【解説】前置詞 `for` の後ろには、目的語として名詞か動名詞が来る、というルールです。ここでは「監督すること」という意味の動名詞② `overseeing` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["grammar_gerunds", "preposition_object", "part_of_speech_verb"]
+        },
+        {
+          "id": "730D-039R2",
+          "questionText": "A final decision has not yet been made by the board ------- the exact location of the new branch office in Southeast Asia.",
+          "options": ["concerning", "concerned", "concerns", "concern"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 concerning\n【訳】取締役会は、東南アジアの新しい支社の正確な場所に関して、まだ最終決定を下していません。\n【解説】`about` や `regarding` と同じく、「～に関して」という意味で使われる前置詞が① `concerning` です。後ろに `the exact location...` という名詞句を目的語として従えています。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_prepositions", "phrasal_prepositions", "context"]
+        },
+        {
+          "id": "730D-040R2",
+          "questionText": "The updated user manual is much clearer and more user-friendly than the ------- one we distributed last year.",
+          "options": ["previous", "precede", "previously", "precedence"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 previous\n【訳】改訂版のユーザーマニュアルは、私たちが昨年配布したものよりも、はるかに明快で使いやすくなっています。\n【解説】名詞 `one` (= manual) を修飾する形容詞が必要です。`than` があることから、古いマニュアルと比較していることが分かります。「以前の」を意味する① `previous` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "modifier", "word_choice"]
+        }
+      ]
+    },
+    {
+      "setId": "730_SET_5_R2",
+      "setName": "実践問題 Vol. 5 (改訂版)",
+      "questions": [
+        {
+          "id": "730E-041R2",
+          "questionText": "Zenith Properties has a ------- policy of promoting from within the company whenever a suitable internal candidate is available.",
+          "options": ["firm", "firmly", "firmness", "affirm"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 firm\n【訳】Zenith Properties社は、適切な内部候補者がいる場合はいつでも、社内から昇進させるという確固とした方針を持っています。\n【解説】名詞 `policy` (方針) を修飾する形容詞が必要です。「確固とした、断固たる」という意味の① `firm` が正解です。`firm policy` で「確固たる方針」という決まった言い方です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "modifier", "word_form"]
+        },
+        {
+          "id": "730E-042R2",
+          "questionText": "------- all the highly qualified candidates who applied, Ms. Albright was chosen for her extensive experience in international finance.",
+          "options": ["From", "In", "With", "Of"],
+          "correctAnswerIndex": 3,
+          "explanation": "【正解】 Of\n【訳】応募した優秀な候補者全員の中で、オルブライトさんは国際金融におけるその豊富な経験から選ばれました。\n【解説】`Of all the + 複数名詞` の形で、「すべての～の中で」という意味になり、最上級や選択を表す文脈でよく使われます。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_prepositions", "idiom", "superlative_adjectives"]
+        },
+        {
+          "id": "730E-043R2",
+          "questionText": "Please make sure your summary is both ------- and directly relevant to the main points discussed in the meeting.",
+          "options": ["concise", "conceit", "concede", "conceive"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 concise\n【訳】あなたの要約が、簡潔であり、かつ会議で議論された主要点に直接関連していることを確認してください。\n【解説】`both A and B` の構文で、AとBには同じ品詞が入ります。`is` の補語となる形容詞が必要なので、「簡潔な」を意味する① `concise` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "modifier", "parallelism"]
+        },
+        {
+          "id": "730E-044R2",
+          "questionText": "This special discount offer is valid only for a ------- time, so we encourage customers to act quickly to avoid disappointment.",
+          "options": ["limit", "limited", "limiting", "limitation"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 limited\n【訳】この特別割引オファーは期間限定で有効ですので、お見逃しのないよう、お客様にはお早めの行動をお勧めします。\n【解説】名詞 `time` を修飾する形容詞が必要です。「限られた」という受け身の意味を持つ過去分詞の② `limited` が正解です。`a limited time offer` で「期間限定のオファー」という頻出表現です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "past_participle", "modifier"]
+        },
+        {
+          "id": "730E-045R2",
+          "questionText": "The awards banquet will be held in the main ballroom of the Lakeside Hotel, ------- can comfortably accommodate up to 500 guests.",
+          "options": ["that", "which", "it", "where"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 which\n【訳】授賞晩餐会はレイクサイド・ホテルのメインボールルームで開かれますが、そこは500名までのゲストを快適に収容できます。\n【解説】これは非制限用法の関係代名詞です。コンマの後ろで、先行詞 `the main ballroom` を補足的に説明しています。この用法では `that` は使えず、`which` を使うのがルールです。`where` は関係副詞で、後ろに完全な文（S+V+Oなど）が来る必要がありますが、ここでは主語が欠けているため使えません。",
+          "difficultyLevel": "hard",
+          "skillTags": ["grammar_relative_pronouns", "non_restrictive_clause", "restrictive_vs_nonrestrictive"]
+        },
+        {
+          "id": "730E-046R2",
+          "questionText": "The city council approved the new construction plan ------- the strong objections of some local residents.",
+          "options": ["despite", "although", "however", "because"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 despite\n【訳】市議会は、一部の地元住民からの強い反対にもかかわらず、その新しい建設計画を承認しました。\n【解説】空欄の後ろが `the strong objections` という名詞句（名詞のまとまり）なので、前置詞が必要です。「反対」と「承認」という逆の内容をつなぐので、「～にもかかわらず」という意味を持つ前置詞 `despite` が正解です。② `although` は同じ意味ですが接続詞なので、後ろに節（主語+動詞）が来る必要があります。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_prepositions", "grammar_conjunctions", "contrast"]
+        },
+        {
+          "id": "730E-047R2",
+          "questionText": "Recent survey results indicate a strong ------- among younger consumers for products made from eco-friendly materials.",
+          "options": ["prefer", "preferable", "preference", "preferably"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 preference\n【訳】最近の調査結果は、若い消費者の間で、環境に優しい素材で作られた製品に対する強い好みがあることを示しています。\n【解説】形容詞 `strong` の後には名詞が来るため、「好み、嗜好」を意味する名詞③ `preference` が正解です。`preference for ~` で「〜に対する好み」という決まった言い方です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_noun", "word_form", "collocation"]
+        },
+        {
+          "id": "730E-048R2",
+          "questionText": "Not until the final quarterly report was released ------- the board of directors realize the full extent of the company's financial problems.",
+          "options": ["the board realized", "did the board realize", "the board did realize", "realized the board"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 did the board realize\n【訳】最終四半期報告書が公表されて初めて、取締役会は会社の財政問題の全容を理解しました。\n【解説】`Not until...` のような否定的な意味を持つ句が文頭に来ると、主節で主語と助動詞の倒置（語順がひっくり返ること）が起こります。そのため、通常の `the board realized` ではなく、疑問文のような語順の `did the board realize` が正解になります。これは700点以上を目指す上で重要な文法項目です。",
+          "difficultyLevel": "hard",
+          "skillTags": ["grammar_inversion", "negative_adverbials", "sentence_structure"]
+        },
+        {
+          "id": "730E-049R2",
+          "questionText": "Our new 'EverGreen' line of packaging is made entirely from ------- materials, making it a better choice for the environment.",
+          "options": ["sustained", "sustainable", "sustain", "sustainability"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 sustainable\n【訳】当社の新しい「エバーグリーン」包装ラインは、完全に持続可能な素材から作られており、環境にとってより良い選択となっています。\n【解説】名詞 `materials` (素材) を修飾する形容詞が必要です。「持続可能な」という意味の② `sustainable` が、環境(`environment`)という文脈に最も合います。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_adjective", "modifier", "vocabulary_adjectives"]
+        },
+        {
+          "id": "730E-050R2",
+          "questionText": "Through her consistent hard work and integrity, Ms. Garcia has earned the ------- of all her colleagues in the department.",
+          "options": ["respect", "respective", "respectful", "respectfully"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 respect\n【訳】その一貫した勤勉さと誠実さにより、ガルシアさんは部署の同僚全員の尊敬を勝ち取りました。\n【解説】動詞 `has earned` (を勝ち取った) の目的語となる名詞が必要です。「尊敬」を意味する名詞① `respect` が正解です。② `respective` (それぞれの) や③ `respectful` (敬意を払う) は形容詞です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["part_of_speech_noun", "word_form", "collocation"]
+        }
+      ]
+    },
+    {
+      "setId": "730_SET_6_R2",
+      "setName": "実践問題 Vol. 6 (改訂版)",
+      "questions": [
+        {
+          "id": "730F-051R2",
+          "questionText": "At 'Stellar Solutions', we are committed to providing our valued customers with ------- service and unparalleled support.",
+          "options": ["excellence", "excel", "excellent", "excellently"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 excellent\n【訳】「ステラ・ソリューションズ」では、大切なお客様に優れたサービスと比類のないサポートを提供することに尽力しています。\n【解説】名詞 `service` を修飾する形容詞が必要です。「優れた」という意味の形容詞③ `excellent` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "modifier", "word_form"]
+        },
+        {
+          "id": "730F-052R2",
+          "questionText": "To ensure compliance with the new data privacy regulations, we will need to ------- our current internal procedures.",
+          "options": ["revise", "revoke", "resist", "resolve"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 revise\n【訳】新しいデータプライバシー規制の遵守を確実にするため、私たちは現在の社内手順を修正する必要があります。\n【解説】「新しい規制に合わせて、現在の手続きを『修正する』必要がある」という文脈です。「修正する、改訂する」という意味の動詞① `revise` が正解です。② `revoke` は「取り消す」、③ `resist` は「抵抗する」、④ `resolve` は「解決する」です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "word_choice", "business_process"]
+        },
+        {
+          "id": "730F-053R2",
+          "questionText": "The primary aim of the annual 'Tech Innovators' conference is to foster ------- among professionals from various industries.",
+          "options": ["collaboration", "collating", "collaborator", "collaborative"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 collaboration\n【訳】年次「テック・イノベーターズ」会議の主な目的は、様々な業界の専門家間の協力を促進することです。\n【解説】動詞 `foster` (～を促進する、育成する) の目的語となる名詞が必要です。「協力、協働」を意味する名詞① `collaboration` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_nouns", "word_form", "abstract_nouns"]
+        },
+        {
+          "id": "730F-054R2",
+          "questionText": "All necessary training materials for the workshop will be ------- to registered participants via e-mail by the end of the week.",
+          "options": ["distributed", "attributed", "contributed", "substituted"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 distributed\n【訳】研修会に必要なすべての資料は、今週末までにEメールで登録済み参加者に配布されます。\n【解説】`will be` の後なので受動態 `be + 過去分詞` の形です。「研修資料が参加者に『配布される』」という文脈なので、「配布する」という意味の `distribute` の過去分詞形① `distributed` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "past_participle", "passive_voice"]
+        },
+        {
+          "id": "730F-055R2",
+          "questionText": "The remarkable success of the project is largely ------- to the team's effective communication and tireless coordination.",
+          "options": ["attributed", "attributing", "attribution", "attributive"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 attributed\n【訳】そのプロジェクトの目覚ましい成功は、主としてチームの効果的なコミュニケーションとたゆまぬ調整のおかげです。\n【解説】`be attributed to ~` で「〜に起因する、〜のおかげである」という受動態の表現です。`success` (成功) は `attributed` (帰せられる) という状態なので、過去分詞① `attributed` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_verbs", "past_participle", "passive_voice", "cause_and_effect"]
+        },
+        {
+          "id": "730F-056R2",
+          "questionText": "Please ensure that all client financial records are handled with the utmost ------- and stored in a secure location.",
+          "options": ["confidentiality", "confidential", "confident", "confidently"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 confidentiality\n【訳】すべての顧客の財務記録が、最大限の機密性をもって扱われ、安全な場所に保管されることを徹底してください。\n【解説】`the utmost` (最大限の) の後ろには名詞が来るため、「機密性、内密」を意味する名詞① `confidentiality` が正解です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocabulary_nouns", "word_form", "abstract_nouns"]
+        },
+        {
+          "id": "730F-057R2",
+          "questionText": "Despite its initial success, the company is now facing significant ------- due to increased competition from overseas.",
+          "options": ["challenges", "challenge", "challenging", "challenged"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 challenges\n【訳】当初の成功にもかかわらず、その会社は現在、海外からの競争激化により、大きな課題に直面しています。\n【解説】動詞 `facing` (～に直面している) の目的語となる名詞が必要です。形容詞 `significant` (重大な) に修飾されており、文脈から課題は一つではないと推測されるため、複数形の名詞 `challenges` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["vocabulary_nouns", "plural_form", "context"]
+        },
+        {
+          "id": "730F-058R2",
+          "questionText": "The new logistics software is designed to streamline our shipping operations and improve overall ------- in the warehouse.",
+          "options": ["efficient", "efficiency", "efficiently", "effectiveness"],
+          "correctAnswerIndex": 1,
+          "explanation": "【正解】 efficiency\n【訳】新しい物流ソフトウェアは、当社の出荷業務を合理化し、倉庫の全体的な効率を向上させるように設計されています。\n【解説】動詞 `improve` (～を改善する) の目的語となる名詞が必要です。`streamline operations` (業務を合理化する) という文脈から、「効率」を意味する名詞② `efficiency` が最も適しています。",
+          "difficultyLevel": "easy",
+          "skillTags": ["vocabulary_nouns", "word_form", "business_operations"]
+        },
+        {
+          "id": "730F-059R2",
+          "questionText": "------- a full refund for an online purchase, the customer must return the product in its original condition within 30 days.",
+          "options": ["To receive", "Receiving", "Received", "Receive"],
+          "correctAnswerIndex": 0,
+          "explanation": "【正解】 To receive\n【訳】オンライン購入品の全額払い戻しを受けるためには、お客様は商品を元の状態で30日以内に返品しなければなりません。\n【解説】文頭に置かれ、コンマの後ろの主節の「目的」を表す用法です。to不定詞の副詞的用法「～するためには」がこの文脈にぴったりなので、① `To receive` が正解です。",
+          "difficultyLevel": "medium",
+          "skillTags": ["grammar_infinitives", "purpose", "sentence_structure"]
+        },
+        {
+          "id": "730F-060R2",
+          "questionText": "The CEO, Ms. Tanaka, gave a truly ------- speech at the annual company dinner that inspired all the employees.",
+          "options": ["motivate", "motivated", "motivational", "motivation"],
+          "correctAnswerIndex": 2,
+          "explanation": "【正解】 motivational\n【訳】CEOのタナカさんは、会社の年次会食で、全従業員を鼓舞する、実にやる気を起こさせるスピーチを行いました。\n【解説】名詞 `speech` を修飾する形容詞が必要です。「やる気を起こさせるような、動機付けとなる」という意味の形容詞③ `motivational` が正解です。`motivational speech` で「やる気を起こさせるスピーチ」という決まった言い方です。",
+          "difficultyLevel": "easy",
+          "skillTags": ["part_of_speech_adjective", "modifier", "word_form"]
+        }
+      ]
+    }
+  ]
+}

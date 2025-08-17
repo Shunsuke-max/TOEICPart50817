@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_10",
+      "setName": "第10回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK10-001",
+          "questionText": "The report provides a ------- analysis of the current market trends.",
+          "options": ["thorough", "though", "through", "thought"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞 'analysis' を修飾するのは形容詞です。「徹底的な、完全な」を意味する 'thorough' が正解です。他の選択肢とのスペルの違いに注意が必要です。"
+        },
+        {
+          "id": "MOCK10-002",
+          "questionText": "The new manager has a reputation for being both demanding ------- fair.",
+          "options": ["or", "so", "but also", "and"],
+          "correctAnswerIndex": 3,
+          "explanation": "'both A and B' は「AとBの両方」という意味の相関接続詞です。「要求は厳しいが、公平でもある」という文脈に合います。"
+        },
+        {
+          "id": "MOCK10-003",
+          "questionText": "Our company policy ------- that all employees complete the annual ethics training.",
+          "options": ["stipulates", "substitutes", "surpasses", "suspends"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「当社の方針は、全従業員が年次の倫理研修を修了することを『規定している』」という意味が最も自然です。「規定する、明記する」を意味する動詞 'stipulates' が正解です。"
+        },
+        {
+          "id": "MOCK10-004",
+          "questionText": "------- the storm, the power lines were damaged, causing a widespread outage.",
+          "options": ["While", "During", "Whereas", "Among"],
+          "correctAnswerIndex": 1,
+          "explanation": "空所の後ろには名詞句 'the storm' が来ています。「嵐の『間に』」という意味なので、前置詞 'During' が正解です。"
+        },
+        {
+          "id": "MOCK10-005",
+          "questionText": "The information ------- in this document is confidential and should not be shared.",
+          "options": ["contain", "contains", "contained", "containing"],
+          "correctAnswerIndex": 2,
+          "explanation": "主語 'The information' を後ろから修飾する形です。「この文書に『含まれている』情報」という受動的な関係なので、過去分詞 'contained' が正解です。"
+        },
+        {
+          "id": "MOCK10-006",
+          "questionText": "The company's profits have increased ------- since the new CEO took over.",
+          "options": ["steady", "steadily", "steadiness", "steamed"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞 'increased' を修飾するのは副詞です。「着実に」を意味する 'steadily' が正解です。"
+        },
+        {
+          "id": "MOCK10-007",
+          "questionText": "The final decision will be made ------- a consensus is reached among all board members.",
+          "options": ["once", "unless", "so that", "in spite of"],
+          "correctAnswerIndex": 0,
+          "explanation": "「全役員の間で合意に『達したら』、最終決定がなされるだろう」という、ある行為が次の行為のきっかけとなる文脈です。接続詞 'once' (いったん～すると) が正解です。"
+        },
+        {
+          "id": "MOCK10-008",
+          "questionText": "The old factory is scheduled to be ------- next year to make way for a new park.",
+          "options": ["demolished", "diminished", "dispatched", "diverted"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「古い工場は来年『取り壊される』予定だ」という意味が最も自然です。「取り壊す」を意味する動詞 'demolished' が正解です。"
+        },
+        {
+          "id": "MOCK10-009",
+          "questionText": "The marketing team worked ------- with the product development team on the new launch.",
+          "options": ["close", "closer", "closest", "closely"],
+          "correctAnswerIndex": 3,
+          "explanation": "動詞 'worked' を修飾するのは副詞です。「密接に」を意味する 'closely' が正解です。"
+        },
+        {
+          "id": "MOCK10-010",
+          "questionText": "The workshop is intended for individuals ------- to improve their public speaking skills.",
+          "options": ["seek", "seeking", "sought", "seeks"],
+          "correctAnswerIndex": 1,
+          "explanation": "先行詞 'individuals' を後ろから修飾する形です。「スキルを向上させることを『求めている』人々」という能動的な関係なので、現在分詞 'seeking' が正解です。"
+        },
+        {
+          "id": "MOCK10-011",
+          "questionText": "------- the merger is approved by the regulatory authorities, the two companies will operate as a single entity.",
+          "options": ["Provided that", "Given that", "So that", "Despite that"],
+          "correctAnswerIndex": 0,
+          "explanation": "「合併が規制当局によって承認される『という条件で』、2社は単一の事業体として運営される」という条件を示す文脈です。接続詞 'Provided that' (もし～ならば、～という条件で) が最も適切です。"
+        },
+        {
+          "id": "MOCK10-012",
+          "questionText": "The new mobile application has received ------- positive reviews from users.",
+          "options": ["overwhelm", "overwhelmingly", "overwhelmed", "overwhelming"],
+          "correctAnswerIndex": 1,
+          "explanation": "形容詞 'positive' を修飾するのは副詞です。「圧倒的に」を意味する 'overwhelmingly' が正解です。"
+        },
+        {
+          "id": "MOCK10-013",
+          "questionText": "The company has a ------- policy regarding the use of personal devices at work.",
+          "options": ["strict", "strictly", "strictness", "constrict"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞 'policy' を修飾するのは形容詞です。「厳格な」を意味する 'strict' が正解です。"
+        },
+        {
+          "id": "MOCK10-014",
+          "questionText": "The new safety regulations were ------- to reduce the number of workplace accidents.",
+          "options": ["implemented", "complimented", "supplemented", "implicated"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい安全規制は、職場での事故件数を減らすために『実施された』」という意味が最も自然です。「実施する」を意味する動詞 'implemented' が正解です。"
+        },
+        {
+          "id": "MOCK10-015",
+          "questionText": "_______ of the recent economic downturn, the company has decided to freeze hiring.",
+          "options": ["In light of", "As opposed to", "In addition to", "On behalf of"],
+          "correctAnswerIndex": 0,
+          "explanation": "'In light of ~' は「～を考慮して、～に照らして」という意味の前置詞句です。「最近の景気後退を考慮して」という文脈に最も合います。"
+        },
+        {
+          "id": "MOCK10-016",
+          "questionText": "The person to ------- the package should be delivered is currently out of the office.",
+          "options": ["who", "whose", "which", "whom"],
+          "correctAnswerIndex": 3,
+          "explanation": "前置詞 'to' の目的語となる関係代名詞なので、'whom' が正解です。'the package should be delivered to the person' という関係から判断します。"
+        },
+        {
+          "id": "MOCK10-017",
+          "questionText": "The consultant's recommendations were ------- and based on a thorough analysis of our workflow.",
+          "options": ["insight", "insightful", "insightfully", "sighting"],
+          "correctAnswerIndex": 1,
+          "explanation": "be動詞 'were' の後の補語として形容詞が必要です。「洞察力に富んだ」を意味する 'insightful' が正解です。"
+        },
+        {
+          "id": "MOCK10-018",
+          "questionText": "The hotel offers a wide ------- of amenities to ensure a comfortable stay for its guests.",
+          "options": ["arrange", "arrangement", "array", "alley"],
+          "correctAnswerIndex": 2,
+          "explanation": "'a wide array of ~' は「多種多様な～」という意味の定型表現です。'a wide range of ~' と同じ意味で使われます。"
+        },
+        {
+          "id": "MOCK10-019",
+          "questionText": "------- the project proposal by Friday, we will not be able to consider it for funding.",
+          "options": ["Unless we receive", "If we will receive", "When we received", "Although we receive"],
+          "correctAnswerIndex": 0,
+          "explanation": "「金曜日までに提案書を受け取ら『ない限り』、資金提供の検討はできない」という条件を示す文脈です。'Unless' (もし～でなければ) が正解です。時や条件を表す副詞節の中では未来のことでも現在形を使うため、'will' は使いません。"
+        },
+        {
+          "id": "MOCK10-020",
+          "questionText": "The company is committed to ------- its operations in an environmentally responsible manner.",
+          "options": ["conducting", "deducting", "producing", "inducing"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be committed to ~ing' の構文で、toの後ろは動名詞です。文脈から「環境に責任ある方法で事業を『運営する』」という意味が最も自然です。「（業務などを）行う、遂行する」を意味する 'conducting' が正解です。"
+        },
+        {
+          "id": "MOCK10-021",
+          "questionText": "The CEO's ------- leadership was instrumental in navigating the company through the crisis.",
+          "options": ["decide", "decisive", "decision", "decidedly"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞 'leadership' を修飾するのは形容詞です。「決断力のある」を意味する 'decisive' が正解です。"
+        },
+        {
+          "id": "MOCK10-022",
+          "questionText": "Our new marketing campaign will ------- target young adults aged 18 to 25.",
+          "options": ["specify", "specific", "specifically", "specification"],
+          "correctAnswerIndex": 2,
+          "explanation": "動詞 'target' を修飾するのは副詞です。「特に、具体的に」を意味する 'specifically' が正解です。"
+        },
+        {
+          "id": "MOCK10-023",
+          "questionText": "The manual provides step-by-step instructions ------- are easy to follow.",
+          "options": ["who", "that", "whose", "what"],
+          "correctAnswerIndex": 1,
+          "explanation": "先行詞 'instructions' (物) を修飾する関係代名詞節で、空所がその節の主語の役割をしているため、主格の関係代名詞 'that' が正解です。'which' も使えます。"
+        },
+        {
+          "id": "MOCK10-024",
+          "questionText": "The two divisions will be ------- into a single, more efficient department.",
+          "options": ["merged", "emerged", "submerged", "urged"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2つの部門は、より効率的な単一の部署に『統合される』」という意味が最も自然です。「合併する、統合する」を意味する動詞 'merged' が正解です。"
+        },
+        {
+          "id": "MOCK10-025",
+          "questionText": "------- a few minor setbacks, the project was completed ahead of schedule.",
+          "options": ["Apart from", "In addition to", "As a result of", "In case of"],
+          "correctAnswerIndex": 0,
+          "explanation": "'Apart from ~' は「～は別として、～の他に」という意味の前置詞句です。「いくつかの小さな遅れは別として、プロジェクトは予定より早く完了した」という文脈に合います。"
+        },
+        {
+          "id": "MOCK10-026",
+          "questionText": "The purpose of the meeting is ------- employees with the new safety protocols.",
+          "options": ["familiar", "familiarity", "to familiarize", "familiarizing"],
+          "correctAnswerIndex": 2,
+          "explanation": "'The purpose of A is to do B' (Aの目的はBすることだ) の構文です。ここでは 'familiarize A with B' (AにBを熟知させる) という動詞句が不定詞の形で入ります。"
+        },
+        {
+          "id": "MOCK10-027",
+          "questionText": "The new software is not ------- with older versions of the operating system.",
+          "options": ["cooperative", "comparable", "compatible", "considerate"],
+          "correctAnswerIndex": 2,
+          "explanation": "文脈から「古いバージョンのOSとは『互換性がない』」という意味が最も自然です。「互換性のある」を意味する形容詞 'compatible' が正解です。"
+        },
+        {
+          "id": "MOCK10-028",
+          "questionText": "The ------- of the new product was so successful that it sold out within a week.",
+          "options": ["launch", "lunch", "lounge", "laundry"],
+          "correctAnswerIndex": 0,
+          "explanation": "定冠詞 'The' の後で、'of' の前にあるため名詞が必要です。文脈から「新製品の『発売』」という意味になるため、'launch' が正解です。"
+        },
+        {
+        "id": "MOCK10-029",
+          "questionText": "The factory's output has been ------- affected by the recent supply chain disruptions.",
+          "options": ["adverse", "adversely", "adversity", "advert"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞 'affected' を修飾するのは副詞です。「不都合に、逆効果に」を意味する 'adversely' が正解です。"
+        },
+        {
+          "id": "MOCK10-030",
+          "questionText": "Seldom ------- such a well-organized and productive conference.",
+          "options": ["I have attended", "have I attended", "I attended", "did I attend"],
+          "correctAnswerIndex": 1,
+          "explanation": "否定的な意味を持つ副詞 'Seldom' (めったに～ない) が文頭に来ると倒置が起こります。ここでは現在完了形が使われているため、'have + 主語 + 過去分詞' の語順 'have I attended' となります。"
+        }
+      ]
+    }
+  ]
+}

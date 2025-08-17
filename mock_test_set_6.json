@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_6",
+      "setName": "第6回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK6-001",
+          "questionText": "The factory has implemented a new quality control system to ensure product ______.",
+          "options": ["consist", "consistent", "consistency", "consistently"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞 'product' が後ろの名詞を修飾する複合名詞の形か、所有格の後の名詞が必要です。文脈から「製品の一貫性」という意味になるため、名詞の 'consistency' が正解です。"
+        },
+        {
+          "id": "MOCK6-002",
+          "questionText": "Ms. Chen will be in charge of the project _______ Mr. Sato is away on business.",
+          "options": ["while", "during", "despite", "whereas"],
+          "correctAnswerIndex": 0,
+          "explanation": "空所の後ろに主語(Mr. Sato)と動詞(is)を含む節が続いているため、接続詞が必要です。「サトウ氏が出張で不在の『間』」という意味なので、時を表す接続詞 'while' が正解です。"
+        },
+        {
+          "id": "MOCK6-003",
+          "questionText": "The finance department is responsible for _______ all company expenses.",
+          "options": ["track", "tracked", "tracker", "tracking"],
+          "correctAnswerIndex": 3,
+          "explanation": "前置詞 'for' の後には名詞または動名詞が来ます。目的語 'all company expenses' をとることができるのは動名詞なので、「追跡すること」を意味する 'tracking' が正解です。"
+        },
+        {
+          "id": "MOCK6-004",
+          "questionText": "The workshop was so popular that _______ seats were taken within an hour.",
+          "options": ["every", "all", "much", "each"],
+          "correctAnswerIndex": 1,
+          "explanation": "空所の後ろには複数名詞 'seats' があります。'every' と 'each' は単数名詞を、'much' は不可算名詞をとるため不適切です。複数名詞をとれる 'all' が正解で、「すべての席」という意味になります。"
+        },
+        {
+          "id": "MOCK6-005",
+          "questionText": "The new CEO is expected to _______ significant changes to the company's strategy.",
+          "options": ["do", "have", "make", "take"],
+          "correctAnswerIndex": 2,
+          "explanation": "'make changes' は「変更を加える」という意味のコロケーション（よく使われる語の組み合わせ）です。"
+        },
+        {
+          "id": "MOCK6-006",
+          "questionText": "The _______ of the new office building is scheduled to begin next month.",
+          "options": ["renovate", "renovating", "renovation", "renovated"],
+          "correctAnswerIndex": 2,
+          "explanation": "定冠詞 'The' の後で、'of' の前にあるため、主語となる名詞が必要です。「改修」を意味する名詞 'renovation' が正解です。"
+        },
+        {
+          "id": "MOCK6-007",
+          "questionText": "_______ the bad weather, the outdoor event was a great success.",
+          "options": ["Despite", "Although", "Because", "Therefore"],
+          "correctAnswerIndex": 0,
+          "explanation": "空所の後ろには名詞句 'the bad weather' が来ています。文全体は「悪天候『にもかかわらず』、イベントは成功した」という逆接の内容なので、名詞句を目的語にとる前置詞 'Despite' が正解です。"
+        },
+        {
+          "id": "MOCK6-008",
+          "questionText": "Please submit your expense reports _______ than the last day of the month.",
+          "options": ["late", "later", "no later", "lately"],
+          "correctAnswerIndex": 2,
+          "explanation": "'no later than ~' は「～までに、～より遅くならずに」という意味の頻出表現です。"
+        },
+        {
+          "id": "MOCK6-009",
+          "questionText": "The survey results indicate a _______ preference for eco-friendly products among consumers.",
+          "options": ["clear", "clearly", "clarity", "clarify"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞 'preference' を修飾するのは形容詞です。「明確な」を意味する 'clear' が正解です。"
+        },
+        {
+          "id": "MOCK6-010",
+          "questionText": "The training program is designed for employees _______ have been with the company for less than a year.",
+          "options": ["which", "who", "whose", "whom"],
+          "correctAnswerIndex": 1,
+          "explanation": "先行詞 'employees' (人) を修飾する関係代名詞節で、空所がその節の主語の役割をしているため、主格の関係代名詞 'who' が正解です。"
+        },
+        {
+          "id": "MOCK6-011",
+          "questionText": "The technician _______ repaired the printer is highly experienced.",
+          "options": ["he", "whose", "which", "who"],
+          "correctAnswerIndex": 3,
+          "explanation": "主語 'The technician' を修飾する関係代名詞節です。空所は節内の主語の役割を果たすため、人を先行詞とする主格の関係代名詞 'who' が正解です。"
+        },
+        {
+          "id": "MOCK6-012",
+          "questionText": "All _______ for the position must have at least five years of relevant experience.",
+          "options": ["apply", "applicants", "applicable", "application"],
+          "correctAnswerIndex": 1,
+          "explanation": "文の主語となる名詞が必要です。文脈から「その職への『応募者』」という意味になるため、人を表す名詞 'applicants' が正解です。"
+        },
+        {
+          "id": "MOCK6-013",
+          "questionText": "The flight from Seoul is scheduled to arrive _______ at 3:45 P.M.",
+          "options": ["approximate", "approximating", "approximation", "approximately"],
+          "correctAnswerIndex": 3,
+          "explanation": "動詞 'arrive' を修飾するのは副詞です。ここでは、時刻 'at 3:45 P.M.' を修飾し、「およそ、約」という意味の副詞 'approximately' が正解です。"
+        },
+        {
+          "id": "MOCK6-014",
+          "questionText": "The company decided to _______ its headquarters to a larger city to attract more talent.",
+          "options": ["relocate", "replace", "remove", "review"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「本社をより大きな都市に『移転する』」という意味が最も自然です。「移転させる」を意味する動詞 'relocate' が正解です。"
+        },
+        {
+          "id": "MOCK6-015",
+          "questionText": "_______ the new software is user-friendly, some employees still require training.",
+          "options": ["Because", "Therefore", "However", "Although"],
+          "correctAnswerIndex": 3,
+          "explanation": "「新しいソフトウェアは使いやすい『けれども』、一部の従業員は依然として研修を必要としている」という逆接の文脈なので、接続詞 'Although' が正解です。"
+        },
+        {
+          "id": "MOCK6-016",
+          "questionText": "The marketing team has come up with a _______ strategy to promote the new product line.",
+          "options": ["comprehend", "comprehensive", "comprehension", "comprehensively"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞 'strategy' を修飾するのは形容詞です。「包括的な、総合的な」を意味する 'comprehensive' が正解です。"
+        },
+        {
+          "id": "MOCK6-017",
+          "questionText": "A detailed agenda for the meeting _______ to all participants yesterday morning.",
+          "options": ["distributes", "was distributed", "is distributing", "has distributed"],
+          "correctAnswerIndex": 1,
+          "explanation": "主語 'A detailed agenda' は「配布される」側なので受動態が必要です。また、'yesterday morning' という過去を示す表現があるので、過去形の受動態 'was distributed' が正解です。"
+        },
+        {
+          "id": "MOCK6-018",
+          "questionText": "We are looking for a candidate with _______ communication skills.",
+          "options": ["except", "exception", "exceptional", "exceptionally"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞 'skills' を修飾するのは形容詞です。「並外れた、非常に優れた」を意味する 'exceptional' が正解です。"
+        },
+        {
+          "id": "MOCK6-019",
+          "questionText": "_______ a market leader, the company is constantly seeking to innovate and improve.",
+          "options": ["In order to", "As well as", "In spite of", "Instead of"],
+          "correctAnswerIndex": 2,
+          "explanation": "「市場のリーダー『であるにもかかわらず』、その会社は常に革新と改善を求めている」という逆接の文脈です。名詞句 'a market leader' を目的語にとれる前置詞 'In spite of' が正解です。"
+        },
+        {
+          "id": "MOCK6-020",
+          "questionText": "The hotel offers its guests _______ access to the fitness center and swimming pool.",
+          "options": ["compliment", "complimentary", "complemented", "complementing"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞 'access' を修飾するのは形容詞です。「無料の」を意味する 'complimentary' が正解です。"
+        },
+        {
+          "id": "MOCK6-021",
+          "questionText": "_______ of the board of directors has approved the proposed merger.",
+          "options": ["Neither", "Both", "Each", "All"],
+          "correctAnswerIndex": 0,
+          "explanation": "動詞が単数形 'has' であることに注目します。'Both' と 'All' は複数扱い、'Each' は 'of' の後では使えますが、文脈に合いません。「取締役会のメンバーの『どちらも』…ない」という意味の 'Neither of ~' は単数動詞をとるため、正解です。「取締役会のどちらも合併案を承認しなかった」となりますが、この文型はTOEICで頻出します。"
+        },
+        {
+          "id": "MOCK6-022",
+          "questionText": "The CEO's speech was so _______ that it motivated the entire team.",
+          "options": ["inspire", "inspiring", "inspiration", "inspired"],
+          "correctAnswerIndex": 1,
+          "explanation": "'so ... that' 構文の 'so' の後ろには形容詞または副詞が入ります。ここでは、主語 'The CEO's speech' が「人を鼓舞する」ものなので、'inspiring' (人を鼓舞するような、感動的な) が正解です。'inspired' は「鼓舞された」という意味になります。"
+        },
+        {
+          "id": "MOCK6-023",
+          "questionText": "The contract must be signed by an _______ representative of the company.",
+          "options": ["authorize", "authority", "authorization", "authorized"],
+          "correctAnswerIndex": 3,
+          "explanation": "名詞 'representative' を修飾するのは形容詞の働きをする言葉です。ここでは過去分詞が形容詞として使われ、「権限を与えられた」という意味の 'authorized' が正解です。"
+        },
+        {
+          "id": "MOCK6-024",
+          "questionText": "_______ the product has passed all safety tests, it can be launched on the market.",
+          "options": ["Now that", "So that", "Even if", "As though"],
+          "correctAnswerIndex": 0,
+          "explanation": "「その製品はすべての安全性テストに合格した『ので、今や』市場に出すことができる」という理由・背景を示す文脈です。'Now that ~' (今や～なので) が最も適切です。"
+        },
+        {
+          "id": "MOCK6-025",
+          "questionText": "The manager praised her team for their _______ efforts in completing the project on time.",
+          "options": ["diligence", "diligent", "diligently", "dilated"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞 'efforts' を修飾するのは形容詞です。「勤勉な」を意味する 'diligent' が正解です。"
+        },
+        {
+          "id": "MOCK6-026",
+          "questionText": "Hardly _______ the presentation when the fire alarm went off.",
+          "options": ["had he begun", "he had begun", "did he begin", "he began"],
+          "correctAnswerIndex": 0,
+          "explanation": "否定的な意味を持つ副詞 'Hardly' が文頭に来ると倒置が起こります。'Hardly ... when ~' (…するとすぐに～) の構文では、主節は過去完了形 'had + 過去分詞' の倒置形 'had + 主語 + 過去分詞' となります。"
+        },
+        {
+          "id": "MOCK6-027",
+          "questionText": "The new regulations are _______ to all departments without exception.",
+          "options": ["applicable", "applied", "applicant", "application"],
+          "correctAnswerIndex": 0,
+          "explanation": "be動詞 'are' の後の補語として形容詞が必要です。「適用可能な、当てはまる」を意味する 'applicable' が正解です。'be applicable to ~' は「～に適用される」という頻出表現です。"
+        },
+        {
+          "id": "MOCK6-028",
+          "questionText": "The primary ------- of the research is to identify trends in consumer behavior.",
+          "options": ["objective", "objection", "objectify", "objectively"],
+          "correctAnswerIndex": 0,
+          "explanation": "形容詞 'primary' の後には名詞が必要です。文脈から「その研究の主な『目的』は…」となるため、「目的」を意味する名詞 'objective' が正解です。"
+        },
+        {
+          "id": "MOCK6-029",
+          "questionText": "The new system allows employees to access company data ------- from any location.",
+          "options": ["secure", "securely", "security", "secured"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞 'access' を修飾するのは副詞です。「安全に」を意味する 'securely' が正解です。"
+        },
+        {
+          "id": "MOCK6-030",
+          "questionText": "------- their outstanding performance, the sales team received a special bonus.",
+          "options": ["In addition to", "As opposed to", "In recognition of", "With regard to"],
+          "correctAnswerIndex": 2,
+          "explanation": "'In recognition of ~' は「～を認めて、～に報いて」という意味の前置詞句です。「彼らの傑出した業績を認めて」という文脈に最も合います。"
+        }
+      ]
+    }
+  ]
+}

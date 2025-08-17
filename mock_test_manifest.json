@@ -1,0 +1,202 @@
+[
+  {
+    "setId": "MOCK_TEST_WEEK_1",
+    "setName": "第1回 Part5 模試",
+    "fileName": "mock_test_set_1.json",
+    "description": "標準的な難易度の問題で、現在の実力を正確に測定します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": false,
+    "prerequisiteSetId": null
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_2",
+    "setName": "第2回 Part5 模試",
+    "fileName": "mock_test_set_2.json",
+    "description": "紛らわしい選択肢や、ひっかけ問題に特化して対策します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_1"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_3",
+    "setName": "第3回 Part5 模試",
+    "fileName": "mock_test_set_3.json",
+    "description": "TOEIC上級者でも間違えやすい、難易度の高い語彙・文法問題集です。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_2"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_4",
+    "setName": "第4回 Part5 模試",
+    "fileName": "mock_test_set_4.json",
+    "description": "TOEIC頻出のコロケーションや定型表現を中心に学習します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_3"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_5",
+    "setName": "第5回 Part5 模試",
+    "fileName": "mock_test_set_5.json",
+    "description": "品詞問題に特化し、文構造を素早く見抜く力を養います。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_4"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_6",
+    "setName": "第6回 Part5 模試",
+    "fileName": "mock_test_set_6.json",
+    "description": "標準的な難易度の問題で、基礎力の定着を確認します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_5"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_7",
+    "setName": "第7回 Part5 模試",
+    "fileName": "mock_test_set_7.json",
+    "description": "紛らわしい語彙問題を中心に、文脈判断能力を鍛えます。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_6"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_8",
+    "setName": "第8回 Part5 模試",
+    "fileName": "mock_test_set_8.json",
+    "description": "ビジネスシーンで多用される語彙・表現を重点的に学習します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_7"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_9",
+    "setName": "第9回 Part5 模試",
+    "fileName": "mock_test_set_9.json",
+    "description": "やや難易度の高い文法問題（倒置・仮定法など）を攻略します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_8"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_10",
+    "setName": "第10回 Part5 模試",
+    "fileName": "mock_test_set_10.json",
+    "description": "TOEIC上級者レベルの語彙問題に挑戦し、語彙力を強化します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_9"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_11",
+    "setName": "第11回 Part5 模試",
+    "fileName": "mock_test_set_11.json",
+    "description": "文脈が鍵となる語彙問題に焦点を当て、読解の精度を高めます。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_10"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_12",
+    "setName": "第12回 Part5 模試",
+    "fileName": "mock_test_set_12.json",
+    "description": "前置詞との組み合わせ（コロケーション）を問う問題を集中的に解きます。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_11"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_13",
+    "setName": "第13回 Part5 模試",
+    "fileName": "mock_test_set_13.json",
+    "description": "複数の選択肢が文法的に成立しうる、高度な文脈判断問題に特化します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_12"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_14",
+    "setName": "第14回 Part5 模試",
+    "fileName": "mock_test_set_14.json",
+    "description": "TOEIC頻出のビジネス語彙を、実践的な文脈の中で確認します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_13"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_15",
+    "setName": "第15回 Part5 模試",
+    "fileName": "mock_test_set_15.json",
+    "description": "標準からやや難レベルの問題をバランス良く配置した総合演習です。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_14"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_16",
+    "setName": "第16回 Part5 模試",
+    "fileName": "mock_test_set_16.json",
+    "description": "架空の企業名や人名を多用し、よりリアルなビジネス文書に近い問題に挑戦します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_15"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_17",
+    "setName": "第17回 Part5 模試",
+    "fileName": "mock_test_set_17.json",
+    "description": "高難易度語彙と、そのニュアンスを問う問題で語彙力の総仕上げをします。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_16"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_18",
+    "setName": "第18回 Part5 模試",
+    "fileName": "mock_test_set_18.json",
+    "description": "複雑な文構造や、トリッキーな文法ポイントを含む問題を中心に対策します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_17"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_19",
+    "setName": "第19回 Part5 模試",
+    "fileName": "mock_test_set_19.json",
+    "description": "様々なタイプの問題をミックスし、本番さながらの時間配分で実戦力を養います。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_18"
+  },
+  {
+    "setId": "MOCK_TEST_WEEK_20",
+    "setName": "第20回 Part5 模試",
+    "fileName": "mock_test_set_20.json",
+    "description": "総仕上げとして、900点以上を目指すための最高難易度の問題に挑戦します。",
+    "questionCount": 30,
+    "estimatedTimeMinutes": 15,
+    "isLocked": true,
+    "prerequisiteSetId": "MOCK_TEST_WEEK_19"
+  }
+]

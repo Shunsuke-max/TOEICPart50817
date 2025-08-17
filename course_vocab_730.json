@@ -1,0 +1,1774 @@
+{
+  "quizSets": [
+    {
+      "setId": "VOCAB_730_SET_1",
+      "setName": "必須単語 Vol. 1",
+      "order": 1,
+      "questions": [
+        {
+          "id": "VOCAB-730-001",
+          "questionText": "The management team has decided to ------- the new marketing strategy starting next quarter.",
+          "options": ["compliment", "implement", "supplement", "increment"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「新しいマーケティング戦略を〜する」という文脈に合うのは、「（計画・方針などを）実行する、導入する」という意味の (B) 'implement' です。\n【不正解の選択肢】\nA) compliment: 褒める\nC) supplement: 補う\nD) increment: 増加",
+          "word": "implement",
+          "meaning": "【動】(計画・政策・約束などを)実行する, 履行する\n【名】道具, 器具",
+          "exampleSentence": "The company needs to purchase new farming implements.",
+          "exampleSentenceTranslation": "その会社は新しい農具を購入する必要がある。",
+          "relatedExpressions": [
+            "implementation (名: 実行、履行)",
+            "implement a plan (計画を実行する)",
+            "implement a policy (方針を実行する)",
+            "implement changes (変更を実施する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-002",
+          "questionText": "Employees who have worked for the company for more than three years are ------- for the promotion.",
+          "options": ["legible", "reliable", "eligible", "edible"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'be ... for ~' の形で「〜の資格がある」という意味になるのは (C) 'eligible' です。'be eligible for' は頻出表現です。\n【不正解の選択肢】\nA) legible: (文字が)読みやすい\nB) reliable: 信頼できる\nD) edible: 食用の",
+          "word": "eligible",
+          "meaning": "【形】(〜の)資格がある, 適格である (for / to do)",
+          "exampleSentence": "You must be over 18 to be eligible to vote.",
+          "exampleSentenceTranslation": "投票する資格を得るには、18歳以上でなければなりません。",
+          "relatedExpressions": [
+            "eligibility (名: 資格、適格性)",
+            "be eligible for (~の資格がある)",
+            "be eligible to do (~する資格がある)",
+            "an eligible candidate (適格な候補者)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-003",
+          "questionText": "Our purchasing department is trying to ------- a better price with the supplier.",
+          "options": ["navigate", "hesitate", "investigate", "negotiate"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「供給業者とより良い価格を〜しようとしている」という文脈に合うのは、「交渉する」という意味の (D) 'negotiate' です。\n【不正解の選択肢】\nA) navigate: 操縦する\nB) hesitate: ためらう\nC) investigate: 調査する",
+          "word": "negotiate",
+          "meaning": "【動】(〜と)交渉する (with)",
+          "exampleSentence": "The two countries are negotiating a new trade agreement.",
+          "exampleSentenceTranslation": "両国は新しい貿易協定を交渉している。",
+          "relatedExpressions": [
+            "negotiation (名: 交渉)",
+            "negotiator (名: 交渉人)",
+            "negotiable (形: 交渉の余地がある)",
+            "negotiate a contract (契約を交渉する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-004",
+          "questionText": "The company's total ------- saw a significant increase due to the success of its new product.",
+          "options": ["avenue", "review", "revenue", "venue"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「会社の総〜が大幅に増加した」という文脈で、「収益、歳入」を意味する (C) 'revenue' が正解です。\n【不正解の選択肢】\nA) avenue: 大通り\nB) review: 再検討、批評\nD) venue: 会場",
+          "word": "revenue",
+          "meaning": "【名】(企業・国家などの)収益, 歳入 (通例、不可算)",
+          "exampleSentence": "The government generates revenue from taxes.",
+          "exampleSentenceTranslation": "政府は税金から歳入を得ている。",
+          "relatedExpressions": [
+            "income (個人の収入)",
+            "profit (利益)",
+            "annual revenue (年間収益)",
+            "generate revenue (収益を生む)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-005",
+          "questionText": "The corporation announced its plan to ------- a smaller competitor.",
+          "options": ["require", "inquire", "acquire", "retire"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「より小さな競合他社を〜する計画」という文脈で、「買収する、獲得する」を意味する (C) 'acquire' が正解です。\n【不正解の選択肢】\nA) require: 必要とする\nB) inquire: 尋ねる\nD) retire: 退職する",
+          "word": "acquire",
+          "meaning": "【動】\n1. (会社などを)買収する\n2. (知識・スキルなどを)習得する, 得る",
+          "exampleSentence": "He acquired a reputation for being a tough negotiator.",
+          "exampleSentenceTranslation": "彼は手ごわい交渉人としての評判を得た。",
+          "relatedExpressions": [
+            "acquisition (名: 買収、習得)",
+            "acquire a company (会社を買収する)",
+            "acquire knowledge (知識を得る)",
+            "mergers and acquisitions (M&A)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-006",
+          "questionText": "There has been a ------- improvement in our production efficiency.",
+          "options": ["signature", "signify", "significantly", "significant"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】名詞 'improvement' (改善) を修飾するのは形容詞です。「著しい、かなりの」という意味の形容詞 (D) 'significant' が正解です。\n【不正解の選択肢】\nA) signature: (名) 署名\nB) signify: (動) 意味する\nC) significantly: (副) 著しく",
+          "word": "significant",
+          "meaning": "【形】\n1. 著しい, かなりの\n2. 重要な, 意味のある",
+          "exampleSentence": "The discovery of penicillin was a significant moment in medical history.",
+          "exampleSentenceTranslation": "ペニシリンの発見は、医学史における重要な瞬間だった。",
+          "relatedExpressions": [
+            "significance (名: 重要性)",
+            "significantly (副: 著しく)",
+            "a significant amount (かなりの量)",
+            "a significant increase (著しい増加)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-007",
+          "questionText": "Please check the attached ------- for the detailed schedule of your business trip.",
+          "options": ["inventory", "directory", "itinerary", "summary"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「出張の詳細なスケジュール」として最も適切なのは、「旅行日程表」を意味する (C) 'itinerary' です。\n【不正解の選択肢】\nA) inventory: 在庫\nB) directory: 名簿、住所録\nD) summary: 要約",
+          "word": "itinerary",
+          "meaning": "【名】旅行日程表, 旅程",
+          "exampleSentence": "Our itinerary includes a visit to the Louvre and a boat tour on the Seine.",
+          "exampleSentenceTranslation": "私たちの旅程には、ルーブル美術館への訪問とセーヌ川でのボートツアーが含まれています。",
+          "relatedExpressions": [
+            "travel itinerary (旅行日程表)",
+            "plan an itinerary (旅程を計画する)",
+            "detailed itinerary (詳細な日程表)",
+            "a packed itinerary (ぎっしり詰まった日程)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-008",
+          "questionText": "We have taken extra measures to ------- the safety of our online payment system.",
+          "options": ["insure", "assure", "ensure", "censure"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「オンライン決済システムの安全性を〜する」という文脈で、「確実にする、保証する」を意味する (C) 'ensure' が正解です。\n【不正解の選択肢】\nA) insure: (物に)保険をかける\nB) assure: (人を)安心させる\nD) censure: 非難する",
+          "word": "ensure",
+          "meaning": "【動】(物事を)確実にする, 保証する",
+          "exampleSentence": "Please ensure that all doors are locked before you leave.",
+          "exampleSentenceTranslation": "出かける前に、すべてのドアが施錠されていることを確実にしてください。",
+          "relatedExpressions": [
+            "assure (動: (人を)安心させる)",
+            "insure (動: 保険をかける)",
+
+            "ensure that... (...ということを確実にする)",
+            "ensure quality (品質を保証する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-009",
+          "questionText": "The company will ------- you for all travel expenses upon submission of receipts.",
+          "options": ["reverse", "reimburse", "rehearse", "relish"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「出張経費をあなたに〜する」という文脈で、「払い戻す、返済する」を意味する (B) 'reimburse' が正解です。\n【不正解の選択肢】\nA) reverse: 逆にする\nC) rehearse: リハーサルをする\nD) relish: 楽しむ",
+          "word": "reimburse",
+          "meaning": "【動】(経費などを人に)払い戻す, 返済する",
+          "exampleSentence": "You will be reimbursed for any costs incurred during the trip.",
+          "exampleSentenceTranslation": "旅行中に発生した費用はすべて払い戻されます。",
+          "relatedExpressions": [
+            "reimbursement (名: 払い戻し)",
+            "reimburse expenses (経費を払い戻す)",
+            "reimbursement form (経費精算書)",
+            "fully reimburse (全額払い戻す)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-010",
+          "questionText": "A good manager knows how to ------- tasks to team members effectively.",
+          "options": ["dedicate", "delicate", "delegate", "delete"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「チームメンバーにタスクを〜する方法」という文脈で、「委任する、任せる」を意味する (C) 'delegate' が正解です。\n【不正解の選択肢】\nA) dedicate: 捧げる\nB) delicate: 繊細な\nD) delete: 削除する",
+          "word": "delegate",
+          "meaning": "【動】(仕事・権限などを)委任する\n【名】代表(団), 代理人",
+          "exampleSentence": "The company sent a delegate to the international conference.",
+          "exampleSentenceTranslation": "その会社は国際会議に代表者を送った。",
+          "relatedExpressions": [
+            "delegation (名: 委任、代表団)",
+            "delegate authority (権限を委任する)",
+            "delegate responsibility (責任を委任する)",
+            "a delegate to the conference (会議への代表)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_2",
+      "setName": "必須単語 Vol. 2",
+      "order": 2,
+      "questions": [
+        {
+          "id": "VOCAB-730-011",
+          "questionText": "The report provides a ------- analysis of the current market trends.",
+          "options": ["comprehensible", "comprehensive", "compressive", "compulsive"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】名詞 'analysis' (分析) を修飾し、「包括的な、総合的な」という意味になるのは (B) 'comprehensive' です。\n【不正解の選択肢】\nA) comprehensible: 理解できる\nC) compressive: 圧縮の\nD) compulsive: 強制的な",
+          "word": "comprehensive",
+          "meaning": "【形】包括的な, 総合的な, 広範囲にわたる",
+          "exampleSentence": "The company offers a comprehensive benefits package to its employees.",
+          "exampleSentenceTranslation": "その会社は従業員に包括的な福利厚生パッケージを提供している。",
+          "relatedExpressions": [
+            "comprehend (動: 理解する)",
+            "comprehension (名: 理解)",
+            "a comprehensive review (包括的な見直し)",
+            "comprehensive insurance (総合保険)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-012",
+          "questionText": "The committee will ------- funds for the new research and development project.",
+          "options": ["relocate", "dislocate", "allocate", "collocate"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「新しい研究開発プロジェクトに資金を〜する」という文脈に合うのは、「割り当てる、配分する」を意味する (C) 'allocate' です。\n【不正解の選択肢】\nA) relocate: 移転させる\nB) dislocate: 脱臼させる\nD) collocate: 並べる",
+          "word": "allocate",
+          "meaning": "【動】(資金・資源などを)割り当てる, 配分する",
+          "exampleSentence": "The government has allocated millions of dollars for the new highway project.",
+          "exampleSentenceTranslation": "政府は新しい高速道路プロジェクトに数百万ドルを割り当てた。",
+          "relatedExpressions": [
+            "allocation (名: 割り当て)",
+            "allocate resources (資源を割り当てる)",
+            "allocate a budget (予算を割り当てる)",
+            "allocate tasks (仕事を割り当てる)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-013",
+          "questionText": "The initial meeting was successful, and ------- discussions are scheduled for next week.",
+          "options": ["consequent", "frequent", "subsequent", "eloquent"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「最初の会議に続く〜議論」という文脈で、「その後の」を意味する (C) 'subsequent' が正解です。\n【不正解の選択肢】\nA) consequent: 結果として生じる\nB) frequent: 頻繁な\nD) eloquent: 雄弁な",
+          "word": "subsequent",
+          "meaning": "【形】その後の, それに続く",
+          "exampleSentence": "Subsequent events proved that he was right.",
+          "exampleSentenceTranslation": "その後の出来事は、彼が正しかったことを証明した。",
+          "relatedExpressions": [
+            "subsequently (副: その後)",
+            "subsequent to (~の後に)",
+            "in subsequent years (その後の数年間で)",
+            "a subsequent report (その後の報告書)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-014",
+          "questionText": "We may need to ------- the original design to meet the client's new requirements.",
+          "options": ["magnify", "certify", "notify", "modify"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「元のデザインを〜する必要があるかもしれない」という文脈で、「修正する、変更する」を意味する (D) 'modify' が正解です。\n【不正解の選択肢】\nA) magnify: 拡大する\nB) certify: 証明する\nC) notify: 通知する",
+          "word": "modify",
+          "meaning": "【動】(部分的に)〜を修正する, 変更する",
+          "exampleSentence": "The building was heavily modified in the 19th century.",
+          "exampleSentenceTranslation": "その建物は19世紀に大幅に改造された。",
+          "relatedExpressions": [
+            "modification (名: 修正)",
+            "modify a plan (計画を修正する)",
+            "modify a design (デザインを修正する)",
+            "genetically modified (遺伝子組み換えの)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-015",
+          "questionText": "Please ------- the color and size of the T-shirt you would like to order.",
+          "options": ["pacify", "specify", "testify", "classify"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「Tシャツの色とサイズを〜してください」という依頼の文脈で、「明確に述べる、指定する」を意味する (B) 'specify' が正解です。\n【不正解の選択肢】\nA) pacify: なだめる\nC) testify: 証言する\nD) classify: 分類する",
+          "word": "specify",
+          "meaning": "【動】〜を明確に述べる, 具体的に指定する",
+          "exampleSentence": "The contract specifies that the work must be completed by June.",
+          "exampleSentenceTranslation": "契約書には、作業を6月までに完了しなければならないと明記されている。",
+          "relatedExpressions": [
+            "specific (形: 具体的な)",
+            "specification (名: 仕様書)",
+            "specify the details (詳細を明記する)",
+            "unless otherwise specified (特に指定がない限り)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-016",
+          "questionText": "The company policy strictly ------- the use of personal devices for work purposes.",
+          "options": ["inhibits", "exhibits", "rehabilitates", "prohibits"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「個人用デバイスの使用を厳しく〜する」という文脈で、「禁止する」を意味する (D) 'prohibits' が正解です。主語が三人称単数なので-sが付きます。\n【不正解の選択肢】\nA) inhibits: 抑制する\nB) exhibits: 展示する\nC) rehabilitates: 更生させる",
+          "word": "prohibit",
+          "meaning": "【動】(法律・規則によって)〜を禁止する",
+          "exampleSentence": "Smoking is strictly prohibited inside the building.",
+          "exampleSentenceTranslation": "建物内での喫煙は固く禁じられています。",
+          "relatedExpressions": [
+            "prohibition (名: 禁止)",
+            "prohibit A from doing B (AがBするのを禁じる)",
+            "strictly prohibited (厳しく禁止されている)",
+            "forbid (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-017",
+          "questionText": "Before processing the transaction, we need to ------- your identity.",
+          "options": ["clarify", "satisfy", "verify", "justify"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「取引を処理する前に、あなたの身元を〜する必要がある」という文脈で、「確認する、証明する」を意味する (C) 'verify' が正解です。\n【不正解の選択肢】\nA) clarify: 明確にする\nB) satisfy: 満足させる\nD) justify: 正当化する",
+          "word": "verify",
+          "meaning": "【動】〜が正しいと確認する, 立証する",
+          "exampleSentence": "Please verify that your name and address are correct.",
+          "exampleSentenceTranslation": "あなたの名前と住所が正しいことを確認してください。",
+          "relatedExpressions": [
+            "verification (名: 確認、証明)",
+            "verify an account (アカウントを確認する)",
+            "verify information (情報を確認する)",
+            "identity verification (本人確認)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-018",
+          "questionText": "As a safety -------, all visitors are required to wear a hard hat in the construction area.",
+          "options": ["precaution", "prediction", "preface", "precedence"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】'safety ...' の形で「安全対策」という複合名詞になるのは、「予防策、用心」を意味する (A) 'precaution' です。\n【不正解の選択肢】\nB) prediction: 予測\nC) preface: 序文\nD) precedence: 優先",
+          "word": "precaution",
+          "meaning": "【名】予防策, 用心",
+          "exampleSentence": "It is wise to take precautions against fire.",
+          "exampleSentenceTranslation": "火事に対する予防策を講じることは賢明だ。",
+          "relatedExpressions": [
+            "take precautions (予防策を講じる)",
+            "a safety precaution (安全対策)",
+            "as a precaution (念のため、予防策として)",
+            "precautionary (形: 予防の)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-019",
+          "questionText": "The new factory has a production ------- of 10,000 units per day.",
+          "options": ["velocity", "quality", "facility", "capacity"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】'production ...' の形で「生産能力」という複合名詞になるのは、「収容能力、生産能力」を意味する (D) 'capacity' です。\n【不正解の選択肢】\nA) velocity: 速度\nB) quality: 品質\nC) facility: 施設",
+          "word": "capacity",
+          "meaning": "【名】\n1. (生産)能力\n2. 収容能力\n3. (〜する)能力, 才能 (for / to do)",
+          "exampleSentence": "She has a great capacity for learning languages.",
+          "exampleSentenceTranslation": "彼女には語学を学ぶ素晴らしい才能がある。",
+          "relatedExpressions": [
+            "seating capacity (座席収容能力)",
+            "production capacity (生産能力)",
+            "at full capacity (フル稼働で)",
+            "work in a professional capacity (専門家として働く)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-020",
+          "questionText": "Our customer service team is trained to ------- any issues promptly.",
+          "options": ["dissolve", "involve", "revolve", "resolve"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「どんな問題も迅速に〜するよう訓練されている」という文脈で、「解決する」を意味する (D) 'resolve' が正解です。\n【不正解の選択肢】\nA) dissolve: 溶かす\nB) involve: 含む\nC) revolve: 回転する",
+          "word": "resolve",
+          "meaning": "【動】\n1. (問題などを)解決する\n2. (〜することを)決意する (to do)\n【名】決意",
+          "exampleSentence": "He resolved to quit smoking.",
+          "exampleSentenceTranslation": "彼は禁煙することを固く決意した。",
+          "relatedExpressions": [
+            "resolution (名: 解決、決意)",
+            "resolve a problem (問題を解決する)",
+            "resolve a conflict (紛争を解決する)",
+            "conflict resolution (紛争解決)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_3",
+      "setName": "必須単語 Vol. 3",
+      "order": 3,
+      "questions": [
+        {
+          "id": "VOCAB-730-021",
+          "questionText": "The audit will check for ------- with industry safety standards.",
+          "options": ["compliment", "appliance", "reliance", "compliance"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】'check for ... with ~' の形で「〜の遵守（状況）を確認する」という意味になるのは、「遵守」を意味する (D) 'compliance' です。\n【不正解の選択肢】\nA) compliment: 賛辞\nB) appliance: 電化製品\nC) reliance: 依存",
+          "word": "compliance",
+          "meaning": "【名】(法律・規則などの)遵守, 準拠",
+          "exampleSentence": "The company is in full compliance with all environmental regulations.",
+          "exampleSentenceTranslation": "その会社はすべての環境規制を完全に遵守している。",
+          "relatedExpressions": [
+            "comply (with) (動: 〜に従う)",
+            "in compliance with (~を遵守して)",
+            "ensure compliance (遵守を確実にする)",
+            "compliance officer (コンプライアンス担当役員)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-022",
+          "questionText": "The company will ------- the cost of the uniform from your first paycheck.",
+          "options": ["conduct", "deduct", "induct", "deduce"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「最初の給料から制服代を〜する」という文脈で、「差し引く、控除する」を意味する (B) 'deduct' が正解です。\n【不正解の選択肢】\nA) conduct: 行う\nC) induct: 就任させる\nD) deduce: 推論する",
+          "word": "deduct",
+          "meaning": "【動】(金額などを)差し引く, 控除する",
+          "exampleSentence": "The cost of the damage will be deducted from your deposit.",
+          "exampleSentenceTranslation": "損害の費用はあなたの保証金から差し引かれます。",
+          "relatedExpressions": [
+            "deduction (名: 控除)",
+            "deductible (形: 控除できる / 名: (保険の)免責金額)",
+            "deduct from (~から差し引く)",
+            "tax deduction (税金控除)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-023",
+          "questionText": "We apologize for any ------- to your travel plans caused by the flight cancellation.",
+          "options": ["corruption", "eruption", "disruption", "interruption"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「フライト欠航による旅の予定の〜」という文脈で、最も大きな「混乱、妨害」を意味する (C) 'disruption' が最適です。'interruption'は一時的な中断を指します。\n【不正解の選択肢】\nA) corruption: 腐敗、汚職\nB) eruption: 噴火",
+          "word": "disruption",
+          "meaning": "【名】混乱, 中断, 妨害",
+          "exampleSentence": "The strike caused a major disruption to rail services.",
+          "exampleSentenceTranslation": "そのストライキは鉄道サービスに大きな混乱を引き起こした。",
+          "relatedExpressions": [
+            "disrupt (動: 混乱させる)",
+            "disruptive (形: 破壊的な)",
+            "service disruption (サービスの中断)",
+            "supply chain disruption (供給網の混乱)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-024",
+          "questionText": "We are looking for ways to ------- the user experience on our website.",
+          "options": ["enforce", "endorse", "enhance", "enlarge"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「ウェブサイトでのユーザー体験を〜する方法」という文脈で、「高める、向上させる」を意味する (C) 'enhance' が正解です。\n【不正解の選択肢】\nA) enforce: (法律などを)施行する\nB) endorse: 支持する、推薦する\nD) enlarge: 拡大する",
+          "word": "enhance",
+          "meaning": "【動】(価値・質・魅力などを)高める, 向上させる",
+          "exampleSentence": "The new lighting will enhance the beauty of the artwork.",
+          "exampleSentenceTranslation": "新しい照明はその芸術作品の美しさを高めるだろう。",
+          "relatedExpressions": [
+            "enhancement (名: 向上、強化)",
+            "enhance the quality (品質を高める)",
+            "enhance security (セキュリティを強化する)",
+            "enhance one's reputation (評判を高める)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-025",
+          "questionText": "The new software is designed to ------- better communication among team members.",
+          "options": ["fabricate", "fascinate", "fluctuate", "facilitate"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「より良いコミュニケーションを〜するように設計されている」という文脈で、「容易にする、促進する」を意味する (D) 'facilitate' が正解です。\n【不正解の選択肢】\nA) fabricate: でっち上げる\nB) fascinate: 魅了する\nC) fluctuate: 変動する",
+          "word": "facilitate",
+          "meaning": "【動】〜を容易にする, 促進する",
+          "exampleSentence": "A good teacher can facilitate learning in the classroom.",
+          "exampleSentenceTranslation": "優れた教師は、教室での学習を促進することができる。",
+          "relatedExpressions": [
+            "facility (名: 施設、容易さ)",
+            "facilitator (名: 進行役)",
+            "facilitate growth (成長を促進する)",
+            "facilitate a discussion (議論を促進する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-026",
+          "questionText": "The latest sales figures ------- a strong demand for our new product line.",
+          "options": ["vindicate", "dedicate", "indicate", "syndicate"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「最新の売上高が強い需要を〜する」という文脈で、「示す、指し示す」を意味する (C) 'indicate' が正解です。\n【不正解の選択肢】\nA) vindicate: 正当性を証明する\nB) dedicate: 捧げる\nD) syndicate: 企業組合",
+          "word": "indicate",
+          "meaning": "【動】〜を示す, 指し示す",
+          "exampleSentence": "Dark clouds usually indicate that a storm is coming.",
+          "exampleSentenceTranslation": "黒い雲は通常、嵐が来ることを示している。",
+          "relatedExpressions": [
+            "indication (名: しるし)",
+            "indicator (名: 指標)",
+            "indicate that... (...ということを示す)",
+            "an indication of (~のしるし)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-027",
+          "questionText": "The company is seeking a significant ------- to fund its expansion into Europe.",
+          "options": ["investigation", "invitation", "investment", "involvement"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「ヨーロッパへの拡大資金として、かなりの〜を求めている」という文脈に合うのは、「投資」を意味する (C) 'investment' です。\n【不正解の選択肢】\nA) investigation: 調査\nB) invitation: 招待\nD) involvement: 関与",
+          "word": "investment",
+          "meaning": "【名】投資, 出資",
+          "exampleSentence": "Real estate can be a good long-term investment.",
+          "exampleSentenceTranslation": "不動産は良い長期投資になりうる。",
+          "relatedExpressions": [
+            "invest (動: 投資する)",
+            "investor (名: 投資家)",
+            "return on investment (ROI)",
+            "make an investment (投資をする)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-028",
+          "questionText": "Attendance at the monthly safety meeting is ------- for all factory workers.",
+          "options": ["voluntary", "temporary", "mandatory", "contrary"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「会議への出席が〜である」という文脈で、「義務的な、強制的な」を意味する (C) 'mandatory' が正解です。\n【不正解の選択肢】\nA) voluntary: 任意の\nB) temporary: 一時的な\nD) contrary: 反対の",
+          "word": "mandatory",
+          "meaning": "【形】義務的な, 強制的な",
+          "exampleSentence": "It is mandatory for all employees to complete the safety training.",
+          "exampleSentenceTranslation": "すべての従業員が安全研修を完了することは義務です。",
+          "relatedExpressions": [
+            "mandate (名: 命令、権限 / 動: 命じる)",
+            "compulsory (類義語)",
+            "obligatory (類義語)",
+            "mandatory retirement (定年退職)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-029",
+          "questionText": "The manager asked me to ------- the key points of the proposal in the e-mail.",
+          "options": ["underline", "decline", "inline", "outline"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「提案の要点を〜するように頼まれた」という文脈で、「要点を述べる、概説する」を意味する (D) 'outline' が正解です。\n【不正解の選択肢】\nA) underline: 下線を引く、強調する\nB) decline: 断る、減少する\nC) inline: 一直線に並んだ",
+          "word": "outline",
+          "meaning": "【動】〜の要点を述べる, 概説する\n【名】概要, 輪郭",
+          "exampleSentence": "Can you give me a brief outline of the project?",
+          "exampleSentenceTranslation": "そのプロジェクトの簡単な概要を教えてもらえますか？",
+          "relatedExpressions": [
+            "outline a plan (計画の概要を説明する)",
+            "a brief outline (簡単な概要)",
+            "in outline (概略で)",
+            "an outline of a presentation (プレゼンの概要)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-030",
+          "questionText": "We would appreciate it if you would pay the invoice -------. ",
+          "options": ["properly", "promptly", "proudly", "previously"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「請求書を〜支払っていただけると幸いです」という文脈に合うのは、「迅速に、時間通りに」を意味する (B) 'promptly' です。\n【不正解の選択肢】\nA) properly: 適切に\nC) proudly: 誇らしげに\nD) previously: 以前に",
+          "word": "promptly",
+          "meaning": "【副】迅速に, 時間通りに, きっかりに",
+          "exampleSentence": "The meeting will start promptly at 9 a.m.",
+          "exampleSentenceTranslation": "会議は午前9時ちょうどに始まります。",
+          "relatedExpressions": [
+            "prompt (形: 迅速な)",
+            "reply promptly (迅速に返信する)",
+            "act promptly (迅速に行動する)",
+            "a prompt response (迅速な返答)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_4",
+      "setName": "必須単語 Vol. 4",
+      "order": 4,
+      "questions": [
+        {
+          "id": "VOCAB-730-031",
+          "questionText": "We have requested a ------- from three different catering companies for our annual event.",
+          "options": ["quota", "note", "quote", "vote"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「3つのケータリング会社から〜を依頼した」という文脈で、「見積もり」を意味する (C) 'quote' が正解です。'quotation' とも言います。\n【不正解の選択肢】\nA) quota: 割り当て\nB) note: メモ\nD) vote: 投票",
+          "word": "quote",
+          "meaning": "【名】見積もり, 見積価格\n【動】〜を引用する",
+          "exampleSentence": "The speaker started his presentation by quoting a famous proverb.",
+          "exampleSentenceTranslation": "講演者は有名なことわざを引用してプレゼンテーションを始めた。",
+          "relatedExpressions": [
+            "quotation (名: 見積もり、引用)",
+            "request a quote (見積もりを依頼する)",
+            "get a quote (見積もりを取る)",
+            "price quote (価格見積もり)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-032",
+          "questionText": "The human resources department is planning to ------- more software engineers this year.",
+          "options": ["reduce", "review", "remind", "recruit"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「より多くのソフトウェアエンジニアを〜する計画だ」という文脈に合うのは、「採用する、募集する」を意味する (D) 'recruit' です。\n【不正解の選択肢】\nA) reduce: 減らす\nB) review: 見直す\nC) remind: 思い出させる",
+          "word": "recruit",
+          "meaning": "【動】(人材を)募集する, 採用する\n【名】新入社員, 新兵",
+          "exampleSentence": "The new recruits are undergoing intensive training.",
+          "exampleSentenceTranslation": "新入社員たちは集中的な研修を受けている。",
+          "relatedExpressions": [
+            "recruitment (名: 採用活動)",
+            "recruiter (名: 採用担当者)",
+            "recruit new staff (新しいスタッフを採用する)",
+            "a new recruit (新入社員)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-033",
+          "questionText": "Please make sure that your presentation is ------- to the topic of the conference.",
+          "options": ["reluctant", "reliant", "relevant", "repellent"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'be ... to ~' の形で「〜に関連がある」という意味になるのは、(C) 'relevant' です。\n【不正解の選択肢】\nA) reluctant: 気の進まない\nB) reliant: 依存した\nD) repellent: 寄せ付けないもの",
+          "word": "relevant",
+          "meaning": "【形】(当面の問題に)関連のある, 適切な",
+          "exampleSentence": "Please provide any relevant documents to support your claim.",
+          "exampleSentenceTranslation": "あなたの主張を裏付ける関連書類をすべて提出してください。",
+          "relatedExpressions": [
+            "relevance (名: 関連性)",
+            "irrelevant (対: 無関係な)",
+            "relevant information (関連情報)",
+            "highly relevant (非常に関連性が高い)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-034",
+          "questionText": "Due to a ------- of skilled labor, the construction project has been delayed.",
+          "options": ["storage", "shortage", "mileage", "coverage"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】'a ... of ~' の形で「〜の不足」という意味になるのは、(B) 'shortage' です。\n【不正解の選択肢】\nA) storage: 保管\nC) mileage: 走行距離\nD) coverage: 補償範囲",
+          "word": "shortage",
+          "meaning": "【名】不足, 欠乏",
+          "exampleSentence": "There is a severe shortage of water in the region.",
+          "exampleSentenceTranslation": "その地域では深刻な水不足が起きている。",
+          "relatedExpressions": [
+            "a shortage of (~の不足)",
+            "labor shortage (労働力不足)",
+            "food shortage (食糧不足)",
+            "water shortage (水不足)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-035",
+          "questionText": "All applications must be ------- online by the deadline of April 30.",
+          "options": ["permitted", "omitted", "admitted", "submitted"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「全ての申請書は〜されなければならない」という受け身の文脈で、「提出される」を意味する (D) 'submitted' が正解です。'submit' の過去分詞形です。\n【不正解の選択肢】\nA) permitted: 許可された\nB) omitted: 省略された\nC) admitted: 認められた",
+          "word": "submit",
+          "meaning": "【動】(書類・申請などを)提出する",
+          "exampleSentence": "Please submit your resume by the end of the week.",
+          "exampleSentenceTranslation": "週末までに履歴書を提出してください。",
+          "relatedExpressions": [
+            "submission (名: 提出)",
+            "submit a report (報告書を提出する)",
+            "submit a proposal (提案書を提出する)",
+            "submit an application (申請書を提出する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-036",
+          "questionText": "The company has the right to ------- the contract if the terms are not met.",
+          "options": ["dominate", "germinate", "terminate", "illuminate"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「契約を〜する権利」という文脈で、「終わらせる、終了させる」を意味する (C) 'terminate' が正解です。\n【不正解の選択肢】\nA) dominate: 支配する\nB) germinate: 発芽する\nD) illuminate: 照らす",
+          "word": "terminate",
+          "meaning": "【動】〜を終わらせる, 終了させる",
+          "exampleSentence": "This train terminates at the next station.",
+          "exampleSentenceTranslation": "この電車は次の駅が終点です。",
+          "relatedExpressions": [
+            "termination (名: 終了)",
+            "terminate a contract (契約を終了させる)",
+            "terminate an agreement (合意を終了させる)",
+            "terminate employment (雇用を終了させる)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-037",
+          "questionText": "The old city hall will ------- extensive renovations next year.",
+          "options": ["undergo", "undermine", "undertake", "understand"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「大規模な改修を〜する」という文脈で、「(変化・修理などを)経験する、受ける」を意味する (A) 'undergo' が正解です。\n【不正解の選択肢】\nB) undermine: 弱体化させる\nC) undertake: 引き受ける\nD) understand: 理解する",
+          "word": "undergo",
+          "meaning": "【動】(変化・検査・修理などを)経験する, 受ける",
+          "exampleSentence": "The patient had to undergo major surgery.",
+          "exampleSentenceTranslation": "その患者は大きな手術を受けなければならなかった。",
+          "relatedExpressions": [
+            "undergo surgery (手術を受ける)",
+            "undergo changes (変化を経験する)",
+            "undergo inspection (検査を受ける)",
+            "undergo training (訓練を受ける)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-038",
+          "questionText": "We should ------- our resources more efficiently to reduce costs.",
+          "options": ["realize", "summarize", "utilize", "visualize"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「資源をより効率的に〜すべきだ」という文脈で、「利用する、活用する」を意味する (C) 'utilize' が正解です。'use' よりフォーマルな語です。\n【不正解の選択肢】\nA) realize: 気づく、実現する\nB) summarize: 要約する\nD) visualize: 視覚化する",
+          "word": "utilize",
+          "meaning": "【動】(効果的に)〜を利用する, 活用する",
+          "exampleSentence": "The new system will help us utilize our time more effectively.",
+          "exampleSentenceTranslation": "新しいシステムは、私たちが時間をより効果的に活用するのに役立つでしょう。",
+          "relatedExpressions": [
+            "utilization (名: 利用)",
+            "utility (名: 公共料金、有用性)",
+            "utilize technology (技術を活用する)",
+            "fully utilize (最大限に活用する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-039",
+          "questionText": "The bank has agreed to ------- the late payment fee for this month.",
+          "options": ["wave", "weave", "waive", "weigh"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「延滞料金を〜することに同意した」という文脈で、「(権利などを)放棄する、免除する」を意味する (C) 'waive' が正解です。選択肢は類音語です。\n【不正解の選択肢】\nA) wave: 波、振る\nB) weave: 織る\nD) weigh: 重さを量る",
+          "word": "waive",
+          "meaning": "【動】(権利・要求などを)放棄する, 免除する",
+          "exampleSentence": "He decided to waive his right to a lawyer.",
+          "exampleSentenceTranslation": "彼は弁護士を立てる権利を放棄することに決めた。",
+          "relatedExpressions": [
+            "waiver (名: 権利放棄、免除)",
+            "waive a fee (料金を免除する)",
+            "waive a right (権利を放棄する)",
+            "waive a claim (請求を放棄する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-040",
+          "questionText": "Our investment in the new technology is expected to ------- high returns.",
+          "options": ["wield", "shield", "yield", "field"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「高いリターンを〜することが期待されている」という文脈で、「(利益などを)生む、産出する」を意味する (C) 'yield' が正解です。\n【不正解の選択肢】\nA) wield: (権力などを)振るう\nB) shield: 盾、守る\nD) field: 野原、分野",
+          "word": "yield",
+          "meaning": "【動】\n1. (利益・結果などを)生む, 産出する\n2. (〜に)屈する, 譲る (to)\n【名】産出量, 収穫高",
+          "exampleSentence": "The driver refused to yield to the pedestrian.",
+          "exampleSentenceTranslation": "その運転手は歩行者に道を譲ることを拒否した。",
+          "relatedExpressions": [
+            "yield results (結果を生む)",
+            "a high yield (高い利回り)",
+            "yield to pressure (圧力に屈する)",
+            "crop yield (作物の収穫高)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_5",
+      "setName": "必須単語 Vol. 5",
+      "order": 5,
+      "questions": [
+        {
+          "id": "VOCAB-730-041",
+          "questionText": "We ------- that the project will be completed ahead of schedule.",
+          "options": ["participate", "anticipate", "emancipate", "hesitate"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「プロジェクトが予定より早く完了することを〜する」という文脈で、「予期する、見込む」を意味する (B) 'anticipate' が正解です。\n【不正解の選択肢】\nA) participate: 参加する\nC) emancipate: 解放する\nD) hesitate: ためらう",
+          "word": "anticipate",
+          "meaning": "【動】〜を予期する, 予測する, 見込む",
+          "exampleSentence": "It is impossible to anticipate every possible problem.",
+          "exampleSentenceTranslation": "起こりうるすべての問題を予期することは不可能だ。",
+          "relatedExpressions": [
+            "anticipation (名: 予期、期待)",
+            "anticipate problems (問題を予期する)",
+            "highly anticipated (大いに期待されている)",
+            "in anticipation of (~を見越して)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-042",
+          "questionText": "The CEO gave his ------- that no employees would be laid off during the merger.",
+          "options": ["insurance", "endurance", "assurance", "issuance"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「CEOが従業員を解雇しないという〜を与えた」という文脈に合うのは、「保証、確約」を意味する (C) 'assurance' です。\n【不正解の選択肢】\nA) insurance: 保険\nB) endurance: 忍耐\nD) issuance: 発行",
+          "word": "assurance",
+          "meaning": "【名】保証, 確約, 自信",
+          "exampleSentence": "He spoke with quiet assurance about his plans for the future.",
+          "exampleSentenceTranslation": "彼は将来の計画について、静かな自信を持って話した。",
+          "relatedExpressions": [
+            "assure (動: 保証する、安心させる)",
+            "give assurance (保証する)",
+            "with assurance (自信を持って)",
+            "quality assurance (品質保証)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-043",
+          "questionText": "This project was a successful ------- between the marketing and R&D departments.",
+          "options": ["elaboration", "corroboration", "collaboration", "calibration"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「マーケティング部と研究開発部の間の成功した〜」という文脈に合うのは、「協力、共同作業」を意味する (C) 'collaboration' です。\n【不正解の選択肢】\nA) elaboration: 念入りに作ること\nB) corroboration: 裏付け\nD) calibration: 調整",
+          "word": "collaboration",
+          "meaning": "【名】協力, 共同作業",
+          "exampleSentence": "The two artists worked in close collaboration on the project.",
+          "exampleSentenceTranslation": "二人の芸術家はそのプロジェクトで緊密に協力して作業した。",
+          "relatedExpressions": [
+            "collaborate (動: 協力する)",
+            "collaborative (形: 協力的な)",
+            "in collaboration with (~と協力して)",
+            "a successful collaboration (成功した共同作業)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-044",
+          "questionText": "All ------- with our clients should be handled in a professional manner.",
+          "options": ["conference", "correspondence", "coincidence", "consequence"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「クライアントとのすべての〜は専門的に扱われるべきだ」という文脈に合うのは、「(文書での)やりとり、通信」を意味する (B) 'correspondence' です。不可算名詞です。\n【不正解の選択肢】\nA) conference: 会議\nC) coincidence: 偶然の一致\nD) consequence: 結果",
+          "word": "correspondence",
+          "meaning": "【名】(手紙やEメールでの)通信, やりとり (不可算)",
+          "exampleSentence": "I need to catch up on my correspondence.",
+          "exampleSentenceTranslation": "私は溜まっている手紙の返事を書かなければならない。",
+          "relatedExpressions": [
+            "correspond (動: 通信する、一致する)",
+            "correspondent (名: 通信員)",
+            "in correspondence with (~と通信して)",
+            "business correspondence (商用通信)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-045",
+          "questionText": "For the ------- of the conference, all meals will be provided.",
+          "options": ["donation", "direction", "destination", "duration"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】'for the ... of ~' の形で「〜の期間中」という意味になるのは、「期間」を意味する (D) 'duration' です。\n【不正解の選択肢】\nA) donation: 寄付\nB) direction: 方向\nC) destination: 目的地",
+          "word": "duration",
+          "meaning": "【名】継続期間",
+          "exampleSentence": "The movie has a duration of two and a half hours.",
+          "exampleSentenceTranslation": "その映画の上映時間は2時間半です。",
+          "relatedExpressions": [
+            "for the duration of (~の期間中)",
+            "short duration (短期間)",
+            "long duration (長期間)",
+            "contract duration (契約期間)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-046",
+          "questionText": "We can ------- the shipping process for an additional fee.",
+          "options": ["expand", "expel", "expedite", "expend"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「追加料金で配送プロセスを〜できる」という文脈に合うのは、「早める、促進する」を意味する (C) 'expedite' です。\n【不正解の選択肢】\nA) expand: 拡大する\nB) expel: 追い出す\nD) expend: 費やす",
+          "word": "expedite",
+          "meaning": "【動】(処理などを)早める, 促進する",
+          "exampleSentence": "Please do what you can to expedite the delivery of our order.",
+          "exampleSentenceTranslation": "我々の注文の配送を早めるために、できることをしてください。",
+          "relatedExpressions": [
+            "expedited (形: 迅速化された)",
+            "expedite delivery (配送を早める)",
+            "expedite a process (プロセスを早める)",
+            "expedited shipping (速達便)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-047",
+          "questionText": "The job requires a candidate who is ------- in both English and Japanese.",
+          "options": ["frequent", "affluent", "fluent", "fluid"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'be ... in a language' の形で「(言語に)流暢である」という意味になるのは (C) 'fluent' です。\n【不正解の選択肢】\nA) frequent: 頻繁な\nB) affluent: 裕福な\nD) fluid: 流動的な",
+          "word": "fluent",
+          "meaning": "【形】(言語に)流暢な",
+          "exampleSentence": "She is a fluent speaker of French.",
+          "exampleSentenceTranslation": "彼女はフランス語を流暢に話す人です。",
+          "relatedExpressions": [
+            "fluency (名: 流暢さ)",
+            "fluently (副: 流暢に)",
+            "be fluent in (~に流暢である)",
+            "a fluent writer (文章が流暢な人)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-048",
+          "questionText": "The new advertising campaign is expected to ------- a lot of public interest.",
+          "options": ["generalize", "generate", "generous", "genuine"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「多くの世間の関心を〜することが期待されている」という文脈に合うのは、「生み出す、発生させる」を意味する (B) 'generate' です。\n【不正解の選択肢】\nA) generalize: 一般化する\nC) generous: 寛大な\nD) genuine: 本物の",
+          "word": "generate",
+          "meaning": "【動】(利益・関心・電気などを)生み出す, 発生させる",
+          "exampleSentence": "This power plant generates electricity for the entire city.",
+          "exampleSentenceTranslation": "この発電所は市全体の電力を生み出している。",
+          "relatedExpressions": [
+            "generation (名: 世代、発生)",
+            "generator (名: 発電機)",
+            "generate revenue (収益を生む)",
+            "generate ideas (アイデアを生み出す)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-049",
+          "questionText": "The company is not responsible for any additional costs ------- by the client.",
+          "options": ["occur", "incur", "concur", "secure"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】名詞 'costs' を後ろから修飾する過去分詞形で、「(費用などを)負担する、被る」を意味する (B) 'incurred' が正解です。\n【不正解の選択肢】\nA) occur: 起こる\nC) concur: 同意する\nD) secure: 確保する",
+          "word": "incur",
+          "meaning": "【動】(費用・損害・負債などを)負う, 被る",
+          "exampleSentence": "If you are late paying your credit card bill, you may incur a late fee.",
+          "exampleSentenceTranslation": "クレジットカードの支払いが遅れると、延滞料金が発生する（負う）ことがある。",
+          "relatedExpressions": [
+            "incur a loss (損失を被る)",
+            "incur a debt (借金を負う)",
+            "incur expenses (費用を負担する)",
+            "costs incurred (発生した費用)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-050",
+          "questionText": "She acts as a ------- between the management and the union.",
+          "options": ["lesion", "lion", "liaison", "legion"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'a ... between A and B' の形で「AとBの間の連絡係」という意味になるのは、(C) 'liaison' です。発音に注意が必要です。\n【不正解の選択肢】\nA) lesion: 病巣\nB) lion: ライオン\nD) legion: 軍団",
+          "word": "liaison",
+          "meaning": "【名】(組織間の)連絡, 連絡係",
+          "exampleSentence": "We need to improve the liaison between our sales and marketing teams.",
+          "exampleSentenceTranslation": "私たちは営業チームとマーケティングチームの間の連携を改善する必要がある。",
+          "relatedExpressions": [
+            "act as a liaison (連絡係を務める)",
+            "liaison officer (連絡担当官)",
+            "in liaison with (~と連携して)",
+            "a close liaison (緊密な連携)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_6",
+      "setName": "必須単語 Vol. 6",
+      "order": 6,
+      "questions": [
+        {
+          "id": "VOCAB-730-051",
+          "questionText": "We have received ------- complaints about the new software update.",
+          "options": ["numerous", "numerical", "numb", "notorious"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】可算名詞 'complaints' (苦情) を修飾し、「多数の」という意味になるのは (A) 'numerous' です。'many' のよりフォーマルな表現です。\n【不正解の選択肢】\nB) numerical: 数字の\nC) numb: 麻痺した\nD) notorious: 悪名高い",
+          "word": "numerous",
+          "meaning": "【形】多数の, たくさんの (可算名詞を修飾)",
+          "exampleSentence": "He has won numerous awards for his work.",
+          "exampleSentenceTranslation": "彼はその仕事で数多くの賞を受賞している。",
+          "relatedExpressions": [
+            "a number of (~の)",
+            "many (類義語)",
+            "numerous times (何度も)",
+            "numerous reasons (多くの理由で)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-052",
+          "questionText": "The presentation will begin with a brief ------- of the company's history.",
+          "options": ["interview", "preview", "review", "overview"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「会社の歴史の簡単な〜」という文脈に合うのは、「概要、概観」を意味する (D) 'overview' です。\n【不正解の選択肢】\nA) interview: 面接\nB) preview: 予告、下見\nC) review: 再検討、批評",
+          "word": "overview",
+          "meaning": "【名】概要, 概観",
+          "exampleSentence": "This report provides a general overview of the current economic situation.",
+          "exampleSentenceTranslation": "この報告書は現在の経済状況の全般的な概要を提供している。",
+          "relatedExpressions": [
+            "provide an overview (概要を説明する)",
+            "a brief overview (簡単な概要)",
+            "a general overview (全体的な概要)",
+            "market overview (市場概観)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-053",
+          "questionText": "We would like to thank you for your continued ------- of our services.",
+          "options": ["patriotism", "patronage", "parentage", "partnership"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「継続的なご〜に感謝します」という顧客への丁寧な表現で、「愛顧、引き立て」を意味する (B) 'patronage' が正解です。\n【不正解の選択肢】\nA) patriotism: 愛国心\nC) parentage: 出自\nD) partnership: 提携",
+          "word": "patronage",
+          "meaning": "【名】(店・サービスなどへの)愛顧, 引き立て, 後援",
+          "exampleSentence": "The arts festival relies on the patronage of local businesses.",
+          "exampleSentenceTranslation": "その芸術祭は地元企業の支援に頼っている。",
+          "relatedExpressions": [
+            "patron (名: 常連客、後援者)",
+            "thank you for your patronage (ご愛顧ありがとうございます)",
+            "patronize (動: ひいきにする)",
+            "royal patronage (王室の後援)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-054",
+          "questionText": "The sales team is responsible for identifying potential ------- and converting them into customers.",
+          "options": ["aspects", "prospects", "respects", "suspects"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「潜在的な〜を特定する」という文脈で、「見込み客」を意味する (B) 'prospects' が正解です。\n【不正解の選択肢】\nA) aspects: 側面\nC) respects: 点\nD) suspects: 容疑者",
+          "word": "prospect",
+          "meaning": "【名】\n1. (複数形で)見込み, 可能性\n2. 見込み客, 有望な候補者\n【動】(鉱物などを)探す (for)",
+          "exampleSentence": "The company is prospecting for oil in the region.",
+          "exampleSentenceTranslation": "その会社はその地域で石油を探している。",
+          "relatedExpressions": [
+            "prospective (形: 見込みのある)",
+            "a potential prospect (見込み客)",
+            "job prospects (仕事の見通し)",
+            "prospects for success (成功の見込み)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-055",
+          "questionText": "The manufacturer's suggested ------- price for this item is $199.",
+          "options": ["detail", "entail", "curtail", "retail"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】'... price' の形で「小売価格」という複合名詞になるのは、「小売」を意味する (D) 'retail' です。\n【不正解の選択肢】\nA) detail: 詳細\nB) entail: 伴う\nC) curtail: 削減する",
+          "word": "retail",
+          "meaning": "【名】小売\n【動】〜を小売する\n【副】小売で",
+          "exampleSentence": "The product retails for around $50.",
+          "exampleSentenceTranslation": "その製品は約50ドルで小売されている。",
+          "relatedExpressions": [
+            "retailer (名: 小売業者)",
+            "retail price (小売価格)",
+            "retail store (小売店)",
+            "wholesale (対: 卸売)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-056",
+          "questionText": "We are implementing a new program to ------- our most talented employees.",
+          "options": ["obtain", "contain", "sustain", "retain"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「最も優秀な従業員を〜するための新しいプログラム」という文脈で、「保持する、引き留める」を意味する (D) 'retain' が正解です。\n【不正解の選択肢】\nA) obtain: 得る\nB) contain: 含む\nC) sustain: 維持する",
+          "word": "retain",
+          "meaning": "【動】〜を保持する, 維持する, 記憶しておく",
+          "exampleSentence": "This material is designed to retain heat.",
+          "exampleSentenceTranslation": "この素材は熱を保持するように設計されている。",
+          "relatedExpressions": [
+            "retention (名: 保持)",
+            "retain customers (顧客を維持する)",
+            "retain employees (従業員を引き留める)",
+            "retain a lawyer (弁護士を雇う)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-057",
+          "questionText": "Our law firm ------- in intellectual property rights.",
+          "options": ["socializes", "specializes", "stabilizes", "scandalizes"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】'... in ~' の形で「〜を専門にする」という意味になるのは (B) 'specializes' です。主語が三人称単数なので-sが付きます。\n【不正解の選択肢】\nA) socializes: 交流する\nC) stabilizes: 安定させる\nD) scandalizes: 憤慨させる",
+          "word": "specialize",
+          "meaning": "【動】(〜を)専門にする, 専攻する (in)",
+          "exampleSentence": "He specialized in corporate law at university.",
+          "exampleSentenceTranslation": "彼は大学で会社法を専攻した。",
+          "relatedExpressions": [
+            "specialist (名: 専門家)",
+            "specialty (名: 専門分野)",
+            "specialized (形: 専門の)",
+            "specialize in a field (ある分野を専門にする)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-058",
+          "questionText": "We have a ------- agreement, but the final details still need to be worked out.",
+          "options": ["attentive", "talkative", "tentative", "sensitive"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「最終詳細はまだ詰める必要がある」という文脈から、「仮の、暫定的な」を意味する (C) 'tentative' が正解です。\n【不正解の選択肢】\nA) attentive: 注意深い\nB) talkative: おしゃべりな\nD) sensitive: 敏感な",
+          "word": "tentative",
+          "meaning": "【形】仮の, 暫定的な, 試験的な",
+          "exampleSentence": "The meeting is tentatively scheduled for next Tuesday.",
+          "exampleSentenceTranslation": "その会議は、仮に次の火曜日に予定されている。",
+          "relatedExpressions": [
+            "tentatively (副: 仮に)",
+            "a tentative schedule (仮のスケジュール)",
+            "a tentative plan (暫定的な計画)",
+            "a tentative conclusion (仮の結論)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-059",
+          "questionText": "All online ------- are protected by advanced encryption technology.",
+          "options": ["transitions", "transmissions", "transactions", "translations"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「オンラインでの〜は暗号化技術で保護されている」という文脈に合うのは、「取引」を意味する (C) 'transactions' です。\n【不正解の選択肢】\nA) transitions: 移行\nB) transmissions: 送信\nD) translations: 翻訳",
+          "word": "transaction",
+          "meaning": "【名】(商)取引, (業務の)処理",
+          "exampleSentence": "The bank handles millions of transactions every day.",
+          "exampleSentenceTranslation": "その銀行は毎日何百万もの取引を処理している。",
+          "relatedExpressions": [
+            "transact (動: 取引する)",
+            "a financial transaction (金融取引)",
+            "process a transaction (取引を処理する)",
+            "transaction history (取引履歴)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-060",
+          "questionText": "The company is planning to expand its ------- by 20% over the next two years.",
+          "options": ["workshop", "workstation", "workforce", "workflow"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「今後2年で〜を20%拡大する計画だ」という文脈に合うのは、「全従業員、労働力」を意味する (C) 'workforce' です。\n【不正解の選択肢】\nA) workshop: 研修会、作業場\nB) workstation: 仕事場\nD) workflow: 仕事の流れ",
+          "word": "workforce",
+          "meaning": "【名】(一企業や一国の)全従業員, 労働人口, 労働力",
+          "exampleSentence": "A highly skilled workforce is essential for economic growth.",
+          "exampleSentenceTranslation": "高度な技術を持つ労働力は、経済成長に不可欠です。",
+          "relatedExpressions": [
+            "skilled workforce (熟練労働力)",
+            "a diverse workforce (多様な労働力)",
+            "join the workforce (労働力に加わる)",
+            "reduce the workforce (人員を削減する)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_7",
+      "setName": "必須単語 Vol. 7",
+      "order": 7,
+      "questions": [
+        {
+          "id": "VOCAB-730-061",
+          "questionText": "The annual performance ------- is a chance to discuss your achievements and career goals.",
+          "options": ["proposal", "approval", "appraisal", "arrival"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'performance ...' の形で「業績評価」という複合名詞になるのは、「評価、査定」を意味する (C) 'appraisal' です。\n【不正解の選択肢】\nA) proposal: 提案\nB) approval: 承認\nD) arrival: 到着",
+          "word": "appraisal",
+          "meaning": "【名】(業績・価値などの)評価, 査定",
+          "exampleSentence": "He gave a realistic appraisal of the company's future prospects.",
+          "exampleSentenceTranslation": "彼は会社の将来の見通しについて、現実的な評価を下した。",
+          "relatedExpressions": [
+            "appraise (動: 評価する)",
+            "performance appraisal (業績評価)",
+            "property appraisal (不動産査定)",
+            "a formal appraisal (正式な評価)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-062",
+          "questionText": "Only senior managers are ------- to approve expenditures over $1,000.",
+          "options": ["organized", "summarized", "authorized", "criticized"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'be ... to do' の形で「〜する権限を与えられている」という意味になるのは、(C) 'authorized' です。'authorize' の過去分詞形です。\n【不正解の選択肢】\nA) organized: 組織された\nB) summarized: 要約された\nD) criticized: 批判された",
+          "word": "authorize",
+          "meaning": "【動】〜を認可する, 〜に権限を与える",
+          "exampleSentence": "I have authorized him to act on my behalf.",
+          "exampleSentenceTranslation": "私は彼に私の代理として行動する権限を与えた。",
+          "relatedExpressions": [
+            "authorization (名: 認可、権限)",
+            "authority (名: 権威、権限)",
+            "be authorized to do (~する権限がある)",
+            "authorized dealer (正規販売店)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-063",
+          "questionText": "The company uses industry best practices as a ------- for its own performance.",
+          "options": ["landmark", "benchmark", "hallmark", "bookmark"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「自社の業績の〜として」という文脈に合うのは、「基準、水準」を意味する (B) 'benchmark' です。\n【不正解の選択肢】\nA) landmark: 目印、画期的な出来事\nC) hallmark: 特質\nD) bookmark: しおり",
+          "word": "benchmark",
+          "meaning": "【名】(評価の)基準, 水準\n【動】〜を基準として評価する",
+          "exampleSentence": "We need to benchmark our performance against our competitors.",
+          "exampleSentenceTranslation": "我々は競合他社を基準として自社の業績を評価する必要がある。",
+          "relatedExpressions": [
+            "benchmarking (名: ベンチマーキング)",
+            "set a benchmark (基準を設定する)",
+            "meet the benchmark (基準を満たす)",
+            "an industry benchmark (業界の基準)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-064",
+          "questionText": "The company has achieved record profits for the fifth ------- year.",
+          "options": ["consecutive", "consequent", "conservative", "constructive"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】'for the fifth ... year' で「5年連続で」という意味になるのは、「連続した」を意味する (A) 'consecutive' です。\n【不正解の選択肢】\nB) consequent: 結果として生じる\nC) conservative: 保守的な\nD) constructive: 建設的な",
+          "word": "consecutive",
+          "meaning": "【形】連続した",
+          "exampleSentence": "It has rained for four consecutive days.",
+          "exampleSentenceTranslation": "4日連続で雨が降っている。",
+          "relatedExpressions": [
+            "consecutively (副: 連続して)",
+            "for three consecutive days (3日間連続で)",
+            "a consecutive winner (連続優勝者)",
+            "in consecutive order (連続した順序で)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-065",
+          "questionText": "We need to develop a ------- plan in case the main server fails.",
+          "options": ["consistency", "constituency", "contingency", "complacency"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'... plan' の形で「不測の事態への備えの計画」という複合名詞になるのは、「不測の事態」を意味する (C) 'contingency' です。\n【不正解の選択肢】\nA) consistency: 一貫性\nB) constituency: 選挙区\nD) complacency: 自己満足",
+          "word": "contingency",
+          "meaning": "【名】不測の事態, 偶発事件",
+          "exampleSentence": "We must have a contingency fund to cover unexpected expenses.",
+          "exampleSentenceTranslation": "予期せぬ出費に備えて、緊急時用の資金を持たなければならない。",
+          "relatedExpressions": [
+            "contingent (on) (形: 〜次第の)",
+            "a contingency plan (緊急時対応計画)",
+            "a contingency fund (緊急時資金)",
+            "for any contingency (どんな不測の事態にも備えて)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-066",
+          "questionText": "Ms. Saito was recognized for her ------- and hard work over the past decade.",
+          "options": ["deduction", "delegation", "dedication", "depiction"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「彼女の〜と努力が認められた」という文脈に合うのは、「献身、専念」を意味する (C) 'dedication' です。\n【不正解の選択肢】\nA) deduction: 控除\nB) delegation: 委任、代表団\nD) depiction: 描写",
+          "word": "dedication",
+          "meaning": "【名】献身, 専念",
+          "exampleSentence": "The project requires a high level of dedication and commitment.",
+          "exampleSentenceTranslation": "そのプロジェクトは高いレベルの献身とコミットメントを必要とする。",
+          "relatedExpressions": [
+            "dedicate (動: 捧げる)",
+            "dedicated (形: 献身的な)",
+            "dedication to (~への献身)",
+            "show dedication (献身的な姿勢を示す)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-067",
+          "questionText": "The new product line is ------- by several famous athletes.",
+          "options": ["enforced", "enclosed", "endorsed", "endured"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「有名なアスリートによって〜されている」という受け身の文脈で、「(商品を)推薦する、支持する」を意味する (C) 'endorsed' が正解です。\n【不正解の選択肢】\nA) enforced: 施行された\nB) enclosed: 同封された\nD) endured: 耐えられた",
+          "word": "endorse",
+          "meaning": "【動】\n1. (商品を)推薦する\n2. (計画などを)支持する\n3. (小切手などに)裏書きする",
+          "exampleSentence": "The board of directors voted to endorse the new policy.",
+          "exampleSentenceTranslation": "取締役会は新しい方針を支持することに投票で決めた。",
+          "relatedExpressions": [
+            "endorsement (名: 推薦、支持)",
+            "endorse a product (製品を推薦する)",
+            "endorse a candidate (候補者を支持する)",
+            "publicly endorse (公に支持する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-068",
+          "questionText": "The company has launched a new ------- to promote a better work-life balance.",
+          "options": ["initial", "initiation", "initiative", "infinity"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「新しい〜を立ち上げた」という文脈で、「(新しい)計画、構想」を意味する (C) 'initiative' が正解です。\n【不正解の選択肢】\nA) initial: (形) 初期の\nB) initiation: 開始\nD) infinity: 無限",
+          "word": "initiative",
+          "meaning": "【名】\n1. (新しい)計画, 構想\n2. 主導権, 自発性",
+          "exampleSentence": "She took the initiative in organizing the charity event.",
+          "exampleSentenceTranslation": "彼女は率先してその慈善イベントを企画した。",
+          "relatedExpressions": [
+            "initiate (動: 始める)",
+            "take the initiative (主導権を握る)",
+            "a new initiative (新しい計画)",
+            "a government initiative (政府の構想)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-069",
+          "questionText": "With the advent of smartphones, many older technologies have become -------.",
+          "options": ["absolute", "obsolete", "obstinate", "oblique"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「多くの古い技術が〜になった」という文脈に合うのは、「時代遅れの、すたれた」を意味する (B) 'obsolete' です。\n【不正解の選択肢】\nA) absolute: 絶対的な\nC) obstinate: 頑固な\nD) oblique: 斜めの",
+          "word": "obsolete",
+          "meaning": "【形】時代遅れの, すたれた",
+          "exampleSentence": "The company needs to replace its obsolete computer systems.",
+          "exampleSentenceTranslation": "その会社は時代遅れのコンピュータシステムを交換する必要がある。",
+          "relatedExpressions": [
+            "become obsolete (時代遅れになる)",
+            "obsolete equipment (旧式の設備)",
+            "render obsolete (〜を時代遅れにする)",
+            "outdated (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-070",
+          "questionText": "Applicants must be ------- in using common office software.",
+          "options": ["sufficient", "efficient", "deficient", "proficient"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】'be ... in ~' の形で「〜に熟達している、堪能である」という意味になるのは (D) 'proficient' です。\n【不正解の選択肢】\nA) sufficient: 十分な\nB) efficient: 効率的な\nC) deficient: 不足した",
+          "word": "proficient",
+          "meaning": "【形】(〜に)熟達した, 堪能な (in / at)",
+          "exampleSentence": "He is a proficient musician who can play several instruments.",
+          "exampleSentenceTranslation": "彼はいくつかの楽器を演奏できる熟達した音楽家だ。",
+          "relatedExpressions": [
+            "proficiency (名: 熟達)",
+            "be proficient in (~に熟達している)",
+            "highly proficient (非常に熟達した)",
+            "language proficiency (語学力)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_8",
+      "setName": "必須単語 Vol. 8",
+      "order": 8,
+      "questions": [
+        {
+          "id": "VOCAB-730-071",
+          "questionText": "The company made a ------- profit in the last fiscal year.",
+          "options": ["sustainable", "subsequent", "substantial", "substitute"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】名詞 'profit' (利益) を修飾し、「かなりの、相当な」という意味になるのは (C) 'substantial' です。\n【不正解の選択肢】\nA) sustainable: 持続可能な\nB) subsequent: その後の\nD) substitute: 代わりの",
+          "word": "substantial",
+          "meaning": "【形】かなりの, 相当な, 実質的な",
+          "exampleSentence": "The storm caused substantial damage to the coastal area.",
+          "exampleSentenceTranslation": "その嵐は沿岸地域に相当な被害をもたらした。",
+          "relatedExpressions": [
+            "substantially (副: 大幅に)",
+            "a substantial amount (かなりの量)",
+            "a substantial increase (大幅な増加)",
+            "a substantial meal (しっかりした食事)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-072",
+          "questionText": "The legal team was asked to ------- the contract before it was signed.",
+          "options": ["ascend", "attend", "amend", "append"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「契約書を〜するように頼まれた」という文脈で、「(法・契約などを)修正する」を意味する (C) 'amend' が正解です。\n【不正解の選択肢】\nA) ascend: 上る\nB) attend: 出席する\nD) append: 付け加える",
+          "word": "amend",
+          "meaning": "【動】(法律・契約・文書などを)修正する, 改正する",
+          "exampleSentence": "The politician proposed to amend the constitution.",
+          "exampleSentenceTranslation": "その政治家は憲法を改正することを提案した。",
+          "relatedExpressions": [
+            "amendment (名: 修正、改正)",
+            "amend a law (法律を改正する)",
+            "amend a document (文書を修正する)",
+            "revise (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-073",
+          "questionText": "The company's success can be ------- to its innovative marketing strategies.",
+          "options": ["contributed", "distributed", "attributed", "retributed"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'be ... to ~' の形で「〜のおかげである、〜に起因すると考えられる」という意味になるのは (C) 'attributed' です。能動態では 'attribute A to B' (AをBのせいにする)となります。\n【不正解の選択肢】\nA) contributed: 貢献した\nB) distributed: 分配した\nD) retributed: 報復した",
+          "word": "attribute",
+          "meaning": "【動】(AをBの)せいにする, (AがBに)起因すると考える (attribute A to B)\n【名】特質, 属性",
+          "exampleSentence": "Patience is one of his best attributes.",
+          "exampleSentenceTranslation": "忍耐力は彼の最も優れた特質の一つだ。",
+          "relatedExpressions": [
+            "be attributed to (~に起因する)",
+            "attribute success to (~に成功の要因を求める)",
+            "a key attribute (主要な特質)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-074",
+          "questionText": "A critical ------- of the machine was found to be defective.",
+          "options": ["opponent", "component", "exponent", "proponent"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「機械の重要な〜に欠陥が見つかった」という文脈に合うのは、「構成要素、部品」を意味する (B) 'component' です。\n【不正解の選択肢】\nA) opponent: 敵\nC) exponent: 指数、主唱者\nD) proponent: 支持者",
+          "word": "component",
+          "meaning": "【名】(構成)要素, 部品",
+          "exampleSentence": "Trust is a vital component of any healthy relationship.",
+          "exampleSentenceTranslation": "信頼は、いかなる健全な関係においても不可欠な要素である。",
+          "relatedExpressions": [
+            "a key component (主要な部品)",
+            "an essential component (不可欠な要素)",
+            "electronic component (電子部品)",
+            "component parts (構成部品)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-075",
+          "questionText": "Employees are expected to use their ------- when handling confidential information.",
+          "options": ["discussion", "distinction", "discretion", "description"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「機密情報を扱う際には、自身の〜を使うことが求められる」という文脈で、「分別、自由裁量」を意味する (C) 'discretion' が正解です。\n【不正解の選択肢】\nA) discussion: 議論\nB) distinction: 区別\nD) description: 描写",
+          "word": "discretion",
+          "meaning": "【名】自由裁量, 分別, 思慮深さ",
+          "exampleSentence": "The judge has the discretion to impose a lighter sentence.",
+          "exampleSentenceTranslation": "裁判官にはより軽い刑を課す裁量権がある。",
+          "relatedExpressions": [
+            "discreet (形: 分別のある)",
+            "at one's discretion (〜の裁量で)",
+            "use discretion (分別を働かせる)",
+            "parental discretion (親の判断)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-076",
+          "questionText": "The price of oil tends to ------- depending on global demand.",
+          "options": ["punctuate", "frustrate", "illustrate", "fluctuate"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「石油価格は〜する傾向がある」という文脈で、「(価格などが)変動する」を意味する (D) 'fluctuate' が正解です。\n【不正解の選択肢】\nA) punctuate: 句読点を打つ\nB) frustrate: 欲求不満にさせる\nC) illustrate: 説明する",
+          "word": "fluctuate",
+          "meaning": "【動】(価格・数値などが)変動する",
+          "exampleSentence": "His mood seems to fluctuate from day to day.",
+          "exampleSentenceTranslation": "彼の気分は日によって変動するようだ。",
+          "relatedExpressions": [
+            "fluctuation (名: 変動)",
+            "fluctuate widely (大きく変動する)",
+            "prices fluctuate (価格が変動する)",
+            "currency fluctuations (為替変動)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-077",
+          "questionText": "The company is known for its high ethical standards and professional -------.",
+          "options": ["integration", "integrity", "intensity", "interior"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「高い倫理基準と専門的な〜で知られている」という文脈に合うのは、「誠実、高潔」を意味する (B) 'integrity' です。\n【不正解の選択肢】\nA) integration: 統合\nC) intensity: 強度\nD) interior: 内部",
+          "word": "integrity",
+          "meaning": "【名】誠実, 高潔, 完全な状態",
+          "exampleSentence": "We must ensure the structural integrity of the bridge.",
+          "exampleSentenceTranslation": "我々はその橋の構造上の完全性を確保しなければならない。",
+          "relatedExpressions": [
+            "personal integrity (個人の誠実さ)",
+            "artistic integrity (芸術的な品位)",
+            "maintain integrity (誠実さを保つ)",
+            "a person of integrity (誠実な人)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-078",
+          "questionText": "The new product launch has gained -------, with sales exceeding all expectations.",
+          "options": ["moment", "monument", "momentum", "momentous"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】'gained ...' の形で「勢いを増した」という意味になるのは、「勢い、弾み」を意味する (C) 'momentum' です。\n【不正解の選択肢】\nA) moment: 瞬間\nB) monument: 記念碑\nD) momentous: 重大な",
+          "word": "momentum",
+          "meaning": "【名】勢い, 弾み",
+          "exampleSentence": "The campaign for reform is gaining momentum.",
+          "exampleSentenceTranslation": "改革運動は勢いを増している。",
+          "relatedExpressions": [
+            "gain momentum (勢いを増す)",
+            "lose momentum (勢いを失う)",
+            "keep the momentum going (勢いを維持する)",
+            "build momentum (勢いをつける)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-079",
+          "questionText": "The survey was conducted to gauge the public's ------- of our brand.",
+          "options": ["reception", "exception", "deception", "perception"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「我々のブランドに対する世間の〜を測る」という文脈に合うのは、「認識、見方」を意味する (D) 'perception' です。\n【不正解の選択肢】\nA) reception: 受付、歓迎\nB) exception: 例外\nC) deception: 欺瞞",
+          "word": "perception",
+          "meaning": "【名】認識, 知覚, 見方",
+          "exampleSentence": "There is a general perception that the economy is improving.",
+          "exampleSentenceTranslation": "経済は改善しつつあるという一般的な認識がある。",
+          "relatedExpressions": [
+            "perceive (動: 認識する)",
+            "public perception (世間の認識)",
+            "change one's perception (認識を変える)",
+            "visual perception (視覚)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-080",
+          "questionText": "We constantly ------- to improve the quality of our products and services.",
+          "options": ["starve", "strive", "thrive", "arrive"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】'... to do' の形で「〜しようと懸命に努力する」という意味になるのは、(B) 'strive' です。\n【不正解の選択肢】\nA) starve: 飢える\nC) thrive: 繁栄する\nD) arrive: 到着する",
+          "word": "strive",
+          "meaning": "【動】(〜しようと)懸命に努力する, 奮闘する (to do / for)",
+          "exampleSentence": "We must strive for excellence in everything we do.",
+          "exampleSentenceTranslation": "我々は行うことすべてにおいて、卓越性を目指して努力しなければならない。",
+          "relatedExpressions": [
+            "strive to do (~しようと努力する)",
+            "strive for (~を目指して努力する)",
+            "strive against (~と戦う)",
+            "make every effort (類義語)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_9",
+      "setName": "必須単語 Vol. 9",
+      "order": 9,
+      "questions": [
+        {
+          "id": "VOCAB-730-081",
+          "questionText": "Complimentary ------- such as coffee, tea, and water are available in the lobby.",
+          "options": ["leverage", "beverages", "coverage", "average"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「コーヒー、紅茶、水などの無料の〜」という文脈に合うのは、「(水以外の)飲み物」を意味する (B) 'beverages' です。\n【不正解の選択肢】\nA) leverage: てこ、影響力\nC) coverage: 補償範囲\nD) average: 平均",
+          "word": "beverage",
+          "meaning": "【名】(水以外の)飲み物, 飲料",
+          "exampleSentence": "The food and beverage industry is highly competitive.",
+          "exampleSentenceTranslation": "食品飲料業界は非常に競争が激しい。",
+          "relatedExpressions": [
+            "alcoholic beverage (アルコール飲料)",
+            "non-alcoholic beverage (ノンアルコール飲料)",
+            "a hot beverage (温かい飲み物)",
+            "food and beverage (F&B) (飲食)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-082",
+          "questionText": "The interviewer was impressed with the candidate's ------- and experience.",
+          "options": ["credibility", "credentials", "credits", "creed"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「候補者の〜と経験に感銘を受けた」という文脈に合うのは、「経歴、資格証明書」を意味する (B) 'credentials' です。通常、複数形で使われます。\n【不正解の選択肢】\nA) credibility: 信頼性\nC) credits: 単位、功績\nD) creed: 信条",
+          "word": "credentials",
+          "meaning": "【名】(通例複数形で)経歴, 資格, 資格証明書, 資質",
+          "exampleSentence": "He has all the credentials for the job.",
+          "exampleSentenceTranslation": "彼はその仕事に必要な資格をすべて持っている。",
+          "relatedExpressions": [
+            "academic credentials (学歴)",
+            "professional credentials (職務経歴)",
+            "check credentials (身元を確認する)",
+            "impeccable credentials (申し分のない経歴)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-083",
+          "questionText": "An ------- from the CEO's speech was published in the company newsletter.",
+          "options": ["exception", "excess", "expert", "excerpt"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「CEOのスピーチからの〜が社内報に掲載された」という文脈に合うのは、「抜粋、引用」を意味する (D) 'excerpt' です。\n【不正解の選択肢】\nA) exception: 例外\nB) excess: 過剰\nC) expert: 専門家",
+          "word": "excerpt",
+          "meaning": "【名】抜粋, 引用\n【動】〜を抜粋する",
+          "exampleSentence": "The newspaper excerpted a section of the report.",
+          "exampleSentenceTranslation": "その新聞は報告書の一部を抜粋した。",
+          "relatedExpressions": [
+            "an excerpt from (~からの抜粋)",
+            "read an excerpt (抜粋を読む)",
+            "a brief excerpt (短い抜粋)",
+            "a book excerpt (本の抜粋)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-084",
+          "questionText": "We need to determine whether the proposed project is financially -------.",
+          "options": ["flexible", "fashionable", "feasible", "favorable"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「提案されたプロジェクトが財政的に〜かどうか」という文脈で、「実行可能な」を意味する (C) 'feasible' が正解です。\n【不正解の選択肢】\nA) flexible: 柔軟な\nB) fashionable: 流行の\nD) favorable: 好意的な",
+          "word": "feasible",
+          "meaning": "【形】実行可能な",
+          "exampleSentence": "It is not feasible to complete the project in such a short time.",
+          "exampleSentenceTranslation": "そのような短時間でプロジェクトを完了させることは実行可能ではない。",
+          "relatedExpressions": [
+            "feasibility (名: 実行可能性)",
+            "a feasible plan (実行可能な計画)",
+            "a feasible option (実行可能な選択肢)",
+            "a feasibility study (実行可能性調査)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-085",
+          "questionText": "Any delay in the shipment could ------- the entire production schedule.",
+          "options": ["penalize", "jeopardize", "standardize", "synchronize"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「出荷の遅れが生産スケジュール全体を〜する可能性がある」という文脈で、「危険にさらす」を意味する (B) 'jeopardize' が正解です。\n【不正解の選択肢】\nA) penalize: 罰する\nC) standardize: 標準化する\nD) synchronize: 同時に起こる",
+          "word": "jeopardize",
+          "meaning": "【動】〜を危険にさらす, 危うくする",
+          "exampleSentence": "Careless handling of the data could jeopardize national security.",
+          "exampleSentenceTranslation": "データの不注意な取り扱いは、国家の安全を危険にさらす可能性がある。",
+          "relatedExpressions": [
+            "jeopardy (名: 危険)",
+            "put in jeopardy (危険にさらす)",
+            "endanger (類義語)",
+            "jeopardize a project (プロジェクトを危うくする)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-086",
+          "questionText": "The company has over 100 retail ------- across the country.",
+          "options": ["outlets", "outlines", "outlooks", "outsets"],
+          "correctAnswerIndex": 0,
+          "explanation": "【解説】「100以上の小売〜」という文脈で、「店舗、直販店」を意味する (A) 'outlets' が正解です。\n【不正解の選択肢】\nB) outlines: 概要\nC) outlooks: 見通し\nD) outsets: 始まり",
+          "word": "outlet",
+          "meaning": "【名】\n1. (小売)店舗, 直販店\n2. (感情などの)はけ口\n3. (電気の)コンセント",
+          "exampleSentence": "She needed an outlet for her creative energy.",
+          "exampleSentenceTranslation": "彼女は自身の創造的なエネルギーのはけ口を必要としていた。",
+          "relatedExpressions": [
+            "a retail outlet (小売店)",
+            "a factory outlet (工場直販店)",
+            "a power outlet (コンセント)",
+            "an media outlet (報道機関)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-087",
+          "questionText": "The hotel's ------- to the convention center makes it a popular choice for business travelers.",
+          "options": ["complexity", "velocity", "proximity", "anonymity"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「会議場への〜が、それを人気にしている」という文脈で、「近いこと、近接」を意味する (C) 'proximity' が正解です。\n【不正解の選択肢】\nA) complexity: 複雑さ\nB) velocity: 速度\nD) anonymity: 匿名性",
+          "word": "proximity",
+          "meaning": "【名】(〜に)近いこと, 近接 (to)",
+          "exampleSentence": "The proximity of the new office to the train station is a major advantage.",
+          "exampleSentenceTranslation": "新しいオフィスが駅に近いことは、大きな利点です。",
+          "relatedExpressions": [
+            "in close proximity to (~に非常に近い)",
+            "in the proximity of (~の近くに)",
+            "proximity sensor (近接センサー)",
+            "immediate proximity (すぐ近く)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-088",
+          "questionText": "The corporation has several ------- operating in different countries.",
+          "options": ["subsidies", "substitutes", "subsidiaries", "substances"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「いくつかの〜が異なる国で事業を行っている」という文脈で、「子会社」を意味する (C) 'subsidiaries' が正解です。'subsidy'(補助金)との混同に注意が必要です。\n【不正解の選択肢】\nA) subsidies: 補助金\nB) substitutes: 代用品\nD) substances: 物質",
+          "word": "subsidiary",
+          "meaning": "【名】子会社",
+          "exampleSentence": "The company is a wholly-owned subsidiary of a large multinational corporation.",
+          "exampleSentenceTranslation": "その会社は、ある巨大な多国籍企業の完全子会社です。",
+          "relatedExpressions": [
+            "parent company (対: 親会社)",
+            "a wholly-owned subsidiary (完全子会社)",
+            "a foreign subsidiary (海外子会社)",
+            "set up a subsidiary (子会社を設立する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-089",
+          "questionText": "The board of directors reached a ------- decision to approve the merger.",
+          "options": ["anonymous", "unanimous", "ambiguous", "autonomous"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「合併を承認するという〜決定に達した」という文脈で、「満場一致の」を意味する (B) 'unanimous' が正解です。\n【不正解の選択肢】\nA) anonymous: 匿名の\nC) ambiguous: あいまいな\nD) autonomous: 自治の",
+          "word": "unanimous",
+          "meaning": "【形】満場一致の, 全員一致の",
+          "exampleSentence": "The jury reached a unanimous verdict of guilty.",
+          "exampleSentenceTranslation": "陪審団は満場一致で有罪の評決に達した。",
+          "relatedExpressions": [
+            "unanimously (副: 満場一致で)",
+            "a unanimous decision (満場一致の決定)",
+            "a unanimous vote (満場一致の投票)",
+            "unanimous support (全員の支持)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-090",
+          "questionText": "The company reserves the right to ------- payment if the work is not completed satisfactorily.",
+          "options": ["withstand", "without", "withdraw", "withhold"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「支払いを〜する権利を留保する」という文脈で、「差し控える、与えないでおく」を意味する (D) 'withhold' が正解です。\n【不正解の選択肢】\nA) withstand: 耐える\nB) without: 〜なしで\nC) withdraw: 引き出す、撤退する",
+          "word": "withhold",
+          "meaning": "【動】〜を差し控える, 与えないでおく, 保留する",
+          "exampleSentence": "The newspaper was accused of withholding information from the public.",
+          "exampleSentenceTranslation": "その新聞は、情報を一般大衆から隠していると非難された。",
+          "relatedExpressions": [
+            "withholding (名: 差し控え)",
+            "withhold payment (支払いを保留する)",
+            "withhold information (情報を隠す)",
+            "withholding tax (源泉徴収税)"
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "VOCAB_730_SET_10",
+      "setName": "必須単語 Vol. 10",
+      "order": 10,
+      "questions": [
+        {
+          "id": "VOCAB-730-091",
+          "questionText": "The new regulations may have an ------- effect on small businesses.",
+          "options": ["averse", "adverse", "diverse", "reverse"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】'... effect' の形で「悪影響」という意味になるのは、「不都合な、逆の」を意味する (B) 'adverse' です。'averse'(嫌って)との混同に注意が必要です。\n【不正解の選択肢】\nA) averse: (〜を)嫌って\nC) diverse: 多様な\nD) reverse: 逆の",
+          "word": "adverse",
+          "meaning": "【形】不都合な, 不利な, 逆の",
+          "exampleSentence": "He remained optimistic despite the adverse circumstances.",
+          "exampleSentenceTranslation": "彼は不利な状況にもかかわらず、楽観的であり続けた。",
+          "relatedExpressions": [
+            "adversity (名: 逆境)",
+            "adversely (副: 不利に)",
+            "an adverse effect (悪影響)",
+            "adverse weather conditions (悪天候)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-092",
+          "questionText": "Her language skills are a valuable ------- to the company.",
+          "options": ["aspect", "asset", "assessment", "access"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「会社にとって貴重な〜である」という文脈に合うのは、「資産、強み」を意味する (B) 'asset' です。\n【不正解の選択肢】\nA) aspect: 側面\nC) assessment: 評価\nD) access: アクセス",
+          "word": "asset",
+          "meaning": "【名】資産, 財産, (人にとっての)強み",
+          "exampleSentence": "The company's total assets are valued at over $10 billion.",
+          "exampleSentenceTranslation": "その会社の総資産は100億ドル以上と評価されている。",
+          "relatedExpressions": [
+            "a valuable asset (貴重な財産)",
+            "asset management (資産管理)",
+            "fixed assets (固定資産)",
+            "liquid assets (流動資産)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-093",
+          "questionText": "The city's plan to build a new stadium has become highly -------.",
+          "options": ["conventional", "conversational", "controversial", "confidential"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「新しいスタジアムの建設計画が、非常に〜になっている」という文脈で、「物議を醸す」を意味する (C) 'controversial' が正解です。\n【不正解の選択肢】\nA) conventional: 従来の\nB) conversational: 会話の\nD) confidential: 機密の",
+          "word": "controversial",
+          "meaning": "【形】物議を醸す, 論争の的となる",
+          "exampleSentence": "Abortion is a highly controversial issue in many countries.",
+          "exampleSentenceTranslation": "妊娠中絶は多くの国で非常に物議を醸す問題だ。",
+          "relatedExpressions": [
+            "controversy (名: 論争)",
+            "a controversial topic (物議を醸す話題)",
+            "a controversial decision (論争を呼ぶ決定)",
+            "highly controversial (非常に物議を醸す)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-094",
+          "questionText": "The old registration process was ------- and inefficient, so it was replaced with a new online system.",
+          "options": ["wholesome", "troublesome", "cumbersome", "lonesome"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「古くて非効率な登録プロセス」という文脈に合うのは、「(手順などが)面倒な、厄介な」を意味する (C) 'cumbersome' です。\n【不正解の選択肢】\nA) wholesome: 健康によい\nB) troublesome: やっかいな\nD) lonesome: 寂しい",
+          "word": "cumbersome",
+          "meaning": "【形】\n1. (手順などが)面倒な, 厄介な\n2. (物が)大きくて重く扱いにくい",
+          "exampleSentence": "The old computer was cumbersome and difficult to use.",
+          "exampleSentenceTranslation": "その古いコンピュータは大きくて扱いにくく、使いづらかった。",
+          "relatedExpressions": [
+            "a cumbersome process (面倒なプロセス)",
+            "cumbersome equipment (扱いにくい装置)",
+            "unwieldy (類義語)",
+            "burdensome (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-095",
+          "questionText": "After the concert, the crowd began to ------- quickly and peacefully.",
+          "options": ["dispose", "disperse", "displace", "dispute"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「コンサートの後、群衆が〜し始めた」という文脈で、「(群衆などが)散らばる、解散する」を意味する (B) 'disperse' が正解です。\n【不正解の選択肢】\nA) dispose (of): 処分する\nC) displace: 強制退去させる\nD) dispute: 議論する",
+          "word": "disperse",
+          "meaning": "【動】(群衆などが)散らばる, 解散する, 〜を分散させる",
+          "exampleSentence": "The police used tear gas to disperse the protesters.",
+          "exampleSentenceTranslation": "警察は抗議者を解散させるために催涙ガスを使用した。",
+          "relatedExpressions": [
+            "dispersal (名: 分散、解散)",
+            "disperse the crowd (群衆を解散させる)",
+            "widely dispersed (広範囲に分散した)",
+            "scatter (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-096",
+          "questionText": "The contract contains ------- instructions on how to terminate the agreement.",
+          "options": ["implicit", "exquisite", "explicit", "exotic"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「契約書には〜な指示が含まれている」という文脈で、「明確な、はっきりした」を意味する (C) 'explicit' が正解です。対義語は 'implicit' (暗黙の) です。\n【不正解の選択肢】\nA) implicit: 暗黙の\nB) exquisite: 非常に美しい\nD) exotic: 異国風の",
+          "word": "explicit",
+          "meaning": "【形】明確な, はっきりした",
+          "exampleSentence": "She gave me explicit directions on how to get there.",
+          "exampleSentenceTranslation": "彼女はそこへどうやって行くか、明確な指示をくれた。",
+          "relatedExpressions": [
+            "explicitly (副: 明確に)",
+            "implicit (対: 暗黙の)",
+            "explicit consent (明確な同意)",
+            "explicit instructions (明確な指示)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-097",
+          "questionText": "It is difficult to ------- the long-term effects of this new policy.",
+          "options": ["forego", "forbid", "foresee", "foreclose"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「この新しい政策の長期的な影響を〜するのは難しい」という文脈で、「予見する、予測する」を意味する (C) 'foresee' が正解です。\n【不正解の選択肢】\nA) forego: 慎む\nB) forbid: 禁じる\nD) foreclose: 差し押さえる",
+          "word": "foresee",
+          "meaning": "【動】〜を予見する, 予測する",
+          "exampleSentence": "No one could have foreseen such a dramatic turn of events.",
+          "exampleSentenceTranslation": "誰もそのような劇的な事態の展開を予見できなかっただろう。",
+          "relatedExpressions": [
+            "foreseeable (形: 予見可能な)",
+            "unforeseen (形: 予期せぬ)",
+            "in the foreseeable future (近い将来に)",
+            "foresee the consequences (結果を予見する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-098",
+          "questionText": "The report was filled with ------- details that were not relevant to the main topic.",
+          "options": ["grateful", "gorgeous", "gracious", "gratuitous"],
+          "correctAnswerIndex": 3,
+          "explanation": "【解説】「本題と無関係な〜な詳細で満たされていた」という文脈で、「不必要な、いわれのない」を意味する (D) 'gratuitous' が正解です。\n【不正解の選択肢】\nA) grateful: 感謝している\nB) gorgeous: 豪華な\nC) gracious: 親切な",
+          "word": "gratuitous",
+          "meaning": "【形】不必要な, いわれのない, 無料の",
+          "exampleSentence": "The film was criticized for its gratuitous violence.",
+          "exampleSentenceTranslation": "その映画は不必要な暴力描写で批判された。",
+          "relatedExpressions": [
+            "gratuity (名: チップ、心付け)",
+            "a gratuitous insult (いわれのない侮辱)",
+            "gratuitous advice (余計なお世話)",
+            "unnecessary (類義語)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-099",
+          "questionText": "An independent arbitrator was called in to ------- the dispute between the two companies.",
+          "options": ["meditate", "medicate", "mediate", "hesitate"],
+          "correctAnswerIndex": 2,
+          "explanation": "【解説】「2社間の紛争を〜するために呼ばれた」という文脈で、「仲裁する、調停する」を意味する (C) 'mediate' が正解です。\n【不正解の選択肢】\nA) meditate: 瞑想する\nB) medicate: 投薬治療する\nD) hesitate: ためらう",
+          "word": "mediate",
+          "meaning": "【動】(紛争などを)仲裁する, 調停する",
+          "exampleSentence": "The United Nations tried to mediate a ceasefire between the warring countries.",
+          "exampleSentenceTranslation": "国連は交戦国間の停戦を仲介しようとした。",
+          "relatedExpressions": [
+            "mediation (名: 仲裁、調停)",
+            "mediator (名: 仲裁人)",
+            "mediate a dispute (紛争を仲裁する)",
+            "mediate between A and B (AとBの間を仲裁する)"
+          ]
+        },
+        {
+          "id": "VOCAB-730-100",
+          "questionText": "The government has imposed ------- regulations on the food industry to ensure public safety.",
+          "options": ["lenient", "stringent", "tangent", "contingent"],
+          "correctAnswerIndex": 1,
+          "explanation": "【解説】「公衆の安全を確保するために、〜な規制を課した」という文脈で、「(規則などが)厳格な、厳しい」を意味する (B) 'stringent' が正解です。対義語は (A) 'lenient' (寛大な) です。\n【不正解の選択肢】\nC) tangent: 接線\nD) contingent: 〜次第で",
+          "word": "stringent",
+          "meaning": "【形】(規則・基準などが)厳格な, 厳しい",
+          "exampleSentence": "The company has stringent quality control standards.",
+          "exampleSentenceTranslation": "その会社は厳しい品質管理基準を持っている。",
+          "relatedExpressions": [
+            "strict (類義語)",
+            "lenient (対: 寛大な)",
+            "stringent regulations (厳しい規制)",
+            "stringent standards (厳格な基準)"
+          ]
+        }
+      ]
+    }
+  ]
+}

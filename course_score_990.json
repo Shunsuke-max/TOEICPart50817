@@ -1,0 +1,434 @@
+{
+  "quizSets": [
+    {
+      "setId": "TOEIC_SET_1_R2",
+      "setName": "実践問題 Vol. 1 (全面改訂版)",
+      "questions": [
+        {
+          "id": "990A-001R2",
+          "questionText": "Because of the ------- weather forecast from the National Weather Service, Global Solutions Inc. has decided that the annual company picnic must be called off.",
+          "options": ["severe", "favorable", "mild", "stable"],
+          "correctAnswerIndex": 0,
+          "explanation": "長い文ですが、焦らずに骨格を見抜きましょう。`Because of A, B has decided that C` (Aが理由で、BはCだと決定した) という構造です。Cの内容は `the company picnic must be called off` (ピクニックは中止にしなければならない) なので、理由Aである天気予報は良くなかったはずです。選択肢の中で悪天候を表すのは①の `severe` (厳しい) のみ。TOEICではこのように一見複雑でも、原因と結果の関係を捉えることが重要です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990A-002R2",
+          "questionText": "In his e-mail to all investors, the CEO of OmniCorp, Mr. Evans, made his position on the merger quite -------, leaving no room for misinterpretation.",
+          "options": ["unclear", "vague", "explicit", "confusing"],
+          "correctAnswerIndex": 2,
+          "explanation": "空欄の後ろ `leaving no room for misinterpretation` (誤解の余地を残さなかった) が最大のヒント。CEOであるエバンズ氏の合併(merger)に対する立ち位置(position)は、誤解の余地がないほど「ハッキリしていた」ということですね。選択肢の中で「明確な」という意味を持つのは③の `explicit` です。文が長くなっても、コンマで区切られた `Mr. Evans` のような挿入句は、一旦飛ばして文の骨格を読むのがコツですよ。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990A-003R2",
+          "questionText": "The internal audit committee is expected to ------- its findings from the quarterly review during the board meeting next Friday.",
+          "options": ["announce", "withhold", "dispute", "alter"],
+          "correctAnswerIndex": 0,
+          "explanation": "内部監査委員会(internal audit committee)が、金曜の役員会で調査結果(findings)をどうするか、という問題です。文脈上、調査結果は「発表される」のが最も自然ですよね。正解は①の `announce` (発表する) です。`be expected to do` (〜すると期待されている、〜する見込みだ) という頻出表現も押さえておきましょう。",
+          "category": "動詞"
+        },
+        {
+          "id": "990A-004R2",
+          "questionText": "Shipments from our warehouse will resume ------- the maintenance work on the conveyor system is completed this evening.",
+          "options": ["as soon as", "because", "although", "so that"],
+          "correctAnswerIndex": 0,
+          "explanation": "「倉庫からの出荷が再開される」ことと、「コンベヤーシステムのメンテナンス作業が完了する」ことの時間的な関係性を考えます。「作業が完了したら『すぐに』出荷が再開される」という流れが最もスムーズですね。この「〜するとすぐに」を意味する接続詞が①の `as soon as` です。TOEICではこのように、工場の稼働や物流に関するトピックが頻繁に出題されます。",
+          "category": "接続詞・接続副詞"
+        },
+        {
+          "id": "990A-005R2",
+          "questionText": "Sterling Products has hired an outside consultant to help them ------- the inefficiencies discovered in their packaging process.",
+          "options": ["address", "create", "overlook", "increase"],
+          "correctAnswerIndex": 0,
+          "explanation": "Sterling Products社が、包装工程(packaging process)で見つかった非効率(inefficiencies)をどうするためにコンサルタントを雇ったのでしょうか？もちろん、その問題に「対処する」ためですよね。問題点などに「取り組む、対処する」という意味で非常によく使われるのが①の `address` です。この使い方をしっかりマスターしておくと、スコアアップに繋がります。",
+          "category": "動詞"
+        },
+        {
+          "id": "990A-006R2",
+          "questionText": "Mr. Kenji Tanaka, our new line manager, unfortunately has a ------- to micromanage his team, causing some frustration among staff.",
+          "options": ["tendency", "refusal", "objective", "promise"],
+          "correctAnswerIndex": 0,
+          "explanation": "新しいラインマネージャーである田中さんの行動について説明しています。`micromanage` (細かく管理しすぎる) というのは、人の行動の「傾向」や「癖」を指しますよね。正解は①の `tendency` (傾向) です。`a tendency to do` で「〜する傾向がある」というセットで覚えてしまいましょう。`causing some frustration` (スタッフの間に不満を引き起こしている) という部分も、ネガティブな「傾向」であることを裏付けていますね。",
+          "category": "名詞"
+        },
+        {
+          "id": "990A-007R2",
+          "questionText": "The safety officer's inspection of the factory floor was deemed too -------, as several obvious safety violations were not included in his report.",
+          "options": ["thorough", "cursory", "detailed", "frequent"],
+          "correctAnswerIndex": 1,
+          "explanation": "`as` 以下が理由を表しています。「いくつかの明らかな安全違反が報告書に含まれていなかった」のが理由で、彼の視察はどう評価された(`deemed`)のでしょうか？「いい加減だ」と評価されたに違いありません。選択肢の中で「大雑把な、ぞんざいな」を意味するのが②の `cursory` です。① `thorough` (徹底的な) や③ `detailed` (詳細な) であれば、違反が見落とされることはないはずです。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990A-008R2",
+          "questionText": "The legal department of Aperture Electronics advised its client to ------- the rental agreement, citing a serious breach of contract by the property owner.",
+          "options": ["terminate", "uphold", "draft", "propose"],
+          "correctAnswerIndex": 0,
+          "explanation": "`citing a serious breach of contract` (重大な契約違反を理由に挙げて) という部分が決定的なヒントです。家主側に契約違反があった場合、法務部(`legal department`)は賃貸契約(`rental agreement`)をどうするよう助言するでしょうか？契約を「終了させる」のが妥当ですね。正解は①の `terminate` (終わらせる) です。契約やサービスを「打ち切る」という意味で頻出の単語です。",
+          "category": "動詞"
+        },
+        {
+          "id": "990A-009R2",
+          "questionText": "Even our most experienced staff members have rarely ------- a business proposal as well-reasoned and compelling as Ms. Valeriev's.",
+          "options": ["see", "saw", "seen", "seeing"],
+          "correctAnswerIndex": 2,
+          "explanation": "文の形、特に動詞の形を問う問題です。主語は `our most experienced staff members`、動詞は `have rarely -------` と続いています。`have + 過去分詞` で現在完了形を作るというルールを思い出しましょう。`rarely` (めったに～ない) という副詞が間に入っても、このルールは変わりません。`see` の過去分詞は③の `seen` ですね。したがって、`have rarely seen` (めったに見たことがない) が正解です。",
+          "category": "動詞の形"
+        },
+        {
+          "id": "990A-010R2",
+          "questionText": "The primary purpose of tomorrow's meeting with the marketing team is to ------- the details of the upcoming social media campaign.",
+          "options": ["clarify", "complicate", "conceal", "debate"],
+          "correctAnswerIndex": 0,
+          "explanation": "会議の主な目的(primary purpose)は、来るソーシャルメディアキャンペーンの詳細(the details)をどうすることでしょうか？キャンペーンを始める前に、まずは詳細を「明確に」する必要がありますよね。正解は①の `clarify` (明確にする) です。② `complicate` (複雑にする) や③ `conceal` (隠す) は会議の目的としてありえませんね。",
+          "category": "動詞"
+        }
+      ]
+    },
+    {
+      "setId": "TOEIC_SET_2_R2",
+      "setName": "実践問題 Vol. 2 (全面改訂版)",
+      "questions": [
+        {
+          "id": "990B-011R2",
+          "questionText": "The new intern from Westwood University, Maria, proved to be extremely -------, often completing her assigned tasks ahead of schedule.",
+          "options": ["lazy", "diligent", "talkative", "rude"],
+          "correctAnswerIndex": 1,
+          "explanation": "コンマの後ろ、`often completing her assigned tasks ahead of schedule` (割り当てられた仕事をしばしば予定より早く完了させる) という部分が、インターンのマリアさんの働きぶりを具体的に説明しています。そんな彼女はどんな人物でしょうか？もちろん「勤勉な」人ですよね。正解は②の `diligent` (勤勉な) です。① `lazy` (怠惰な) は完全に逆の意味ですね。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990B-012R2",
+          "questionText": "The management at Apex Innovations decided to ------- the outdated dress code policy, which employees felt was hindering creativity.",
+          "options": ["abolish", "establish", "enforce", "follow"],
+          "correctAnswerIndex": 0,
+          "explanation": "`which employees felt was hindering creativity` (従業員が創造性を妨げていると感じていた) という関係代名詞節が、古い服装規定(`outdated dress code policy`)を説明しています。創造性の邪魔になるような規則は、経営陣としてどうするべきでしょうか？「廃止する」のが最善の策ですね。したがって、正解は①の `abolish` (廃止する) です。",
+          "category": "動詞"
+        },
+        {
+          "id": "990B-013R2",
+          "questionText": "Despite some recent volatility in the stock market, our financial advisor at Brookstone Investments remains ------- about our long-term prospects.",
+          "options": ["optimistic", "pessimistic", "neutral", "confused"],
+          "correctAnswerIndex": 0,
+          "explanation": "文頭の `Despite ...` (〜にもかかわらず) がポイントです。株価が不安定(volatility)だと、普通は将来に悲観的になりそうですが、このファイナンシャルアドバイザーは逆のようです。つまり、長期的な見通し(long-term prospects)については「楽観的」なんですね。正解は①の `optimistic` (楽観的な) です。逆接のマーカーを見つけたら、文意が「ひっくり返る」ことを予測するのが重要です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990B-014R2",
+          "questionText": "The challenger's speech was dismissed by voters as mere -------, as it lacked any concrete proposals for improving the city's infrastructure.",
+          "options": ["cure-all", "rhetoric", "insight", "honesty"],
+          "correctAnswerIndex": 1,
+          "explanation": "`as it lacked any concrete proposals` (具体的な提案を欠いていたので) という理由に注目しましょう。中身のない、口先だけの演説だった、ということです。このような、言葉は巧みでも内容が伴わない主張のことを② `rhetoric` (美辞麗句、レトリック) と言います。`mere rhetoric` (単なる美辞麗句) という形でよく使われます。",
+          "category": "名詞"
+        },
+        {
+          "id": "990B-015R2",
+          "questionText": "------- you require assistance with assembling your new bookshelf from 'Furnish Right', please do not hesitate to call our customer support line.",
+          "options": ["If", "Unless", "Although", "Therefore"],
+          "correctAnswerIndex": 0,
+          "explanation": "これはEメールや説明書でよく見かける典型的な一文です。「Furnish Right社の新しい本棚の組み立てに支援が必要な『場合は』、お客様サポートにご連絡ください」という意味ですね。「もし〜ならば」という条件を表す最も一般的な接続詞は①の `If` です。日常生活の場面を想定した問題もTOEICでは頻出です。",
+          "category": "接続詞・接続副詞"
+        },
+        {
+          "id": "990B-016R2",
+          "questionText": "The reporter's investigation into the matter revealed a surprising ------- of evidence to support the official story.",
+          "options": ["wealth", "surplus", "lack", "variety"],
+          "correctAnswerIndex": 2,
+          "explanation": "記者の調査(investigation)によって、公式発表(official story)を裏付ける証拠(evidence)がどうだったことが分かったのでしょうか。`surprising` (驚くべき) とあるので、予想外の事実が判明したようです。公式発表を裏付ける証拠が「驚くほど不足していた」と考えるのが、文脈として最も自然でジャーナリスティックですね。正解は③の `lack` (不足) です。`a lack of ~` で「〜の不足」という頻出表現です。",
+          "category": "名詞"
+        },
+        {
+          "id": "990B-017R2",
+          "questionText": "According to the company handbook, employees are required to ------- from discussing any client's confidential information in public areas.",
+          "options": ["refrain", "proceed", "benefit", "insist"],
+          "correctAnswerIndex": 0,
+          "explanation": "会社のハンドブック(company handbook)によれば、従業員は公共の場で顧客の機密情報(confidential information)を話すことをどうするべきでしょうか？もちろん「控える」べきですよね。`refrain from ~ing` で「〜するのを控える、慎む」という意味の重要な句動詞です。正解は①の `refrain` です。`be required to do` (〜することが求められている) も頻出なので要チェックです。",
+          "category": "動詞"
+        },
+        {
+          "id": "990B-018R2",
+          "questionText": "Ms. Albright, the head of the creative department, is known for her ------- feedback, which is always direct but helpful.",
+          "options": ["wordy", "complicated", "chatty", "concise"],
+          "correctAnswerIndex": 3,
+          "explanation": "クリエイティブ部長であるオルブライトさんのフィードバックは、`always direct but helpful` (いつも単刀直入だが、役に立つ) と説明されています。無駄がなく、要点を突いたフィードバックということですね。このようなスタイルを「簡潔な」と言います。正解は④の `concise` です。① `wordy` (言葉数が多い) や③ `chatty` (おしゃべりな) は逆のイメージですね。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990B-019R2",
+          "questionText": "A final agreement between the two corporations was reached last night after three weeks of ------- negotiations over the terms of the merger.",
+          "options": ["intense", "amicable", "smooth", "brief"],
+          "correctAnswerIndex": 0,
+          "explanation": "`after three weeks of ...` (3週間にわたる〜の後) や `over the terms of the merger` (合併の条件をめぐる) という表現がヒントです。合併の合意までに3週間もかかったということは、交渉は簡単ではなかったはずです。「激しい、厳しい」交渉だったと考えるのが自然ですね。したがって、正解は①の `intense` (激しい、集中的な) です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990B-020R2",
+          "questionText": "Mr. Chen tried to ------- the customer service representative to give him a full refund for the faulty toaster, even though the warranty had expired.",
+          "options": ["force", "persuade", "prevent", "forbid"],
+          "correctAnswerIndex": 1,
+          "explanation": "チェンさんは、保証(warranty)が切れていたにもかかわらず、故障したトースターの全額返金(full refund)をしてもらおうと、顧客サービスの担当者をどうしたのでしょうか？「説得しようとした」と考えるのが最も適切ですね。`persuade A to do` で「Aを説得して〜させる」という意味になります。正解は②の `persuade` です。",
+          "category": "動詞"
+        }
+      ]
+    },
+    {
+      "setId": "TOEIC_SET_3_R2",
+      "setName": "実践問題 Vol. 3 (全面改訂版)",
+      "questions": [
+        {
+          "id": "990C-021R2",
+          "questionText": "The visiting professor's lecture on quantum physics was so ------- that many non-science students in the audience had trouble following his logic.",
+          "options": ["inspiring", "disorganized", "technical", "brief"],
+          "correctAnswerIndex": 2,
+          "explanation": "文の後半 `many non-science students ... had trouble following` (多くの理系でない学生が理解に苦労した) がヒントです。なぜ苦労したのでしょうか？講義の内容が「専門的すぎた」からだと考えられますね。正解は③の `technical` (専門的な) です。② `disorganized` (まとまりのない) もネガティブな単語ですが、「理系でない学生が」という部分を考えると、内容の専門性が問題だったと推測するのがより的確です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990C-022R2",
+          "questionText": "As her first act, the newly elected mayor promised to ------- wasteful spending from the city budget.",
+          "options": ["eliminate", "introduce", "encourage", "accept"],
+          "correctAnswerIndex": 0,
+          "explanation": "新しく選ばれた市長が、市の予算から `wasteful spending` (無駄な支出) をどうすると約束したのでしょうか？当然、「なくす、根絶する」と約束するはずですよね。正解は①の `eliminate` (〜を撲滅する、根絶する) です。政治に関するトピックもTOEICでは時々扱われます。",
+          "category": "動詞"
+        },
+        {
+          "id": "990C-023R2",
+          "questionText": "------- Ms. Ito's marketing proposal was highly innovative, the board concluded that it was not financially viable at this time.",
+          "options": ["Although", "Because", "Therefore", "Unless"],
+          "correctAnswerIndex": 0,
+          "explanation": "コンマの前半「イトウさんのマーケティング案は非常に革新的だった」と、後半「役員会は現時点では財政的に実行不可能だと結論付けた」という２つの文の関係を考えましょう。良い点(innovative)と、実行できないという悪い点(not financially viable)が対比されていますね。このような「〜だけれども」という逆接を表す接続詞は①の `Although` です。",
+          "category": "接続詞・接続副詞"
+        },
+        {
+          "id": "990C-024R2",
+          "questionText": "The manager's ------- attitude toward employee suggestions, often ignoring them completely, has led to a noticeable decline in team morale.",
+          "options": ["positive", "dismissive", "attentive", "respectful"],
+          "correctAnswerIndex": 1,
+          "explanation": "コンマの間にある `often ignoring them completely` (しばしば完全に無視する) という部分が、マネージャーの態度を具体的に説明しています。提案を無視するような態度は「軽視する、はなから相手にしない」態度と言えますね。正解は②の `dismissive` です。その結果、`a decline in team morale` (チームの士気の低下) に繋がったという文脈も、この選択を裏付けています。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990C-025R2",
+          "questionText": "Based on the survey results, ------- of the residents in the Lakeside community were aware of the proposed changes to the recycling program.",
+          "options": ["few", "many", "all", "some"],
+          "correctAnswerIndex": 0,
+          "explanation": "この文は、調査結果に基づいて「リサイクル計画の変更案を知っていた地域住民は『ほとんどいなかった』」という事実を報告しています。このように、数が非常に少ない（ほぼゼロ）ことを表すのが①の `few` です。`few` 自体に否定のニュアンスが含まれているのがポイントです。`a few` と `a` がつくと「少数の」という肯定的な意味になるので、その違いもしっかり覚えておきましょう。",
+          "category": "代名詞"
+        },
+        {
+          "id": "990C-026R2",
+          "questionText": "The instruction manual for the new 'Pro-Grade' coffee machine was criticized for being too ------- for the average user to understand.",
+          "options": ["concise", "clear", "technical", "simple"],
+          "correctAnswerIndex": 2,
+          "explanation": "コーヒーメーカーの説明書が `for the average user to understand` (一般の利用者が理解するには) どうだったと批判されたのでしょうか？一般の人が理解できないということは、内容が「専門的すぎた」ということですね。正解は③の `technical` (専門的な) です。家電製品など、日常生活に関わるアイテムもTOEICの題材になります。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990C-027R2",
+          "questionText": "The founder of the charity, Ms. Gable, is widely admired for her -------, as she has donated millions to educational causes.",
+          "options": ["stinginess", "greed", "generosity", "wealth"],
+          "correctAnswerIndex": 2,
+          "explanation": "`as she has donated millions` (数百万ドルも寄付してきているので) という理由から、慈善団体の設立者であるゲーブルさんがなぜ称賛されている(`admired`)かが分かります。たくさん寄付をする人の「気前の良さ、寛大さ」が称賛されているのですね。正解は③の `generosity` です。④ `wealth` (富) は寄付ができる前提ですが、称賛されるのはその「気前の良さ」という人柄の部分です。",
+          "category": "名詞"
+        },
+        {
+          "id": "990C-028R2",
+          "questionText": "The recently discovered documents from the city archives seem to ------- the historian's controversial theory about the town's founding.",
+          "options": ["weaken", "support", "question", "disprove"],
+          "correctAnswerIndex": 1,
+          "explanation": "市の公文書館で見つかった新しい文書が、ある歴史家の物議を醸す理論(`controversial theory`)にどう影響したかを問うています。文脈上、新しい証拠は理論を「裏付ける」か「覆す」かのどちらかです。ここでは、特に否定的な意味合いを示す単語がないため、素直に「裏付ける、支持する」と考えるのが自然です。正解は②の `support` です。",
+          "category": "動詞"
+        },
+        {
+          "id": "990C-029R2",
+          "questionText": "The supervisor's ------- praise for his favorite team member, while ignoring the contributions of others, created an atmosphere of resentment.",
+          "options": ["excessive", "sincere", "rare", "brief"],
+          "correctAnswerIndex": 0,
+          "explanation": "`while ignoring the contributions of others` (他の人々の貢献は無視する一方で) という部分が大きなヒントです。お気に入りの一人だけを褒め、他を無視することがなぜ反感(`resentment`)を生むのでしょうか？その褒め方が「度を越している」からですね。正解は①の `excessive` (過度な) です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990C-030R2",
+          "questionText": "Our new software is still in its ------- stages of development, so we are actively seeking feedback from beta testers.",
+          "options": ["final", "early", "late", "completed"],
+          "correctAnswerIndex": 1,
+          "explanation": "`so we are actively seeking feedback from beta testers` (だから、ベータテスターからのフィードバックを積極的に求めている) という文がヒントです。フィードバックを求めているのは、ソフトがどの開発段階にあるからでしょうか？もちろん「初期」段階だからですよね。したがって、正解は②の `early` (初期の) です。",
+          "category": "形容詞"
+        }
+      ]
+    },
+    {
+      "setId": "TOEIC_SET_4_R2",
+      "setName": "実践問題 Vol. 4 (全面改訂版)",
+      "questions": [
+        {
+          "id": "990D-031R2",
+          "questionText": "Consumer protection groups have criticized the new service fee as an ------- measure that disproportionately affects low-income families.",
+          "options": ["unfair", "equitable", "effective", "unnecessary"],
+          "correctAnswerIndex": 0,
+          "explanation": "`that disproportionately affects low-income families` (低所得世帯に不釣り合いなほど影響を与える) という部分が、この新しいサービス料を説明しています。特定の人々に不利益をもたらすような措置は、「不公平だ」と批判されるのが自然ですね。正解は①の `unfair` (不公平な) です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990D-032R2",
+          "questionText": "The founder of Sterling Fitness, Ms. Chu, is famous for her ------- work ethic, often arriving at the gym before anyone else.",
+          "options": ["poor", "relaxed", "strong", "flexible"],
+          "correctAnswerIndex": 2,
+          "explanation": "`often arriving at the gym before anyone else` (しばしば誰よりも早くジムに到着する) という具体例が、彼女の `work ethic` (労働倫理) を示しています。誰よりも早く来るほど熱心な人は、「強い」労働倫理を持っていると言えますね。`strong work ethic` は「勤勉な姿勢」を表す決まり文句として覚えてしまいましょう。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990D-033R2",
+          "questionText": "OmniCorp's ------- into the renewable energy market five years ago has proven to be a highly profitable venture.",
+          "options": ["expansion", "withdrawal", "delay", "research"],
+          "correctAnswerIndex": 0,
+          "explanation": "OmniCorp社が5年前に再生可能エネルギー市場に対して何をしたのか、という問題です。その後の `has proven to be a highly profitable venture` (非常に利益の上がる事業だと判明した) という結果から、市場への「進出」が成功したと分かります。正解は①の `expansion` (拡大、進出) です。",
+          "category": "名詞"
+        },
+        {
+          "id": "990D-034R2",
+          "questionText": "The instructions for assembling the patio furniture were so ------- that Mr. Kim was able to complete the task in under an hour.",
+          "options": ["complex", "vague", "clear", "boring"],
+          "correctAnswerIndex": 2,
+          "explanation": "`so ... that ~` の構文です。「とても〜なので、〜という結果になった」という意味ですね。キムさんが1時間もかからずに作業を終えられた (`complete the task in under an hour`) ということは、説明書は「とても分かりやすかった」はずです。正解は③の `clear` (明快な) です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990D-035R2",
+          "questionText": "The minutes from last week's meeting are not a word-for-word transcript, but rather a ------- of the key decisions that were made.",
+          "options": ["summary", "rejection", "criticism", "question"],
+          "correctAnswerIndex": 0,
+          "explanation": "会議の議事録(minutes)は、一字一句の書き起こし(`word-for-word transcript`)ではなく、何なのでしょうか？ `but rather` (そうではなく、むしろ) という表現が対比を示しています。議事録は、通常、重要な決定事項の「要約」ですよね。正解は①の `summary` です。",
+          "category": "名詞"
+        },
+        {
+          "id": "990D-036R2",
+          "questionText": "The governor decided to ------- the controversial water usage bill, expressing concerns about its impact on local farmers.",
+          "options": ["approve", "pass", "veto", "propose"],
+          "correctAnswerIndex": 2,
+          "explanation": "知事(`governor`)が、物議を醸す法案(`controversial bill`)をどうしたか、という問題です。`expressing concerns about its impact on local farmers` (地元の農家への影響に懸念を示して) という部分がヒントです。懸念があるということは、法案には賛成できないはずです。法案を「拒否する」ことを意味する動詞は③の `veto` (拒否権を行使する) です。",
+          "category": "動詞"
+        },
+        {
+          "id": "990D-037R2",
+          "questionText": "Since the main factory closed, the once-bustling industrial town has become a mere ------- of its former self.",
+          "options": ["peak", "model", "shadow", "leader"],
+          "correctAnswerIndex": 2,
+          "explanation": "かつては賑わっていた(`once-bustling`)工業の町が、工場閉鎖後、どうなってしまったかという文です。`a shadow of its former self` は「昔の面影もない」「見る影もない」という意味の決まった言い方です。すっかり寂れてしまった様子を表します。正解は③の `shadow` です。",
+          "category": "名詞"
+        },
+        {
+          "id": "990D-038R2",
+          "questionText": "Ms. Gentry's ------- remarks about a competing product during the presentation were seen as unprofessional by several clients.",
+          "options": ["careful", "diplomatic", "tactful", "careless"],
+          "correctAnswerIndex": 3,
+          "explanation": "ジェントリーさんのプレゼン中の発言が、`unprofessional` (プロにふさわしくない) と見なされた理由を考えます。競合製品についてどんな発言をすると、プロらしくないと思われるでしょうか？「配慮に欠ける、不注意な」発言をすると、そう思われてしまいますよね。正解は④の `careless` です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990D-039R2",
+          "questionText": "The main goal of the new management team at 'Refresh Juice Co.' is to ------- the brand and appeal to a younger demographic.",
+          "options": ["weaken", "damage", "revitalize", "sell"],
+          "correctAnswerIndex": 2,
+          "explanation": "新しい経営陣の主な目標は、ブランドをどうして、より若い層(`a younger demographic`)にアピールすることでしょうか？ブランドイメージを「再活性化する」必要がありますよね。正解は③の `revitalize` (再活性化させる) です。",
+          "category": "動詞"
+        },
+        {
+          "id": "990D-040R2",
+          "questionText": "The community group is a ------- opponent of the plan to build a shopping mall on the site of the local park.",
+          "options": ["strong", "fickle", "wavering", "temporary"],
+          "correctAnswerIndex": 0,
+          "explanation": "地域の公園の敷地にショッピングモールを建設する計画に、住民グループはどんな反対者なのでしょうか？文脈上、「強力な」反対者であると考えるのが最も自然です。`strong opponent` は「強硬な反対者」という意味でよく使われる組み合わせです。正解は①の `strong` です。",
+          "category": "形容詞"
+        }
+      ]
+    },
+    {
+      "setId": "TOEIC_SET_5_R2",
+      "setName": "実践問題 Vol. 5 (全面改訂版)",
+      "questions": [
+        {
+          "id": "990E-041R2",
+          "questionText": "The professor from a rival university was publicly criticized for his ------- methods of data collection, which some called unethical.",
+          "options": ["orthodox", "conventional", "unconventional", "accepted"],
+          "correctAnswerIndex": 2,
+          "explanation": "`was publicly criticized` (公に批判された) や `which some called unethical` (非倫理的だと呼ぶ者もいた) という部分がヒントです。批判されるようなデータ収集方法とは、どんなものでしょうか？「一般的ではない、型破りな」方法だと考えられますね。正解は③の `unconventional` (型にはまらない) です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990E-042R2",
+          "questionText": "Making loud personal phone calls in the quiet zone of the train is considered ------- behavior by most commuters.",
+          "options": ["polite", "appropriate", "inappropriate", "sophisticated"],
+          "correctAnswerIndex": 2,
+          "explanation": "電車の静かな車両(`quiet zone`)で大声で私用の電話をすることは、ほとんどの通勤者(`commuters`)にとってどんな行動だと考えられるでしょうか？もちろん「不適切な」行動ですよね。正解は③の `inappropriate` (不適切な) です。日常生活のマナーを問う、TOEICらしい問題です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990E-043R2",
+          "questionText": "The project manager's ------- to effectively delegate tasks to her team members resulted in several missed deadlines.",
+          "options": ["willingness", "eagerness", "inability", "skill"],
+          "correctAnswerIndex": 2,
+          "explanation": "`resulted in several missed deadlines` (いくつかの締め切り遅れという結果につながった) というネガティブな結果がヒントです。プロジェクトマネージャーが仕事を効果的に委任(`delegate tasks`)することが『できなかったこと』が原因だと考えられます。正解は③の `inability` (できないこと、無能力) です。",
+          "category": "名詞"
+        },
+        {
+          "id": "990E-044R2",
+          "questionText": "During his presentation, the guest speaker started to ------- from the main topic, which caused some confusion among the audience.",
+          "options": ["digress", "focus", "concentrate", "stick"],
+          "correctAnswerIndex": 0,
+          "explanation": "`which caused some confusion among the audience` (それが聴衆の間に若干の混乱を引き起こした) という部分がヒントです。話者が本題から「脱線した」ために、聴衆が混乱してしまったのですね。正解は①の `digress` (本題から逸れる、脱線する) です。",
+          "category": "動詞"
+        },
+        {
+          "id": "990E-045R2",
+          "questionText": "The new 'Kleen-Up 5000' vacuum cleaner has shown ------- potential for becoming the best-selling product in its category this year.",
+          "options": ["enormous", "limited", "no", "some"],
+          "correctAnswerIndex": 0,
+          "explanation": "新しい掃除機が、今年のベストセラーになる可能性(`potential`)について述べています。文脈上、特別な理由がなければ、その可能性は「非常に大きい」と表現するのが自然です。正解は①の `enormous` (莫大な、巨大な) です。架空の製品名が出てくるのもTOEICの特徴です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990E-046R2",
+          "questionText": "When questioned by journalists about the sensitive negotiations, the minister gave a very ------- and carefully worded response.",
+          "options": ["reckless", "aggressive", "cautious", "hostile"],
+          "correctAnswerIndex": 2,
+          "explanation": "大臣(`minister`)が、機微に触れる交渉(`sensitive negotiations`)について記者から質問された際の対応です。`carefully worded response` (注意深く言葉を選んだ返答) とあることから、その態度は「慎重だった」と分かりますね。正解は③の `cautious` (慎重な、用心深い) です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990E-047R2",
+          "questionText": "The planned ------- of the two tech startups, Innovate AI and Quantum Leap, is expected to be finalized by the end of the year.",
+          "options": ["separation", "division", "merger", "decline"],
+          "correctAnswerIndex": 2,
+          "explanation": "2つのハイテク系新興企業(`tech startups`)がどうなる計画なのでしょうか？文脈から、2社が1つになる「合併」を計画していると考えるのが自然です。正解は③の `merger` (合併) です。",
+          "category": "名詞"
+        },
+        {
+          "id": "990E-048R2",
+          "questionText": "Despite a very competitive market, our sales team was able to ------- a major contract with the city government.",
+          "options": ["lose", "prevent", "secure", "cancel"],
+          "correctAnswerIndex": 2,
+          "explanation": "`Despite a very competitive market` (非常に競争の激しい市場にもかかわらず) という逆接の表現がヒントです。競争は激しかったけれど、営業チームは市政府との大きな契約(`a major contract`)をどうすることができたのでしょうか？「確保することができた」と考えるのが自然ですね。正解は③の `secure` (確保する、獲得する) です。",
+          "category": "動詞"
+        },
+        {
+          "id": "990E-049R2",
+          "questionText": "The marketing campaign for 'Sparkle Soda', while visually appealing, was ultimately unsuccessful because it was based on ------- logic about consumer behavior.",
+          "options": ["sound", "flawed", "solid", "valid"],
+          "correctAnswerIndex": 1,
+          "explanation": "`while visually appealing` (見た目は魅力的だったが) や `was ultimately unsuccessful` (最終的には失敗した) という部分から、キャンペーンには何か問題があったことが分かります。消費者行動に関するその論理(`logic`)に「欠陥があった」のですね。正解は②の `flawed` (欠陥のある) です。",
+          "category": "形容詞"
+        },
+        {
+          "id": "990E-050R2",
+          "questionText": "In anticipation of the busy holiday season, the online retailer 'ShopFast' decided to temporarily ------- its customer service team with additional staff.",
+          "options": ["reduce", "strengthen", "weaken", "cut"],
+          "correctAnswerIndex": 1,
+          "explanation": "忙しいホリデーシーズン(`busy holiday season`)を見越して、オンライン小売業者のShopFast社は、顧客サービスチームをどうするでしょうか？追加のスタッフ(`additional staff`)でチームを「強化する」のが当然の判断ですよね。正解は②の `strengthen` (強化する) です。",
+          "category": "動詞"
+        }
+      ]
+    }
+  ]
+}

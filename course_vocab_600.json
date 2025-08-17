@@ -1,0 +1,1774 @@
+        {
+          "quizSets": [
+            {
+              "setId": "VOCAB_600_SET_1",
+              "setName": "必須単語 Vol. 1",
+              "order": 1,
+              "questions": [
+                {
+                  "id": "VOCAB-600-001",
+                  "questionText": "You can ------- for the position online through our company website.",
+                  "options": ["supply", "reply", "apply", "imply"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】空所の後ろに 'for the position' (その職に) とあることから、「応募する」という意味を持つ (C) 'apply' が最も適切です。'apply for ~' は「〜に応募する、〜を申請する」という頻出表現です。\n【不正解の選択肢】\nA) supply: 供給する\nB) reply: 返信する\nD) imply: ほのめかす",
+                  "word": "apply",
+                  "meaning": "【動】\n1. (〜に)応募する, 申し込む (for/to)\n2. (〜に)適用する, 応用する (to)\n3. (薬やクリームなどを)塗る (to)",
+                  "exampleSentence": "The new safety regulations will apply to all employees.",
+                  "exampleSentenceTranslation": "新しい安全規則は、全従業員に適用されます。",
+                  "relatedExpressions": [
+                    "application (名: 応募、申請、適用)",
+                    "applicant (名: 応募者)",
+                    "applicable (形: 適用できる)",
+                    "apply for a job (仕事に応募する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-002",
+                  "questionText": "The conference room is ------- on Friday afternoon.",
+                  "options": ["avoidable", "available", "valuable", "visible"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】文脈は「会議室は金曜の午後、〜です」となり、「利用できる、空いている」を意味する (B) 'available' が最も適切です。\n【不正解の選択肢】\nA) avoidable: 避けられる\nC) valuable: 価値のある\nD) visible: 目に見える",
+                  "word": "available",
+                  "meaning": "【形】\n1. (物が)利用できる, 入手できる\n2. (人が)時間が空いている, 手が空いている",
+                  "exampleSentence": "Is Mr. Sato available for a brief meeting this afternoon?",
+                  "exampleSentenceTranslation": "佐藤さんは今日の午後、短いミーティングの時間はありますか？",
+                  "relatedExpressions": [
+                    "availability (名: 利用できること、空き状況)",
+                    "be available for ~ (~に利用できる)",
+                    "currently available (現在利用可能)",
+                    "readily available (すぐに利用できる)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-003",
+                  "questionText": "Please ------- your expense reports by the end of the month.",
+                  "options": ["admit", "permit", "commit", "submit"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】目的語が 'your expense reports' (経費報告書) なので、「提出する」という意味の (D) 'submit' が正解です。\n【不正解の選択肢】\nA) admit: 認める\nB) permit: 許可する\nC) commit: (罪などを)犯す、約束する",
+                  "word": "submit",
+                  "meaning": "【動】\n1. (書類・申請などを)提出する\n2. (〜に)服従する, 屈する (to)",
+                  "exampleSentence": "All participants must submit to a security check before entering the venue.",
+                  "exampleSentenceTranslation": "すべての参加者は、会場に入る前にセキュリティチェックを受けなければなりません。",
+                  "relatedExpressions": [
+                    "submission (名: 提出、服従)",
+                    "submit a report (報告書を提出する)",
+                    "submit an application (申込書を提出する)",
+                    "submit a proposal (提案書を提出する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-004",
+                  "questionText": "All employees are required to ------- the annual safety training session.",
+                  "options": ["attend", "extend", "intend", "pretend"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】目的語が 'the annual safety training session' (年次の安全研修会) なので、「〜に出席する」という意味の (A) 'attend' が適切です。\n【不正解の選択肢】\nB) extend: 延長する\nC) intend: 意図する\nD) pretend: ふりをする",
+                  "word": "attend",
+                  "meaning": "【動】\n1. (会議・学校・イベントなどに)出席する, 参加する\n2. (〜に)注意を払う, 専念する (to)\n3. (〜の)世話をする, 看病する (to)",
+                  "exampleSentence": "The doctor is attending to an emergency patient right now.",
+                  "exampleSentenceTranslation": "その医師はただいま、救急患者の対応をしています。",
+                  "relatedExpressions": [
+                    "attendance (名: 出席)",
+                    "attendee (名: 出席者)",
+                    "attend a meeting (会議に出席する)",
+                    "attend to a customer (顧客に対応する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-005",
+                  "questionText": "I'd like to make a ------- for two people at 7 p.m. tonight.",
+                  "options": ["preservation", "observation", "conversation", "reservation"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'make a ~' の形で「予約をする」という文脈に合うのは (D) 'reservation' です。'make a reservation' は頻出の定型表現です。\n【不正解の選択肢】\nA) preservation: 保存\nB) observation: 観察\nC) conversation: 会話",
+                  "word": "reservation",
+                  "meaning": "【名】\n1. 予約\n2. (計画などに対する)懸念, ためらい (have reservations about ~)",
+                  "exampleSentence": "I have some reservations about accepting their offer without careful consideration.",
+                  "exampleSentenceTranslation": "慎重に検討せずに彼らの申し出を受け入れることには、いくつか懸念があります。",
+                  "relatedExpressions": [
+                    "reserve (動: 予約する)",
+                    "make a reservation (予約をする)",
+                    "cancel a reservation (予約をキャンセルする)",
+                    "confirm a reservation (予約を確認する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-006",
+                  "questionText": "If you have any questions, please do not hesitate to ------- us.",
+                  "options": ["contract", "contact", "contrast", "contain"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】文脈から「私たちに〜するのをためらわないでください」となり、「連絡する」という意味の (B) 'contact' が最も自然です。\n【不正解の選択肢】\nA) contract: 契約する、(病気に)かかる\nC) contrast: 対照をなす\nD) contain: 含む",
+                  "word": "contact",
+                  "meaning": "【動】〜に連絡する\n【名】連絡, 接触, 人脈",
+                  "exampleSentence": "Do you have a contact at the city hall who can help us?",
+                  "exampleSentenceTranslation": "市役所で私たちを助けてくれるようなコネ（人脈）はありますか？",
+                  "relatedExpressions": [
+                    "contact information (連絡先情報)",
+                    "get in contact with ~ (~と連絡を取る)",
+                    "emergency contact (緊急連絡先)",
+                    "point of contact (連絡窓口)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-007",
+                  "questionText": "The finance department issued an ------- for the services rendered.",
+                  "options": ["advice", "device", "voice", "invoice"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'issued' (発行した) と 'for the services' (サービスに対して) という文脈から、「請求書」を意味する (D) 'invoice' が正解です。\n【不正解の選択肢】\nA) advice: 助言\nB) device: 装置\nC) voice: 声",
+                  "word": "invoice",
+                  "meaning": "【名】請求書, 送り状\n【動】〜に請求書を送る",
+                  "exampleSentence": "We will invoice you for the repair costs next week.",
+                  "exampleSentenceTranslation": "修理費用については来週、請求書をお送りします。",
+                  "relatedExpressions": [
+                    "issue an invoice (請求書を発行する)",
+                    "pay an invoice (請求書を支払う)",
+                    "invoice number (請求書番号)",
+                    "pro forma invoice (仮請求書)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-008",
+                  "questionText": "Our hotel aims to ------- guests with a comfortable and relaxing stay.",
+                  "options": ["divide", "provide", "hide", "decide"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'provide A with B' (AにBを提供する) という構文に合うのは (B) 'provide' です。ここではAが 'guests'、Bが 'a comfortable and relaxing stay' にあたります。\n【不正解の選択肢】\nA) divide: 分ける\nC) hide: 隠す\nD) decide: 決める",
+                  "word": "provide",
+                  "meaning": "【動】\n1. (〜を)提供する, 供給する (provide A with B / provide B for A)\n2. (法律・規則などが〜を)規定する (for)",
+                  "exampleSentence": "The law provides for a minimum wage to protect workers.",
+                  "exampleSentenceTranslation": "その法律は労働者を保護するために最低賃金を規定している。",
+                  "relatedExpressions": [
+                    "provision (名: 供給、規定)",
+                    "provider (名: 供給者)",
+                    "provide support (支援を提供する)",
+                    "provide information (情報を提供する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-009",
+                  "questionText": "You can ------- a copy of the report by filling out this form.",
+                  "options": ["require", "acquire", "inquire", "request"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】文脈は「この用紙に記入することで、報告書のコピーを〜できる」となり、「要請する、求める」を意味する (D) 'request' が最適です。\n【不正解の選択肢】\nA) require: 必要とする\nB) acquire: 獲得する\nC) inquire: 尋ねる",
+                  "word": "request",
+                  "meaning": "【動】〜を要請する, 頼む\n【名】要請, 依頼",
+                  "exampleSentence": "All requests for vacation must be submitted two weeks in advance.",
+                  "exampleSentenceTranslation": "休暇の申請はすべて、2週間前までに提出されなければなりません。",
+                  "relatedExpressions": [
+                    "make a request (要請する)",
+                    "at the request of ~ (~の要請で)",
+                    "upon request (要請があり次第)",
+                    "special request (特別な依頼)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-010",
+                  "questionText": "The ------- for this project is next Friday, so we must work efficiently.",
+                  "options": ["headline", "guideline", "deadline", "timeline"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】文脈から「このプロジェクトの〜は来週の金曜日だ」となり、「締め切り」を意味する (C) 'deadline' が入ります。\n【不正解の選択肢】\nA) headline: 見出し\nB) guideline: 指針\nD) timeline: 予定表",
+                  "word": "deadline",
+                  "meaning": "【名】締め切り, 最終期限",
+                  "exampleSentence": "We are working against a very tight deadline.",
+                  "exampleSentenceTranslation": "私たちは非常に厳しい締め切りに追われて作業しています。",
+                  "relatedExpressions": [
+                    "meet the deadline (締め切りに間に合わせる)",
+                    "miss the deadline (締め切りに間に合わない)",
+                    "extend the deadline (締め切りを延長する)",
+                    "set a deadline (締め切りを設定する)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_2",
+              "setName": "必須単語 Vol. 2",
+              "order": 2,
+              "questions": [
+                {
+                  "id": "VOCAB-600-011",
+                  "questionText": "The CEO will ------- the company's quarterly earnings tomorrow morning.",
+                  "options": ["denounce", "pronounce", "announce", "renounce"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】文脈は「CEOが会社の四半期収益を〜する」となり、「公に発表する」という意味の (C) 'announce' が正解です。選択肢は語尾の音が似ている単語で構成されています。\n【不正解の選択肢】\nA) denounce: 非難する\nB) pronounce: 発音する\nD) renounce: 放棄する",
+                  "word": "announce",
+                  "meaning": "【動】\n1. (〜を)公に発表する, 告知する\n2. (人の到着などを)告げる",
+                  "exampleSentence": "The butler announced the arrival of the guests.",
+                  "exampleSentenceTranslation": "執事は来客の到着を告げた。",
+                  "relatedExpressions": [
+                    "announcement (名: 発表)",
+                    "announcer (名: アナウンサー)",
+                    "make an announcement (発表する)",
+                    "formally announce (正式に発表する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-012",
+                  "questionText": "For ------- information, please visit our website.",
+                  "options": ["addition", "additionally", "additional", "added"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】空所の後ろにある名詞 'information' を修飾するため、形容詞の (C) 'additional' (追加の) が正解です。\n【不正解の選択肢】\nA) addition: (名) 追加\nB) additionally: (副) さらに\nD) added: (動詞addの過去形・過去分詞)",
+                  "word": "additional",
+                  "meaning": "【形】追加の, 付加的な",
+                  "exampleSentence": "There is an additional charge for room service.",
+                  "exampleSentenceTranslation": "ルームサービスには追加料金がかかります。",
+                  "relatedExpressions": [
+                    "add (動: 加える)",
+                    "addition (名: 追加)",
+                    "in addition (to ~) (〜に加えて)",
+                    "additional fee (追加料金)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-013",
+                  "questionText": "Mr. Smith is ------- for managing the entire marketing team.",
+                  "options": ["responsible", "responsive", "response", "respond"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】'be ... for ~' の形で「〜の責任がある、〜を担当している」という意味になるのは、(A) 'responsible' です。'be responsible for ~' は頻出表現です。\n【不正解の選択肢】\nB) responsive: (形) 反応が速い\nC) response: (名) 返答\nD) respond: (動) 返答する",
+                  "word": "responsible",
+                  "meaning": "【形】\n1. (〜に対して)責任がある (for)\n2. (〜の原因である) (for)",
+                  "exampleSentence": "A mechanical failure was responsible for the train delay.",
+                  "exampleSentenceTranslation": "機械の故障がその電車の遅延の原因だった。",
+                  "relatedExpressions": [
+                    "responsibility (名: 責任)",
+                    "be responsible for (~の責任を負う)",
+                    "hold someone responsible (〜に責任を負わせる)",
+                    "socially responsible (社会的に責任のある)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-014",
+                  "questionText": "Did you ------- the e-mail I sent you yesterday?",
+                  "options": ["perceive", "deceive", "conceive", "receive"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】文脈は「私が昨日送ったEメールを〜しましたか？」となり、「受け取る」という意味の (D) 'receive' が正解です。選択肢は語尾が '-ceive' で揃えられています。\n【不正解の選択肢】\nA) perceive: 知覚する\nB) deceive: だます\nC) conceive: 思いつく",
+                  "word": "receive",
+                  "meaning": "【動】\n1. 〜を受け取る\n2. (客などを)迎える",
+                  "exampleSentence": "The new hotel is ready to receive its first guests.",
+                  "exampleSentenceTranslation": "その新しいホテルは、最初の客を迎える準備ができています。",
+                  "relatedExpressions": [
+                    "reception (名: 受付、歓迎会)",
+                    "receipt (名: 領収書)",
+                    "receiver (名: 受取人、受話器)",
+                    "receive an award (賞を受け取る)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-015",
+                  "questionText": "The flight is ------- to depart at 10:00 AM.",
+                  "options": ["scheduling", "scheduled", "schedule", "schedules"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'be ... to do' の形で「〜する予定である」という意味になるのは、過去分詞の (B) 'scheduled' です。'be scheduled to do' は定型表現です。\n【不正解の選択肢】\nA) scheduling: (動名詞) スケジュールを立てること\nC) schedule: (名/動詞原形) 予定\nD) schedules: (名詞複数形/動詞三単現)",
+                  "word": "scheduled",
+                  "meaning": "【形】予定されている",
+                  "exampleSentence": "The next scheduled maintenance is on June 10th.",
+                  "exampleSentenceTranslation": "次の予定されているメンテナンスは6月10日です。",
+                  "relatedExpressions": [
+                    "schedule (名: 予定 / 動: 予定を組む)",
+                    "be scheduled to do (~する予定だ)",
+                    "ahead of schedule (予定より早く)",
+                    "behind schedule (予定より遅れて)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-016",
+                  "questionText": "The tour package will ------- accommodation, meals, and transportation.",
+                  "options": ["exclude", "conclude", "include", "preclude"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】文脈は「そのツアーパッケージは宿泊、食事、交通機関を〜する」となり、「含む」を意味する (C) 'include' が正解です。\n【不正解の選択肢】\nA) exclude: 除外する\nB) conclude: 結論づける\nD) preclude: 妨げる",
+                  "word": "include",
+                  "meaning": "【動】〜を含む, 含める",
+                  "exampleSentence": "Please remember to include your signature on the last page.",
+                  "exampleSentenceTranslation": "最後のページに署名を含めることを忘れないでください。",
+                  "relatedExpressions": [
+                    "including (前: 〜を含めて)",
+                    "inclusive (形: 全てを含んだ)",
+                    "exclude (対: 除外する)",
+                    "tax included (税込み)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-017",
+                  "questionText": "Could you please ------- your attendance by the end of the day?",
+                  "options": ["conform", "confront", "confirm", "confine"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】目的語が 'your attendance' (あなたの出席) なので、「確認する」という意味の (C) 'confirm' が最も適切です。\n【不正解の選択肢】\nA) conform: (規則などに)従う\nB) confront: 直面する\nD) confine: 限定する",
+                  "word": "confirm",
+                  "meaning": "【動】\n1. (〜を)確認する\n2. (予約などを)確定する",
+                  "exampleSentence": "We will send you an email to confirm your order has been shipped.",
+                  "exampleSentenceTranslation": "ご注文の商品が発送されたことを確定するため、Eメールをお送りします。",
+                  "relatedExpressions": [
+                    "confirmation (名: 確認)",
+                    "confirm a reservation (予約を確認する)",
+                    "confirm an appointment (約束を確認する)",
+                    "written confirmation (書面での確認)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-018",
+                  "questionText": "Our top priority is ------- satisfaction.",
+                  "options": ["custom", "costume", "customer", "customize"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】空所の後ろの 'satisfaction' (満足) と結びついて「顧客満足」という複合名詞を作るのは、(C) 'customer' (顧客) です。\n【不正解の選択肢】\nA) custom: (名) 税関、慣習\nB) costume: (名) 衣装\nD) customize: (動) カスタマイズする",
+                  "word": "customer",
+                  "meaning": "【名】顧客, 客",
+                  "exampleSentence": "A regular customer at our cafe gets a free coffee on their 10th visit.",
+                  "exampleSentenceTranslation": "当カフェの常連客は、10回目の来店でコーヒーが1杯無料になります。",
+                  "relatedExpressions": [
+                    "customer service (顧客サービス)",
+                    "customer satisfaction (顧客満足度)",
+                    "potential customer (見込み客)",
+                    "loyal customer (常連客)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-019",
+                  "questionText": "We have placed an ------- for 50 new computers.",
+                  "options": ["offer", "order", "effort", "error"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'place an ... for ~' の形で「〜の注文をする」という定型表現になるのは、(B) 'order' (注文) です。\n【不正解の選択肢】\nA) offer: (名) 申し出\nC) effort: (名) 努力\nD) error: (名) 誤り",
+                  "word": "order",
+                  "meaning": "【名】\n1. 注文\n2. 順序, 整理\n3. 命令\n【動】\n1. 〜を注文する\n2. 〜を命令する",
+                  "exampleSentence": "Please arrange the files in alphabetical order.",
+                  "exampleSentenceTranslation": "ファイルをアルファベット順に整理してください。",
+                  "relatedExpressions": [
+                    "place an order (注文する)",
+                    "in order to do (~するために)",
+                    "out of order (故障中)",
+                    "purchase order (注文書)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-020",
+                  "questionText": "The final report is ------- next Monday.",
+                  "options": ["dew", "do", "due", "duo"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'be ...' の後ろに続いて「提出期限である」という意味になるのは、形容詞の (C) 'due' です。選択肢は同音異義語・類音語です。\n【不正解の選択肢】\nA) dew: (名) 露\nB) do: (動) する\nD) duo: (名) 二人組",
+                  "word": "due",
+                  "meaning": "【形】\n1. (〜が)期日である, 支払われるべき\n2. (〜する)予定である (to do)\n【名】\n会費 (通例複数形 dues)",
+                  "exampleSentence": "The train is due to arrive at 3:15 p.m.",
+                  "exampleSentenceTranslation": "その電車は午後3時15分に到着予定です。",
+                  "relatedExpressions": [
+                    "due date (締め切り日)",
+                    "due to ~ (~が原因で)",
+                    "in due course (やがて、そのうち)",
+                    "overdue (期限切れの)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_3",
+              "setName": "必須単語 Vol. 3",
+              "order": 3,
+              "questions": [
+                {
+                  "id": "VOCAB-600-021",
+                  "questionText": "The weekly staff ------- will be held in Conference Room 3.",
+                  "options": ["greeting", "seating", "meeting", "eating"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'staff ...' の形で「スタッフ会議」という複合名詞になるのは (B) 'meeting' です。\n【不正解の選択肢】\nA) greeting: 挨拶\nB) seating: 座席配置\nD) eating: 食事",
+                  "word": "meeting",
+                  "meaning": "【名】会議, 打ち合わせ, 会合",
+                  "exampleSentence": "I have a chance meeting with an old friend at the supermarket.",
+                  "exampleSentenceTranslation": "スーパーで旧友との偶然の出会いがありました。",
+                  "relatedExpressions": [
+                    "meet (動: 会う)",
+                    "hold a meeting (会議を開く)",
+                    "attend a meeting (会議に出席する)",
+                    "board meeting (役員会)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-022",
+                  "questionText": "Due to a scheduling conflict, we have to ------- the event until next month.",
+                  "options": ["propose", "expose", "oppose", "postpone"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'until next month' (来月まで) という表現から、「延期する」という意味の (D) 'postpone' が最も適切です。\n【不正解の選択肢】\nA) propose: 提案する\nB) expose: さらす\nC) oppose: 反対する",
+                  "word": "postpone",
+                  "meaning": "【動】〜を延期する",
+                  "exampleSentence": "They decided to postpone making a decision until they had more information.",
+                  "exampleSentenceTranslation": "彼らはもっと情報が得られるまで、決定を下すのを延期することに決めた。",
+                  "relatedExpressions": [
+                    "postponement (名: 延期)",
+                    "put off (句動詞: 延期する)",
+                    "postpone a meeting (会議を延期する)",
+                    "postpone a decision (決定を延期する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-023",
+                  "questionText": "Any ------- over $500 requires approval from a manager.",
+                  "options": ["purchase", "purpose", "pursue", "pure"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】「500ドルを超える〜は承認が必要だ」という文脈に合うのは、「購入」を意味する名詞の (A) 'purchase' です。\n【不正解の選択肢】\nB) purpose: (名) 目的\nC) pursue: (動) 追求する\nD) pure: (形) 純粋な",
+                  "word": "purchase",
+                  "meaning": "【名】購入, 購入品\n【動】〜を購入する",
+                  "exampleSentence": "The company will purchase new computers for all employees.",
+                  "exampleSentenceTranslation": "その会社は全従業員のために新しいコンピュータを購入する予定です。",
+                  "relatedExpressions": [
+                    "make a purchase (購入する)",
+                    "proof of purchase (購入証明)",
+                    "purchase order (注文書)",
+                    "purchasing department (購買部)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-024",
+                  "questionText": "The new company policy applies to all -------.",
+                  "options": ["employers", "employees", "employment", "employable"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】「新しい会社の方針は全ての〜に適用される」という文脈で、「従業員」を意味する (B) 'employees' が適切です。'all' の後なので複数形になります。\n【不正解の選択肢】\nA) employers: (名) 雇用主（複数形）\nC) employment: (名) 雇用（不可算）\nD) employable: (形) 雇用されうる",
+                  "word": "employee",
+                  "meaning": "【名】従業員, 社員",
+                  "exampleSentence": "The company has over 500 employees worldwide.",
+                  "exampleSentenceTranslation": "その会社は世界中に500人以上の従業員を抱えています。",
+                  "relatedExpressions": [
+                    "employer (名: 雇用主)",
+                    "employ (動: 雇う)",
+                    "employment (名: 雇用)",
+                    "full-time employee (正社員)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-025",
+                  "questionText": "The job ------- at least three years of experience in a related field.",
+                  "options": ["acquires", "inquires", "requires", "retires"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「その仕事は最低3年の経験を〜する」という文脈で、「必要とする、要求する」という意味の (C) 'requires' が正解です。主語 'The job' が三人称単数なので -s が付きます。\n【不正解の選択肢】\nA) acquires: 獲得する\nB) inquires: 尋ねる\nD) retires: 退職する",
+                  "word": "require",
+                  "meaning": "【動】〜を必要とする, 要求する",
+                  "exampleSentence": "All visitors are required to wear a badge.",
+                  "exampleSentenceTranslation": "すべての訪問者はバッジを着用することが求められます。",
+                  "relatedExpressions": [
+                    "requirement (名: 必要条件)",
+                    "be required to do (~することが要求される)",
+                    "meet the requirements (要件を満たす)",
+                    "require assistance (助けを必要とする)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-026",
+                  "questionText": "We have received your ------- and will process your request shortly.",
+                  "options": ["invitation", "information", "imagination", "installation"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】「あなたの〜を受け取り、ご依頼を処理します」という文脈から、「情報」を意味する (B) 'information' が最も適切です。'information' は不可算名詞（数えられない名詞）である点も重要です。\n【不正解の選択肢】\nA) invitation: 招待\nC) imagination: 想像力\nD) installation: 設置",
+                  "word": "information",
+                  "meaning": "【名】情報（不可算名詞）",
+                  "exampleSentence": "For further information, please contact our customer service center.",
+                  "exampleSentenceTranslation": "さらなる情報については、当社のカスタマーサービスセンターにご連絡ください。",
+                  "relatedExpressions": [
+                    "inform (動: 知らせる)",
+                    "informative (形: 有益な)",
+                    "a piece of information (一つの情報)",
+                    "information desk (案内所)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-027",
+                  "questionText": "Management will ------- the budget proposal next week.",
+                  "options": ["preview", "interview", "view", "review"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】目的語が 'the budget proposal' (予算案) なので、「見直す、再検討する」という意味の (D) 'review' が正解です。\n【不正解の選択肢】\nA) preview: 下見する\nB) interview: 面接する\nC) view: 見る",
+                  "word": "review",
+                  "meaning": "【動】〜を見直す, 再検討する, 批評する\n【名】再検討, 批評, 復習",
+                  "exampleSentence": "The critic wrote a positive review of the new restaurant.",
+                  "exampleSentenceTranslation": "その評論家は、その新しいレストランについて好意的な批評を書いた。",
+                  "relatedExpressions": [
+                    "performance review (業績評価)",
+                    "customer review (顧客レビュー)",
+                    "under review (検討中)",
+                    "review a contract (契約書を見直す)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-028",
+                  "questionText": "Please forward this memo to the head of the accounting -------.",
+                  "options": ["apartment", "department", "agreement", "appointment"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'accounting ...' の形で「経理部」という部署名になるのは (B) 'department' です。\n【不正解の選択肢】\nA) apartment: アパート\nC) agreement: 合意\nD) appointment: 予約、約束",
+                  "word": "department",
+                  "meaning": "【名】(会社・大学などの)部, 課, 学科, (デパートなどの)売り場",
+                  "exampleSentence": "She works in the shoe department of a large department store.",
+                  "exampleSentenceTranslation": "彼女は大きなデパートの靴売り場で働いています。",
+                  "relatedExpressions": [
+                    "department store (百貨店)",
+                    "sales department (営業部)",
+                    "human resources department (人事部)",
+                    "department head (部長)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-029",
+                  "questionText": "We encourage all staff to ------- in the upcoming workshop.",
+                  "options": ["anticipate", "participate", "emancipate", "principate"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'... in ~' の形で「〜に参加する」という意味の句動詞を作るのは (B) 'participate' です。'participate in ~' は頻出表現です。\n【不正解の選択肢】\nA) anticipate: 予期する\nC) emancipate: 解放する\nD) principate: 存在しない単語",
+                  "word": "participate",
+                  "meaning": "【動】(〜に)参加する (in)",
+                  "exampleSentence": "Everyone in the class is expected to participate actively in discussions.",
+                  "exampleSentenceTranslation": "クラスの全員が、議論に積極的に参加することが期待されています。",
+                  "relatedExpressions": [
+                    "participation (名: 参加)",
+                    "participant (名: 参加者)",
+                    "participate in a conference (会議に参加する)",
+                    "take part in (~に参加する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-030",
+                  "questionText": "The company will launch a new ------- line next spring.",
+                  "options": ["project", "progress", "product", "process"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'new ... line' の形で「新しい製品ライン」という意味になるのは (C) 'product' (製品) です。\n【不正解の選択肢】\nA) project: プロジェクト\nB) progress: 進歩\nD) process: 過程",
+                  "word": "product",
+                  "meaning": "【名】製品, 生産物",
+                  "exampleSentence": "This cleaning spray is a natural product, free from harsh chemicals.",
+                  "exampleSentenceTranslation": "この洗浄スプレーは、きつい化学物質を含まない天然の製品です。",
+                  "relatedExpressions": [
+                    "produce (動: 生産する / 名: 農産物)",
+                    "production (名: 生産)",
+                    "productive (形: 生産的な)",
+                    "product development (製品開発)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_4",
+              "setName": "必須単語 Vol. 4",
+              "order": 4,
+              "questions": [
+                {
+                  "id": "VOCAB-600-031",
+                  "questionText": "Our main ------- is located in downtown Tokyo.",
+                  "options": ["officer", "official", "offer", "office"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'main ...' の形で「本社」という意味になるのは、(D) 'office' (事務所、会社) です。\n【不正解の選択肢】\nA) officer: 役員、警官\nB) official: (形)公式の, (名)職員\nC) offer: 申し出",
+                  "word": "office",
+                  "meaning": "【名】事務所, 会社, 職場",
+                  "exampleSentence": "I'll be out of the office until next Monday.",
+                  "exampleSentenceTranslation": "来週の月曜日までオフィスを不在にします。",
+                  "relatedExpressions": [
+                    "head office (本社)",
+                    "branch office (支社)",
+                    "office supplies (事務用品)",
+                    "box office (チケット売り場)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-032",
+                  "questionText": "We regret to inform you that the flight has been ------- due to bad weather.",
+                  "options": ["concealed", "counseled", "canceled", "consulted"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「フライトが悪天候のため〜になった」という文脈で、「中止された、欠航になった」を意味する (C) 'canceled' が正解です。'has been ...' の受け身の形なので過去分詞形が使われます。\n【不正解の選択肢】\nA) concealed: 隠された\nB) counseled: 助言された\nD) consulted: 相談された",
+                  "word": "cancel",
+                  "meaning": "【動】〜を中止する, 取り消す",
+                  "exampleSentence": "If you don't confirm your reservation, the hotel may cancel it.",
+                  "exampleSentenceTranslation": "予約の確認をしないと、ホテルはそれを取り消すかもしれません。",
+                  "relatedExpressions": [
+                    "cancellation (名: 中止、取り消し)",
+                    "cancel a reservation (予約を取り消す)",
+                    "cancel an order (注文を取り消す)",
+                    "cancellation fee (キャンセル料)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-033",
+                  "questionText": "The ------- of computer parts is expected to arrive tomorrow.",
+                  "options": ["shipment", "agreement", "payment", "statement"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】「コンピューター部品の〜が明日到着予定だ」という文脈に合うのは、「発送品、積荷」を意味する (A) 'shipment' です。\n【不正解の選択肢】\nB) agreement: 合意\nC) payment: 支払い\nD) statement: 声明、明細書",
+                  "word": "shipment",
+                  "meaning": "【名】発送, 輸送, 輸送貨物",
+                  "exampleSentence": "We offer free shipment on all orders over $50.",
+                  "exampleSentenceTranslation": "50ドル以上のご注文はすべて送料無料です。",
+                  "relatedExpressions": [
+                    "ship (動: 発送する)",
+                    "shipping (名: 発送)",
+                    "track a shipment (荷物を追跡する)",
+                    "shipment status (発送状況)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-034",
+                  "questionText": "If you are not satisfied with the product, you can ------- it for a full refund.",
+                  "options": ["detain", "retain", "contain", "return"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'for a full refund' (全額返金のために) という表現から、「返却する」を意味する (D) 'return' が正解です。\n【不正解の選択肢】\nA) detain: 引き留める\nB) retain: 保持する\nC) contain: 含む",
+                  "word": "return",
+                  "meaning": "【動】\n1. 〜を返す, 返却する\n2. 戻る\n【名】\n1. 返却, 返品\n2. 収益, 利益",
+                  "exampleSentence": "The company hopes to see a high return on its investment.",
+                  "exampleSentenceTranslation": "その会社は、その投資に対して高い収益を期待している。",
+                  "relatedExpressions": [
+                    "return a product (製品を返品する)",
+                    "return policy (返品規定)",
+                    "return a call (電話をかけ直す)",
+                    "in return for (~のお返しに)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-035",
+                  "questionText": "There is an annual membership ------- of $50.",
+                  "options": ["fare", "fine", "fee", "fund"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'membership ...' (会員〜) という文脈で、「会費」を表すのは (C) 'fee' (料金、手数料) です。\n【不正解の選択肢】\nA) fare: (交通機関の)運賃\nB) fine: 罰金\nD) fund: 資金",
+                  "word": "fee",
+                  "meaning": "【名】(専門家への謝礼・会費・入場料などの)料金, 手数料",
+                  "exampleSentence": "The lawyer's fee for the consultation was very reasonable.",
+                  "exampleSentenceTranslation": "その弁護士の相談料は非常に手頃だった。",
+                  "relatedExpressions": [
+                    "membership fee (会費)",
+                    "admission fee (入場料)",
+                    "late fee (延滞料)",
+                    "legal fees (弁護士費用)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-036",
+                  "questionText": "The company ------- its employees excellent benefits, including health insurance.",
+                  "options": ["suffers", "differs", "offers", "prefers"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「会社が従業員に素晴らしい福利厚生を〜する」という文脈で、「提供する、申し出る」という意味の (C) 'offers' が正解です。主語が三人称単数なので -s が付きます。\n【不正解の選択肢】\nA) suffers: 苦しむ\nB) differs: 異なる\nD) prefers: 好む",
+                  "word": "offer",
+                  "meaning": "【動】〜を提供する, 申し出る\n【名】申し出, 提案, 特価品",
+                  "exampleSentence": "This special offer is valid only for a limited time.",
+                  "exampleSentenceTranslation": "この特別価格は期間限定で有効です。",
+                  "relatedExpressions": [
+                    "make an offer (申し出をする)",
+                    "job offer (仕事のオファー)",
+                    "special offer (特別提供)",
+                    "on offer (売り出し中の)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-037",
+                  "questionText": "Please sign the ------- and return it to the personnel department.",
+                  "options": ["argument", "monument", "instrument", "document"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'sign' (署名する) という動詞の目的語として最も適切なのは、「書類、文書」を意味する (D) 'document' です。\n【不正解の選択肢】\nA) argument: 議論\nB) monument: 記念碑\nC) instrument: 道具、楽器",
+                  "word": "document",
+                  "meaning": "【名】書類, 文書\n【動】〜を記録する",
+                  "exampleSentence": "The documentary documents the lives of penguins in Antarctica.",
+                  "exampleSentenceTranslation": "そのドキュメンタリーは南極のペンギンの生活を記録している。",
+                  "relatedExpressions": [
+                    "documentation (名: 書類、記録)",
+                    "sign a document (書類に署名する)",
+                    "legal document (法的書類)",
+                    "attach a document (書類を添付する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-038",
+                  "questionText": "She was promoted to the position of sales -------.",
+                  "options": ["manager", "manner", "manage", "manageable"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】'sales ...' の形で「営業部長」という役職名になるのは、(A) 'manager' です。\n【不正解の選択肢】\nB) manner: (名) 方法、態度\nC) manage: (動) 管理する\nD) manageable: (形) 管理できる",
+                  "word": "manager",
+                  "meaning": "【名】経営者, 管理職, 部長, マネージャー",
+                  "exampleSentence": "I need to speak to the manager about this issue.",
+                  "exampleSentenceTranslation": "この件についてマネージャーと話す必要があります。",
+                  "relatedExpressions": [
+                    "manage (動: 管理する)",
+                    "management (名: 経営、管理)",
+                    "project manager (プロジェクトマネージャー)",
+                    "general manager (総支配人)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-039",
+                  "questionText": "We are ------- updating our online booking system.",
+                  "options": ["punctually", "frequently", "currently", "annually"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】現在進行形 'are ... updating' と相性が良く、「現在」を意味する副詞 (C) 'currently' が正解です。\n【不正解の選択肢】\nA) punctually: 時間通りに\nB) frequently: 頻繁に\nD) annually: 年に一度",
+                  "word": "currently",
+                  "meaning": "【副】現在は, 目下",
+                  "exampleSentence": "The item you ordered is currently out of stock.",
+                  "exampleSentenceTranslation": "ご注文の商品は現在、在庫切れです。",
+                  "relatedExpressions": [
+                    "current (形: 現在の)",
+                    "currently available (現在利用可能)",
+                    "currently unavailable (現在利用不可)",
+                    "at present / now (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-040",
+                  "questionText": "The new office ------- will be delivered next Monday.",
+                  "options": ["equip", "equipped", "equipment", "equipping"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'new office ...' の後に続き、文の主語となる名詞が必要です。「機器、設備」を意味する (C) 'equipment' が正解です。'equipment' は不可算名詞なので、-s は付きません。\n【不正解の選択肢】\nA) equip: (動) 備え付ける\nB) equipped: (動詞の過去形・過去分詞/形) 装備した\nD) equipping: (動名詞)",
+                  "word": "equipment",
+                  "meaning": "【名】機器, 設備, 備品（不可算名詞）",
+                  "exampleSentence": "The gym has a wide range of modern fitness equipment.",
+                  "exampleSentenceTranslation": "そのジムには、幅広い種類の最新フィットネス機器があります。",
+                  "relatedExpressions": [
+                    "equip (動: 備え付ける)",
+                    "office equipment (事務機器)",
+                    "safety equipment (安全装置)",
+                    "a piece of equipment (一つの機器)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_5",
+              "setName": "必須単語 Vol. 5",
+              "order": 5,
+              "questions": [
+                {
+                  "id": "VOCAB-600-041",
+                  "questionText": "The company has seen a significant ------- in online sales.",
+                  "options": ["increase", "decrease", "release", "lease"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】'a significant ...' の後に続き、「大幅な増加」という意味になるのは、(A) 'increase' (増加) です。\n【不正解の選択肢】\nB) decrease: (名/動) 減少(する)\nC) release: (名/動) 発表(する)、解放(する)\nD) lease: (名/動) 賃貸(借する)",
+                  "word": "increase",
+                  "meaning": "【名】増加\n【動】増加する, 〜を増やす",
+                  "exampleSentence": "We need to increase our efforts to meet the deadline.",
+                  "exampleSentenceTranslation": "締め切りに間に合わせるためには、私たちは努力を増やす必要がある。",
+                  "relatedExpressions": [
+                    "decrease (対: 減少)",
+                    "an increase in (~の増加)",
+                    "on the increase (増加中で)",
+                    "increase by 10% (10%増加する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-042",
+                  "questionText": "We are writing to ------- you that your application has been approved.",
+                  "options": ["reform", "perform", "conform", "inform"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'... A that ...' の形で「Aに...ということを知らせる」という意味になるのは、(D) 'inform' です。ビジネスレターで頻出の表現です。\n【不正解の選択肢】\nA) reform: 改革する\nB) perform: 実行する、演じる\nC) conform: 従う",
+                  "word": "inform",
+                  "meaning": "【動】(〜に...を)知らせる (of / that)",
+                  "exampleSentence": "Please inform us of any changes to your contact details.",
+                  "exampleSentenceTranslation": "連絡先の詳細に変更があれば、私たちにお知らせください。",
+                  "relatedExpressions": [
+                    "information (名: 情報)",
+                    "inform A that... (Aに...と知らせる)",
+                    "inform A of B (AにBを知らせる)",
+                    "keep someone informed (人に常に情報を与える)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-043",
+                  "questionText": "It is ------- to bring a valid form of identification to the test center.",
+                  "options": ["necessary", "accessory", "unnecessary", "recess"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】'It is ... to do' (〜することは...だ) の構文で、「必要だ」という意味になるのは、形容詞の (A) 'necessary' です。\n【不正解の選択肢】\nB) accessory: (名) 付属品、アクセサリー\nC) unnecessary: (形) 不必要な\nD) recess: (名) 休憩",
+                  "word": "necessary",
+                  "meaning": "【形】必要な, 不可欠な",
+                  "exampleSentence": "He took all the necessary steps to ensure the project's success.",
+                  "exampleSentenceTranslation": "彼はプロジェクトの成功を確実にするために、全ての必要な措置を講じた。",
+                  "relatedExpressions": [
+                    "necessity (名: 必要性)",
+                    "unnecessary (対: 不必要な)",
+                    "if necessary (もし必要なら)",
+                    "absolutely necessary (絶対に必要な)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-044",
+                  "questionText": "We are committed to providing the best possible ------- to our clients.",
+                  "options": ["device", "advice", "notice", "service"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'providing the best possible ...' (最高の〜を提供すること) という文脈に合うのは、「サービス」を意味する (D) 'service' です。\n【不正解の選択肢】\nA) device: 装置\nB) advice: 助言\nC) notice: 通知",
+                  "word": "service",
+                  "meaning": "【名】\n1. サービス, 奉仕, 業務\n2. (公共の)事業, 便\n3. 点検, 修理",
+                  "exampleSentence": "My car is due for a service next month.",
+                  "exampleSentenceTranslation": "私の車は来月、点検の時期です。",
+                  "relatedExpressions": [
+                    "serve (動: 仕える、出す)",
+                    "customer service (顧客サービス)",
+                    "provide a service (サービスを提供する)",
+                    "out of service (使用中止、運休中)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-045",
+                  "questionText": "She will ------- our team as a marketing specialist next month.",
+                  "options": ["adjoin", "rejoin", "join", "conjoin"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'our team' (私たちのチームに) という目的語を取り、「〜に加わる、参加する」という意味になるのは (C) 'join' です。\n【不正解の選択肢】\nA) adjoin: 隣接する\nB) rejoin: 再び加わる\nD) conjoin: 結合する",
+                  "word": "join",
+                  "meaning": "【動】〜に加わる, 参加する, 〜をつなぐ",
+                  "exampleSentence": "Follow this road and it will join the main highway.",
+                  "exampleSentenceTranslation": "この道を進めば、幹線道路に合流します。",
+                  "relatedExpressions": [
+                    "join a company (会社に入る)",
+                    "join a club (クラブに入る)",
+                    "join forces with ~ (~と協力する)",
+                    "join us for dinner (夕食をご一緒しませんか)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-046",
+                  "questionText": "The marketing department is developing a new ------- to attract more customers.",
+                  "options": ["plane", "plain", "plant", "plan"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「より多くの顧客を引きつけるための新しい〜」という文脈に合うのは、「計画」を意味する (D) 'plan' です。選択肢は似たスペルの単語です。\n【不正解の選択肢】\nA) plane: 飛行機\nB) plain: (形)明白な, (名)平野\nC) plant: 植物、工場",
+                  "word": "plan",
+                  "meaning": "【名】計画, 案\n【動】〜を計画する",
+                  "exampleSentence": "We are planning a trip to Europe next summer.",
+                  "exampleSentenceTranslation": "私たちは来年の夏にヨーロッパ旅行を計画しています。",
+                  "relatedExpressions": [
+                    "make a plan (計画を立てる)",
+                    "business plan (事業計画)",
+                    "floor plan (間取り図)",
+                    "according to plan (計画通りに)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-047",
+                  "questionText": "Could you ------- me the details via e-mail?",
+                  "options": ["spend", "lend", "bend", "send"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'... me the details' (私に詳細を) という形 (第4文型) をとり、「送る」という意味になるのは (D) 'send' です。\n【不正解の選択肢】\nA) spend: 費やす\nB) lend: 貸す\nC) bend: 曲げる",
+                  "word": "send",
+                  "meaning": "【動】〜を送る",
+                  "exampleSentence": "The news sent shockwaves through the community.",
+                  "exampleSentenceTranslation": "そのニュースは地域社会に衝撃を与えた（衝撃波を送った）。",
+                  "relatedExpressions": [
+                    "send an e-mail (Eメールを送る)",
+                    "send a package (小包を送る)",
+                    "send a message (メッセージを送る)",
+                    "send for (〜を呼びにやる)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-048",
+                  "questionText": "The annual ------- shows that the company's profits have doubled.",
+                  "options": ["support", "resort", "report", "port"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'annual ...' (年次の〜) で、「年次報告書」という意味になるのは (C) 'report' です。\n【不正解の選択肢】\nA) support: 支持\nB) resort: リゾート地\nD) port: 港",
+                  "word": "report",
+                  "meaning": "【名】報告(書)\n【動】〜を報告する",
+                  "exampleSentence": "She reported the incident to the police.",
+                  "exampleSentenceTranslation": "彼女はその出来事を警察に報告した。",
+                  "relatedExpressions": [
+                    "submit a report (報告書を提出する)",
+                    "annual report (年次報告書)",
+                    "weather report (天気予報)",
+                    "report to (~に報告する、〜の直属である)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-049",
+                  "questionText": "All ------- members are invited to the company's anniversary party.",
+                  "options": ["stuff", "staff", "stiff", "step"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'... members' (〜の一員) という形で「職員、スタッフ」を意味するのは (B) 'staff' です。'stuff' (物) との混同に注意が必要です。\n【不正解の選択肢】\nA) stuff: 物、こと（不可算）\nC) stiff: 硬い\nD) step: 歩み、段階",
+                  "word": "staff",
+                  "meaning": "【名】(集合的に)職員, スタッフ",
+                  "exampleSentence": "The hotel staff are very friendly and helpful.",
+                  "exampleSentenceTranslation": "そのホテルのスタッフはとてもフレンドリーで親切です。",
+                  "relatedExpressions": [
+                    "a member of staff (スタッフの一員)",
+                    "sales staff (営業スタッフ)",
+                    "on staff (スタッフとして)",
+                    "short-staffed (スタッフ不足の)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-050",
+                  "questionText": "Thank you for ------- our booth at the trade show.",
+                  "options": ["visiting", "resisting", "assisting", "insisting"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】'Thank you for ...ing' (〜してくれてありがとう) の形で、「私たちのブースを訪れる」という意味になるのは (A) 'visiting' です。\n【不正解の選択肢】\nB) resisting: 抵抗する\nC) assisting: 手伝う\nD) insisting: 主張する",
+                  "word": "visit",
+                  "meaning": "【動】〜を訪れる\n【名】訪問",
+                  "exampleSentence": "He paid a visit to his old teacher.",
+                  "exampleSentenceTranslation": "彼は恩師を訪問した。",
+                  "relatedExpressions": [
+                    "visitor (名: 訪問者)",
+                    "visit a website (ウェブサイトを訪れる)",
+                    "pay a visit (to ~) (~を訪問する)",
+                    "a state visit (公式訪問)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_6",
+              "setName": "必須単語 Vol. 6",
+              "order": 6,
+              "questions": [
+                {
+                  "id": "VOCAB-600-051",
+                  "questionText": "There is no extra ------- for express delivery.",
+                  "options": ["change", "charge", "chance", "chart"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'extra ...' の形で「追加料金」という意味になるのは (B) 'charge' です。\n【不正解の選択肢】\nA) change: 変更、おつり\nC) chance: 機会\nD) chart: 図表",
+                  "word": "charge",
+                  "meaning": "【名】\n1. 料金\n2. 責任, 管理\n3. 告発, 非難\n【動】\n1. 〜を請求する\n2. 〜を充電する\n3. 〜を告発する",
+                  "exampleSentence": "He is in charge of the marketing department.",
+                  "exampleSentenceTranslation": "彼はマーケティング部の責任者です。",
+                  "relatedExpressions": [
+                    "free of charge (無料で)",
+                    "in charge of (~を担当して)",
+                    "delivery charge (配送料)",
+                    "charge a battery (バッテリーを充電する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-052",
+                  "questionText": "The international ------- on renewable energy will be held in Berlin.",
+                  "options": ["inference", "reference", "conference", "difference"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「再生可能エネルギーに関する国際〜」という文脈で、大規模な「会議」を意味するのは (C) 'conference' です。\n【不正解の選択肢】\nA) inference: 推論\nB) reference: 参照\nD) difference: 違い",
+                  "word": "conference",
+                  "meaning": "【名】(大規模な)会議, 協議会",
+                  "exampleSentence": "She is attending a three-day conference on international trade.",
+                  "exampleSentenceTranslation": "彼女は国際貿易に関する3日間の会議に出席しています。",
+                  "relatedExpressions": [
+                    "conference call (電話会議)",
+                    "press conference (記者会見)",
+                    "video conference (テレビ会議)",
+                    "conference room (会議室)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-053",
+                  "questionText": "We offer a 10% ------- to customers who pay in cash.",
+                  "options": ["disappoint", "discount", "discover", "discuss"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'a 10% ...' の形で「10%の割引」という意味になるのは、名詞の (B) 'discount' です。\n【不正解の選択肢】\nA) disappoint: (動) がっかりさせる\nC) discover: (動) 発見する\nD) discuss: (動) 議論する",
+                  "word": "discount",
+                  "meaning": "【名】割引\n【動】〜を割引する",
+                  "exampleSentence": "They discounted the price for a quick sale.",
+                  "exampleSentenceTranslation": "彼らは速やかに売るために価格を割り引いた。",
+                  "relatedExpressions": [
+                    "at a discount (割引価格で)",
+                    "discount rate (割引率)",
+                    "discount coupon (割引券)",
+                    "give a discount (割引をする)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-054",
+                  "questionText": "Please ------- your flight details carefully before departure.",
+                  "options": ["chick", "cheek", "check", "choke"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】目的語が 'your flight details' (フライトの詳細) なので、「確認する」という意味の (C) 'check' が正解です。\n【不正解の選択肢】\nA) chick: ひよこ\nB) cheek: 頬\nD) choke: 窒息する",
+                  "word": "check",
+                  "meaning": "【動】〜を調べる, 確認する\n【名】確認, 小切手, 会計伝票",
+                  "exampleSentence": "Could I have the check, please?",
+                  "exampleSentenceTranslation": "お会計をお願いします。",
+                  "relatedExpressions": [
+                    "check in (チェックインする)",
+                    "check out (チェックアウトする)",
+                    "double-check (再確認する)",
+                    "pay by check (小切手で支払う)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-055",
+                  "questionText": "Candidates for this position should have prior ------- in customer service.",
+                  "options": ["experiment", "expense", "expertise", "experience"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'prior ...' (事前の〜) という文脈で、「経験」を意味する (D) 'experience' が最も適切です。\n【不正解の選択肢】\nA) experiment: 実験\nB) expense: 費用\nC) expertise: 専門知識",
+                  "word": "experience",
+                  "meaning": "【名】経験, 体験（不可算）/ (特定の)体験（可算）\n【動】〜を経験する",
+                  "exampleSentence": "It was the worst experience of my life.",
+                  "exampleSentenceTranslation": "それは私の人生で最悪の体験でした。",
+                  "relatedExpressions": [
+                    "experienced (形: 経験豊富な)",
+                    "work experience (職務経験)",
+                    "hands-on experience (実務経験)",
+                    "years of experience (長年の経験)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-056",
+                  "questionText": "Full ------- is required at the time of booking.",
+                  "options": ["pavement", "statement", "shipment", "payment"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「予約時に全額の〜が必要だ」という文脈に合うのは、「支払い」を意味する (D) 'payment' です。\n【不正解の選択肢】\nA) pavement: 舗道\nB) statement: 声明、明細書\nC) shipment: 発送品",
+                  "word": "payment",
+                  "meaning": "【名】支払い, 支払い額",
+                  "exampleSentence": "We accept payment by credit card.",
+                  "exampleSentenceTranslation": "クレジットカードでのお支払いを受け付けております。",
+                  "relatedExpressions": [
+                    "pay (動: 支払う)",
+                    "make a payment (支払いをする)",
+                    "payment method (支払い方法)",
+                    "late payment (支払いの遅延)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-057",
+                  "questionText": "All employees must ------- the company's safety guidelines.",
+                  "options": ["hollow", "swallow", "borrow", "follow"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】目的語が 'safety guidelines' (安全指針) なので、「〜に従う」という意味の (D) 'follow' が正解です。\n【不正解の選択肢】\nA) hollow: 空洞の\nB) swallow: 飲み込む\nC) borrow: 借りる",
+                  "word": "follow",
+                  "meaning": "【動】\n1. 〜に従う\n2. 〜の後について行く\n3. (〜の結果として)起こる",
+                  "exampleSentence": "A period of rapid growth was followed by a sharp decline.",
+                  "exampleSentenceTranslation": "急成長の時期の後に、急激な減少が続いた。",
+                  "relatedExpressions": [
+                    "following (形: 次の / 前: 〜に続いて)",
+                    "as follows (次の通り)",
+                    "follow instructions (指示に従う)",
+                    "follow up on (~を追跡調査する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-058",
+                  "questionText": "Several ------- in your order are temporarily out of stock.",
+                  "options": ["items", "ideas", "issues", "interests"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】「ご注文の〜のうち数点が在庫切れです」という文脈に合うのは、「品目」を意味する (A) 'items' です。\n【不正解の選択肢】\nB) ideas: アイデア\nC) issues: 問題\nD) interests: 興味",
+                  "word": "item",
+                  "meaning": "【名】品目, 項目, アイテム",
+                  "exampleSentence": "What's the next item on the agenda?",
+                  "exampleSentenceTranslation": "議題の次の項目は何ですか？",
+                  "relatedExpressions": [
+                    "itemize (動: 項目別に分ける)",
+                    "agenda item (議題の項目)",
+                    "an item of clothing (衣類1点)",
+                    "optional item (選択項目)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-059",
+                  "questionText": "Mr. Tanaka has ------- been promoted to director of the sales division.",
+                  "options": ["lately", "shortly", "recently", "nearly"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】現在完了形 'has been promoted' と相性が良く、「最近」を意味する (C) 'recently' が正解です。\n【不正解の選択肢】\nA) lately: 最近 (主に否定文・疑問文で使う)\nB) shortly: まもなく\nD) nearly: ほとんど",
+                  "word": "recently",
+                  "meaning": "【副】最近, 近頃",
+                  "exampleSentence": "I haven't seen him recently. Have you?",
+                  "exampleSentenceTranslation": "最近、彼を見かけていません。あなたは？",
+                  "relatedExpressions": [
+                    "recent (形: 最近の)",
+                    "until recently (最近まで)",
+                    "more recently (より最近では)",
+                    "lately (類義語)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-060",
+                  "questionText": "Applicants are asked to submit a cover letter and a -------.",
+                  "options": ["review", "recipe", "résumé", "receipt"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'a cover letter' (カバーレター) と共に提出を求められるのは、「履歴書」を意味する (C) 'résumé' です。発音とアクセントに注意が必要です。\n【不正解の選択肢】\nA) review: 批評、再検討\nB) recipe: レシピ\nD) receipt: 領収書",
+                  "word": "résumé",
+                  "meaning": "【名】履歴書 (主にアメリカ英語)",
+                  "exampleSentence": "She has an impressive résumé with a lot of experience.",
+                  "exampleSentenceTranslation": "彼女は多くの経験が書かれた、素晴らしい履歴書を持っています。",
+                  "relatedExpressions": [
+                    "CV (Curriculum Vitae) (履歴書、主にイギリス英語)",
+                    "submit a résumé (履歴書を提出する)",
+                    "update one's résumé (履歴書を更新する)",
+                    "attach a résumé (履歴書を添付する)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_7",
+              "setName": "必須単語 Vol. 7",
+              "order": 7,
+              "questions": [
+                {
+                  "id": "VOCAB-600-061",
+                  "questionText": "You must present your ------- at the boarding gate.",
+                  "options": ["tackle", "token", "ticket", "tactic"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'boarding gate' (搭乗ゲート) で提示するものは、「チケット、券」を意味する (C) 'ticket' です。\n【不正解の選択肢】\nA) tackle: 取り組む\nB) token: しるし\nD) tactic: 戦術",
+                  "word": "ticket",
+                  "meaning": "【名】チケット, 券, 乗車券, 違反切符",
+                  "exampleSentence": "He got a parking ticket for parking in a no-parking zone.",
+                  "exampleSentenceTranslation": "彼は駐車禁止区域に駐車して、駐車違反の切符を切られた。",
+                  "relatedExpressions": [
+                    "book a ticket (チケットを予約する)",
+                    "plane ticket (飛行機のチケット)",
+                    "ticket office (チケット売り場)",
+                    "one-way ticket (片道切符)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-062",
+                  "questionText": "The new branch will open in a convenient ------- with plenty of parking.",
+                  "options": ["lotion", "locomotion", "location", "notation"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'a convenient ...' (便利な〜) という文脈で、「場所、立地」を意味する (C) 'location' が正解です。\n【不正解の選択肢】\nA) lotion: ローション\nB) locomotion: 移動\nD) notation: 記譜法",
+                  "word": "location",
+                  "meaning": "【名】場所, 位置, 所在地",
+                  "exampleSentence": "The company is considering moving to a new location.",
+                  "exampleSentenceTranslation": "その会社は新しい場所への移転を検討しています。",
+                  "relatedExpressions": [
+                    "locate (動: 位置を突き止める、置く)",
+                    "convenient location (便利な場所)",
+                    "prime location (一等地)",
+                    "current location (現在地)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-063",
+                  "questionText": "The team is working on a new marketing -------.",
+                  "options": ["protect", "project", "prospect", "subject"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】「新しいマーケティングの〜に取り組んでいる」という文脈に合うのは、「プロジェクト、企画」を意味する (B) 'project' です。動詞と名詞でアクセントの位置が違うことに注意（名詞は前にアクセント）。\n【不正解の選択肢】\nA) protect: (動) 保護する\nC) prospect: (名) 見込み\nD) subject: (名) 主題、科目",
+                  "word": "project",
+                  "meaning": "【名】プロジェクト, 企画\n【動】〜を予測する, 投影する",
+                  "exampleSentence": "The company projects a 10% increase in sales next year.",
+                  "exampleSentenceTranslation": "その会社は来年、10%の売上増を予測している。",
+                  "relatedExpressions": [
+                    "projection (名: 予測)",
+                    "project manager (プロジェクトマネージャー)",
+                    "launch a project (プロジェクトを立ち上げる)",
+                    "research project (研究プロジェクト)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-064",
+                  "questionText": "The reception ------- is on the first floor of the building.",
+                  "options": ["arena", "aria", "era", "area"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'reception ...' の形で「受付エリア」という複合名詞になるのは (D) 'area' です。\n【不正解の選択肢】\nA) arena: アリーナ\nB) aria: アリア（独唱曲）\nC) era: 時代",
+                  "word": "area",
+                  "meaning": "【名】地域, 区域, 範囲, 分野",
+                  "exampleSentence": "He is an expert in the area of international law.",
+                  "exampleSentenceTranslation": "彼は国際法の分野の専門家です。",
+                  "relatedExpressions": [
+                    "parking area (駐車場)",
+                    "metropolitan area (大都市圏)",
+                    "in this area (この地域で)",
+                    "area of expertise (専門分野)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-065",
+                  "questionText": "Mr. Kim will be ------- to help you with the technical issues.",
+                  "options": ["enable", "label", "able", "stable"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'be ... to do' の形で「〜することができる」という意味の定型表現になるのは、(C) 'able' です。\n【不正解の選択肢】\nA) enable: (動) 可能にする\nB) label: (名) ラベル\nD) stable: (形) 安定した",
+                  "word": "able",
+                  "meaning": "【形】(〜することが)できる (to do)",
+                  "exampleSentence": "She is a very able student and learns quickly.",
+                  "exampleSentenceTranslation": "彼女は非常に有能な学生で、学ぶのが速い。",
+                  "relatedExpressions": [
+                    "ability (名: 能力)",
+                    "unable (対: できない)",
+                    "be able to do (~することができる)",
+                    "more than able (十分に可能)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-066",
+                  "questionText": "Please make ------- that all the lights are turned off before you leave.",
+                  "options": ["pure", "lure", "cure", "sure"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'make ... that ...' の形で「...ということを確かめる」という意味の頻出表現になるのは (D) 'sure' です。\n【不正解の選択肢】\nA) pure: 純粋な\nB) lure: 誘惑する\nC) cure: 治療する",
+                  "word": "sure",
+                  "meaning": "【形】確信して, 確かな\n【副】確かに、もちろん",
+                  "exampleSentence": "\"Can you help me?\" \"Sure, what do you need?\"",
+                  "exampleSentenceTranslation": "「手伝ってもらえますか？」「もちろん、何が必要ですか？」",
+                  "relatedExpressions": [
+                    "make sure (確かめる)",
+                    "for sure (確かに)",
+                    "be sure to do (必ず〜する)",
+                    "I'm sure that... (...を確信している)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-067",
+                  "questionText": "Hotel guests can enjoy ------- access to the fitness center.",
+                  "options": ["fare", "fee", "free", "fine"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'... access' (〜アクセス) という文脈で、「無料の」を意味する形容詞の (C) 'free' が正解です。\n【不正解の選択肢】\nA) fare: 運賃\nB) fee: 料金\nD) fine: 罰金",
+                  "word": "free",
+                  "meaning": "【形】\n1. 無料の\n2. 自由な, 空いている\n3. 〜がない (from/of)",
+                  "exampleSentence": "This product is free of artificial colors and preservatives.",
+                  "exampleSentenceTranslation": "この製品は人工着色料や保存料を使用していません。",
+                  "relatedExpressions": [
+                    "freedom (名: 自由)",
+                    "free of charge (無料で)",
+                    "duty-free (免税の)",
+                    "feel free to do (気軽に〜する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-068",
+                  "questionText": "There has been a sudden ------- in the meeting schedule.",
+                  "options": ["charge", "chance", "change", "chain"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「会議のスケジュールに急な〜があった」という文脈に合うのは、「変更」を意味する (C) 'change' です。\n【不正解の選択肢】\nA) charge: 料金\nB) chance: 機会\nD) chain: 鎖、チェーン店",
+                  "word": "change",
+                  "meaning": "【名】変更, 変化, おつり\n【動】〜を変える, 変わる",
+                  "exampleSentence": "Can I get change for a twenty-dollar bill?",
+                  "exampleSentenceTranslation": "20ドル札を両替してもらえますか？",
+                  "relatedExpressions": [
+                    "make a change (変更を加える)",
+                    "last-minute change (土壇場での変更)",
+                    "climate change (気候変動)",
+                    "keep the change (おつりはとっておいて)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-069",
+                  "questionText": "Our company plans to ------- a new software application next year.",
+                  "options": ["envelope", "elope", "develop", "envelop"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「新しいソフトウェアアプリケーションを〜する計画だ」という文脈で、「開発する」を意味する (C) 'develop' が正解です。\n【不正解の選択肢】\nA) envelope: 封筒\nB) elope: 駆け落ちする\nD) envelop: 包む",
+                  "word": "develop",
+                  "meaning": "【動】\n1. 〜を開発する\n2. (スキルなどを)発展させる, 身につける\n3. (病気などが)発症する",
+                  "exampleSentence": "He developed a strong interest in photography.",
+                  "exampleSentenceTranslation": "彼は写真に強い興味を持つようになった。",
+                  "relatedExpressions": [
+                    "development (名: 開発、発展)",
+                    "developer (名: 開発者)",
+                    "develop a skill (スキルを伸ばす)",
+                    "research and development (研究開発、R&D)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-070",
+                  "questionText": "The total ------- of the renovation was higher than we expected.",
+                  "options": ["coast", "cast", "cost", "post"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'total ...' (総〜) という文脈で、「総費用」となるのは (C) 'cost' です。\n【不正解の選択肢】\nA) coast: 海岸\nB) cast: 投げる、配役\nD) post: 郵便、柱",
+                  "word": "cost",
+                  "meaning": "【名】費用, コスト\n【動】(費用が)かかる",
+                  "exampleSentence": "How much does this book cost?",
+                  "exampleSentenceTranslation": "この本はいくらですか？",
+                  "relatedExpressions": [
+                    "costly (形: 高価な)",
+                    "at no extra cost (追加費用なしで)",
+                    "reduce costs (コストを削減する)",
+                    "living cost (生活費)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_8",
+              "setName": "必須単語 Vol. 8",
+              "order": 8,
+              "questions": [
+                {
+                  "id": "VOCAB-600-071",
+                  "questionText": "It is ------- to double-check all the figures before submitting the report.",
+                  "options": ["important", "imported", "impossible", "impolite"],
+                  "correctAnswerIndex": 0,
+                  "explanation": "【解説】'It is ... to do' (〜することは...だ) の構文で、「重要だ」という意味になるのは、形容詞の (A) 'important' です。\n【不正解の選択肢】\nB) imported: 輸入された\nC) impossible: 不可能な\nD) impolite: 無礼な",
+                  "word": "important",
+                  "meaning": "【形】重要な, 重大な",
+                  "exampleSentence": "He played an important role in the success of the project.",
+                  "exampleSentenceTranslation": "彼はそのプロジェクトの成功において重要な役割を果たした。",
+                  "relatedExpressions": [
+                    "importance (名: 重要性)",
+                    "importantly (副: 重要なことには)",
+                    "important notice (重要なお知らせ)",
+                    "equally important (同様に重要な)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-072",
+                  "questionText": "I need to ------- a flight to London for next week's business trip.",
+                  "options": ["look", "cook", "book", "hook"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】目的語が 'a flight' (フライト) で、文脈から「予約する」という意味になるのは動詞の (C) 'book' です。名詞の「本」とは意味が異なります。\n【不正解の選択肢】\nA) look: 見る\nB) cook: 料理する\nD) hook: 引っかける",
+                  "word": "book",
+                  "meaning": "【動】〜を予約する\n【名】本",
+                  "exampleSentence": "The hotel is fully booked for the weekend.",
+                  "exampleSentenceTranslation": "そのホテルは週末、予約でいっぱいです。",
+                  "relatedExpressions": [
+                    "booking (名: 予約)",
+                    "book a hotel (ホテルを予約する)",
+                    "book a table (テーブルを予約する)",
+                    "fully booked (予約で満席・満室)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-073",
+                  "questionText": "For more -------, please refer to the attached brochure.",
+                  "options": ["retails", "tails", "details", "entails"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'For more ...' (さらなる〜は) という定型表現で、「詳細」を意味する (C) 'details' が正解です。\n【不正解の選択肢】\nA) retails: (動) 小売りする\nB) tails: 尻尾（複数形）\nD) entails: (動) 伴う",
+                  "word": "detail",
+                  "meaning": "【名】詳細, 細部 (通例複数形で用いる)",
+                  "exampleSentence": "She described the event in great detail.",
+                  "exampleSentenceTranslation": "彼女はその出来事を非常に詳細に説明した。",
+                  "relatedExpressions": [
+                    "in detail (詳細に)",
+                    "attention to detail (細部への注意)",
+                    "contact details (連絡先の詳細)",
+                    "for more details (詳細については)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-074",
+                  "questionText": "We ------- the new CEO to implement significant changes.",
+                  "options": ["except", "accept", "aspect", "expect"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'... A to do' の形で「Aが〜すると予期する、期待する」という意味になるのは (D) 'expect' です。\n【不正解の選択肢】\nA) except: (前) 〜を除いて\nB) accept: 受け入れる\nC) aspect: 側面",
+                  "word": "expect",
+                  "meaning": "【動】\n1. 〜を予期する, 期待する\n2. (〜が)当然(である)と思う",
+                  "exampleSentence": "I expect you to be on time for the meeting.",
+                  "exampleSentenceTranslation": "会議には時間通りに来るのが当然だと思っていますよ。",
+                  "relatedExpressions": [
+                    "expectation (名: 期待、予想)",
+                    "unexpected (形: 予期しない)",
+                    "as expected (予想通り)",
+                    "expect A to do (Aが〜すると予期する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-075",
+                  "questionText": "Please ------- a message after the beep.",
+                  "options": ["live", "relieve", "believe", "leave"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'... a message' の形で「伝言を残す」という定型表現になるのは (D) 'leave' です。\n【不正解の選択肢】\nA) live: 住む\nB) relieve: 和らげる\nC) believe: 信じる",
+                  "word": "leave",
+                  "meaning": "【動】\n1. 〜を去る, 出発する\n2. 〜を残す\n3. 〜を...の状態にしておく\n【名】休暇",
+                  "exampleSentence": "She is on maternity leave until June.",
+                  "exampleSentenceTranslation": "彼女は6月まで産休中です。",
+                  "relatedExpressions": [
+                    "leave a message (伝言を残す)",
+                    "leave for (~へ向けて出発する)",
+                    "sick leave (病気休暇)",
+                    "annual leave (年次休暇)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-076",
+                  "questionText": "The package was sent by express ------- yesterday.",
+                  "options": ["male", "main", "mall", "mail"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'express ...' の形で「速達郵便」という意味になるのは (D) 'mail' です。\n【不正解の選択肢】\nA) male: 男性\nB) main: 主な\nC) mall: ショッピングモール",
+                  "word": "mail",
+                  "meaning": "【名】郵便, 郵便物 (主にアメリカ英語)\n【動】〜を郵送する",
+                  "exampleSentence": "Did you mail that letter to your grandmother?",
+                  "exampleSentenceTranslation": "おばあさんにその手紙を郵送しましたか？",
+                  "relatedExpressions": [
+                    "e-mail (電子メール)",
+                    "voice mail (留守番電話)",
+                    "direct mail (ダイレクトメール)",
+                    "by mail (郵便で)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-077",
+                  "questionText": "The annual company picnic will take ------- at Central Park.",
+                  "options": ["palace", "space", "part", "place"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'take ...' の形で「(催しなどが)行われる、開催される」という意味の熟語になるのは (D) 'place' です。'take place' は頻出です。\n【不正解の選択肢】\nA) palace: 宮殿\nB) space: 空間\nC) part: 部分",
+                  "word": "place",
+                  "meaning": "【名】場所\n【動】〜を置く",
+                  "exampleSentence": "He placed an order for a new computer online.",
+                  "exampleSentenceTranslation": "彼はオンラインで新しいコンピュータの注文をした。",
+                  "relatedExpressions": [
+                    "take place (行われる)",
+                    "in place of (~の代わりに)",
+                    "place an order (注文する)",
+                    "first place (1位)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-078",
+                  "questionText": "Ms. Garcia is ------- a presentation for the upcoming board meeting.",
+                  "options": ["repairing", "comparing", "preparing", "despairing"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「役員会議のためにプレゼンテーションを〜している」という文脈で、「準備している」を意味する (C) 'preparing' が正解です。\n【不正解の選択肢】\nA) repairing: 修理している\nB) comparing: 比較している\nD) despairing: 絶望している",
+                  "word": "prepare",
+                  "meaning": "【動】〜を準備する, 用意する",
+                  "exampleSentence": "The city is preparing for a possible earthquake.",
+                  "exampleSentenceTranslation": "その市は起こりうる地震に備えている。",
+                  "relatedExpressions": [
+                    "preparation (名: 準備)",
+                    "be prepared for (~の準備ができている)",
+                    "prepare a meal (食事の準備をする)",
+                    "prepare a document (書類を準備する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-079",
+                  "questionText": "He has been ------- as a freelance consultant for over five years.",
+                  "options": ["worked", "working", "work", "works"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'has been ...' の後ろに続き、現在完了進行形を作るのは動詞の-ing形である (B) 'working' です。「5年以上ずっと働いている」という継続を表します。\n【不正解の選択肢】\nA) worked: (過去形/過去分詞)\nC) work: (原形/名詞)\nD) works: (三単現/名詞の複数形)",
+                  "word": "work",
+                  "meaning": "【動】働く, 機能する\n【名】仕事, 作品（不可算）",
+                  "exampleSentence": "Does this machine still work?",
+                  "exampleSentenceTranslation": "この機械はまだ動きますか（機能しますか）？",
+                  "relatedExpressions": [
+                    "worker (名: 労働者)",
+                    "get to work (仕事に取り掛かる)",
+                    "work from home (在宅勤務する)",
+                    "out of work (失業中)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-080",
+                  "questionText": "The marketing team conducted extensive ------- on consumer preferences.",
+                  "options": ["search", "research", "church", "reach"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】'conducted extensive ...' (広範な〜を行った) という文脈で、「調査、研究」を意味する (B) 'research' が正解です。\n【不正解の選択肢】\nA) search: 捜索\nC) church: 教会\nD) reach: 届くこと",
+                  "word": "research",
+                  "meaning": "【名】調査, 研究（不可算）\n【動】〜を調査する, 研究する",
+                  "exampleSentence": "He is researching the effects of climate change.",
+                  "exampleSentenceTranslation": "彼は気候変動の影響を研究している。",
+                  "relatedExpressions": [
+                    "researcher (名: 研究者)",
+                    "market research (市場調査)",
+                    "do research on (~に関する調査をする)",
+                    "research and development (R&D)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_9",
+              "setName": "必須単語 Vol. 9",
+              "order": 9,
+              "questions": [
+                {
+                  "id": "VOCAB-600-081",
+                  "questionText": "We are ------- to announce the opening of our new branch in Osaka.",
+                  "options": ["pleasant", "pleasure", "pleased", "please"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'be ... to do' の形で「〜することを嬉しく思う」という感情を表すのは、形容詞の (C) 'pleased' です。\n【不正解の選択肢】\nA) pleasant: (形) 心地よい\nB) pleasure: (名) 喜び\nD) please: (動) 喜ばせる",
+                  "word": "pleased",
+                  "meaning": "【形】喜んで, 満足して",
+                  "exampleSentence": "I am very pleased with the results of the experiment.",
+                  "exampleSentenceTranslation": "私はその実験の結果にとても満足しています。",
+                  "relatedExpressions": [
+                    "pleasure (名: 喜び)",
+                    "be pleased to do (~して嬉しい)",
+                    "be pleased with (~に満足している)",
+                    "more than pleased (大喜びで)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-082",
+                  "questionText": "If you need any -------, please ask a member of our staff.",
+                  "options": ["helpful", "helpless", "helping", "help"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】動詞 'need' の目的語になるのは名詞です。「助け、手伝い」という意味の名詞として使える (D) 'help' が正解です。\n【不正解の選択肢】\nA) helpful: (形) 助けになる\nB) helpless: (形) 無力な\nC) helping: (動名詞/名) 手伝うこと、(食事の)一人前",
+                  "word": "help",
+                  "meaning": "【名】助け, 手伝い\n【動】〜を助ける, 手伝う",
+                  "exampleSentence": "This medicine will help your cough.",
+                  "exampleSentenceTranslation": "この薬はあなたの咳に効きますよ。",
+                  "relatedExpressions": [
+                    "helpful (形: 役立つ)",
+                    "ask for help (助けを求める)",
+                    "be of help (助けになる)",
+                    "can't help -ing (〜せずにはいられない)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-083",
+                  "questionText": "The company will ------- its headquarters to a new building next year.",
+                  "options": ["remove", "improve", "approve", "move"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「本社を新しいビルに〜する」という文脈で、「移転する」という意味の (D) 'move' が正解です。\n【不正解の選択肢】\nA) remove: 取り除く\nB) improve: 改善する\nC) approve: 承認する",
+                  "word": "move",
+                  "meaning": "【動】\n1. 〜を動かす, 移転する\n2. 引っ越す\n3. 〜を感動させる\n【名】動き, 引っ越し",
+                  "exampleSentence": "I was deeply moved by his speech.",
+                  "exampleSentenceTranslation": "私は彼のスピーチに深く感動した。",
+                  "relatedExpressions": [
+                    "movement (名: 動き)",
+                    "move to (~へ引っ越す)",
+                    "move forward (前進する)",
+                    "on the move (移動中で)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-084",
+                  "questionText": "A ------- about the office closure was posted on the bulletin board.",
+                  "options": ["note", "knowledge", "notice", "novel"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'bulletin board' (掲示板) に貼られるものとして最も適切なのは、「通知、掲示」を意味する (C) 'notice' です。\n【不正解の選択肢】\nA) note: メモ、注釈\nB) knowledge: 知識\nD) novel: 小説",
+                  "word": "notice",
+                  "meaning": "【名】通知, 掲示, 予告\n【動】〜に気づく",
+                  "exampleSentence": "Did you notice the new sign on the wall?",
+                  "exampleSentenceTranslation": "壁の新しい標識に気づきましたか？",
+                  "relatedExpressions": [
+                    "noticeable (形: 目立つ)",
+                    "give notice (予告する)",
+                    "until further notice (追って通知があるまで)",
+                    "at short notice (急な知らせで)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-085",
+                  "questionText": "The museum is ------- from 9 a.m. to 5 p.m. daily.",
+                  "options": ["opened", "opening", "open", "opens"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】be動詞 'is' の後ろに続き、「開いている」という状態を表す形容詞の (C) 'open' が正解です。\n【不正解の選択肢】\nA) opened: (動詞の過去形/過去分詞)\nB) opening: (動名詞/名) 開くこと、開始\nD) opens: (動詞の三単現)",
+                  "word": "open",
+                  "meaning": "【形】開いている\n【動】〜を開ける, 開く",
+                  "exampleSentence": "The CEO is open to new ideas from employees.",
+                  "exampleSentenceTranslation": "そのCEOは従業員からの新しいアイデアを快く受け入れる。",
+                  "relatedExpressions": [
+                    "opening (名: 開店、空き)",
+                    "be open to (~を受け入れる)",
+                    "in the open (屋外で)",
+                    "grand opening (開店記念)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-086",
+                  "questionText": "The ------- of gasoline has risen sharply in recent months.",
+                  "options": ["prize", "pride", "price", "prime"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「ガソリンの〜が急激に上昇した」という文脈に合うのは、「価格」を意味する (C) 'price' です。\n【不正解の選択肢】\nA) prize: 賞\nB) pride: 誇り\nD) prime: (形) 主要な",
+                  "word": "price",
+                  "meaning": "【名】価格, 値段\n【動】〜に値段をつける",
+                  "exampleSentence": "The new car is priced at $30,000.",
+                  "exampleSentenceTranslation": "その新しい車は3万ドルの価格がつけられている。",
+                  "relatedExpressions": [
+                    "pricey (形: 高価な)",
+                    "at a reasonable price (手頃な価格で)",
+                    "retail price (小売価格)",
+                    "price tag (値札)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-087",
+                  "questionText": "It takes about two weeks to ------- a passport application.",
+                  "options": ["possess", "profess", "progress", "process"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「パスポートの申請を〜するのに2週間かかる」という文脈で、「処理する」という意味の (D) 'process' が正解です。\n【不正解の選択肢】\nA) possess: 所有する\nB) profess: 公言する\nC) progress: 進歩する",
+                  "word": "process",
+                  "meaning": "【動】〜を処理する, 加工する\n【名】過程, プロセス",
+                  "exampleSentence": "Learning a new language is a long process.",
+                  "exampleSentenceTranslation": "新しい言語を学ぶことは長い過程です。",
+                  "relatedExpressions": [
+                    "processing (名: 処理)",
+                    "in the process of (~の過程で)",
+                    "process an order (注文を処理する)",
+                    "food processor (フードプロセッサー)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-088",
+                  "questionText": "You can ------- me by phone or e-mail at any time.",
+                  "options": ["breach", "teach", "preach", "reach"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「いつでも私に〜できる」という文脈で、「連絡を取る」という意味の (D) 'reach' が正解です。'contact' とほぼ同義で使われます。\n【不正解の選択肢】\nA) breach: 違反する\nB) teach: 教える\nC) preach: 説教する",
+                  "word": "reach",
+                  "meaning": "【動】\n1. 〜に連絡を取る\n2. 〜に到着する\n3. (手などを)伸ばす\n【名】手の届く範囲",
+                  "exampleSentence": "We hope to reach an agreement by the end of the week.",
+                  "exampleSentenceTranslation": "私たちは週末までに合意に達したいと望んでいます。",
+                  "relatedExpressions": [
+                    "reach a decision (結論に達する)",
+                    "within reach (手の届くところに)",
+                    "out of reach (手の届かないところに)",
+                    "reach for (~に手を伸ばす)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-089",
+                  "questionText": "We highly ------- that you book your tickets in advance.",
+                  "options": ["recollect", "reconcile", "recommend", "reconsider"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「事前にチケットを予約することを強く〜します」という文脈に合うのは、「勧める」を意味する (C) 'recommend' です。\n【不正解の選択肢】\nA) recollect: 思い出す\nB) reconcile: 和解させる\nD) reconsider: 再考する",
+                  "word": "recommend",
+                  "meaning": "【動】〜を推薦する, 勧める",
+                  "exampleSentence": "Can you recommend a good restaurant near here?",
+                  "exampleSentenceTranslation": "この近くで良いレストランを勧めてもらえますか？",
+                  "relatedExpressions": [
+                    "recommendation (名: 推薦)",
+                    "highly recommend (強く勧める)",
+                    "letter of recommendation (推薦状)",
+                    "recommend A for B (BにAを勧める)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-090",
+                  "questionText": "Please remain in your ------- until the aircraft has come to a complete stop.",
+                  "options": ["feet", "sheet", "heat", "seat"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「飛行機が停止するまでご自身の〜にお座りください」という機内アナウンスの文脈に合うのは、「座席」を意味する (D) 'seat' です。\n【不正解の選択肢】\nA) feet: 足（複数形）\nB) sheet: シーツ、一枚の紙\nC) heat: 熱",
+                  "word": "seat",
+                  "meaning": "【名】座席\n【動】〜を座らせる",
+                  "exampleSentence": "Please be seated, everyone. The show is about to begin.",
+                  "exampleSentenceTranslation": "皆様、ご着席ください。ショーがまもなく始まります。",
+                  "relatedExpressions": [
+                    "take a seat (座る)",
+                    "have a seat (座る)",
+                    "window seat (窓側の席)",
+                    "seat belt (シートベルト)"
+                  ]
+                }
+              ]
+            },
+            {
+              "setId": "VOCAB_600_SET_10",
+              "setName": "必須単語 Vol. 10",
+              "order": 10,
+              "questions": [
+                {
+                  "id": "VOCAB-600-091",
+                  "questionText": "All visitors must ------- in at the front desk upon arrival.",
+                  "options": ["design", "assign", "resign", "sign"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】'... in' の形で「署名して入る、受付をする」という意味の句動詞になるのは (D) 'sign' です。\n【不正解の選択肢】\nA) design: 設計する\nB) assign: 割り当てる\nC) resign: 辞職する",
+                  "word": "sign",
+                  "meaning": "【動】〜に署名する\n【名】標識, しるし, 看板",
+                  "exampleSentence": "A sudden drop in profits is a bad sign for the company.",
+                  "exampleSentenceTranslation": "利益の急な減少は、会社にとって悪い兆候です。",
+                  "relatedExpressions": [
+                    "signature (名: 署名)",
+                    "sign in/out (記帳して出入りする)",
+                    "sign a contract (契約に署名する)",
+                    "a stop sign (止まれの標識)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-092",
+                  "questionText": "The company is looking for a new ------- for its manufacturing plant.",
+                  "options": ["sight", "cite", "site", "side"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】「製造工場の新しい〜を探している」という文脈で、「用地、場所」を意味する (C) 'site' が正解です。選択肢は同音異義語・類音語です。\n【不正解の選択肢】\nA) sight: 光景、視力\nB) cite: 引用する\nD) side: 側面",
+                  "word": "site",
+                  "meaning": "【名】用地, 場所, (ウェブ)サイト",
+                  "exampleSentence": "The official team website has all the latest news.",
+                  "exampleSentenceTranslation": "そのチームの公式サイトには、全ての最新ニュースが載っています。",
+                  "relatedExpressions": [
+                    "construction site (建設現場)",
+                    "on-site (現地の)",
+                    "work site (作業現場)",
+                    "website (ウェブサイト)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-093",
+                  "questionText": "After months of negotiation, we reached a ------- agreement.",
+                  "options": ["success", "succeed", "successfully", "successful"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】名詞 'agreement' (合意) を修飾するのは形容詞です。「成功した」という意味の形容詞 (D) 'successful' が正解です。\n【不正解の選択肢】\nA) success: (名) 成功\nB) succeed: (動) 成功する\nC) successfully: (副) 成功裏に",
+                  "word": "successful",
+                  "meaning": "【形】成功した, 上出来の",
+                  "exampleSentence": "She runs a very successful business.",
+                  "exampleSentenceTranslation": "彼女は非常に成功している事業を経営している。",
+                  "relatedExpressions": [
+                    "success (名: 成功)",
+                    "succeed (in ~) (動: 〜に成功する)",
+                    "successfully (副: うまく)",
+                    "a successful career (成功したキャリア)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-094",
+                  "questionText": "I ------- we take a short break before we continue the discussion.",
+                  "options": ["digest", "suggest", " congest", "ingest"],
+                  "correctAnswerIndex": 1,
+                  "explanation": "【解説】「休憩することを〜します」という文脈で、「提案する」を意味する (B) 'suggest' が正解です。'I suggest (that) S (should) V' の形がよく使われます。\n【不正解の選択肢】\nA) digest: 消化する\nC) congest: 混雑させる\nD) ingest: 摂取する",
+                  "word": "suggest",
+                  "meaning": "【動】\n1. 〜を提案する\n2. 〜をほのめかす, 示唆する",
+                  "exampleSentence": "The evidence suggests that he is innocent.",
+                  "exampleSentenceTranslation": "その証拠は、彼が無実であることを示唆している。",
+                  "relatedExpressions": [
+                    "suggestion (名: 提案)",
+                    "suggest that... (~と提案する)",
+                    "make a suggestion (提案をする)",
+                    "strongly suggest (強く提案する)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-095",
+                  "questionText": "Our technical ------- team is available 24 hours a day.",
+                  "options": ["supply", "suppose", "support", "suppress"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'technical ... team' の形で「技術サポートチーム」という複合名詞になるのは (C) 'support' (支援) です。\n【不正解の選択肢】\nA) supply: 供給\nB) suppose: 思う\nD) suppress: 抑圧する",
+                  "word": "support",
+                  "meaning": "【名】支援, 支持, 支え\n【動】〜を支援する, 支持する, 支える",
+                  "exampleSentence": "I need to buy a new pair of shoes with good arch support.",
+                  "exampleSentenceTranslation": "土踏まずのサポートがしっかりした新しい靴を買う必要がある。",
+                  "relatedExpressions": [
+                    "supporter (名: 支持者)",
+                    "supportive (形: 協力的な)",
+                    "customer support (顧客サポート)",
+                    "in support of (~を支持して)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-096",
+                  "questionText": "The job requires frequent ------- to overseas branches.",
+                  "options": ["trouble", "rival", "trial", "travel"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「海外支店への頻繁な〜」という文脈に合うのは、「出張、旅行」を意味する (D) 'travel' です。\n【不正解の選択肢】\nA) trouble: 問題\nB) rival: ライバル\nC) trial: 試み、裁判",
+                  "word": "travel",
+                  "meaning": "【名】旅行, 出張（不可算）\n【動】旅行する, 移動する",
+                  "exampleSentence": "Light travels faster than sound.",
+                  "exampleSentenceTranslation": "光は音よりも速く進む。",
+                  "relatedExpressions": [
+                    "traveler (名: 旅行者)",
+                    "business travel (出張)",
+                    "travel expenses (旅費)",
+                    "travel agency (旅行代理店)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-097",
+                  "questionText": "Please ------- the side entrance while the main lobby is under construction.",
+                  "options": ["abuse", "refuse", "misuse", "use"],
+                  "correctAnswerIndex": 3,
+                  "explanation": "【解説】「ロビーが工事中の間は、側面の入り口を〜してください」という文脈で、「使用する」を意味する (D) 'use' が正解です。\n【不正解の選択肢】\nA) abuse: 乱用する\nB) refuse: 拒否する\nC) misuse: 誤用する",
+                  "word": "use",
+                  "meaning": "【動】〜を使う, 利用する\n【名】使用, 利用, 用途",
+                  "exampleSentence": "What's the use of worrying? It won't change anything.",
+                  "exampleSentenceTranslation": "心配して何になるの？何も変わらないよ。",
+                  "relatedExpressions": [
+                    "useful (形: 役に立つ)",
+                    "useless (形: 役に立たない)",
+                    "make use of (~を利用する)",
+                    "in use (使用中で)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-098",
+                  "questionText": "All employees are required to ------- a safety helmet in the construction area.",
+                  "options": ["ware", "where", "wear", "were"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】目的語が 'a safety helmet' (安全ヘルメット) なので、「着用する、身につける」という意味の (C) 'wear' が正解です。選択肢は類音語です。\n【不正解の選択肢】\nA) ware: 商品\nB) where: どこに\nD) were: (be動詞の過去形)",
+                  "word": "wear",
+                  "meaning": "【動】〜を身につけている, 着用している\n【名】摩耗, すり切れ (wear and tear)",
+                  "exampleSentence": "The carpet is showing signs of wear and tear.",
+                  "exampleSentenceTranslation": "そのカーペットは、すり切れている兆候を見せている。",
+                  "relatedExpressions": [
+                    "wear a suit (スーツを着ている)",
+                    "wear and tear (摩耗)",
+                    "formal wear (正装)",
+                    "ready-to-wear (既製服)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-099",
+                  "questionText": "Please check the monitor for the latest flight ------- information.",
+                  "options": ["arrive", "arriving", "arrival", "arrived"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】'flight ... information' (フライトの〜情報) という複合名詞を作るのは、名詞の (C) 'arrival' (到着) です。\n【不正解の選択肢】\nA) arrive: (動) 到着する\nB) arriving: (現在分詞/動名詞)\nD) arrived: (過去形/過去分詞)",
+                  "word": "arrival",
+                  "meaning": "【名】到着",
+                  "exampleSentence": "The arrival of the new manager brought many changes to the team.",
+                  "exampleSentenceTranslation": "新しいマネージャーの登場は、チームに多くの変化をもたらした。",
+                  "relatedExpressions": [
+                    "arrive (動: 到着する)",
+                    "departure (対: 出発)",
+                    "arrival time (到着時刻)",
+                    "on arrival (到着時に)"
+                  ]
+                },
+                {
+                  "id": "VOCAB-600-100",
+                  "questionText": "You can ------- our new catalog on the company website.",
+                  "options": ["found", "fund", "find", "fine"],
+                  "correctAnswerIndex": 2,
+                  "explanation": "【解説】助動詞 'can' の後には動詞の原形が続きます。「見つける」という意味の動詞の原形は (C) 'find' です。\n【不正解の選択肢】\nA) found: (findの過去形/動) 設立する\nB) fund: (名) 資金\nD) fine: (形) 素晴らしい、(名) 罰金",
+                  "word": "find",
+                  "meaning": "【動】\n1. 〜を見つける\n2. 〜だとわかる, 思う (find O C)",
+                  "exampleSentence": "I find this book very interesting.",
+                  "exampleSentenceTranslation": "私はこの本がとても面白いと思う。",
+                  "relatedExpressions": [
+                    "finding (名: 発見、調査結果)",
+                    "find out (〜を発見する、知る)",
+                    "find a solution (解決策を見つける)",
+                    "hard to find (見つけにくい)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }

@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_16",
+      "setName": "第16回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK16-001",
+          "questionText": "Apex Innovations ------- a new line of eco-friendly products last quarter.",
+          "options": ["unveiled", "concealed", "withdrew", "disregarded"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Apex Innovationsは、前四半期に環境に優しい製品の新ラインを『発表した』」という意味になります。「（新製品などを）発表する、初公開する」を意味する動詞 'unveiled' が正解です。"
+        },
+        {
+          "id": "MOCK16-002",
+          "questionText": "Ms. Evans was ------- for her outstanding contributions to the team's success.",
+          "options": ["commended", "commanded", "commenced", "commented"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Evansさんは、チームの成功への傑出した貢献に対して『称賛された』」という意味になります。「称賛する」を意味する動詞 'commended' が正解です。"
+        },
+        {
+          "id": "MOCK16-003",
+          "questionText": "The new software is designed to be ------- with a wide range of devices.",
+          "options": ["compatible", "comparable", "competitive", "complacent"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアは、幅広いデバイスと『互換性がある』ように設計されている」という意味になります。「互換性のある」を意味する形容詞 'compatible' が正解です。'be compatible with ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK16-004",
+          "questionText": "Zenith Corp. will ------- a thorough review of its safety protocols.",
+          "options": ["initiate", "imitate", "intimidate", "hesitate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Zenith社は、安全手順の徹底的な見直しを『開始する』だろう」という意味になります。「開始する」を意味する動詞 'initiate' が正解です。"
+        },
+        {
+          "id": "MOCK16-005",
+          "questionText": "The ------- of the two proposals will be discussed at the next board meeting.",
+          "options": ["merits", "margins", "myths", "manuals"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2つの提案の『長所（利点）』が、次回の役員会で議論される」という意味になります。「長所、価値」を意味する名詞 'merits' が正解です。"
+        },
+        {
+          "id": "MOCK16-006",
+          "questionText": "Mr. Chen has ------- agreed to take on the additional responsibilities.",
+          "options": ["reluctantly", "respectively", "relevantly", "redundantly"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Chenさんは、追加の責任を引き受けることに『不承不承ながら』同意した」という意味になります。「不承不承、しぶしぶ」を意味する副詞 'reluctantly' が正解です。"
+        },
+        {
+          "id": "MOCK16-007",
+          "questionText": "The workshop aims to ------- collaboration between the marketing and sales departments.",
+          "options": ["foster", "falter", "forfeit", "flatter"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのワークショップは、マーケティング部と営業部の間の協力を『促進する』ことを目的としている」という意味になります。「育成する、促進する」を意味する動詞 'foster' が正解です。"
+        },
+        {
+          "id": "MOCK16-008",
+          "questionText": "A ------- analysis of the survey data reveals a clear trend in consumer behavior.",
+          "options": ["meticulous", "malicious", "marvelous", "monotonous"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「調査データの『綿密な』分析が、消費者行動の明確な傾向を明らかにしている」という意味になります。「細部にまで注意を払った、綿密な」を意味する形容詞 'meticulous' が正解です。"
+        },
+        {
+          "id": "MOCK16-009",
+          "questionText": "The new policy will be ------- implemented across all branches starting next month.",
+          "options": ["incrementally", "infrequently", "indefinitely", "indifferently"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい方針は、来月から全支店で『段階的に』実施される」という意味になります。「段階的に、徐々に」を意味する副詞 'incrementally' が正解です。"
+        },
+        {
+          "id": "MOCK16-010",
+          "questionText": "Starlight Ltd. is known for its ------- to product quality and customer service.",
+          "options": ["commitment", "commencement", "commission", "commentary"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Starlight社は、製品の品質と顧客サービスへの『献身（真剣な取り組み）』で知られている」という意味になります。「献身、約束、公約」を意味する名詞 'commitment' が正解です。"
+        },
+        {
+          "id": "MOCK16-011",
+          "questionText": "The financial advisor recommended ------- the client's investment portfolio.",
+          "options": ["diversifying", "diminishing", "displacing", "disregarding"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのファイナンシャルアドバイザーは、顧客の投資ポートフォリオを『多様化させる』ことを勧めた」という意味になります。「多様化させる」を意味する動詞 'diversifying' が正解です。'recommend -ing' の形をとります。"
+        },
+        {
+          "id": "MOCK16-012",
+          "questionText": "The project's ------- is dependent on securing adequate funding.",
+          "options": ["viability", "visibility", "vicinity", "velocity"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「プロジェクトの『実行可能性』は、十分な資金を確保することにかかっている」という意味になります。「実行可能性」を意味する名詞 'viability' が正解です。"
+        },
+        {
+          "id": "MOCK16-013",
+          "questionText": "The new regulations ------- that all food products must display nutritional information clearly.",
+          "options": ["mandate", "migrate", "mediate", "manipulate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい規制は、すべての食品が栄養情報を明確に表示することを『義務付けている』」という意味になります。「（法律などで）命じる、義務付ける」を意味する動詞 'mandate' が正解です。"
+        },
+        {
+          "id": "MOCK16-014",
+          "questionText": "Despite the market -------, Vertex Solutions managed to increase its profits.",
+          "options": ["volatility", "validity", "verbosity", "vagrancy"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「市場の『不安定さ』にもかかわらず、Vertex Solutions社は利益を増やすことに成功した」という意味になります。「変動性、不安定さ」を意味する名詞 'volatility' が正解です。"
+        },
+        {
+          "id": "MOCK15-015",
+          "questionText": "Ms. Garcia will ------- the new product launch event.",
+          "options": ["oversee", "overlook", "overthrow", "overwhelm"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Garciaさんは、新製品の発表イベントを『監督する』」という意味になります。「監督する、取り仕切る」を意味する動詞 'oversee' が正解です。"
+        },
+        {
+          "id": "MOCK16-016",
+          "questionText": "The latest sales figures ------- the effectiveness of our new marketing strategy.",
+          "options": ["corroborate", "cooperate", "calculate", "circulate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「最新の売上高は、我々の新しいマーケティング戦略の有効性を『裏付けている』」という意味になります。「（証拠などを）裏付ける、確証する」を意味する動詞 'corroborate' が正解です。"
+        },
+        {
+          "id": "MOCK16-017",
+          "questionText": "The problem is more ------- than it appears at first glance.",
+          "options": ["nuanced", "notorious", "nominal", "negligible"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その問題は、一見したところよりも『微妙な差異がある』」という意味になります。「微妙な差異のある」を意味する形容詞 'nuanced' が正解です。"
+        },
+        {
+          "id": "MOCK16-018",
+          "questionText": "Helios Systems plans to ------- its operations by opening new offices in Asia.",
+          "options": ["augment", "argue", "arrange", "arrest"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Helios Systems社は、アジアに新しいオフィスを開設することで、事業を『拡大する』計画だ」という意味になります。「増大させる、拡大する」を意味する動詞 'augment' が正解です。"
+        },
+        {
+          "id": "MOCK16-019",
+          "questionText": "The ------- of the new policy is to improve communication between departments.",
+          "options": ["rationale", "reversal", "relic", "rebate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい方針の『理論的根拠（趣旨）』は、部署間のコミュニケーションを改善することだ」という意味になります。「理論的根拠、根本的理由」を意味する名詞 'rationale' が正解です。"
+        },
+        {
+          "id": "MOCK16-020",
+          "questionText": "The two CEOs will ------- a joint press conference to announce the merger.",
+          "options": ["hold", "fold", "mold", "scold"],
+          "correctAnswerIndex": 0,
+          "explanation": "'hold a press conference' は「記者会見を開く」という意味のコロケーションです。"
+        },
+        {
+          "id": "MOCK16-021",
+          "questionText": "The research team's findings have profound ------- for the future of the industry.",
+          "options": ["implications", "implementations", "imperfections", "impressions"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その研究チームの発見は、業界の未来に深遠な『影響（示唆）』を持つ」という意味になります。「影響、結果、言外の意味」を意味する名詞 'implications' が正解です。"
+        },
+        {
+          "id": "MOCK16-022",
+          "questionText": "The new software is designed to be highly ------- to the user's needs.",
+          "options": ["adaptable", "adoptable", "adorable", "admirable"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアは、ユーザーのニーズに高度に『適応可能』であるように設計されている」という意味になります。「適応できる、順応性のある」を意味する形容詞 'adaptable' が正解です。"
+        },
+        {
+          "id": "MOCK16-023",
+          "questionText": "The city council voted to ------- funds for the renovation of the public library.",
+          "options": ["allocate", "alleviate", "aggravate", "alternate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「市議会は、公立図書館の改修のために資金を『割り当てる』ことを議決した」という意味になります。「割り当てる」を意味する動詞 'allocate' が正解です。"
+        },
+        {
+          "id": "MOCK16-024",
+          "questionText": "Mr. Rodriguez has a ------- ability to explain complex topics in simple terms.",
+          "options": ["remarkable", "remedial", "remote", "reluctant"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Rodriguezさんは、複雑なトピックを簡単な言葉で説明する『並外れた』能力を持っている」という意味になります。「注目すべき、並外れた」を意味する形容詞 'remarkable' が正解です。"
+        },
+        {
+          "id": "MOCK16-025",
+          "questionText": "The company has ------- its efforts to reduce waste and promote recycling.",
+          "options": ["intensified", "invalidated", "intervened", "intimidated"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、廃棄物を減らしリサイクルを促進するための努力を『強化した』」という意味になります。「強化する、強める」を意味する動詞 'intensified' が正解です。"
+        },
+        {
+          "id": "MOCK16-026",
+          "questionText": "The ------- of a reliable Internet connection is essential for remote work.",
+          "options": ["availability", "viability", "liability", "feasibility"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「信頼できるインターネット接続の『利用可能性』は、リモートワークにとって不可欠だ」という意味になります。「利用できること、入手可能性」を意味する名詞 'availability' が正解です。"
+        },
+        {
+          "id": "MOCK16-027",
+          "questionText": "The consultant's report provided a ------- assessment of the company's financial health.",
+          "options": ["candid", "casual", "cordial", "curious"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「コンサルタントの報告書は、会社の財務健全性に関する『率直な』評価を提供した」という意味になります。「率直な、遠慮のない」を意味する形容詞 'candid' が正解です。"
+        },
+        {
+          "id": "MOCK16-028",
+          "questionText": "The management team decided to ------- the proposal after a lengthy discussion.",
+          "options": ["endorse", "enforce", "engage", "endure"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「経営陣は、長時間の議論の末、その提案を『承認する』ことを決定した」という意味になります。「（公式に）承認する、支持する」を意味する動詞 'endorse' が正解です。"
+        },
+        {
+        "id": "MOCK16-029",
+          "questionText": "The new guidelines are meant to ------- consistency across all departments.",
+          "options": ["ensure", "insure", "assure", "censure"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいガイドラインは、全部署にわたる一貫性を『確実にする』ことを目的としている」という意味になります。「確実にする、保証する」を意味する動詞 'ensure' が正解です。'insure'は「保険をかける」、'assure'は「（人を）安心させる」という意味で、使い分けが重要です。"
+        },
+        {
+          "id": "MOCK16-030",
+          "questionText": "The architect's innovative design was ------- as the winner of the competition.",
+          "options": ["selected", "elected", "collected", "reflected"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その建築家の革新的なデザインが、コンペの勝者として『選ばれた』」という意味になります。「選ぶ」を意味する動詞 'selected' が正解です。'elected' は通常、投票によって「選挙で選ぶ」場合に使われます。"
+        }
+      ]
+    }
+  ]
+}

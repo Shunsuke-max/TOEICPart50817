@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_18",
+      "setName": "第18回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK18-001",
+          "questionText": "The new manager has a ------- approach to problem-solving, which the team appreciates.",
+          "options": ["pragmatic", "problematic", "periodic", "paradoxical"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「チームが感謝している」という内容から、ポジティブな意味の形容詞が入ると推測できます。文脈から「新しいマネージャーは、問題解決に対して『実用的な』アプローチをとる」という意味が最も自然です。「実用的な、現実的な」を意味する形容詞 'pragmatic' が正解です。"
+        },
+        {
+          "id": "MOCK18-002",
+          "questionText": "The contract ------- that all work must be completed by the end of the year.",
+          "options": ["specifies", "spectates", "speculates", "spends"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その契約は、すべての作業が年末までに完了しなければならないと『明記している』」という意味になります。「明確に述べる、明記する」を意味する動詞 'specifies' が正解です。"
+        },
+        {
+          "id": "MOCK18-003",
+          "questionText": "The ------- of the new regulations on our business is still unclear.",
+          "options": ["ramifications", "ratifications", "randomness", "readiness"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい規制が我々のビジネスに及ぼす『（予期せぬ）影響』は、まだ不明瞭だ」という意味になります。「（好ましくない）影響、結果」を意味する名詞 'ramifications' が正解です。"
+        },
+        {
+          "id": "MOCK18-004",
+          "questionText": "Ms. Li was chosen to ------- the international sales division.",
+          "options": ["head", "hand", "heal", "hear"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Liさんは、国際営業部を『率いる』ために選ばれた」という意味になります。「率いる、長を務める」を意味する動詞 'head' が正解です。"
+        },
+        {
+          "id": "MOCK18-005",
+          "questionText": "The latest market analysis provides a solid ------- for our new business strategy.",
+          "options": ["foundation", "formation", "formulation", "fraction"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「最新の市場分析は、我々の新しい事業戦略のための確固たる『基盤』を提供している」という意味になります。「基礎、基盤」を意味する名詞 'foundation' が正解です。"
+        },
+        {
+          "id": "MOCK18-006",
+          "questionText": "The two companies are working ------- to develop a new generation of electric vehicles.",
+          "options": ["collaboratively", "collectively", "consecutively", "cautiously"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は、新世代の電気自動車を開発するために『共同で』作業している」という意味になります。「共同で、協力して」を意味する副詞 'collaboratively' が正解です。"
+        },
+        {
+          "id": "MOCK18-007",
+          "questionText": "The new software is designed to ------- with our existing database seamlessly.",
+          "options": ["integrate", "interfere", "interact", "interpret"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアは、我々の既存のデータベースとシームレスに『統合される』ように設計されている」という意味になります。「統合する」を意味する動詞 'integrate' が正解です。'integrate with ~' の形で使われます。"
+        },
+        {
+          "id": "MOCK18-008",
+          "questionText": "The company's ------- to employee development includes regular training sessions and workshops.",
+          "options": ["approach", "approval", "appraisal", "apprehension"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「従業員の能力開発に対する会社の『取り組み方』には、定期的な研修会やワークショップが含まれる」という意味になります。「取り組み方、アプローチ」を意味する名詞 'approach' が正解です。"
+        },
+        {
+          "id": "MOCK18-009",
+          "questionText": "The ------- of the new CEO has brought a fresh perspective to the company.",
+          "options": ["advent", "aversion", "assertion", "aspiration"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOの『出現』が、会社に新たな視点をもたらした」という意味になります。「出現、到来」を意味する名詞 'advent' が正解です。"
+        },
+        {
+          "id": "MOCK18-010",
+          "questionText": "Zenith Corp. has ------- a reputation for innovation and quality.",
+          "options": ["earned", "warned", "learned", "yearned"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Zenith社は、革新と品質における名声を『得てきた』」という意味になります。「（名声などを）得る」を意味する動詞 'earned' が正解です。"
+        },
+        {
+          "id": "MOCK18-011",
+          "questionText": "The project deadline is -------, so we must prioritize our tasks effectively.",
+          "options": ["imminent", "immune", "immense", "immobile"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「プロジェクトの締め切りは『差し迫っている』ので、我々は効率的にタスクの優先順位をつけなければならない」という意味になります。「差し迫った、切迫した」を意味する形容詞 'imminent' が正解です。"
+        },
+        {
+          "id": "MOCK18-012",
+          "questionText": "The board of directors ------- approved the new budget proposal.",
+          "options": ["unanimously", "unnecessarily", "unfavorably", "unfortunately"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「取締役会は、新しい予算案を『満場一致で』承認した」という意味になります。「満場一致で」を意味する副詞 'unanimously' が正解です。"
+        },
+        {
+          "id": "MOCK18-013",
+          "questionText": "The new regulations are intended to ------- fair competition in the market.",
+          "options": ["ensure", "endure", "enrich", "enrage"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい規制は、市場における公正な競争を『確実にする』ことを目的としている」という意味になります。「確実にする、保証する」を意味する動詞 'ensure' が正解です。"
+        },
+        {
+          "id": "MOCK18-014",
+          "questionText": "The consultant's report highlighted several areas for -------.",
+          "options": ["improvement", "investment", "involvement", "installment"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「コンサルタントの報告書は、『改善』のためのいくつかの分野を強調した」という意味になります。「改善」を意味する名詞 'improvement' が正解です。"
+        },
+        {
+          "id": "MOCK18-015",
+          "questionText": "The seminar was -------, covering a wide range of topics in a short amount of time.",
+          "options": ["comprehensive", "comprehensible", "cooperative", "consecutive"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「短時間で幅広いトピックをカバーした」という内容から、「そのセミナーは『包括的だった』」という意味になります。「包括的な、総合的な」を意味する形容詞 'comprehensive' が正解です。"
+        },
+        {
+          "id": "MOCK18-016",
+          "questionText": "The company decided to ------- its advertising efforts on social media platforms.",
+          "options": ["concentrate", "contemplate", "confront", "confiscate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、広告活動をソーシャルメディアプラットフォームに『集中させる』ことを決定した」という意味になります。「集中させる」を意味する動詞 'concentrate' が正解です。"
+        },
+        {
+          "id": "MOCK18-017",
+          "questionText": "The ------- of the new factory is expected to boost the local economy.",
+          "options": ["establishment", "estimation", "elimination", "expedition"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい工場の『設立』は、地域経済を押し上げると期待されている」という意味になります。「設立、施設」を意味する名詞 'establishment' が正解です。"
+        },
+        {
+          "id": "MOCK18-018",
+          "questionText": "The two companies are ------- exploring the possibility of a joint venture.",
+          "options": ["actively", "alternatively", "accurately", "annually"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は、合弁事業の可能性を『積極的に』探っている」という意味になります。「積極的に」を意味する副詞 'actively' が正解です。"
+        },
+        {
+          "id": "MOCK18-019",
+          "questionText": "A ------- of the original contract is kept in our legal department's archives.",
+          "options": ["facsimile", "facility", "faculty", "fallacy"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「契約書の原本の『複製』が、法務部の保管庫に保管されている」という意味になります。「複製、ファクシミリ」を意味する名詞 'facsimile' が正解です。"
+        },
+        {
+          "id": "MOCK18-020",
+          "questionText": "The workshop will provide participants with ------- skills that they can apply in their work.",
+          "options": ["tangible", "tenuous", "tedious", "transient"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのワークショップは、参加者が仕事で応用できる『具体的な』スキルを提供する」という意味になります。「明白な、具体的な、触れることができる」を意味する形容詞 'tangible' が正解です。"
+        },
+        {
+          "id": "MOCK18-021",
+          "questionText": "The company's quarterly earnings ------- all analysts' expectations.",
+          "options": ["surpassed", "suspended", "sustained", "surveyed"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社の四半期収益は、すべてのアナリストの予測を『上回った』」という意味になります。「上回る、超える」を意味する動詞 'surpassed' が正解です。"
+        },
+        {
+          "id": "MOCK18-022",
+          "questionText": "The new safety measures have ------- reduced the number of accidents in the factory.",
+          "options": ["substantially", "subsequently", "subtly", "subjectively"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい安全対策は、工場での事故件数を『大幅に』減少させた」という意味になります。「大幅に、相当に」を意味する副詞 'substantially' が正解です。"
+        },
+        {
+          "id": "MOCK18-023",
+          "questionText": "The ------- of the new software will begin next Monday.",
+          "options": ["rollout", "roundup", "runoff", "readout"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアの『展開（導入）』は、来週の月曜日に始まる」という意味になります。「（新製品などの）展開、導入」を意味する名詞 'rollout' が正解です。"
+        },
+        {
+          "id": "MOCK18-024",
+          "questionText": "The CEO's ------- leadership was a key factor in the company's success.",
+          "options": ["visionary", "voluntary", "vocational", "vulnerable"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「CEOの『先見の明のある』リーダーシップが、会社の成功の鍵となる要因だった」という意味になります。「先見の明のある」を意味する形容詞 'visionary' が正解です。"
+        },
+        {
+          "id": "MOCK18-025",
+          "questionText": "The company is seeking to ------- its brand image through a new advertising campaign.",
+          "options": ["rejuvenate", "reimburse", "reiterate", "relinquish"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、新しい広告キャンペーンを通じて、ブランドイメージを『活性化させる』ことを目指している」という意味になります。「若返らせる、活性化させる」を意味する動詞 'rejuvenate' が正解です。"
+        },
+        {
+          "id": "MOCK18-026",
+          "questionText": "The success of the project is ------- on close collaboration between all departments.",
+          "options": ["contingent", "content", "convenient", "continuous"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「プロジェクトの成功は、全部署間の緊密な協力『次第である』」という意味になります。'be contingent on ~' で「～次第である、～を条件とする」という意味の定型表現です。"
+        },
+        {
+          "id": "MOCK18-027",
+          "questionText": "The ------- of the two reports revealed several inconsistencies in the data.",
+          "options": ["juxtaposition", "jurisdiction", "justification", "journey"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2つの報告書の『並置（比較）』が、データのいくつかの矛盾を明らかにした」という意味になります。「並べること、並置」を意味する名詞 'juxtaposition' が正解です。"
+        },
+        {
+          "id": "MOCK18-028",
+          "questionText": "The company has ------- a new initiative to promote employee wellness.",
+          "options": ["launched", "lashed", "lapsed", "latched"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、従業員の健康を促進するための新しい取り組みを『開始した』」という意味になります。「開始する」を意味する動詞 'launched' が正解です。"
+        },
+        {
+        "id": "MOCK18-029",
+          "questionText": "The ------- of the new product was so high that it sold out on the first day.",
+          "options": ["anticipation", "participation", "manipulation", "emancipation"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新製品への『期待』が非常に高かったので、初日に完売した」という意味になります。「期待、予測」を意味する名詞 'anticipation' が正解です。"
+        },
+        {
+          "id": "MOCK18-030",
+          "questionText": "The consultant's recommendations provided a clear ------- for improving efficiency.",
+          "options": ["roadmap", "roadblock", "roadshow", "roadway"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「コンサルタントの勧告は、効率を改善するための明確な『行程表（計画）』を提供した」という意味になります。「行程表、計画」を意味する名詞 'roadmap' が正解です。"
+        }
+      ]
+    }
+  ]
+}

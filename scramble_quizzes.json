@@ -1,0 +1,41 @@
+{
+  "quizzes": [
+    {
+      "quizId": "SCRAMBLE_GENERAL_1",
+      "quizName": "General Scramble Vol. 1",
+      "questions": [
+        {
+          "id": "SCG-001",
+          "sentence": "The consultant was hired to identify and rectify any inefficiencies in our supply chain management.",
+          "correctOrder": [
+            "The consultant",
+            "was hired to identify and rectify",
+            "any inefficiencies",
+            "in our supply chain management."
+          ],
+          "explanation": "「be hired to do」で「〜するために雇われる」という意味。サプライチェーンマネジメントにおける非効率性を特定し、修正するためにコンサルタントが雇われました。"
+        },
+        {
+          "id": "SCG-002",
+          "sentence": "All employees are required to attend the mandatory training session on Friday morning.",
+          "correctOrder": [
+            "All employees are required to",
+            "attend the mandatory training session",
+            "on Friday morning."
+          ],
+          "explanation": "「be required to do」で「〜することが求められる」という受け身の表現です。特定の曜日には前置詞 'on' を使います。"
+        },
+        {
+          "id": "SCG-003",
+          "sentence": "The new marketing strategy had a positive effect on sales.",
+          "correctOrder": [
+            "The new marketing strategy",
+            "had a positive effect on",
+            "sales."
+          ],
+          "explanation": "「have a positive effect on ~」で「〜に良い影響を与える」という定型表現です。'effect'は名詞で「効果、影響」、'affect'は動詞で「影響を与える」です。"
+        }
+      ]
+    }
+  ]
+}

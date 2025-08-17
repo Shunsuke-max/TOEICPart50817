@@ -1,0 +1,79 @@
+[
+  {
+    "courseId": "BASIC_GRAMMAR",
+    "courseName": "基礎文法コース",
+    "courseIcon": "square.stack.3d.up.fill",
+    "courseColor": "blue",
+    "dataFileName": "course_basic_grammar.json",
+    "courseDescription": "英語学習の全ての土台となる中学・高校レベルの文法を総復習。",
+    "totalLessons": 10,
+    "estimatedStudyTime": 120,
+    "learningTags": ["品詞", "時制", "動詞の形"]
+  },
+  {
+    "courseId": "BIZ_VOCAB",
+    "courseName": "語彙特訓コース",
+    "courseIcon": "character.book.closed.fill",
+    "courseColor": "orange",
+    "dataFileName": "course_biz_vocab.json",
+    "courseDescription": "スコアアップの鍵を握るTOEIC頻出単語を厳選。",
+    "totalLessons": 15,
+    "estimatedStudyTime": 180,
+    "learningTags": ["頻出動詞", "ビジネス語彙", "接続詞/前置詞", "形容詞/副詞"]
+  },
+  {
+    "courseId": "SCORE_600",
+    "courseName": "600点突破コース",
+    "courseIcon": "map.fill",
+    "courseColor": "orange",
+    "dataFileName": "course_score_600.json",
+    "courseDescription": "「最初の壁」である600点突破に特化したコース。",
+    "totalLessons": 20,
+    "estimatedStudyTime": 240,
+    "learningTags": ["基礎文法", "頻出語彙", "典型問題"]
+  },
+  {
+    "courseId": "SCORE_730",
+    "courseName": "730点突破コース",
+    "courseIcon": "flag.fill",
+    "courseColor": "green",
+    "dataFileName": "course_score_730.json",
+    "courseDescription": "多くの学習者が目指す730点の壁を越えるための実践コース。",
+    "totalLessons": 25,
+    "estimatedStudyTime": 300,
+    "learningTags": ["応用文法", "文構造の把握", "ひっかけ問題"]
+  },
+  {
+    "courseId": "SCORE_860",
+    "courseName": "860点突破コース",
+    "courseIcon": "mountain.2.fill",
+    "courseColor": "blue",
+    "dataFileName": "course_score_860.json",
+    "courseDescription": "上級者の証である860点以上を目指すあなたへ。",
+    "totalLessons": 30,
+    "estimatedStudyTime": 360,
+    "learningTags": ["難解語彙", "複雑な文構造", "精度とスピード"]
+  },
+  {
+    "courseId": "SCORE_990",
+    "courseName": "990点コース",
+    "courseIcon": "star.fill",
+    "courseColor": "indigo",
+    "dataFileName": "course_score_990.json",
+    "courseDescription": "TOEIC満点という頂きへ。",
+    "totalLessons": 35,
+    "estimatedStudyTime": 420,
+    "learningTags": ["超難問対策", "非典型問題", "ミス撲滅"]
+  },
+  {
+    "courseId": "EXPERT_CONFUSING_WORDS",
+    "courseName": "紛らわしい単語・語法",
+    "courseIcon": "magnifyingglass.circle.fill",
+    "courseColor": "indigo",
+    "dataFileName": "course_expert_confusing.json",
+    "courseDescription": "微妙なニュアンスを理解し、失点をなくしてワンランク上の英語力を目指します。",
+    "totalLessons": 12,
+    "estimatedStudyTime": 150,
+    "learningTags": ["混同しやすい単語", "多義語", "コロケーション"]
+  }
+]

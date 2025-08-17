@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_13",
+      "setName": "第13回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK13-001",
+          "questionText": "The project manager ------- that the team's progress was slower than anticipated.",
+          "options": ["acknowledged", "announced", "allocated", "achieved"],
+          "correctAnswerIndex": 0,
+          "explanation": "that節を目的語にとれる動詞が並んでいます。文脈から「チームの進捗が予測より遅いことを『認めた』」というのが最も自然です。'announced' (発表した) も文法的には可能ですが、ネガティブな内容を自ら進んで「発表する」よりは、事実として「認める」方が文脈として適切です。"
+        },
+        {
+          "id": "MOCK13-002",
+          "questionText": "The report ------- the need for more investment in research and development.",
+          "options": ["underlines", "undermines", "undergoes", "undertakes"],
+          "correctAnswerIndex": 0,
+          "explanation": "目的語 'the need' をとれる動詞が並んでいます。文脈から「その報告書は研究開発へのさらなる投資の必要性を『強調している』」という意味が最も適切です。「強調する」を意味する 'underlines' が正解です。'undermines' (弱体化させる) は逆の意味になります。"
+        },
+        {
+          "id": "MOCK13-003",
+          "questionText": "The company ------- its commitment to environmental sustainability by investing in renewable energy.",
+          "options": ["demonstrated", "demanded", "declined", "delivered"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「再生可能エネルギーに投資することで、環境の持続可能性へのコミットメントを『示した』」という意味が最も自然です。「示す、証明する」を意味する動詞 'demonstrated' が正解です。"
+        },
+        {
+          "id": "MOCK13-004",
+          "questionText": "The new marketing strategy is ------- to appeal to a younger demographic.",
+          "options": ["intended", "contended", "extended", "pretended"],
+          "correctAnswerIndex": 0,
+          "explanation": "すべて 'to do' をとれる動詞の過去分詞形です。'be intended to do' で「～することを意図している」という意味になり、文脈に最も合致します。「新しいマーケティング戦略は、より若い層にアピールすることを意図している」となります。"
+        },
+        {
+          "id": "MOCK13-005",
+          "questionText": "The recent data ------- a significant shift in consumer preferences.",
+          "options": ["indicates", "indicts", "induces", "indulges"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「最近のデータは、消費者嗜好の大きな変化を『示している』」という意味が最も適切です。「示す、指摘する」を意味する動詞 'indicates' が正解です。"
+        },
+        {
+          "id": "MOCK13-006",
+          "questionText": "Despite some initial -------, the team eventually learned to work together effectively.",
+          "options": ["friction", "fiction", "fraction", "function"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「いくつかの最初の『摩擦』にもかかわらず、チームは最終的に効果的に協力することを学んだ」という意味が最も自然です。比喩的な意味での「不和、摩擦」を表す 'friction' が正解です。"
+        },
+        {
+          "id": "MOCK13-007",
+          "questionText": "The training program was ------- to the specific needs of the new employees.",
+          "options": ["tailored", "tolerated", "totaled", "terminated"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「研修プログラムは、新人従業員の特定のニーズに『合わせて作られた』」という意味になります。「合わせて作る、調整する」を意味する動詞 'tailored' が正解です。"
+        },
+        {
+          "id": "MOCK13-008",
+          "questionText": "The company has ------- a policy that prohibits employees from using social media during work hours.",
+          "options": ["instituted", "substituted", "constituted", "prostituted"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「就業時間中のSNS利用を禁止する方針を『導入した』」という意味が最も適切です。「（制度などを）設ける、導入する」を意味する動詞 'instituted' が正解です。"
+        },
+        {
+          "id": "MOCK13-009",
+          "questionText": "The CEO's speech was meant to ------- the concerns of the employees regarding the upcoming merger.",
+          "options": ["alleviate", "aggravate", "allocate", "animate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「CEOのスピーチは、来たる合併に関する従業員の懸念を『和らげる』ことを意図していた」という意味になります。「（苦痛・懸念などを）緩和する、和らげる」を意味する動詞 'alleviate' が正解です。'aggravate' (悪化させる) は逆の意味になります。"
+        },
+        {
+          "id": "MOCK13-010",
+          "questionText": "The factory has ------- its safety standards to comply with the new government regulations.",
+          "options": ["upgraded", "uprooted", "upheld", "uploaded"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい政府規制に従うために、工場の安全基準を『向上させた』」という意味になります。「格上げする、向上させる」を意味する動詞 'upgraded' が正解です。"
+        },
+        {
+          "id": "MOCK13-011",
+          "questionText": "The final version of the report must ------- all the latest data.",
+          "options": ["incorporate", "interrogate", "impersonate", "implicate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「報告書の最終版は、すべての最新データを『組み込む』必要がある」という意味になります。「（一部として）組み込む」を意味する動詞 'incorporate' が正解です。"
+        },
+        {
+          "id": "MOCK13-012",
+          "questionText": "The two companies are in ------- discussions about a potential partnership.",
+          "options": ["preliminary", "arbitrary", "complimentary", "momentary"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は提携の可能性について『予備的な』話し合いを行っている」という意味になります。「予備の、準備の」を意味する形容詞 'preliminary' が正解です。"
+        },
+        {
+          "id": "MOCK13-013",
+          "questionText": "The manager ------- her authority to a subordinate while she was on vacation.",
+          "options": ["delegated", "dedicated", "deliberated", "delineated"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「マネージャーは休暇中、部下に権限を『委任した』」という意味になります。「（権限などを）委任する」を意味する動詞 'delegated' が正解です。"
+        },
+        {
+          "id": "MOCK13-014",
+          "questionText": "The construction project has been ------- by a lack of funding.",
+          "options": ["hampered", "harvested", "harnessed", "haunted"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その建設プロジェクトは資金不足によって『妨げられている』」という意味になります。「妨げる、阻止する」を意味する動詞 'hampered' が正解です。"
+        },
+        {
+          "id": "MOCK13-015",
+          "questionText": "The terms of the contract are clearly ------- in this document.",
+          "options": ["stipulated", "stimulated", "simulated", "situated"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「契約の条件はこの文書に明確に『規定されている』」という意味になります。「規定する、明記する」を意味する動詞 'stipulated' が正解です。"
+        },
+        {
+          "id": "MOCK13-016",
+          "questionText": "The new software is not ------- with our current operating system, so we need to upgrade.",
+          "options": ["compatible", "comparable", "compelling", "compliant"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「アップグレードする必要がある」という文脈から、「新しいソフトウェアは現在のOSと『互換性がない』」という意味になります。「互換性のある」を意味する 'compatible' が正解です。"
+        },
+        {
+          "id": "MOCK13-017",
+          "questionText": "The company ------- a significant portion of its budget to marketing and advertising.",
+          "options": ["allocates", "alternates", "alters", "amasses"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は予算の大部分をマーケティングと広告に『割り当てている』」という意味になります。「割り当てる、配分する」を意味する動詞 'allocates' が正解です。"
+        },
+        {
+          "id": "MOCK13-018",
+          "questionText": "The speaker's argument was so ------- that it convinced everyone in the room.",
+          "options": ["persuasive", "pervasive", "permissive", "pensive"],
+          "correctAnswerIndex": 0,
+          "explanation": "後半の「部屋にいる全員を納得させた」という結果から、「講演者の主張は非常に『説得力があった』」という意味になります。「説得力のある」を意味する形容詞 'persuasive' が正解です。"
+        },
+        {
+          "id": "MOCK13-019",
+          "questionText": "The government is taking measures to ------- the impact of the economic recession on small businesses.",
+          "options": ["mitigate", "migrate", "militate", "imitate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「政府は、景気後退が中小企業に与える影響を『緩和する』ための措置を講じている」という意味になります。「（影響などを）和らげる、軽減する」を意味する動詞 'mitigate' が正解です。"
+        },
+        {
+          "id": "MOCK13-020",
+          "questionText": "The merger of the two companies is expected to ------- significant synergies.",
+          "options": ["yield", "yearn", "yell", "yank"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社の合併は、大きな相乗効果を『生み出す』と期待されている」という意味になります。「（利益・結果などを）生む、もたらす」を意味する動詞 'yield' が正解です。"
+        },
+        {
+          "id": "MOCK13-021",
+          "questionText": "The new law ------- severe penalties for companies that violate environmental regulations.",
+          "options": ["imposes", "exposes", "opposes", "proposes"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい法律は、環境規制に違反した企業に厳しい罰則を『課す』」という意味になります。「（義務・税金・罰則などを）課す」を意味する動詞 'imposes' が正解です。"
+        },
+        {
+          "id": "MOCK13-022",
+          "questionText": "The research aims to ------- the long-term effects of the new drug.",
+          "options": ["ascertain", "assault", "assert", "assort"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その研究は、新薬の長期的効果を『確かめる』ことを目的としている」という意味になります。「確かめる、突き止める」を意味する動詞 'ascertain' が正解です。"
+        },
+        {
+          "id": "MOCK13-023",
+          "questionText": "The city's infrastructure is ------- to handle the rapid population growth.",
+          "options": ["inadequate", "inadvertent", "inanimate", "inaugural"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その都市のインフラは、急速な人口増加に対応するには『不十分』である」という意味になります。「不十分な、不適切な」を意味する形容詞 'inadequate' が正解です。"
+        },
+        {
+          "id": "MOCK13-024",
+          "questionText": "The company ------- its product line to include more affordable options.",
+          "options": ["diversified", "diverged", "divested", "divulged"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社は、より手頃な価格の選択肢を含めるために、製品ラインを『多様化させた』」という意味になります。「多様化する、多角化する」を意味する動詞 'diversified' が正解です。"
+        },
+        {
+          "id": "MOCK13-025",
+          "questionText": "His ------- to the project was praised by the entire management team.",
+          "options": ["dedication", "deduction", "defection", "depiction"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのプロジェクトへの彼の『献身』は、経営陣全員から賞賛された」という意味になります。「献身、専念」を意味する名詞 'dedication' が正解です。"
+        },
+        {
+          "id": "MOCK13-026",
+          "questionText": "The keynote speaker will ------- the conference with a talk on future technologies.",
+          "options": ["commence", "command", "commend", "comment"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「基調講演者が、未来の技術に関する講演で会議を『開始する』」という意味になります。「開始する、始める」を意味する動詞 'commence' が正解です。"
+        },
+        {
+          "id": "MOCK13-027",
+          "questionText": "The two countries signed a treaty to ------- their diplomatic ties.",
+          "options": ["strengthen", "straighten", "strain", "stray"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「両国は外交関係を『強化する』ための条約に署名した」という意味になります。「強化する」を意味する動詞 'strengthen' が正解です。"
+        },
+        {
+          "id": "MOCK13-028",
+          "questionText": "The consultant's ------- advice helped us to streamline our operations.",
+          "options": ["invaluable", "invalid", "invisible", "involuntary"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「コンサルタントの『極めて貴重な』助言が、我々の業務を合理化するのに役立った」という意味になります。'invaluable' は 'value' (価値) を否定する 'in-' が付いていますが、「価値をつけられないほど貴重な」という意味になる特殊な単語です。"
+        },
+        {
+        "id": "MOCK13-029",
+          "questionText": "The company has to ------- its staffing levels in response to the decreased demand.",
+          "options": ["adjust", "adjoin", "adjourn", "adjudicate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「需要の減少に対応して、人員レベルを『調整する』必要がある」という意味になります。「調整する、適合させる」を意味する動詞 'adjust' が正解です。"
+        },
+        {
+          "id": "MOCK13-030",
+          "questionText": "The new smartphone model ------- several innovative features that set it apart from its competitors.",
+          "options": ["boasts", "boosts", "borrows", "bothers"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいスマートフォンモデルは、競合他社と一線を画すいくつかの革新的な機能を『誇る』」という意味になります。「（誇りとして）持つ、誇る」を意味する動詞 'boasts' が正解です。'boosts' (押し上げる) も文法的には可能ですが、ここでは「特徴として持っている」というニュアンスの 'boasts' がより適切です。"
+        }
+      ]
+    }
+  ]
+}

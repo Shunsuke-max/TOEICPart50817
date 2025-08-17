@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_9",
+      "setName": "第9回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK9-001",
+          "questionText": "The ------- of the new policy on employee performance has been positive.",
+          "options": ["effect", "affect", "effective", "effectively"],
+          "correctAnswerIndex": 0,
+          "explanation": "定冠詞 'The' の後で、前置詞 'of' の前にあるため名詞が必要です。「効果、影響」を意味する名詞 'effect' が正解です。"
+        },
+        {
+          "id": "MOCK9-002",
+          "questionText": "Please complete the survey, ------- will only take a few minutes of your time.",
+          "options": ["that", "who", "which", "whose"],
+          "correctAnswerIndex": 2,
+          "explanation": "先行する文全体（またはその一部）を先行詞とする関係代名詞の継続用法（非制限用法）です。この場合、カンマの後に使えるのは 'which' です。"
+        },
+        {
+          "id": "MOCK9-003",
+          "questionText": "The company offers ------- benefits, including health insurance and a retirement plan.",
+          "options": ["attract", "attractive", "attraction", "attractively"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞 'benefits' を修飾するのは形容詞です。「魅力的な」を意味する 'attractive' が正解です。"
+        },
+        {
+          "id": "MOCK9-004",
+          "questionText": "The meeting has been rescheduled ------- Tuesday morning at 10:00 A.M.",
+          "options": ["in", "at", "to", "for"],
+          "correctAnswerIndex": 3,
+          "explanation": "'reschedule A for B' で「AをBに予定変更する」という意味になります。ここでは、新しい日時を示すために 'for' が使われます。"
+        },
+        {
+          "id": "MOCK9-005",
+          "questionText": "The new system is designed to ------- data from multiple sources automatically.",
+          "options": ["aggregate", "aggravate", "agree", "alleviate"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「複数の情報源からのデータを自動的に『集計する』」という意味が最も自然です。「集める、集計する」を意味する動詞 'aggregate' が正解です。"
+        },
+        {
+          "id": "MOCK9-006",
+          "questionText": "A ------- number of customers have complained about the recent price increase.",
+          "options": ["signify", "significant", "significance", "significantly"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞 'number' を修飾するのは形容詞です。「かなりの、相当な」を意味する 'significant' が正解です。'a significant number of ~' は「かなりの数の～」という頻出表現です。"
+        },
+        {
+          "id": "MOCK9-007",
+          "questionText": "The success of our new product line can be ------- to our innovative marketing campaign.",
+          "options": ["attributed", "contributed", "distributed", "retributed"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be attributed to ~' は「～に起因する、～のおかげである」という意味の受動態の表現です。「新製品ラインの成功は、我々の革新的なマーケティングキャンペーンのおかげだ」という文脈です。"
+        },
+        {
+          "id": "MOCK9-008",
+          "questionText": "The seminar was ------- more interesting than I had expected.",
+          "options": ["so", "very", "even", "too"],
+          "correctAnswerIndex": 2,
+          "explanation": "比較級 'more interesting' を強調する副詞が必要です。'even', 'much', 'far', 'a lot' などが使えます。選択肢の中では 'even' が正解です。"
+        },
+        {
+          "id": "MOCK9-009",
+          "questionText": "The manager is responsible for ------- that all safety procedures are followed.",
+          "options": ["ensure", "ensuring", "ensured", "to ensure"],
+          "correctAnswerIndex": 1,
+          "explanation": "前置詞 'for' の後には名詞または動名詞が来ます。目的語として 'that' 節をとることができるのは動名詞なので、「確実にすること」を意味する 'ensuring' が正解です。"
+        },
+        {
+          "id": "MOCK9-010",
+          "questionText": "You can find more detailed information ------- our company's official website.",
+          "options": ["on", "at", "in", "to"],
+          "correctAnswerIndex": 0,
+          "explanation": "ウェブサイトや特定のページ上の情報を示す場合、前置詞 'on' を使います。'on the website' で「ウェブサイトで」となります。"
+        },
+        {
+          "id": "MOCK9-011",
+          "questionText": "The ------- of a new computer system is expected to improve efficiency.",
+          "options": ["implement", "implements", "implementation", "implementing"],
+          "correctAnswerIndex": 2,
+          "explanation": "定冠詞 'The' の後で、'of' の前にあるため、主語となる名詞が必要です。「実施、導入」を意味する名詞 'implementation' が正解です。"
+        },
+        {
+          "id": "MOCK9-012",
+          "questionText": "All participants are requested to arrive at least 15 minutes ------- the start of the event.",
+          "options": ["prior", "until", "ahead", "before"],
+          "correctAnswerIndex": 3,
+          "explanation": "文脈から「イベント開始の『前に』」という意味が最も自然です。接続詞・前置詞として使える 'before' が正解です。'prior to' であれば正解になりますが、'prior' 単独では使えません。"
+        },
+        {
+          "id": "MOCK9-013",
+          "questionText": "The company's annual report provides a ------- overview of its financial performance.",
+          "options": ["brief", "briefly", "briefing", "briefness"],
+          "correctAnswerIndex": 0,
+          "explanation": "名詞 'overview' を修飾するのは形容詞です。「簡潔な」を意味する 'brief' が正解です。"
+        },
+        {
+          "id": "MOCK9-014",
+          "questionText": "The maintenance work on the server ------- scheduled for this weekend.",
+          "options": ["is", "are", "have", "were"],
+          "correctAnswerIndex": 0,
+          "explanation": "この文の主語は 'The maintenance work' という単数の名詞句です。したがって、動詞も単数形 'is' を使います。'on the server' は主語を修飾する前置詞句です。"
+        },
+        {
+          "id": "MOCK9-015",
+          "questionText": "The new software allows users to ------- customize their interface.",
+          "options": ["full", "fully", "fullness", "filling"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞 'customize' を修飾するのは副詞です。「完全に、十分に」を意味する 'fully' が正解です。"
+        },
+        {
+          "id": "MOCK9-016",
+          "questionText": "The two companies announced their intention to ------- on a new research project.",
+          "options": ["collaborate", "collapse", "collect", "collide"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しい研究プロジェクトで『協力する』」という意味が最も自然です。「協力する、共同作業する」を意味する動詞 'collaborate' が正解です。"
+        },
+        {
+          "id": "MOCK9-017",
+          "questionText": "------- the high cost of living in the city, many young professionals are moving to the suburbs.",
+          "options": ["Due to", "Even though", "In spite of", "As for"],
+          "correctAnswerIndex": 0,
+          "explanation": "空所の後ろには名詞句 'the high cost of living' が来ています。「都市部の高い生活費『が原因で』」という理由を表す文脈なので、前置詞句 'Due to' が正解です。"
+        },
+        {
+          "id": "MOCK9-018",
+          "questionText": "Ms. Tanaka is known for her ------- to detail and her commitment to quality.",
+          "options": ["attend", "attentive", "attention", "attendant"],
+          "correctAnswerIndex": 2,
+          "explanation": "所有格 'her' の後には名詞が必要です。「細部への『注意』」という意味になるため、'attention' が正解です。'attention to detail' は頻出表現です。"
+        },
+        {
+          "id": "MOCK9-019",
+          "questionText": "------- of the three designs submitted was chosen by the committee.",
+          "options": ["Any", "None", "Neither", "Both"],
+          "correctAnswerIndex": 1,
+          "explanation": "動詞が単数形 'was' であることと、文脈から「3つのデザインの『どれも』選ばれなかった」という意味が考えられます。3つ以上のものを否定する場合、'None of ~' を使います。'Neither' は2つの場合にのみ使います。"
+        },
+        {
+          "id": "MOCK9-020",
+          "questionText": "The factory has ------- its production capacity to meet the growing demand.",
+          "options": ["expanded", "expended", "expected", "exported"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「増大する需要に応えるため、生産『能力』を『拡大した』」という意味が最も自然です。「拡大する」を意味する動詞 'expanded' が正解です。"
+        },
+        {
+          "id": "MOCK9-021",
+          "questionText": "The manager has ------- confidence in her team's ability to complete the project successfully.",
+          "options": ["utter", "utterly", "utmost", "upper"],
+          "correctAnswerIndex": 2,
+          "explanation": "名詞 'confidence' を修飾する形容詞が必要です。'utmost confidence' は「最大限の信頼」という意味のコロケーションです。"
+        },
+        {
+          "id": "MOCK9-022",
+          "questionText": "The workshop is designed to help participants ------- their presentation skills.",
+          "options": ["enhance", "enact", "enforce", "encompass"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「プレゼンテーションスキルを『高める』のを助ける」という意味が最も適切です。「高める、強化する」を意味する動詞 'enhance' が正解です。"
+        },
+        {
+          "id": "MOCK9-023",
+          "questionText": "The terms of this contract are ------- and not open to negotiation.",
+          "options": ["finalized", "finally", "final", "finality"],
+          "correctAnswerIndex": 2,
+          "explanation": "be動詞 'are' の後の補語として形容詞が必要です。「最終的な」を意味する 'final' が正解です。"
+        },
+        {
+          "id": "MOCK9-024",
+          "questionText": "The company's decision to merge with its competitor was a ------- one, intended to increase market share.",
+          "options": ["strategy", "strategic", "strategically", "strategist"],
+          "correctAnswerIndex": 1,
+          "explanation": "名詞 'one' (= decision) を修飾するのは形容詞です。「戦略的な」を意味する 'strategic' が正解です。"
+        },
+        {
+          "id": "MOCK9-025",
+          "questionText": "The new security measures were implemented to ------- unauthorized access to the building.",
+          "options": ["prevent", "pretend", "prevail", "prepare"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「建物への不正なアクセスを『防ぐ』ために」という意味が最も自然です。「防ぐ、妨げる」を意味する動詞 'prevent' が正解です。"
+        },
+        {
+          "id": "MOCK9-026",
+          "questionText": "The guest speaker, ------- is a renowned economist, will talk about the future of the global economy.",
+          "options": ["which", "that", "who", "whose"],
+          "correctAnswerIndex": 2,
+          "explanation": "先行詞 'The guest speaker' (人) を修飾する関係代名詞の継続用法（非制限用法）です。空所は節の主語の役割をしているため、主格の 'who' が正解です。'that' は継続用法では使えません。"
+        },
+        {
+          "id": "MOCK9-027",
+          "questionText": "It is the responsibility of ------- employee to keep their workspace clean and organized.",
+          "options": ["all", "every", "some", "most"],
+          "correctAnswerIndex": 1,
+          "explanation": "後ろに単数名詞 'employee' が来ています。'all', 'some', 'most' は複数名詞をとるため不適切です。単数名詞をとる 'every' が正解です。"
+        },
+        {
+          "id": "MOCK9-028",
+          "questionText": "------- the product launch was successful, the team celebrated their achievement.",
+          "options": ["Once", "Unless", "While", "Despite"],
+          "correctAnswerIndex": 0,
+          "explanation": "「製品の発売が成功する『とすぐに』、チームは彼らの達成を祝った」という、ある行為が次の行為のきっかけとなる文脈です。接続詞 'Once' (いったん～すると) が正解です。"
+        },
+        {
+          "id": "MOCK9-029",
+          "questionText": "The ------- of the new production facility is expected to create hundreds of jobs in the region.",
+          "options": ["establish", "establishing", "establishment", "established"],
+          "correctAnswerIndex": 2,
+          "explanation": "定冠詞 'The' の後で、'of' の前にあるため、主語となる名詞が必要です。「設立、施設」を意味する名詞 'establishment' が正解です。"
+        },
+        {
+          "id": "MOCK9-030",
+          "questionText": "The details of the plan are still -------, but we will share them with you as soon as they are finalized.",
+          "options": ["tentative", "tenacious", "terminal", "tertiary"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「計画の詳細はまだ『仮の』ものですが…」という意味が最も自然です。「仮の、暫定的な」を意味する形容詞 'tentative' が正解です。"
+        }
+      ]
+    }
+  ]
+}

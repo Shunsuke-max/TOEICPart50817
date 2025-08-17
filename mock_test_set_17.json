@@ -1,0 +1,220 @@
+{
+  "quizSets": [
+    {
+      "setId": "MOCK_TEST_WEEK_17",
+      "setName": "第17回 Part5 模試",
+      "questions": [
+        {
+          "id": "MOCK17-001",
+          "questionText": "Ms. Albright will ------- a presentation on the new marketing initiatives tomorrow.",
+          "options": ["deliver", "require", "gather", "postpone"],
+          "correctAnswerIndex": 0,
+          "explanation": "'deliver a presentation' は「プレゼンテーションを行う」という意味のコロケーションです。"
+        },
+        {
+          "id": "MOCK17-002",
+          "questionText": "AeroDynamics Inc. has ------- its position as a market leader in the aviation industry.",
+          "options": ["maintained", "predicted", "objected", "financed"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「AeroDynamics社は、航空業界における市場リーダーとしての地位を『維持してきた』」という意味になります。「維持する」を意味する動詞 'maintained' が正解です。"
+        },
+        {
+          "id": "MOCK17-003",
+          "questionText": "The final report must be ------- with all the necessary supporting documents.",
+          "options": ["accompanied", "appointed", "achieved", "admired"],
+          "correctAnswerIndex": 0,
+          "explanation": "'be accompanied by/with ~' は「～が添付されている、～が付随している」という意味です。文脈から「最終報告書には、すべての必要な裏付け書類が添付されなければならない」という意味が最も自然です。"
+        },
+        {
+          "id": "MOCK17-004",
+          "questionText": "Stellar Solutions is seeking a candidate with ------- analytical skills.",
+          "options": ["superior", "inferior", "interior", "posterior"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Stellar Solutions社は、『優れた』分析スキルを持つ候補者を探している」という意味になります。「より優れた、上位の」を意味する形容詞 'superior' が正解です。"
+        },
+        {
+          "id": "MOCK17-005",
+          "questionText": "The new government regulations ------- a significant impact on our production process.",
+          "options": ["had", "did", "made", "took"],
+          "correctAnswerIndex": 0,
+          "explanation": "'have an impact on ~' は「～に影響を与える」という意味のコロケーションです。"
+        },
+        {
+          "id": "MOCK17-006",
+          "questionText": "Mr. Kim's promotion to director was a ------- of his hard work and dedication.",
+          "options": ["reflection", "rejection", "reduction", "relation"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Kimさんの部長への昇進は、彼の熱心な仕事と献身の『反映』であった」という意味になります。「反映、表れ」を意味する名詞 'reflection' が正解です。"
+        },
+        {
+          "id": "MOCK17-007",
+          "questionText": "The finance team is ------- working to finalize the quarterly budget.",
+          "options": ["diligently", "dangerously", "deliberately", "delicately"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「財務チームは、四半期予算を最終決定するために『熱心に』作業している」という意味になります。「勤勉に、熱心に」を意味する副詞 'diligently' が正解です。"
+        },
+        {
+          "id": "MOCK17-008",
+          "questionText": "The new software update is designed to ------- security and protect user data.",
+          "options": ["enhance", "enact", "enclose", "endure"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいソフトウェアのアップデートは、セキュリティを『強化し』、ユーザーデータを保護するように設計されている」という意味になります。「高める、強化する」を意味する動詞 'enhance' が正解です。"
+        },
+        {
+          "id": "MOCK17-009",
+          "questionText": "The ------- of the two companies is expected to create significant cost savings.",
+          "options": ["merger", "manner", "margin", "marker"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社の『合併』は、大幅なコスト削減を生み出すと期待されている」という意味になります。「合併」を意味する名詞 'merger' が正解です。"
+        },
+        {
+          "id": "MOCK17-010",
+          "questionText": "Pinnacle Corp. has a ------- to responding to all customer inquiries within 24 hours.",
+          "options": ["policy", "poll", "posture", "portion"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Pinnacle社には、すべての顧客からの問い合わせに24時間以内に返信する『方針』がある」という意味になります。「方針、規定」を意味する名詞 'policy' が正解です。"
+        },
+        {
+          "id": "MOCK17-011",
+          "questionText": "The training is ------- for all new hires and must be completed within the first week.",
+          "options": ["obligatory", "obsolete", "objective", "obscure"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「その研修はすべての新入社員にとって『義務であり』、最初の1週間以内に完了しなければならない」という意味になります。「義務的な、必須の」を意味する形容詞 'obligatory' が正解です。"
+        },
+        {
+          "id": "MOCK17-012",
+          "questionText": "Dr. Chen's research has had a ------- influence on the development of modern medicine.",
+          "options": ["profound", "provided", "projected", "prolonged"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Chen博士の研究は、現代医学の発展に『深遠な』影響を与えた」という意味になります。「深遠な、重大な」を意味する形容詞 'profound' が正解です。"
+        },
+        {
+          "id": "MOCK17-013",
+          "questionText": "The details of the plan are ------- to change, depending on the feedback we receive.",
+          "options": ["liable", "legible", "laudable", "lavish"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「計画の詳細は、受け取るフィードバック次第で変更『される可能性がある』」という意味になります。'be liable to do' で「～しがちである、～する可能性がある」という意味になります。"
+        },
+        {
+          "id": "MOCK17-014",
+          "questionText": "The new system was implemented to ------- the accuracy of inventory records.",
+          "options": ["verify", "versify", "vilify", "vivify"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいシステムは、在庫記録の正確性を『検証する』ために導入された」という意味になります。「検証する、確かめる」を意味する動詞 'verify' が正解です。"
+        },
+        {
+          "id": "MOCK17-015",
+          "questionText": "Quantum Technologies is ------- looking for talented software engineers.",
+          "options": ["perpetually", "punctually", "partially", "previously"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Quantum Technologies社は、『絶えず』有能なソフトウェアエンジニアを探している」という意味になります。「絶えず、永久に」を意味する副詞 'perpetually' が正解です。"
+        },
+        {
+          "id": "MOCK17-016",
+          "questionText": "A ------- of the two candidates will be selected after the final interview.",
+          "options": ["finalist", "finality", "finale", "finally"],
+          "correctAnswerIndex": 0,
+          "explanation": "この問題は少しトリッキーです。文脈は「2人の候補者のうちの『最終候補者』が選ばれる」ですが、'finalist'は通常、多数の中から選ばれた少数を指します。しかし、他の選択肢は文法的に不可能なため、消去法で'finalist'が最も適切となります。ただし、より自然な表現は'The finalist from the two candidates'や'One of the two candidates'です。"
+        },
+        {
+          "id": "MOCK17-017",
+          "questionText": "The factory had to ------- production due to a shortage of raw materials.",
+          "options": ["curtail", "confirm", "convey", "contain"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「原材料の不足により、工場は生産を『削減し』なければならなかった」という意味になります。「削減する、切り詰める」を意味する動詞 'curtail' が正解です。"
+        },
+        {
+          "id": "MOCK17-018",
+          "questionText": "The marketing team has come up with an ------- plan to attract new customers.",
+          "options": ["ingenious", "ingenuous", "indigenous", "indignant"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「マーケティングチームは、新規顧客を引きつけるための『独創的な』計画を思いついた」という意味になります。「独創的な、巧妙な」を意味する形容詞 'ingenious' が正解です。"
+        },
+        {
+          "id": "MOCK17-019",
+          "questionText": "The ------- of the new CEO was met with optimism from investors.",
+          "options": ["appointment", "appraisal", "appliance", "application"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOの『任命』は、投資家から楽観的に受け止められた」という意味になります。「任命、指名」を意味する名詞 'appointment' が正解です。"
+        },
+        {
+          "id": "MOCK17-020",
+          "questionText": "The company's revenue has grown at a ------- pace over the past five years.",
+          "options": ["staggering", "stagnating", "stammering", "straying"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「会社の収益は、過去5年間で『驚異的な』ペースで成長した」という意味になります。「驚異的な、圧倒的な」を意味する形容詞 'staggering' が正解です。"
+        },
+        {
+          "id": "MOCK17-021",
+          "questionText": "Ms. Wei has an ------- knowledge of international trade law.",
+          "options": ["exhaustive", "exhausted", "exhausting", "exhaustible"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「Weiさんは、国際貿易法に関する『徹底的な』知識を持っている」という意味になります。「徹底的な、包括的な」を意味する形容詞 'exhaustive' が正解です。"
+        },
+        {
+          "id": "MOCK17-022",
+          "questionText": "The new system is designed to ------- errors in data entry.",
+          "options": ["preclude", "predict", "precede", "prescribe"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいシステムは、データ入力におけるエラーを『排除する』ように設計されている」という意味になります。「（前もって）排除する、不可能にする」を意味する動詞 'preclude' が正解です。"
+        },
+        {
+          "id": "MOCK17-023",
+          "questionText": "The ------- of the survey results will be presented at the next meeting.",
+          "options": ["synthesis", "synopsis", "sympathy", "symptom"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「調査結果の『統合（まとめ）』は、次回の会議で発表される」という意味になります。「統合、総合」を意味する名詞 'synthesis' が正解です。"
+        },
+        {
+          "id": "MOCK17-024",
+          "questionText": "The manager's ------- of the new policy was met with some resistance from the staff.",
+          "options": ["articulation", "accumulation", "admiration", "affliction"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「マネージャーによる新しい方針の『明確な説明』は、スタッフからいくつかの抵抗に遭った」という意味になります。「（考えなどの）明確な表現」を意味する名詞 'articulation' が正解です。"
+        },
+        {
+          "id": "MOCK17-025",
+          "questionText": "The negotiations are at a ------- stage, and a final agreement is expected soon.",
+          "options": ["crucial", "cordial", "casual", "clerical"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「交渉は『重大な』段階にあり、最終合意が間もなく期待される」という意味になります。「極めて重要な、決定的な」を意味する形容詞 'crucial' が正解です。"
+        },
+        {
+          "id": "MOCK17-026",
+          "questionText": "The city has taken steps to ------- its historical landmarks.",
+          "options": ["preserve", "perceive", "persevere", "persuade"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「市は、歴史的な名所を『保存する』ための措置を講じた」という意味になります。「保存する、保護する」を意味する動詞 'preserve' が正解です。"
+        },
+        {
+          "id": "MOCK17-027",
+          "questionText": "The new CEO's business ------- is widely admired in the industry.",
+          "options": ["acumen", "activism", "addiction", "animosity"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「新しいCEOのビジネスの『洞察力』は、業界で広く称賛されている」という意味になります。「（ビジネスなどの）鋭い洞察力、才覚」を意味する名詞 'acumen' が正解です。"
+        },
+        {
+          "id": "MOCK17-028",
+          "questionText": "The consultant was hired to provide an ------- assessment of the company's operations.",
+          "options": ["impartial", "impractical", "impeccable", "impenetrable"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「そのコンサルタントは、会社の業務について『公平な』評価を提供するために雇われた」という意味になります。「公平な、偏らない」を意味する形容詞 'impartial' が正解です。"
+        },
+        {
+        "id": "MOCK17-029",
+          "questionText": "The two companies agreed to ------- their resources to develop a new technology.",
+          "options": ["pool", "poll", "peel", "pile"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「2社は、新技術を開発するために、それぞれの資源を『出し合う』ことに合意した」という意味になります。「（資金・情報などを）共同で利用するために出し合う」を意味する動詞 'pool' が正解です。"
+        },
+        {
+          "id": "MOCK17-030",
+          "questionText": "The ------- of the new building was delayed by several weeks due to bad weather.",
+          "options": ["completion", "competition", "compilation", "complication"],
+          "correctAnswerIndex": 0,
+          "explanation": "文脈から「悪天候のため、新しい建物の『完成』が数週間遅れた」という意味になります。「完成、完了」を意味する名詞 'completion' が正解です。"
+        }
+      ]
+    }
+  ]
+}
