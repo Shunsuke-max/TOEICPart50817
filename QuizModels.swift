@@ -78,7 +78,7 @@ struct Course: Identifiable, Codable, Equatable {
     var quizSets: [QuizSet] = []
 
     // JSON内の "courseColor" (文字列) を受け取るためのプロパティ
-    private let courseColorName: String
+    private let courseColorName: String?
     
     // 新しく追加するプロパティ
     let totalLessons: Int?
@@ -88,16 +88,15 @@ struct Course: Identifiable, Codable, Equatable {
     var isRecommended: Bool? = false // デフォルトはfalse
     
     var courseColor: Color {
-        switch courseId {
-        case "SCORE_600": return DesignSystem.Colors.CourseAccent.orange
-        case "SCORE_730": return DesignSystem.Colors.CourseAccent.green
-        case "SCORE_860": return DesignSystem.Colors.CourseAccent.blue
-        case "SCORE_990": return DesignSystem.Colors.CourseAccent.indigo
-        case "BASIC_GRAMMAR": return DesignSystem.Colors.CourseAccent.purple
-        case "BASIC_VOCAB": return DesignSystem.Colors.CourseAccent.yellow
-        case "BIZ_VOCAB": return DesignSystem.Colors.CourseAccent.red
-        case "EXPERT_PHRASAL_VERBS": return DesignSystem.Colors.CourseAccent.blue // Changed from teal
-        case "EXPERT_IDIOMS": return DesignSystem.Colors.CourseAccent.orange // Changed from brown
+        guard let colorName = courseColorName else { return .gray }
+        switch colorName.lowercased() {
+        case "orange": return DesignSystem.Colors.CourseAccent.orange
+        case "green": return DesignSystem.Colors.CourseAccent.green
+        case "blue": return DesignSystem.Colors.CourseAccent.blue
+        case "indigo": return DesignSystem.Colors.CourseAccent.indigo
+        case "purple": return DesignSystem.Colors.CourseAccent.purple
+        case "yellow": return DesignSystem.Colors.CourseAccent.yellow
+        case "red": return DesignSystem.Colors.CourseAccent.red
         default: return .gray
         }
     }
@@ -116,7 +115,7 @@ struct Course: Identifiable, Codable, Equatable {
         self.courseIcon = try container.decode(String.self, forKey: .courseIcon)
         self.courseDescription = try container.decode(String.self, forKey: .courseDescription)
         self.dataFileName = try container.decode(String.self, forKey: .dataFileName)
-        self.courseColorName = try container.decode(String.self, forKey: .courseColorName)
+        self.courseColorName = try container.decodeIfPresent(String.self, forKey: .courseColorName)
         
         self.totalLessons = try container.decodeIfPresent(Int.self, forKey: .totalLessons)
         self.estimatedStudyTime = try container.decodeIfPresent(Int.self, forKey: .estimatedStudyTime)
